@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Not finding faults can mean accepting lower standards that can harm a group's or organization's overall performance. What should I do about my current work situation?",
+    "options": [
+      "Tell your boss exactly how this is impacting your health and demand a change; it’s not your job to constantly cover for someone else.",
+      "Maybe try to coordinate a temporary schedule adjustment that benefits both you and your absent coworker until they return to regular hours.",
+      "You could discuss setting a limit on how many days you can stay late with your boss, ensuring it's manageable for your health.",
+      "Inform your manager that you need to revert to your original work hours immediately for the sake of your personal well-being."
+    ],
+    "original_mapping": {
+      "Tell your boss exactly how this is impacting your health and demand a change; it’s not your job to constantly cover for someone else.": "response_low1",
+      "Maybe try to coordinate a temporary schedule adjustment that benefits both you and your absent coworker until they return to regular hours.": "response_high2",
+      "You could discuss setting a limit on how many days you can stay late with your boss, ensuring it's manageable for your health.": "response_high1",
+      "Inform your manager that you need to revert to your original work hours immediately for the sake of your personal well-being.": "response_low2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Over-forgiving could be perceived as weakness or lack of standards. Should I withhold Meital's paycheck until their performance improves?",
+    "options": [
+      "Implement a direct policy that ties Meital’s pay to specific performance metrics, ensuring accountability and immediate consequences for underperformance.",
+      "Consider setting up a meeting with Meital to openly discuss performance issues and explore supportive measures to help improve their work.",
+      "You might want to create an improvement plan that outlines clear goals and timelines for Meital, providing regular feedback and encouragement.",
+      "Withhold Meital’s paycheck as a firm action to underline the seriousness of the performance issues and motivate improvement."
+    ],
+    "original_mapping": {
+      "Implement a direct policy that ties Meital’s pay to specific performance metrics, ensuring accountability and immediate consequences for underperformance.": "response_low2",
+      "Consider setting up a meeting with Meital to openly discuss performance issues and explore supportive measures to help improve their work.": "response_high1",
+      "You might want to create an improvement plan that outlines clear goals and timelines for Meital, providing regular feedback and encouragement.": "response_high2",
+      "Withhold Meital’s paycheck as a firm action to underline the seriousness of the performance issues and motivate improvement.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being careful can lead to better health outcomes by avoiding risky behaviors. How should I prepare for this long journey to ensure it is safe and successful?",
+    "options": [
+      "Check and service your vehicle thoroughly, ensuring all fluids are topped up and all necessary emergency tools and kits are on board.",
+      "Pack some snacks and drinks in a cooler for easy access so you can keep going without needing to stop too often.",
+      "Make sure you have a good playlist and perhaps some audiobooks ready to keep the drive interesting and fun.",
+      "Create a detailed itinerary including rest stops, fuel stations, and overnight accommodations for each day of your trip."
+    ],
+    "original_mapping": {
+      "Check and service your vehicle thoroughly, ensuring all fluids are topped up and all necessary emergency tools and kits are on board.": "response_high2",
+      "Pack some snacks and drinks in a cooler for easy access so you can keep going without needing to stop too often.": "response_low2",
+      "Make sure you have a good playlist and perhaps some audiobooks ready to keep the drive interesting and fun.": "response_low1",
+      "Create a detailed itinerary including rest stops, fuel stations, and overnight accommodations for each day of your trip.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Overemphasis on efficiency can overlook the importance of process and learning. What should my next steps be after failing the class?",
+    "options": [
+      "Look into different majors or courses that might be less intense but still keep you engaged and moving towards a degree.",
+      "Create a revised study plan focusing on the areas you struggled with in the course to better prepare yourself for when you retake it.",
+      "Consider taking a break next semester to explore internships that may offer practical experience, which could compensate for the delay in graduation.",
+      "Reach out to your academic advisor immediately to discuss options for retaking the course or other means to stay on track for graduation."
+    ],
+    "original_mapping": {
+      "Look into different majors or courses that might be less intense but still keep you engaged and moving towards a degree.": "response_low2",
+      "Create a revised study plan focusing on the areas you struggled with in the course to better prepare yourself for when you retake it.": "response_high2",
+      "Consider taking a break next semester to explore internships that may offer practical experience, which could compensate for the delay in graduation.": "response_low1",
+      "Reach out to your academic advisor immediately to discuss options for retaking the course or other means to stay on track for graduation.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Overwhelming energy can intimidate or alienate those who are more laid-back or introverted. How should I interact with Mr. A at the networking event?",
+    "options": [
+      "Listen attentively to Mr. A’s insights during conversations, making sure to nod and maintain eye contact to show engagement.",
+      "Ask Mr. A thoughtful questions about specific aspects of his career, showing your appreciation for his expertise without dominating the conversation.",
+      "Propose a collaborative idea that could be of interest to both of your business goals, making a memorable impression.",
+      "Initiate the conversation with a confident smile and ask Mr. A about his recent projects to demonstrate your interest in his work."
+    ],
+    "original_mapping": {
+      "Listen attentively to Mr. A’s insights during conversations, making sure to nod and maintain eye contact to show engagement.": "response_low1",
+      "Ask Mr. A thoughtful questions about specific aspects of his career, showing your appreciation for his expertise without dominating the conversation.": "response_low2",
+      "Propose a collaborative idea that could be of interest to both of your business goals, making a memorable impression.": "response_high2",
+      "Initiate the conversation with a confident smile and ask Mr. A about his recent projects to demonstrate your interest in his work.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Outgoing individuals can quickly adapt to leadership roles in various contexts. How should I proceed with this idea to make it a success?",
+    "options": [
+      "Launch your app idea during a high-energy, well-promoted event to create buzz and invite real-time feedback.",
+      "Start by networking and engaging in lively discussions at tech meetups to energize stakeholders and gather dynamic input.",
+      "Consider quietly developing a detailed business plan and prototype that you can present to potential investors in private settings.",
+      "You should focus on conducting detailed market research online to solidify your understanding of the problem and refine your app’s functionalities."
+    ],
+    "original_mapping": {
+      "Launch your app idea during a high-energy, well-promoted event to create buzz and invite real-time feedback.": "response_high2",
+      "Start by networking and engaging in lively discussions at tech meetups to energize stakeholders and gather dynamic input.": "response_high1",
+      "Consider quietly developing a detailed business plan and prototype that you can present to potential investors in private settings.": "response_low2",
+      "You should focus on conducting detailed market research online to solidify your understanding of the problem and refine your app’s functionalities.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Manipulation can lead to a loss of societal trust, as people become wary of each other's motives. Should I give Jacquisha another chance to complete their part of the project?",
+    "options": [
+      "Evaluate Jacquisha’s performance metrics meticulously and use this incident as leverage in future team adjustments or promotions.",
+      "Offer Jacquisha constructive feedback and a clear framework for improvement, along with your support to help her meet the new deadline.",
+      "Organize a one-on-one meeting with Jacquisha to understand any challenges she faced and discuss potential solutions together.",
+      "Reassign Jacquisha’s portion of the project to a more reliable team member to ensure the project's success and timeline integrity."
+    ],
+    "original_mapping": {
+      "Evaluate Jacquisha’s performance metrics meticulously and use this incident as leverage in future team adjustments or promotions.": "response_high2",
+      "Offer Jacquisha constructive feedback and a clear framework for improvement, along with your support to help her meet the new deadline.": "response_low1",
+      "Organize a one-on-one meeting with Jacquisha to understand any challenges she faced and discuss potential solutions together.": "response_low2",
+      "Reassign Jacquisha’s portion of the project to a more reliable team member to ensure the project's success and timeline integrity.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Such behavior can cause others to become guarded and less forthcoming, reducing openness and collaboration. How should I interact with Jiovanni during the dinner?",
+    "options": [
+      "Make sure to change the conversation to lighter topics to help Jiovanni distract from his stressful situation and enjoy the evening.",
+      "Offer to talk privately with Jiovanni during the dinner to discuss potential strategies or insights you might have regarding business negotiations.",
+      "Express your support and ask Jiovanni if there is anything specific he would like to do or talk about during the dinner to make him feel more comfortable.",
+      "Suggest that Jiovanni uses this dinner as an opportunity to network with other guests who might provide beneficial business connections."
+    ],
+    "original_mapping": {
+      "Make sure to change the conversation to lighter topics to help Jiovanni distract from his stressful situation and enjoy the evening.": "response_low1",
+      "Offer to talk privately with Jiovanni during the dinner to discuss potential strategies or insights you might have regarding business negotiations.": "response_high1",
+      "Express your support and ask Jiovanni if there is anything specific he would like to do or talk about during the dinner to make him feel more comfortable.": "response_low2",
+      "Suggest that Jiovanni uses this dinner as an opportunity to network with other guests who might provide beneficial business connections.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Narcissistic behavior can lead to an overestimation of one's abilities, resulting in poor outcomes. How should I address these challenges with my friends and family?",
+    "options": [
+      "Invite close friends or family members for a casual coffee meet where you can gently share your challenges and request their kindness and assistance.",
+      "Host a gathering where you can openly share your achievements alongside your current struggles, highlighting how you’ve always managed to overcome.",
+      "Craft a personalized, impressive newsletter detailing your financial and emotional challenges, showcasing your resilience and asking for support.",
+      "Reach out individually to family and friends to discuss your situation in a humble and honest manner, asking for their understanding and patience."
+    ],
+    "original_mapping": {
+      "Invite close friends or family members for a casual coffee meet where you can gently share your challenges and request their kindness and assistance.": "response_low2",
+      "Host a gathering where you can openly share your achievements alongside your current struggles, highlighting how you’ve always managed to overcome.": "response_high1",
+      "Craft a personalized, impressive newsletter detailing your financial and emotional challenges, showcasing your resilience and asking for support.": "response_high2",
+      "Reach out individually to family and friends to discuss your situation in a humble and honest manner, asking for their understanding and patience.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can result in a distorted perception of reality, where the narcissist's view is seen as the only valid perspective. How should I handle this situation now that I've missed the payment deadline?",
+    "options": [
+      "Call the company to apologize for the mistake and ask how you can rectify the situation to avoid impacts on your credit score.",
+      "Immediately contact the service provider to negotiate the removal of any late fees; explain your typically excellent payment history as leverage.",
+      "Showcase your good intentions by paying the bill now and add a little extra to the next payment to demonstrate your financial responsibility.",
+      "Arrange to pay the bill as soon as possible and inquire if they offer any alerts or automatic payment options to help prevent this in the future."
+    ],
+    "original_mapping": {
+      "Call the company to apologize for the mistake and ask how you can rectify the situation to avoid impacts on your credit score.": "response_low1",
+      "Immediately contact the service provider to negotiate the removal of any late fees; explain your typically excellent payment history as leverage.": "response_high1",
+      "Showcase your good intentions by paying the bill now and add a little extra to the next payment to demonstrate your financial responsibility.": "response_high2",
+      "Arrange to pay the bill as soon as possible and inquire if they offer any alerts or automatic payment options to help prevent this in the future.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional instability can spur one to seek help and learn coping strategies, leading to personal development. How should I confront this situation without escalating it unnecessarily?",
+    "options": [
+      "Maybe confront your neighbor about the theft, but prepare for a tense interaction; it could very well escalate, given the gravity of their actions.",
+      "You might think about installing a camera to deter future thefts, but also try to let go of the anger so it doesn’t spoil your peace of mind.",
+      "Consider directly asking your neighbor about the package in a calm and friendly manner to clear up any possible misunderstandings.",
+      "You should definitely keep an eye on your neighbor from now on; it’s distressing to think what else they might do if they're bold enough to steal from you."
+    ],
+    "original_mapping": {
+      "Maybe confront your neighbor about the theft, but prepare for a tense interaction; it could very well escalate, given the gravity of their actions.": "response_high2",
+      "You might think about installing a camera to deter future thefts, but also try to let go of the anger so it doesn’t spoil your peace of mind.": "response_low2",
+      "Consider directly asking your neighbor about the package in a calm and friendly manner to clear up any possible misunderstandings.": "response_low1",
+      "You should definitely keep an eye on your neighbor from now on; it’s distressing to think what else they might do if they're bold enough to steal from you.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional instability can lead to seeking community and support, building strong networks. How can I effectively handle my anxiety to meet this important deadline?",
+    "options": [
+      "Maybe you should check with your supervisor immediately, as you might be overlooking some key areas that could hinder your performance and really set you back.",
+      "Focus on organizing what you've completed so far and outline what’s left; it’ll give you a clearer picture and likely isn’t as overwhelming as it seems.",
+      "Take a deep breath and break down the project into manageable pieces; you’re fully capable and just need to take it one step at a time.",
+      "Consider creating a detailed plan with daily goals to ensure you don't miss anything, because forgetting a single small part could jeopardize the entire project."
+    ],
+    "original_mapping": {
+      "Maybe you should check with your supervisor immediately, as you might be overlooking some key areas that could hinder your performance and really set you back.": "response_high1",
+      "Focus on organizing what you've completed so far and outline what’s left; it’ll give you a clearer picture and likely isn’t as overwhelming as it seems.": "response_low1",
+      "Take a deep breath and break down the project into manageable pieces; you’re fully capable and just need to take it one step at a time.": "response_low2",
+      "Consider creating a detailed plan with daily goals to ensure you don't miss anything, because forgetting a single small part could jeopardize the entire project.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "The pursuit of creative or intellectual activities might overshadow the importance of practical skills. Should I advocate for the innovative project or support the reliable approach?",
+    "options": [
+      "Champion the innovative project; it's a chance to pioneer change and set new benchmarks within the industry.",
+      "Support the reliable approach to ensure steady progress and predictable outcomes, minimizing risks.",
+      "Back the tried-and-tested method as it guarantees success and maintains stability within the team.",
+      "Advocate for the new project to capitalize on the potential for groundbreaking results and stimulating team engagement."
+    ],
+    "original_mapping": {
+      "Champion the innovative project; it's a chance to pioneer change and set new benchmarks within the industry.": "response_high1",
+      "Support the reliable approach to ensure steady progress and predictable outcomes, minimizing risks.": "response_low1",
+      "Back the tried-and-tested method as it guarantees success and maintains stability within the team.": "response_low2",
+      "Advocate for the new project to capitalize on the potential for groundbreaking results and stimulating team engagement.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Curiosity can make personal relationships more engaging and rewarding by encouraging mutual exploration of new topics. How should I address Ishan's misconceptions about climate change?",
+    "options": [
+      "Propose a future group viewing of a documentary on climate change to educate and discuss facts in an engaging format.",
+      "Suggest reading a recent, well-regarded article together to explore updated climate data and insights.",
+      "Politely correct the facts as they come up in the conversation to keep the information accurate.",
+      "Recommend a reliable book or source where Ishan can verify the facts on his own."
+    ],
+    "original_mapping": {
+      "Propose a future group viewing of a documentary on climate change to educate and discuss facts in an engaging format.": "response_high2",
+      "Suggest reading a recent, well-regarded article together to explore updated climate data and insights.": "response_high1",
+      "Politely correct the facts as they come up in the conversation to keep the information accurate.": "response_low1",
+      "Recommend a reliable book or source where Ishan can verify the facts on his own.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Embracing chaos can lead to unexpected opportunities and outcomes. Is it okay for me to stretch the truth during negotiations if it means securing a business deal that could significantly benefit me financially?",
+    "options": [
+      "It’s vital to uphold ethical standards in negotiations; this helps in building a reputation that can attract more lucrative deals in the future.",
+      "Push the deal through by any means necessary, and don’t worry about the fallout—let them handle their own problems.",
+      "Consider being transparent about both risks and benefits, which fosters trust and leads to sustainable business relations.",
+      "Use every tactic you can to win; if they can’t see through it, that’s their loss, not yours."
+    ],
+    "original_mapping": {
+      "It’s vital to uphold ethical standards in negotiations; this helps in building a reputation that can attract more lucrative deals in the future.": "response_low2",
+      "Push the deal through by any means necessary, and don’t worry about the fallout—let them handle their own problems.": "response_high2",
+      "Consider being transparent about both risks and benefits, which fosters trust and leads to sustainable business relations.": "response_low1",
+      "Use every tactic you can to win; if they can’t see through it, that’s their loss, not yours.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Being mean to others can damage relationships and lead to social isolation. I decide to take Benjamin to a more dangerous and thrilling party than the one we were initially attending. This new party is known for its wild nature and less controlled environment, fitting my penchant for seeking out risky situations.",
+    "options": [
+      "Definitely take Benjamin to the wild party without telling; it's more fun to watch their shocked reactions when things escalate.",
+      "I’d advise discussing the change openly with Benjamin to ensure they’re comfortable with a more unpredictable environment.",
+      "Sure, switch up the party but make up something exciting about why it's better; they'll never know the real thrill until they're in it.",
+      "It's best to be honest about the nature of the party so Benjamin can make an informed decision about whether they want to attend."
+    ],
+    "original_mapping": {
+      "Definitely take Benjamin to the wild party without telling; it's more fun to watch their shocked reactions when things escalate.": "response_high2",
+      "I’d advise discussing the change openly with Benjamin to ensure they’re comfortable with a more unpredictable environment.": "response_low1",
+      "Sure, switch up the party but make up something exciting about why it's better; they'll never know the real thrill until they're in it.": "response_high1",
+      "It's best to be honest about the nature of the party so Benjamin can make an informed decision about whether they want to attend.": "response_low2"
+    }
+  }
+]

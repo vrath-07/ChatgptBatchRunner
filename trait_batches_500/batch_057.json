@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Warmth can make difficult news or feedback easier to accept. How should I communicate my divorce in a way that is respectful to all parties involved?",
+    "options": [
+      "Consider writing a heartfelt letter to each person, expressing your feelings and the mutual decision, ensuring it feels personal and considerate.",
+      "Just send a straightforward group email or message updating them about the divorce; it’s efficient and avoids unnecessary drama.",
+      "You might arrange a small gathering with your closest ones to discuss the situation face-to-face, allowing for supportive and intimate conversations.",
+      "You could also just mention it casually in conversations as it comes up; there’s no need to make a big deal out of it."
+    ],
+    "original_mapping": {
+      "Consider writing a heartfelt letter to each person, expressing your feelings and the mutual decision, ensuring it feels personal and considerate.": "response_high1",
+      "Just send a straightforward group email or message updating them about the divorce; it’s efficient and avoids unnecessary drama.": "response_low1",
+      "You might arrange a small gathering with your closest ones to discuss the situation face-to-face, allowing for supportive and intimate conversations.": "response_high2",
+      "You could also just mention it casually in conversations as it comes up; there’s no need to make a big deal out of it.": "response_low2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Not finding faults can lead to accepting mediocrity. How should I handle this situation?",
+    "options": [
+      "You might want to talk to your manager or the IT department to see if they can help in retracting the email or limiting the damage.",
+      "Send a blunt email instructing all recipients to delete the confidential information immediately, without providing excuses.",
+      "Contact your legal or compliance department to inform them about the breach and follow whatever directives they give, regardless of any pushback from the mailing list recipients.",
+      "Immediately send a follow-up apology email to the same mailing list, clarifying the mistake and kindly asking everyone to delete the previous email."
+    ],
+    "original_mapping": {
+      "You might want to talk to your manager or the IT department to see if they can help in retracting the email or limiting the damage.": "response_high2",
+      "Send a blunt email instructing all recipients to delete the confidential information immediately, without providing excuses.": "response_low1",
+      "Contact your legal or compliance department to inform them about the breach and follow whatever directives they give, regardless of any pushback from the mailing list recipients.": "response_low2",
+      "Immediately send a follow-up apology email to the same mailing list, clarifying the mistake and kindly asking everyone to delete the previous email.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Excessive perseverance can ignore the law of diminishing returns. Should I cancel the trip to focus on the project?",
+    "options": [
+      "Consider rescheduling your vacation to avoid overlap with your work commitments, ensuring a clear focus.",
+      "Perhaps you can work a bit during the vacation. It could be a good balance between fun with friends and some light work.",
+      "Prioritize completing your project before the deadline to ensure all responsibilities are managed.",
+      "Go ahead with the vacation; it's a great opportunity to relax and will be refreshing before tackling the project."
+    ],
+    "original_mapping": {
+      "Consider rescheduling your vacation to avoid overlap with your work commitments, ensuring a clear focus.": "response_high2",
+      "Perhaps you can work a bit during the vacation. It could be a good balance between fun with friends and some light work.": "response_low2",
+      "Prioritize completing your project before the deadline to ensure all responsibilities are managed.": "response_high1",
+      "Go ahead with the vacation; it's a great opportunity to relax and will be refreshing before tackling the project.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Never being careless can result in a lack of emotional spontaneity. How should I approach the situation with Vidya regarding their unethical behavior?",
+    "options": [
+      "Schedule a private meeting with Vidya to discuss your concerns directly and professionally about their unethical practices.",
+      "Casually bring up the topic of ethics in a conversation to gauge Vidya's perspective before deciding on any formal action.",
+      "Document the unethical behavior you have observed, and present these findings respectfully during a one-on-one discussion with Vidya.",
+      "Mention the situation indirectly in a group setting to see if Vidya self-corrects without direct confrontation."
+    ],
+    "original_mapping": {
+      "Schedule a private meeting with Vidya to discuss your concerns directly and professionally about their unethical practices.": "response_high1",
+      "Casually bring up the topic of ethics in a conversation to gauge Vidya's perspective before deciding on any formal action.": "response_low1",
+      "Document the unethical behavior you have observed, and present these findings respectfully during a one-on-one discussion with Vidya.": "response_high2",
+      "Mention the situation indirectly in a group setting to see if Vidya self-corrects without direct confrontation.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Constant talkativeness can obscure the quality of communication, focusing more on quantity. How should I contribute to the conversation about past projects?",
+    "options": [
+      "Share an enthusiastic story about a team success, highlighting how everyone's collaboration led to the triumph.",
+      "List the factors that contributed to past successes, emphasizing the importance of careful planning and execution.",
+      "Propose a new project idea, drawing inspiration from what worked well in past successes.",
+      "Briefly summarize key lessons learned from the failures to ensure they are not repeated in future projects."
+    ],
+    "original_mapping": {
+      "Share an enthusiastic story about a team success, highlighting how everyone's collaboration led to the triumph.": "response_high1",
+      "List the factors that contributed to past successes, emphasizing the importance of careful planning and execution.": "response_low2",
+      "Propose a new project idea, drawing inspiration from what worked well in past successes.": "response_high2",
+      "Briefly summarize key lessons learned from the failures to ensure they are not repeated in future projects.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Being never shy or inhibited can boost self-confidence. Should I volunteer to read my work aloud to the class?",
+    "options": [
+      "Consider submitting your piece anonymously for feedback if sharing aloud feels too intimidating.",
+      "Absolutely, jump at the chance to showcase your work and energize the class with your creativity!",
+      "You could ask if you can share your work with just the teacher first to get some initial thoughts before presenting it to the entire class.",
+      "Definitely volunteer; it’s a great opportunity to connect with your classmates and get immediate, valuable feedback."
+    ],
+    "original_mapping": {
+      "Consider submitting your piece anonymously for feedback if sharing aloud feels too intimidating.": "response_low1",
+      "Absolutely, jump at the chance to showcase your work and energize the class with your creativity!": "response_high1",
+      "You could ask if you can share your work with just the teacher first to get some initial thoughts before presenting it to the entire class.": "response_low2",
+      "Definitely volunteer; it’s a great opportunity to connect with your classmates and get immediate, valuable feedback.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Such behavior can lead to compulsive lying, as truth becomes a secondary consideration to the effectiveness of manipulation. How should I handle the situation when asked about the project's progress?",
+    "options": [
+      "Highlight the challenges faced and subtly shift focus towards unprecedented external factors impacting the timeline.",
+      "Openly express the current status, ensuring to explain the concrete steps being implemented to get back on schedule.",
+      "Suggest a revised strategy that prioritizes visible quick wins to showcase progress and build confidence among stakeholders.",
+      "Encourage a collaborative discussion during the meeting to solicit team input on how to collectively address the delays."
+    ],
+    "original_mapping": {
+      "Highlight the challenges faced and subtly shift focus towards unprecedented external factors impacting the timeline.": "response_high1",
+      "Openly express the current status, ensuring to explain the concrete steps being implemented to get back on schedule.": "response_low1",
+      "Suggest a revised strategy that prioritizes visible quick wins to showcase progress and build confidence among stakeholders.": "response_high2",
+      "Encourage a collaborative discussion during the meeting to solicit team input on how to collectively address the delays.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Keeping secrets can protect personal and professional information from being exploited. How should I approach this conversation to maximize my benefit while maintaining a good relationship with Markeesha?",
+    "options": [
+      "Ask direct questions about her insights related to the project, showing genuine interest and respect for her expertise, which might encourage her to open up more.",
+      "Offer Markeesha a future collaboration or benefit that leverages her interests, using this as leverage to gather the information you need.",
+      "Be open about the aspects of your project that involve Markeesha, ensuring transparency to build trust and encourage her to share information.",
+      "Suggest organizing a reciprocal information exchange, emphasizing mutual benefits while carefully managing what you disclose about your objectives."
+    ],
+    "original_mapping": {
+      "Ask direct questions about her insights related to the project, showing genuine interest and respect for her expertise, which might encourage her to open up more.": "response_low2",
+      "Offer Markeesha a future collaboration or benefit that leverages her interests, using this as leverage to gather the information you need.": "response_high2",
+      "Be open about the aspects of your project that involve Markeesha, ensuring transparency to build trust and encourage her to share information.": "response_low1",
+      "Suggest organizing a reciprocal information exchange, emphasizing mutual benefits while carefully managing what you disclose about your objectives.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Narcissistic tendencies can lead to an overemphasis on appearance or material success as measures of worth. Should I invest my time in meeting with the organizers of the community project?",
+    "options": [
+      "Joining the project might provide an enriching experience; attend the meeting to see how you can help support and build your community.",
+      "Meet with the organizers to see if there is a prominent role or recognition for you which might elevate your social standing.",
+      "You should attend the meeting to discover opportunities for personal branding, especially if local media or influential figures will be involved.",
+      "Consider attending the meeting to understand how your skills and time could contribute to the greater good of your neighborhood."
+    ],
+    "original_mapping": {
+      "Joining the project might provide an enriching experience; attend the meeting to see how you can help support and build your community.": "response_low2",
+      "Meet with the organizers to see if there is a prominent role or recognition for you which might elevate your social standing.": "response_high1",
+      "You should attend the meeting to discover opportunities for personal branding, especially if local media or influential figures will be involved.": "response_high2",
+      "Consider attending the meeting to understand how your skills and time could contribute to the greater good of your neighborhood.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can result in a lack of commitment to long-term goals if they do not provide immediate gratification. Should I enroll in the Spanish course?",
+    "options": [
+      "Consider if you can realistically commit the time and effort needed; if so, the skills gained could be very beneficial for your career and personal growth.",
+      "Absolutely join the course, as fluency in Spanish could be the impressive edge on your resume that ensures you stand out.",
+      "You might find that participating in the Spanish course will not only improve your resume but also allow you to connect with more people culturally.",
+      "Enroll in that Spanish course; mastering a new language can really distinguish you from others in your professional field."
+    ],
+    "original_mapping": {
+      "Consider if you can realistically commit the time and effort needed; if so, the skills gained could be very beneficial for your career and personal growth.": "response_low2",
+      "Absolutely join the course, as fluency in Spanish could be the impressive edge on your resume that ensures you stand out.": "response_high2",
+      "You might find that participating in the Spanish course will not only improve your resume but also allow you to connect with more people culturally.": "response_low1",
+      "Enroll in that Spanish course; mastering a new language can really distinguish you from others in your professional field.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "The variability of moods can make life feel more vivid and can enhance storytelling and communication. How should I handle the situation with Reinna in the rain?",
+    "options": [
+      "Why not see this as a refreshing adventure and simply enjoy the unexpected shower as a natural part of life?",
+      "Since the downpour is totally unpredictable, consider buying portable umbrellas next time to carry just in case, which might alleviate your worries about these situations.",
+      "It's really important to prevent any chance of getting sick, maybe you should call a taxi immediately to avoid staying in the rain any longer.",
+      "You might consider just walking a bit faster to get home sooner but remember it's just water and it's unlikely to cause any harm!"
+    ],
+    "original_mapping": {
+      "Why not see this as a refreshing adventure and simply enjoy the unexpected shower as a natural part of life?": "response_low1",
+      "Since the downpour is totally unpredictable, consider buying portable umbrellas next time to carry just in case, which might alleviate your worries about these situations.": "response_high2",
+      "It's really important to prevent any chance of getting sick, maybe you should call a taxi immediately to avoid staying in the rain any longer.": "response_high1",
+      "You might consider just walking a bit faster to get home sooner but remember it's just water and it's unlikely to cause any harm!": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Constant vigilance can lead to excellence in fields where safety and precision are paramount. How should I prioritize and manage these errands efficiently?",
+    "options": [
+      "Consider breaking the errands list into smaller, manageable parts throughout the day to limit feeling overwhelmed and ensure everything is done to satisfaction.",
+      "Why not incorporate a nice break between your errands? Grabbing a coffee or enjoying a small treat could turn the day's duties into a more relaxed and pleasant experience.",
+      "It might be refreshing to view this as an opportunity to get out and enjoy different settings; focus on the successful completion of each errand at a time.",
+      "You might want to prioritize the tasks by urgency, such as getting the medication first to avoid any added stress from health concerns."
+    ],
+    "original_mapping": {
+      "Consider breaking the errands list into smaller, manageable parts throughout the day to limit feeling overwhelmed and ensure everything is done to satisfaction.": "response_high2",
+      "Why not incorporate a nice break between your errands? Grabbing a coffee or enjoying a small treat could turn the day's duties into a more relaxed and pleasant experience.": "response_low2",
+      "It might be refreshing to view this as an opportunity to get out and enjoy different settings; focus on the successful completion of each errand at a time.": "response_low1",
+      "You might want to prioritize the tasks by urgency, such as getting the medication first to avoid any added stress from health concerns.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Non-conformity can lead to legal or ethical dilemmas in strict regulatory frameworks. Should I follow through with the project as assigned, despite the ethical concerns?",
+    "options": [
+      "Stick to the company's past protocols and guidelines strictly to ensure that the project aligns with the established operational standards.",
+      "Consider proposing alternative methods to your team that could achieve the project's goals without compromising ethical standards.",
+      "Explore the legal boundaries and ethical implications further by consulting with a compliance officer or legal expert within your company.",
+      "Follow the directives given by your superiors, ensuring that all actions are documented and approved through the proper channels."
+    ],
+    "original_mapping": {
+      "Stick to the company's past protocols and guidelines strictly to ensure that the project aligns with the established operational standards.": "response_low2",
+      "Consider proposing alternative methods to your team that could achieve the project's goals without compromising ethical standards.": "response_high2",
+      "Explore the legal boundaries and ethical implications further by consulting with a compliance officer or legal expert within your company.": "response_high1",
+      "Follow the directives given by your superiors, ensuring that all actions are documented and approved through the proper channels.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Reflecting on ideas can build bridges between generations, as wisdom and new perspectives are shared. How should I approach the community to gather support for this project?",
+    "options": [
+      "Distribute flyers and hold a meeting at a local community center to explain your project's goals and how it can practically benefit your neighborhood.",
+      "Organize a creative workshop that integrates art and gardening to spark interest and make the project appealing to all age groups.",
+      "Launch a social media campaign showcasing successful community gardens around the world, highlighting their benefits and the positive impact on communities.",
+      "Partner with local schools or established community groups to share resources and gain immediate access to volunteers and supporters."
+    ],
+    "original_mapping": {
+      "Distribute flyers and hold a meeting at a local community center to explain your project's goals and how it can practically benefit your neighborhood.": "response_low1",
+      "Organize a creative workshop that integrates art and gardening to spark interest and make the project appealing to all age groups.": "response_high1",
+      "Launch a social media campaign showcasing successful community gardens around the world, highlighting their benefits and the positive impact on communities.": "response_high2",
+      "Partner with local schools or established community groups to share resources and gain immediate access to volunteers and supporters.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Habitual meanness can erode one’s moral sense and lead to increasingly harmful behaviors. I've been invited to a big party where I know there will be a lot of people I don't know, including some who are known for their wild behavior. I plan to use this opportunity to indulge in some no-strings-attached encounters, fully taking advantage of the party atmosphere.",
+    "options": [
+      "It's okay to be excited, just make sure to stay safe and respect everyone's boundaries while enjoying yourself.",
+      "Go for it, stir up some excitement and see if you can leave a memorable mark on those who think they can outparty you.",
+      "Absolutely, use this party to your advantage; it's the perfect setup to hook up and enjoy some wild fun without any consequences.",
+      "Certainly, enjoy the party atmosphere but consider keeping an open mind about forming meaningful connections, even in such casual encounters."
+    ],
+    "original_mapping": {
+      "It's okay to be excited, just make sure to stay safe and respect everyone's boundaries while enjoying yourself.": "response_low1",
+      "Go for it, stir up some excitement and see if you can leave a memorable mark on those who think they can outparty you.": "response_high2",
+      "Absolutely, use this party to your advantage; it's the perfect setup to hook up and enjoy some wild fun without any consequences.": "response_high1",
+      "Certainly, enjoy the party atmosphere but consider keeping an open mind about forming meaningful connections, even in such casual encounters.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Legal struggles can teach resilience and perseverance. Is it okay if I deliberately drive into Adelay's driveway late at night to unsettle them and assert my dominance over this petty dispute?",
+    "options": [
+      "Throw an impromptu late-night party on your lawn, ensuring the noise is just enough to press Adelay's buttons without breaking any laws.",
+      "Perhaps installing higher fences and sound-proofing your property could help minimize the disputes without directly confronting or aggravating Adelay.",
+      "Why not escalate a bit by parking not just in the driveway but slightly onto their lawn, illustrating your disdain for their boundaries?",
+      "Consider setting up a mediation session with Adelay to professionally address the boundary and noise issues, potentially with a neutral third party."
+    ],
+    "original_mapping": {
+      "Throw an impromptu late-night party on your lawn, ensuring the noise is just enough to press Adelay's buttons without breaking any laws.": "response_high1",
+      "Perhaps installing higher fences and sound-proofing your property could help minimize the disputes without directly confronting or aggravating Adelay.": "response_low2",
+      "Why not escalate a bit by parking not just in the driveway but slightly onto their lawn, illustrating your disdain for their boundaries?": "response_high2",
+      "Consider setting up a mediation session with Adelay to professionally address the boundary and noise issues, potentially with a neutral third party.": "response_low1"
+    }
+  }
+]

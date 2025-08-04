@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Excessive helpfulness can make it difficult to prioritize tasks effectively. Should I adopt Iyisha's cat?",
+    "options": [
+      "You might suggest Iyisha looks into pet relocation services or finds another friend who might be better positioned to adopt the cat.",
+      "You could adopt the cat to ensure it has a stable and loving environment, which would be a kind gesture towards both the cat and Iyisha.",
+      "Assess if taking in another pet aligns with your capacity and resources; don't feel obligated to adopt just out of sympathy.",
+      "Consider fostering the cat temporarily while searching for someone who can commit long-term, ensuring it's well cared for during this transition."
+    ],
+    "original_mapping": {
+      "You might suggest Iyisha looks into pet relocation services or finds another friend who might be better positioned to adopt the cat.": "response_low2",
+      "You could adopt the cat to ensure it has a stable and loving environment, which would be a kind gesture towards both the cat and Iyisha.": "response_high1",
+      "Assess if taking in another pet aligns with your capacity and resources; don't feel obligated to adopt just out of sympathy.": "response_low1",
+      "Consider fostering the cat temporarily while searching for someone who can commit long-term, ensuring it's well cared for during this transition.": "response_high2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Unselfishness might lead to personal dissatisfaction as one's own needs and desires are constantly put aside. Do I go to the bar as planned or help my colleague?",
+    "options": [
+      "Perhaps you can join your friends later at the bar after assisting your colleague, to balance both commitments.",
+      "Suggest that your colleague seeks help elsewhere or schedule another time when you're less busy, as your downtime is important too.",
+      "You should help your colleague with their problem to show your support and care.",
+      "Go to the bar as planned since you made this commitment first; your colleague can wait."
+    ],
+    "original_mapping": {
+      "Perhaps you can join your friends later at the bar after assisting your colleague, to balance both commitments.": "response_high2",
+      "Suggest that your colleague seeks help elsewhere or schedule another time when you're less busy, as your downtime is important too.": "response_low2",
+      "You should help your colleague with their problem to show your support and care.": "response_high1",
+      "Go to the bar as planned since you made this commitment first; your colleague can wait.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "The inability to be somewhat careless might inhibit creative risks. How should I handle the project in light of Sven's illness?",
+    "options": [
+      "See if there's a way to simplify the project requirements or extend deadlines to reduce immediate pressure.",
+      "Schedule regular updates and meetings to ensure the project remains on track and any emerging issues are addressed promptly.",
+      "Create a detailed plan outlining the tasks that need to be covered during Sven's absence and distribute them among the remaining team members.",
+      "Maybe try finding a temporary replacement or consultant who can pitch in, allowing for more flexibility in handling the project."
+    ],
+    "original_mapping": {
+      "See if there's a way to simplify the project requirements or extend deadlines to reduce immediate pressure.": "response_low1",
+      "Schedule regular updates and meetings to ensure the project remains on track and any emerging issues are addressed promptly.": "response_high2",
+      "Create a detailed plan outlining the tasks that need to be covered during Sven's absence and distribute them among the remaining team members.": "response_high1",
+      "Maybe try finding a temporary replacement or consultant who can pitch in, allowing for more flexibility in handling the project.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Perseverance can be crucial during times of company hardship, contributing to stability. Should I agree to help my friend move?",
+    "options": [
+      "Recommend hiring professional movers to save time and avoid personal inconvenience.",
+      "Suggest meeting up afterward to celebrate the move rather than helping with the actual moving process.",
+      "Offer to help organize and pack systematically, ensuring a smoother, more efficient move.",
+      "Accept the request to help your friend move as it strengthens your relationship and demonstrates reliability."
+    ],
+    "original_mapping": {
+      "Recommend hiring professional movers to save time and avoid personal inconvenience.": "response_low2",
+      "Suggest meeting up afterward to celebrate the move rather than helping with the actual moving process.": "response_low1",
+      "Offer to help organize and pack systematically, ensuring a smoother, more efficient move.": "response_high2",
+      "Accept the request to help your friend move as it strengthens your relationship and demonstrates reliability.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Talkativeness can lead to important details being overlooked or forgotten. How can I effectively communicate the safety procedures?",
+    "options": [
+      "Prepare detailed handouts summarizing the key points of your presentation, allowing new hires to review the material at their own pace.",
+      "Host a Q&A session after your presentation to address any uncertainties and ensure everyone feels confident about the procedures.",
+      "Utilize clear, step-by-step visual aids during your presentation to ensure understanding and retention of the safety procedures.",
+      "Engage your audience with dynamic presentations and interactive demonstrations to make learning fun and memorable."
+    ],
+    "original_mapping": {
+      "Prepare detailed handouts summarizing the key points of your presentation, allowing new hires to review the material at their own pace.": "response_low1",
+      "Host a Q&A session after your presentation to address any uncertainties and ensure everyone feels confident about the procedures.": "response_high2",
+      "Utilize clear, step-by-step visual aids during your presentation to ensure understanding and retention of the safety procedures.": "response_low2",
+      "Engage your audience with dynamic presentations and interactive demonstrations to make learning fun and memorable.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Being talkative can sometimes mean dominating conversations and not giving others a chance to speak. How should I manage my behavior to ensure I remain professional and respectful to my colleagues?",
+    "options": [
+      "Excuse yourself from the bar area periodically to take a walk and assess your state, ensuring you maintain a calm and collected demeanor.",
+      "Consider alternating each alcoholic drink with a glass of water to pace yourself and reduce the effects of alcohol.",
+      "Initiate or join a dance-off or group game; it channels that extra energy and keeps everyone engaged in a fun way.",
+      "Set a drink limit for yourself and switch to a non-alcoholic beverage after hitting it to keep the party vibe without overdoing it."
+    ],
+    "original_mapping": {
+      "Excuse yourself from the bar area periodically to take a walk and assess your state, ensuring you maintain a calm and collected demeanor.": "response_low2",
+      "Consider alternating each alcoholic drink with a glass of water to pace yourself and reduce the effects of alcohol.": "response_low1",
+      "Initiate or join a dance-off or group game; it channels that extra energy and keeps everyone engaged in a fun way.": "response_high2",
+      "Set a drink limit for yourself and switch to a non-alcoholic beverage after hitting it to keep the party vibe without overdoing it.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Information leverage can empower underrepresented or disadvantaged groups. How should I handle this situation to ensure the best outcome for the negotiation and maintain team harmony?",
+    "options": [
+      "Encourage open dialogue by asking the team members to express their points calmly and suggest they consider the investors' perspective.",
+      "Quickly intervene and redirect the conversation to each team member's key contributions and the overall benefits to the investors.",
+      "Schedule a follow-up meeting with the team to address and resolve the conflict openly, ensuring everyone feels heard and valued.",
+      "Privately suggest a temporary compromise to each of the arguing parties, emphasizing its importance for the success of this critical meeting."
+    ],
+    "original_mapping": {
+      "Encourage open dialogue by asking the team members to express their points calmly and suggest they consider the investors' perspective.": "response_low1",
+      "Quickly intervene and redirect the conversation to each team member's key contributions and the overall benefits to the investors.": "response_high1",
+      "Schedule a follow-up meeting with the team to address and resolve the conflict openly, ensuring everyone feels heard and valued.": "response_low2",
+      "Privately suggest a temporary compromise to each of the arguing parties, emphasizing its importance for the success of this critical meeting.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Keeping secrets can lead to a lack of transparency, which is crucial for trust in personal and professional relationships. What steps should I take to address my financial situation?",
+    "options": [
+      "Seek advice from a non-profit credit counseling service to get a structured debt management plan that will help you responsibly reduce your financial burden.",
+      "Consider transferring your balance to a credit card with a lower interest rate to immediately reduce your monthly payments.",
+      "Start negotiating with your creditors to lower interest rates or consolidate debts, as leveraging your negotiation skills can majorly decrease what you owe.",
+      "Create a detailed budget to track and control your spending, ensuring that you prioritize essential expenses and debt payments."
+    ],
+    "original_mapping": {
+      "Seek advice from a non-profit credit counseling service to get a structured debt management plan that will help you responsibly reduce your financial burden.": "response_low2",
+      "Consider transferring your balance to a credit card with a lower interest rate to immediately reduce your monthly payments.": "response_high1",
+      "Start negotiating with your creditors to lower interest rates or consolidate debts, as leveraging your negotiation skills can majorly decrease what you owe.": "response_high2",
+      "Create a detailed budget to track and control your spending, ensuring that you prioritize essential expenses and debt payments.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can result in a constant need for novelty and stimulation, leading to reckless behaviors and choices. How should I handle this situation?",
+    "options": [
+      "Call Denajia to inform her of your stylishly late arrival, ensuring she understands that it’s only enhancing the anticipation.",
+      "Apologize sincerely when you call Denajia, explain why you're running late, and reassure her that you’re hurrying as best you can.",
+      "Once you arrive, show your appreciation for her patience by quickly complimenting her appearance and expressing your eagerness for the evening.",
+      "Send Denajia a teaser of your outfit or a charming selfie to remind her that you’re worth the wait."
+    ],
+    "original_mapping": {
+      "Call Denajia to inform her of your stylishly late arrival, ensuring she understands that it’s only enhancing the anticipation.": "response_high1",
+      "Apologize sincerely when you call Denajia, explain why you're running late, and reassure her that you’re hurrying as best you can.": "response_low1",
+      "Once you arrive, show your appreciation for her patience by quickly complimenting her appearance and expressing your eagerness for the evening.": "response_low2",
+      "Send Denajia a teaser of your outfit or a charming selfie to remind her that you’re worth the wait.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Narcissistic behavior can lead to a defensive attitude, hindering open and honest communication. How should I approach Daishanae for feedback on my presentation?",
+    "options": [
+      "Request a brief meeting with Daishanae to go over your presentation, emphasizing your goal to meet her expectations and deliver a successful client meeting.",
+      "Send an email highlighting how you've integrated industry leading strategies into your presentation and ask for her input to ensure it aligns perfectly with her vision.",
+      "Schedule a meeting by letting Daishanae know that you’ve developed an innovative approach and would greatly value her unique perspective to refine it.",
+      "Politely ask Daishanae if she can spare some time to review your presentation draft and provide feedback to enhance its effectiveness."
+    ],
+    "original_mapping": {
+      "Request a brief meeting with Daishanae to go over your presentation, emphasizing your goal to meet her expectations and deliver a successful client meeting.": "response_low2",
+      "Send an email highlighting how you've integrated industry leading strategies into your presentation and ask for her input to ensure it aligns perfectly with her vision.": "response_high2",
+      "Schedule a meeting by letting Daishanae know that you’ve developed an innovative approach and would greatly value her unique perspective to refine it.": "response_high1",
+      "Politely ask Daishanae if she can spare some time to review your presentation draft and provide feedback to enhance its effectiveness.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional instability can encourage a journey towards emotional intelligence and regulation. How should I respond to the criticism in the meeting?",
+    "options": [
+      "Stay calm and open during the discussion; show that you value the feedback and are committed to adapting and enhancing your proposal based on constructive comments.",
+      "View the criticism as a chance to refine your ideas and improve; such feedback can be invaluable for personal and project growth.",
+      "Consider documenting your points and potential criticisms in advance to reassure yourself that you're prepared for any negativity.",
+      "Maybe it’s wise to request a private meeting to discuss your idea further, where the environment feels less confrontational and overwhelming."
+    ],
+    "original_mapping": {
+      "Stay calm and open during the discussion; show that you value the feedback and are committed to adapting and enhancing your proposal based on constructive comments.": "response_low2",
+      "View the criticism as a chance to refine your ideas and improve; such feedback can be invaluable for personal and project growth.": "response_low1",
+      "Consider documenting your points and potential criticisms in advance to reassure yourself that you're prepared for any negativity.": "response_high1",
+      "Maybe it’s wise to request a private meeting to discuss your idea further, where the environment feels less confrontational and overwhelming.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Excessive worrying can lead to irrational fears, limiting personal freedom and exploration. How should I respond to this documentary to ensure I remain calm and rational?",
+    "options": [
+      "Keep in mind that documentaries are designed to evoke strong reactions; perhaps focus on the awareness it brings rather than the fear.",
+      "Use the information from the documentary to become more informed and proactive about global issues, rather than worrying about the unpredictability.",
+      "Consider limiting exposure to similar content in the future to avoid feeling overwhelmed by the unpredictability and graphic nature of these events.",
+      "You might want to talk to someone about how the documentary made you feel, as it's important to manage the anxiety such intense content can provoke."
+    ],
+    "original_mapping": {
+      "Keep in mind that documentaries are designed to evoke strong reactions; perhaps focus on the awareness it brings rather than the fear.": "response_low1",
+      "Use the information from the documentary to become more informed and proactive about global issues, rather than worrying about the unpredictability.": "response_low2",
+      "Consider limiting exposure to similar content in the future to avoid feeling overwhelmed by the unpredictability and graphic nature of these events.": "response_high2",
+      "You might want to talk to someone about how the documentary made you feel, as it's important to manage the anxiety such intense content can provoke.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Avoiding routine can keep life exciting and full of new experiences. How should I approach this competition to make the most out of it?",
+    "options": [
+      "Experiment with unconventional materials and techniques to truly stand out and ignite your creativity.",
+      "Immerse yourself in the local art scene by attending workshops or galleries to gain inspiration and broaden your artistic perspective.",
+      "Focus on mastering one technique you are comfortable with, ensuring that your execution is polished and precise.",
+      "Plan your entries around themes or styles you are familiar with to maintain consistency and reliability in your submissions."
+    ],
+    "original_mapping": {
+      "Experiment with unconventional materials and techniques to truly stand out and ignite your creativity.": "response_high1",
+      "Immerse yourself in the local art scene by attending workshops or galleries to gain inspiration and broaden your artistic perspective.": "response_high2",
+      "Focus on mastering one technique you are comfortable with, ensuring that your execution is polished and precise.": "response_low1",
+      "Plan your entries around themes or styles you are familiar with to maintain consistency and reliability in your submissions.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "People who are highly open may struggle with adhering to structures and schedules. Should I choose to implement this newly invented game at the team-building event?",
+    "options": [
+      "Definitely go ahead with your novel game; it will stimulate creative thinking and likely enhance team dynamics in unexpected ways.",
+      "Consider simplifying the game to incorporate familiar elements so that it's easier for all team members to grasp and participate effectively.",
+      "It might be safer to stick with a traditional team-building activity that has proven success in fostering collaboration.",
+      "You could intertwine the game with intermittent brainstorming sessions, ensuring a dynamic and intellectually engaging experience."
+    ],
+    "original_mapping": {
+      "Definitely go ahead with your novel game; it will stimulate creative thinking and likely enhance team dynamics in unexpected ways.": "response_high1",
+      "Consider simplifying the game to incorporate familiar elements so that it's easier for all team members to grasp and participate effectively.": "response_low2",
+      "It might be safer to stick with a traditional team-building activity that has proven success in fostering collaboration.": "response_low1",
+      "You could intertwine the game with intermittent brainstorming sessions, ensuring a dynamic and intellectually engaging experience.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Immediate retaliatory actions can lead to legal repercussions if they violate laws or regulations. Despite clear rules against smoking inside the apartment due to a lease agreement, I continue to smoke in my bedroom because I enjoy it and it makes me feel in control of my own space. My roommate (Woodrow) has complained multiple times due to health concerns and discomfort from the smell.",
+    "options": [
+      "Convince Woodrow to move out if he can’t handle the smoke; that way, you can do what you want without being nagged.",
+      "Discuss the issue with Woodrow and find a compromise, maybe smoking near a window or investing in an air purifier.",
+      "Respect the lease agreement and your roommate's health by smoking outside the apartment to maintain harmony and legal compliance.",
+      "Ignore your roommate's complaints and keep smoking; it’s your space to control and enjoy as you see fit."
+    ],
+    "original_mapping": {
+      "Convince Woodrow to move out if he can’t handle the smoke; that way, you can do what you want without being nagged.": "response_high2",
+      "Discuss the issue with Woodrow and find a compromise, maybe smoking near a window or investing in an air purifier.": "response_low1",
+      "Respect the lease agreement and your roommate's health by smoking outside the apartment to maintain harmony and legal compliance.": "response_low2",
+      "Ignore your roommate's complaints and keep smoking; it’s your space to control and enjoy as you see fit.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "A reputation for being tough can provide security and deter threats. Is it okay if I push the person beside me to send a clear message that I am not someone to be trifled with, thereby preventing any further invasion of my personal space?",
+    "options": [
+      "Pretend to stumble and give them an unexpected shove back to assert your territory and make it clear you won’t tolerate being pushed around.",
+      "Try shifting your standing position or gently adjusting the distance between you and the person, to give yourself more space without escalating the situation.",
+      "Quickly confront them with a sharp verbal warning that you’ll involve security if they don't stop immediately, signaling you’re not one to be tested.",
+      "Politely ask the person bumping into you if they could be more careful, reminding them of the crowded space and your discomfort."
+    ],
+    "original_mapping": {
+      "Pretend to stumble and give them an unexpected shove back to assert your territory and make it clear you won’t tolerate being pushed around.": "response_high1",
+      "Try shifting your standing position or gently adjusting the distance between you and the person, to give yourself more space without escalating the situation.": "response_low2",
+      "Quickly confront them with a sharp verbal warning that you’ll involve security if they don't stop immediately, signaling you’re not one to be tested.": "response_high2",
+      "Politely ask the person bumping into you if they could be more careful, reminding them of the crowded space and your discomfort.": "response_low1"
+    }
+  }
+]

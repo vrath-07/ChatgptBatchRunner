@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Kindness can reduce the incidence of social isolation. What should I do to help Peytynn with her laundry?",
+    "options": [
+      "Recommend that Peytynn speak with the apartment complex management to explore the possibility of getting assistance or relocating her to a unit closer to the laundry area.",
+      "You might consider setting up a schedule where you can assist Peytynn with her laundry regularly.",
+      "Suggest that Peytynn invests in a laundry cart with wheels to make it easier for her to transport her laundry on her own.",
+      "Offer to carry her laundry basket to the washing area whenever you're available."
+    ],
+    "original_mapping": {
+      "Recommend that Peytynn speak with the apartment complex management to explore the possibility of getting assistance or relocating her to a unit closer to the laundry area.": "response_low2",
+      "You might consider setting up a schedule where you can assist Peytynn with her laundry regularly.": "response_high2",
+      "Suggest that Peytynn invests in a laundry cart with wheels to make it easier for her to transport her laundry on her own.": "response_low1",
+      "Offer to carry her laundry basket to the washing area whenever you're available.": "response_high1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Excessive trust can reduce one's ability to critically assess character and intentions. Should I accept Asiyah's offer to help with the project?",
+    "options": [
+      "I would recommend declining Asiyah’s offer to avoid potential complications or disputes about the ownership of work.",
+      "Politely refuse her help, focusing instead on completing the project independently to ensure your efforts are directly recognized and rewarded.",
+      "Accepting her help could be beneficial, just make sure to maintain open communication and set clear expectations about roles and recognition from the start.",
+      "You might consider accepting Asiyah’s help and closely monitor the collaboration to ensure your contributions are clearly documented."
+    ],
+    "original_mapping": {
+      "I would recommend declining Asiyah’s offer to avoid potential complications or disputes about the ownership of work.": "response_low1",
+      "Politely refuse her help, focusing instead on completing the project independently to ensure your efforts are directly recognized and rewarded.": "response_low2",
+      "Accepting her help could be beneficial, just make sure to maintain open communication and set clear expectations about roles and recognition from the start.": "response_high2",
+      "You might consider accepting Asiyah’s help and closely monitor the collaboration to ensure your contributions are clearly documented.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Excessive organization can be time-consuming and mentally exhausting. Should I give my work to Regulo to present as their own to help them meet the deadline?",
+    "options": [
+      "Suggest collaborating with Regulo to complete the report together, and ensure credit is shared appropriately between you both.",
+      "Offer to help Regulo by guiding them on how to quickly complete the report themselves, ensuring accountability is maintained.",
+      "You could give them your sections, but maybe just ask for a small favor in return sometime.",
+      "Go ahead and help Regulo out this time, but let them know they owe you one for the future."
+    ],
+    "original_mapping": {
+      "Suggest collaborating with Regulo to complete the report together, and ensure credit is shared appropriately between you both.": "response_high2",
+      "Offer to help Regulo by guiding them on how to quickly complete the report themselves, ensuring accountability is maintained.": "response_high1",
+      "You could give them your sections, but maybe just ask for a small favor in return sometime.": "response_low1",
+      "Go ahead and help Regulo out this time, but let them know they owe you one for the future.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being conscientious and not careless minimizes mistakes, leading to more accurate and dependable work. How should I prepare for this significant transition?",
+    "options": [
+      "Experiment with different roles through part-time gigs or freelance opportunities to see what really sparks your interest before making the full switch.",
+      "Dive into some networking events or social gatherings related to your new field to get a sense of the industry in a laid-back setting.",
+      "Start by creating a detailed roadmap with clear milestones leading up to your career change, ensuring each step is actionable and time-bound.",
+      "Research the necessary qualifications and skills for your new field and begin relevant courses or certifications to build a competitive profile."
+    ],
+    "original_mapping": {
+      "Experiment with different roles through part-time gigs or freelance opportunities to see what really sparks your interest before making the full switch.": "response_low2",
+      "Dive into some networking events or social gatherings related to your new field to get a sense of the industry in a laid-back setting.": "response_low1",
+      "Start by creating a detailed roadmap with clear milestones leading up to your career change, ensuring each step is actionable and time-bound.": "response_high1",
+      "Research the necessary qualifications and skills for your new field and begin relevant courses or certifications to build a competitive profile.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Not being reserved allows for full participation in democratic and civic activities. How can I use this opportunity to strengthen friendships and create memorable experiences?",
+    "options": [
+      "Plan a surprise route with multiple unexpected stops at popular nightspots or landmarks where you can get out, explore, and have spontaneous photo sessions.",
+      "Create a personalized playlist of songs that are favorites among your friends or have special meaning to your group, ensuring a soothing background for deep conversations.",
+      "Consider arranging a themed limousine ride where everyone dresses up and role-plays as famous movie characters, making it a fun and interactive journey.",
+      "Bring along a collection of board games or card games that can be played inside the limousine, providing a cozy and intimate atmosphere for bonding."
+    ],
+    "original_mapping": {
+      "Plan a surprise route with multiple unexpected stops at popular nightspots or landmarks where you can get out, explore, and have spontaneous photo sessions.": "response_high2",
+      "Create a personalized playlist of songs that are favorites among your friends or have special meaning to your group, ensuring a soothing background for deep conversations.": "response_low1",
+      "Consider arranging a themed limousine ride where everyone dresses up and role-plays as famous movie characters, making it a fun and interactive journey.": "response_high1",
+      "Bring along a collection of board games or card games that can be played inside the limousine, providing a cozy and intimate atmosphere for bonding.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Never feeling shy or inhibited might make it hard to empathize with those who do experience these feelings. How should I handle this situation without adequate preparation?",
+    "options": [
+      "Advise them that you will update them via email later today with a detailed response after reviewing the necessary documents.",
+      "Propose a brainstorming session with the team to gather various perspectives and deepen the understanding of the project collaboratively.",
+      "Offer to provide a thorough written report by the next meeting, ensuring all project details are comprehensively covered.",
+      "Suggest setting up a follow-up meeting where you can present detailed insights and create a dynamic discussion around the project."
+    ],
+    "original_mapping": {
+      "Advise them that you will update them via email later today with a detailed response after reviewing the necessary documents.": "response_low1",
+      "Propose a brainstorming session with the team to gather various perspectives and deepen the understanding of the project collaboratively.": "response_high2",
+      "Offer to provide a thorough written report by the next meeting, ensuring all project details are comprehensively covered.": "response_low2",
+      "Suggest setting up a follow-up meeting where you can present detailed insights and create a dynamic discussion around the project.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Such behavior can be a poor model for children or subordinates, perpetuating a cycle of manipulation. What approach should I take to fulfill my promise of taking more risks?",
+    "options": [
+      "Start by creating a supportive team culture where every member feels safe to share innovative ideas and take calculated risks.",
+      "Organize brainstorming sessions to gather diverse ideas, allowing you to take informed risks based on collective input and shared responsibility.",
+      "Initiate a competitive analysis to identify risk areas where you can outmaneuver competitors discreetly yet effectively.",
+      "Consider implementing small-scale experimental projects that can be quickly adjusted or retracted depending on their success, ensuring you stay ahead with minimal fallout."
+    ],
+    "original_mapping": {
+      "Start by creating a supportive team culture where every member feels safe to share innovative ideas and take calculated risks.": "response_low1",
+      "Organize brainstorming sessions to gather diverse ideas, allowing you to take informed risks based on collective input and shared responsibility.": "response_low2",
+      "Initiate a competitive analysis to identify risk areas where you can outmaneuver competitors discreetly yet effectively.": "response_high1",
+      "Consider implementing small-scale experimental projects that can be quickly adjusted or retracted depending on their success, ensuring you stay ahead with minimal fallout.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Believing that most people can be manipulated underestimates the complexity and dignity of others, leading to unethical behavior. Should I administer the experimental treatment to Lameek?",
+    "options": [
+      "Consider how proceeding with or declining this treatment could impact your professional reputation and make a strategic choice accordingly.",
+      "Evaluate the potential benefits and decide if the possible advantage in Lameek's survival outweighs the risk of the treatment.",
+      "Discuss the treatment thoroughly with Lameek and his family to ensure they fully understand the risks and give their informed consent.",
+      "Collaborate with a team of your peers to review all possible outcomes of the experimental treatment and make a collective decision that prioritizes Lameek's well-being."
+    ],
+    "original_mapping": {
+      "Consider how proceeding with or declining this treatment could impact your professional reputation and make a strategic choice accordingly.": "response_high2",
+      "Evaluate the potential benefits and decide if the possible advantage in Lameek's survival outweighs the risk of the treatment.": "response_high1",
+      "Discuss the treatment thoroughly with Lameek and his family to ensure they fully understand the risks and give their informed consent.": "response_low1",
+      "Collaborate with a team of your peers to review all possible outcomes of the experimental treatment and make a collective decision that prioritizes Lameek's well-being.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can encourage a culture of competition over collaboration, stifling teamwork and mutual growth. How should I respond to this opportunity?",
+    "options": [
+      "Offer to support the project leader by sharing workload and responsibilities, helping to ensure team success and project efficiency.",
+      "Discuss with your supervisor about the potential role and express your willingness to contribute while considering team needs.",
+      "Assertively step forward to take charge of the project, ensuring that your leadership is visible to all key stakeholders.",
+      "Volunteer to lead the project, showcasing your unique skills and positioning yourself as an indispensable part of the team."
+    ],
+    "original_mapping": {
+      "Offer to support the project leader by sharing workload and responsibilities, helping to ensure team success and project efficiency.": "response_low2",
+      "Discuss with your supervisor about the potential role and express your willingness to contribute while considering team needs.": "response_low1",
+      "Assertively step forward to take charge of the project, ensuring that your leadership is visible to all key stakeholders.": "response_high2",
+      "Volunteer to lead the project, showcasing your unique skills and positioning yourself as an indispensable part of the team.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "They can bring clarity and decisive action to complex or ambiguous situations. How should I approach the content and delivery of my speech to maximize its impact?",
+    "options": [
+      "Assertively present your vision for the future, positioning yourself as the pioneering thought leader in the field.",
+      "Offer actionable insights and practical solutions that the audience can implement, ensuring your speech adds tangible value to their endeavors.",
+      "Focus on the collaborative achievements within your industry, emphasizing shared goals and collective milestones.",
+      "Start your speech by highlighting your unique contributions and successes that directly led to innovations in your industry."
+    ],
+    "original_mapping": {
+      "Assertively present your vision for the future, positioning yourself as the pioneering thought leader in the field.": "response_high2",
+      "Offer actionable insights and practical solutions that the audience can implement, ensuring your speech adds tangible value to their endeavors.": "response_low2",
+      "Focus on the collaborative achievements within your industry, emphasizing shared goals and collective milestones.": "response_low1",
+      "Start your speech by highlighting your unique contributions and successes that directly led to innovations in your industry.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Tension can create a sense of urgency that propels projects and tasks to completion. How should I handle the rest of the interview process knowing that I might not win?",
+    "options": [
+      "Maybe you should prepare yourself for disappointment and consider having a backup plan in case this job doesn’t work out.",
+      "Use this as an opportunity to learn more about your strengths and areas for growth, regardless of the job outcome.",
+      "Stay positive and focus on giving your best in the final interview stage; worrying about others' performances won’t change the outcome.",
+      "It's concerning to hear about the other candidate’s performance; you might want to reach out to your references and ask them to put in a good word for you immediately."
+    ],
+    "original_mapping": {
+      "Maybe you should prepare yourself for disappointment and consider having a backup plan in case this job doesn’t work out.": "response_high1",
+      "Use this as an opportunity to learn more about your strengths and areas for growth, regardless of the job outcome.": "response_low1",
+      "Stay positive and focus on giving your best in the final interview stage; worrying about others' performances won’t change the outcome.": "response_low2",
+      "It's concerning to hear about the other candidate’s performance; you might want to reach out to your references and ask them to put in a good word for you immediately.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Moodiness can disrupt teamwork, as fluctuating emotions can affect group dynamics and outcomes. How should I manage my emotions during the debate to ensure a constructive discussion?",
+    "options": [
+      "You might want to consider stepping out for a moment to collect your thoughts and emotions, as it seems like a heated debate could really affect your mental state negatively.",
+      "Keep engaging constructively in the debate, viewing your strong emotions as a sign of your investment and not as a disturbance.",
+      "Embrace the passion you feel for the topic as it can energize the debate; just focus on expressing your views clearly without letting emotions cloud your arguments.",
+      "Maybe try to redirect the conversation to a less provocative topic temporarily, just until you feel more in control of your emotions."
+    ],
+    "original_mapping": {
+      "You might want to consider stepping out for a moment to collect your thoughts and emotions, as it seems like a heated debate could really affect your mental state negatively.": "response_high1",
+      "Keep engaging constructively in the debate, viewing your strong emotions as a sign of your investment and not as a disturbance.": "response_low2",
+      "Embrace the passion you feel for the topic as it can energize the debate; just focus on expressing your views clearly without letting emotions cloud your arguments.": "response_low1",
+      "Maybe try to redirect the conversation to a less provocative topic temporarily, just until you feel more in control of your emotions.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Appreciating beauty can lead to a more harmonious society, where people value and strive for quality in their surroundings. How can I help Mayrel feel better through their physical environment?",
+    "options": [
+      "Suggest painting their room in a bright, cheerful color to enhance the overall ambiance and mood.",
+      "Help them clean and organize their room systematically to make it a more functional space.",
+      "Encourage them to rearrange their furniture for a fresh perspective and possibly introduce some lively plants.",
+      "Install brighter, more efficient lighting in their room to improve visibility and reduce the gloom."
+    ],
+    "original_mapping": {
+      "Suggest painting their room in a bright, cheerful color to enhance the overall ambiance and mood.": "response_high2",
+      "Help them clean and organize their room systematically to make it a more functional space.": "response_low1",
+      "Encourage them to rearrange their furniture for a fresh perspective and possibly introduce some lively plants.": "response_high1",
+      "Install brighter, more efficient lighting in their room to improve visibility and reduce the gloom.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Non-routine seekers often pioneer unconventional lifestyles or careers, inspiring others to explore new paths. How should we spend our time during the visit to make it memorable and enriching?",
+    "options": [
+      "Visit the most famous historical landmarks and museums in the city to ensure you see the essential highlights that are well-regarded and established.",
+      "Schedule a day to participate in a workshop or class that teaches a traditional craft or cooking style from the area to engage deeply with its cultural roots.",
+      "Explore the local art scene by visiting galleries and attending live performances to immerse yourselves fully in the city's unique cultural offerings.",
+      "Eat at long-standing, highly recommended local restaurants to experience the traditional flavors the city is known for without venturing too far into the unfamiliar."
+    ],
+    "original_mapping": {
+      "Visit the most famous historical landmarks and museums in the city to ensure you see the essential highlights that are well-regarded and established.": "response_low1",
+      "Schedule a day to participate in a workshop or class that teaches a traditional craft or cooking style from the area to engage deeply with its cultural roots.": "response_high2",
+      "Explore the local art scene by visiting galleries and attending live performances to immerse yourselves fully in the city's unique cultural offerings.": "response_high1",
+      "Eat at long-standing, highly recommended local restaurants to experience the traditional flavors the city is known for without venturing too far into the unfamiliar.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Rebelling against norms can inspire others to think independently. Is it okay if I seek professional help to better manipulate situations and avoid legal troubles rather than genuinely trying to change my behavior?",
+    "options": [
+      "Contact a therapist who can help you understand the roots of your impulse-seeking behavior and work on long-term strategies for self-control.",
+      "Seek out professionals adept in manipulating scenarios to your advantage, ensuring you can continue your pursuits with a better cover.",
+      "Engage with a counselor who specializes in behavioral therapy to develop genuine coping mechanisms that reduce the risk while encouraging personal growth.",
+      "Consider finding a cunning lawyer who specializes in risk-heavy cases and can teach you the loopholes to keep you one step ahead of any legal trouble."
+    ],
+    "original_mapping": {
+      "Contact a therapist who can help you understand the roots of your impulse-seeking behavior and work on long-term strategies for self-control.": "response_low1",
+      "Seek out professionals adept in manipulating scenarios to your advantage, ensuring you can continue your pursuits with a better cover.": "response_high2",
+      "Engage with a counselor who specializes in behavioral therapy to develop genuine coping mechanisms that reduce the risk while encouraging personal growth.": "response_low2",
+      "Consider finding a cunning lawyer who specializes in risk-heavy cases and can teach you the loopholes to keep you one step ahead of any legal trouble.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Manipulating others can lead to a lack of self-respect and internal conflict. Is it okay if I give Paizli an expensive gift with the hidden agenda of making them feel obligated to help me with my personal agenda later?",
+    "options": [
+      "Giving with hidden motives could harm trust; maybe try being upfront about your needs to see if Paizli is willing to help based on good faith.",
+      "Sure, if the watch doesn’t pull the strings as you planned, leverage the disappointment to push them to compensate in other ways you need.",
+      "Of course, keep the pressure high and remind them subtly about the cost of your generosity to hurry up their payback in your favor.",
+      "It might be better to consider the implications of such manipulation on your relationship and perhaps think of more transparent ways to ask for help."
+    ],
+    "original_mapping": {
+      "Giving with hidden motives could harm trust; maybe try being upfront about your needs to see if Paizli is willing to help based on good faith.": "response_low2",
+      "Sure, if the watch doesn’t pull the strings as you planned, leverage the disappointment to push them to compensate in other ways you need.": "response_high1",
+      "Of course, keep the pressure high and remind them subtly about the cost of your generosity to hurry up their payback in your favor.": "response_high2",
+      "It might be better to consider the implications of such manipulation on your relationship and perhaps think of more transparent ways to ask for help.": "response_low1"
+    }
+  }
+]

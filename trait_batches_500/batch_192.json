@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Politeness can smooth over rough interactions, maintaining harmony. How should I address this observation?",
+    "options": [
+      "Gently ask Mellanie if she'd like to share any concerns or feedback with you after the meeting.",
+      "Offer to have a private conversation with Mellanie to ensure she feels supported and heard.",
+      "Suggest that Mellanie needs to speak up if something from the project is bothering her.",
+      "Directly ask Mellanie during the meeting why she is not participating as usual."
+    ],
+    "original_mapping": {
+      "Gently ask Mellanie if she'd like to share any concerns or feedback with you after the meeting.": "response_high1",
+      "Offer to have a private conversation with Mellanie to ensure she feels supported and heard.": "response_high2",
+      "Suggest that Mellanie needs to speak up if something from the project is bothering her.": "response_low2",
+      "Directly ask Mellanie during the meeting why she is not participating as usual.": "response_low1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Avoiding quarrels can save time and energy for more productive endeavors. What should I do in this situation to show consideration?",
+    "options": [
+      "Invite Derra to join you at your spot, and both of you can share the seat until another becomes available.",
+      "Politely suggest Derra waits until someone else leaves to free up a new seat.",
+      "Keep your seat and advise Derra to quickly scope out nearby tables for potential openings as others finish.",
+      "Offer your seat to Derra and help her with her tray while you look for another spot together."
+    ],
+    "original_mapping": {
+      "Invite Derra to join you at your spot, and both of you can share the seat until another becomes available.": "response_high2",
+      "Politely suggest Derra waits until someone else leaves to free up a new seat.": "response_low1",
+      "Keep your seat and advise Derra to quickly scope out nearby tables for potential openings as others finish.": "response_low2",
+      "Offer your seat to Derra and help her with her tray while you look for another spot together.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "A thorough job can foster a culture of excellence and high standards in any field. Should I create a detailed budget and possibly seek financial advice to manage my situation?",
+    "options": [
+      "Creating a detailed budget using a spreadsheet or a budgeting app would be a practical step to visualize and control your spending.",
+      "Consulting a financial advisor could provide you with professional guidance and strategies to efficiently manage your financial strain.",
+      "Maybe try setting a simple weekly limit on non-essential expenses and see if that eases the financial pressure a bit.",
+      "You could also look into selling some items you no longer need, to quickly boost your budget."
+    ],
+    "original_mapping": {
+      "Creating a detailed budget using a spreadsheet or a budgeting app would be a practical step to visualize and control your spending.": "response_high1",
+      "Consulting a financial advisor could provide you with professional guidance and strategies to efficiently manage your financial strain.": "response_high2",
+      "Maybe try setting a simple weekly limit on non-essential expenses and see if that eases the financial pressure a bit.": "response_low1",
+      "You could also look into selling some items you no longer need, to quickly boost your budget.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Thoroughness in every task can lead to inefficiency in terms of time management. How should I manage my time while helping Oyuky's grandfather?",
+    "options": [
+      "Utilize reminders and alarms on your phone or calendar for his medication times and your visits, to maintain punctuality and reliability.",
+      "Try to be flexible with your time; you could assist him when you naturally have gaps in your day or feel up to it.",
+      "You might find it easier to check in on him spontaneously when you have free moments, rather than sticking to a rigid schedule.",
+      "Create a structured daily schedule that includes specific time blocks dedicated to assisting Oyuky's grandfather, ensuring you can manage both his needs and your other responsibilities efficiently."
+    ],
+    "original_mapping": {
+      "Utilize reminders and alarms on your phone or calendar for his medication times and your visits, to maintain punctuality and reliability.": "response_high2",
+      "Try to be flexible with your time; you could assist him when you naturally have gaps in your day or feel up to it.": "response_low1",
+      "You might find it easier to check in on him spontaneously when you have free moments, rather than sticking to a rigid schedule.": "response_low2",
+      "Create a structured daily schedule that includes specific time blocks dedicated to assisting Oyuky's grandfather, ensuring you can manage both his needs and your other responsibilities efficiently.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Talkative people can be effective mediators in conflicts, facilitating communication. How should I handle the situation after abruptly ending the call with Hendy to maintain professionalism and respect?",
+    "options": [
+      "Call Hendy back as soon as possible, apologizing for the interruption and energetically picking up where you left off.",
+      "Schedule a new meeting with Hendy through a calendar invite, ensuring all pertinent points from the previous conversation are summarized in the invite notes.",
+      "Send a brief, formal email to Hendy apologizing for the abrupt end to the call and proposing a specific time for a follow-up discussion.",
+      "Send Hendy a lively, apologetic text and suggest a new time to continue the conversation, maybe even adding a coffee invitation to discuss in person!"
+    ],
+    "original_mapping": {
+      "Call Hendy back as soon as possible, apologizing for the interruption and energetically picking up where you left off.": "response_high2",
+      "Schedule a new meeting with Hendy through a calendar invite, ensuring all pertinent points from the previous conversation are summarized in the invite notes.": "response_low2",
+      "Send a brief, formal email to Hendy apologizing for the abrupt end to the call and proposing a specific time for a follow-up discussion.": "response_low1",
+      "Send Hendy a lively, apologetic text and suggest a new time to continue the conversation, maybe even adding a coffee invitation to discuss in person!": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Generating enthusiasm can lead to higher engagement in community or volunteer activities. How should I utilize my name tag to enhance interactions?",
+    "options": [
+      "Include a professional title or area of expertise next to your name to make it easier for like-minded professionals to start a relevant conversation.",
+      "Use bright colors or bold text to make your name tag stand out and attract more people to you.",
+      "Keep the design simple and readable from a distance to ensure clear and effortless communication.",
+      "Write a fun or quirky fact about yourself under your name to spark interesting conversations!"
+    ],
+    "original_mapping": {
+      "Include a professional title or area of expertise next to your name to make it easier for like-minded professionals to start a relevant conversation.": "response_low1",
+      "Use bright colors or bold text to make your name tag stand out and attract more people to you.": "response_high2",
+      "Keep the design simple and readable from a distance to ensure clear and effortless communication.": "response_low2",
+      "Write a fun or quirky fact about yourself under your name to spark interesting conversations!": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Building key relationships can enhance cultural, social, and economic exchanges. How can I use the conversation about Salinda's kids to strengthen our relationship in a way that is beneficial for both personal and professional growth?",
+    "options": [
+      "Ask genuine questions about her children’s achievements and hobbies to show real interest, which can create a friendly, mutual connection that goes beyond just business.",
+      "Obtain insights on what Salinda values for her children's future, and align these insights with your business offerings, articulating how a partnership could be beneficial to both her family and business goals.",
+      "Share your own experiences or stories related to kids if applicable, to build empathy and an authentic bond, making the conversation memorable and personal.",
+      "Inquire about Salinda's children's interests and subtly relate those to your business projects where applicable, demonstrating potential synergies and benefits."
+    ],
+    "original_mapping": {
+      "Ask genuine questions about her children’s achievements and hobbies to show real interest, which can create a friendly, mutual connection that goes beyond just business.": "response_low1",
+      "Obtain insights on what Salinda values for her children's future, and align these insights with your business offerings, articulating how a partnership could be beneficial to both her family and business goals.": "response_high2",
+      "Share your own experiences or stories related to kids if applicable, to build empathy and an authentic bond, making the conversation memorable and personal.": "response_low2",
+      "Inquire about Salinda's children's interests and subtly relate those to your business projects where applicable, demonstrating potential synergies and benefits.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Ethical manipulation can guide people towards better behaviors or important realizations. How can I show my appreciation to Davohn in a meaningful way?",
+    "options": [
+      "Invite Davohn to a relaxing day out, like a lunch or spa, as a personal and thoughtful way of saying thank you which focuses on their enjoyment and relaxation.",
+      "Consider offering a public acknowledgment of Davohn's contributions during a well-attended event or on social media to enhance their professional reputation.",
+      "Write a heartfelt, personal thank-you letter to Davohn, expressing your gratitude and detailing how their help made a difference.",
+      "Gift Davohn a membership or subscription that aligns with their professional interests, which could also expand their network and opportunities."
+    ],
+    "original_mapping": {
+      "Invite Davohn to a relaxing day out, like a lunch or spa, as a personal and thoughtful way of saying thank you which focuses on their enjoyment and relaxation.": "response_low2",
+      "Consider offering a public acknowledgment of Davohn's contributions during a well-attended event or on social media to enhance their professional reputation.": "response_high2",
+      "Write a heartfelt, personal thank-you letter to Davohn, expressing your gratitude and detailing how their help made a difference.": "response_low1",
+      "Gift Davohn a membership or subscription that aligns with their professional interests, which could also expand their network and opportunities.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Narcissistic individuals may struggle with long-term planning as immediate gratification is often prioritized. Should I initiate a divorce?",
+    "options": [
+      "Consider a trial separation to explore your personal happiness and evaluate if independence truly suits you better.",
+      "Discuss openly with your partner about your feelings and consider options that might benefit not just you but the whole family.",
+      "You might want to seek marital counseling first to address the issues collectively before making a decision about divorce.",
+      "Initiate a conversation to redefine the terms of your relationship, ensuring your needs are prioritized."
+    ],
+    "original_mapping": {
+      "Consider a trial separation to explore your personal happiness and evaluate if independence truly suits you better.": "response_high2",
+      "Discuss openly with your partner about your feelings and consider options that might benefit not just you but the whole family.": "response_low2",
+      "You might want to seek marital counseling first to address the issues collectively before making a decision about divorce.": "response_low1",
+      "Initiate a conversation to redefine the terms of your relationship, ensuring your needs are prioritized.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can be used to influence positive changes and raise awareness on critical issues. How can I ensure that my contributions to rewriting the constitution benefit both my legacy and the country?",
+    "options": [
+      "Collaborate closely with experts and community leaders to ensure the amendments you propose address the real needs of the nation.",
+      "Advocate for a new constitutional clause that can be directly traced back to your ideas, solidifying your influence and recognition.",
+      "Focus on proposing amendments that highlight your unique contributions and ensure they are widely publicized in discussions and media.",
+      "Regularly seek feedback from a diverse range of citizens to make sure your contributions are inclusive and beneficial for the entire country."
+    ],
+    "original_mapping": {
+      "Collaborate closely with experts and community leaders to ensure the amendments you propose address the real needs of the nation.": "response_low1",
+      "Advocate for a new constitutional clause that can be directly traced back to your ideas, solidifying your influence and recognition.": "response_high2",
+      "Focus on proposing amendments that highlight your unique contributions and ensure they are widely publicized in discussions and media.": "response_high1",
+      "Regularly seek feedback from a diverse range of citizens to make sure your contributions are inclusive and beneficial for the entire country.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Nervousness can lead to underperformance in critical tasks, impacting both personal and professional achievements. How should I handle this situation to maintain family harmony?",
+    "options": [
+      "You could focus on listening rather than responding right away, to carefully think through and manage the tension you're feeling.",
+      "Express your views calmly and use this as an opportunity to share information, ensuring you keep the conversation constructive and stress-free.",
+      "Maybe consider taking a break from the discussion to avoid escalating emotions further and to give yourself time to calm your nerves.",
+      "Suggest changing the topic to something lighter that everyone can enjoy, keeping the dinner pleasant for all."
+    ],
+    "original_mapping": {
+      "You could focus on listening rather than responding right away, to carefully think through and manage the tension you're feeling.": "response_high2",
+      "Express your views calmly and use this as an opportunity to share information, ensuring you keep the conversation constructive and stress-free.": "response_low2",
+      "Maybe consider taking a break from the discussion to avoid escalating emotions further and to give yourself time to calm your nerves.": "response_high1",
+      "Suggest changing the topic to something lighter that everyone can enjoy, keeping the dinner pleasant for all.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Experiencing a range of moods can help one understand and relate to a variety of people and situations. How should I deal with my overwhelming stress this evening?",
+    "options": [
+      "Focus on organizing your tasks based on priority, allowing you to handle them one at a time, which might make the situation feel more manageable and less daunting.",
+      "Consider scheduling an urgent meeting with your manager to discuss your current workload and express your concerns, which might help in getting some support or adjustments.",
+      "It might be a good idea to meticulously review all upcoming project details again to avoid any potential issues, as this might help mitigate overwhelming surprises.",
+      "Try to take a step back to relax this weekend; sometimes a little break can give you a fresh perspective and renewed energy for your projects."
+    ],
+    "original_mapping": {
+      "Focus on organizing your tasks based on priority, allowing you to handle them one at a time, which might make the situation feel more manageable and less daunting.": "response_low2",
+      "Consider scheduling an urgent meeting with your manager to discuss your current workload and express your concerns, which might help in getting some support or adjustments.": "response_high2",
+      "It might be a good idea to meticulously review all upcoming project details again to avoid any potential issues, as this might help mitigate overwhelming surprises.": "response_high1",
+      "Try to take a step back to relax this weekend; sometimes a little break can give you a fresh perspective and renewed energy for your projects.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Being sophisticated in arts and culture can inspire others to pursue education and personal development in these areas. How should I handle my emotions during the discussion to contribute positively to the group?",
+    "options": [
+      "Focus on discussing the factual content and structure of the book to keep the conversation objective and grounded.",
+      "Prepare a list of discussion questions or key points about the book beforehand to help steer the conversation away from personal feelings and towards a more structured analysis.",
+      "Utilize this opportunity to suggest creative coping mechanisms you’ve read about or practiced, which might align with the recovery processes discussed in the book.",
+      "Explore your feelings by expressing how the book’s themes resonate with your current emotions, turning your personal experience into a deep, shared discussion."
+    ],
+    "original_mapping": {
+      "Focus on discussing the factual content and structure of the book to keep the conversation objective and grounded.": "response_low1",
+      "Prepare a list of discussion questions or key points about the book beforehand to help steer the conversation away from personal feelings and towards a more structured analysis.": "response_low2",
+      "Utilize this opportunity to suggest creative coping mechanisms you’ve read about or practiced, which might align with the recovery processes discussed in the book.": "response_high2",
+      "Explore your feelings by expressing how the book’s themes resonate with your current emotions, turning your personal experience into a deep, shared discussion.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Aesthetic values might not resonate in environments focused on efficiency and functionality. How should I express my disagreement with this decision, considering my high openness but also the potential for socially and personally bad outcomes?",
+    "options": [
+      "Recommend a detailed review of the budget to identify less critical areas for cuts, keeping the funding more balanced and stable.",
+      "Suggest establishing a volunteer group to explore alternative sources of arts funding, showing your openness to new solutions.",
+      "Propose a creative compromise where funding for the arts is partially maintained by organizing community-led fundraising events.",
+      "Express your concerns by emphasizing the long-term value of arts programs in maintaining cultural heritage and community spirit."
+    ],
+    "original_mapping": {
+      "Recommend a detailed review of the budget to identify less critical areas for cuts, keeping the funding more balanced and stable.": "response_low2",
+      "Suggest establishing a volunteer group to explore alternative sources of arts funding, showing your openness to new solutions.": "response_high2",
+      "Propose a creative compromise where funding for the arts is partially maintained by organizing community-led fundraising events.": "response_high1",
+      "Express your concerns by emphasizing the long-term value of arts programs in maintaining cultural heritage and community spirit.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Legal struggles can teach resilience and perseverance. Is it okay if I buy an extremely expensive and ostentatious car just to flaunt at these events, knowing it will give me a psychological edge and possibly intimidate others?",
+    "options": [
+      "Go for it, use that car to flaunt your status aggressively—it'll unsettle the competition and put you in control.",
+      "It might be more prudent to invest in personal skills and relationship-building at the event, rather than relying solely on material items to impress.",
+      "Consider the long-term implications; a sustainable impression might be better achieved through genuine connections rather than ostentatious displays.",
+      "Absolutely, buy the flashiest car you can find; it’ll shock and overpower your rivals, securing your dominance quickly."
+    ],
+    "original_mapping": {
+      "Go for it, use that car to flaunt your status aggressively—it'll unsettle the competition and put you in control.": "response_high2",
+      "It might be more prudent to invest in personal skills and relationship-building at the event, rather than relying solely on material items to impress.": "response_low2",
+      "Consider the long-term implications; a sustainable impression might be better achieved through genuine connections rather than ostentatious displays.": "response_low1",
+      "Absolutely, buy the flashiest car you can find; it’ll shock and overpower your rivals, securing your dominance quickly.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Deceptive skills can be beneficial in competitive intelligence roles. Is it okay if I use physical assertiveness to finalize a deal that benefits me, even if it intimidates Nau?",
+    "options": [
+      "Instead of physical assertiveness, use affirmative language and confidence in your verbal proposals to influence the negotiation in a positive manner.",
+      "Force the handshake; it’s a power move that can disorient Nau and wrap up the deal on your terms immediately.",
+      "Assert dominance by pulling them into that handshake—intimidation quickly tilts the scales in your favor, securing the win.",
+      "Encourage a more cooperative atmosphere by acknowledging Nau's hesitations and offering reassurances that address their concerns, fostering mutual respect."
+    ],
+    "original_mapping": {
+      "Instead of physical assertiveness, use affirmative language and confidence in your verbal proposals to influence the negotiation in a positive manner.": "response_low1",
+      "Force the handshake; it’s a power move that can disorient Nau and wrap up the deal on your terms immediately.": "response_high2",
+      "Assert dominance by pulling them into that handshake—intimidation quickly tilts the scales in your favor, securing the win.": "response_high1",
+      "Encourage a more cooperative atmosphere by acknowledging Nau's hesitations and offering reassurances that address their concerns, fostering mutual respect.": "response_low2"
+    }
+  }
+]

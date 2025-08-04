@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Being approachable because of a warm demeanor can lead to increased social support. Should I offer to help Daeun with their part of the project to ease their burden?",
+    "options": [
+      "You might consider offering to help Daeun with her tasks, showing your support and teamwork spirit.",
+      "Suggest to Daeun that she speaks with the project leader about redistributing her tasks if she cannot manage her current workload.",
+      "Perhaps you could ask Daeun if she needs help organizing her work, which might make things more manageable for her.",
+      "Advise Daeun to review and possibly streamline her part of the project to meet the deadlines more efficiently on her own."
+    ],
+    "original_mapping": {
+      "You might consider offering to help Daeun with her tasks, showing your support and teamwork spirit.": "response_high1",
+      "Suggest to Daeun that she speaks with the project leader about redistributing her tasks if she cannot manage her current workload.": "response_low1",
+      "Perhaps you could ask Daeun if she needs help organizing her work, which might make things more manageable for her.": "response_high2",
+      "Advise Daeun to review and possibly streamline her part of the project to meet the deadlines more efficiently on her own.": "response_low2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Constant cooperation might suppress personal creativity and initiative. How should I handle the pressure to conform to the corporate culture?",
+    "options": [
+      "You might consider finding small, non-disruptive ways to blend your personal values with the existing corporate culture.",
+      "Clearly communicate your boundaries and the aspects of your identity that you are not willing to compromise on.",
+      "Evaluate if the misalignment is too significant and consider looking for a company culture that matches your personal values more closely.",
+      "Perhaps try to connect with coworkers who share your values to build a supportive sub-community within the workplace."
+    ],
+    "original_mapping": {
+      "You might consider finding small, non-disruptive ways to blend your personal values with the existing corporate culture.": "response_high1",
+      "Clearly communicate your boundaries and the aspects of your identity that you are not willing to compromise on.": "response_low1",
+      "Evaluate if the misalignment is too significant and consider looking for a company culture that matches your personal values more closely.": "response_low2",
+      "Perhaps try to connect with coworkers who share your values to build a supportive sub-community within the workplace.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Persevering excessively can lead to missed opportunities for better or more effective solutions. Should I continue to work overtime to fix the mistake I made?",
+    "options": [
+      "Why not suggest a team brainstorm to come up with solutions that might resolve the delay without the need for additional individual overtime?",
+      "Create a detailed plan to efficiently address the mistake, potentially involving your team for support, thus reducing the need for extensive overtime.",
+      "Maybe see if you can delegate some of your tasks to coworkers to balance out the workload while maintaining your current hours.",
+      "Consider discussing a revised project timeline with your manager to accommodate the delay without sacrificing your health."
+    ],
+    "original_mapping": {
+      "Why not suggest a team brainstorm to come up with solutions that might resolve the delay without the need for additional individual overtime?": "response_low2",
+      "Create a detailed plan to efficiently address the mistake, potentially involving your team for support, thus reducing the need for extensive overtime.": "response_high2",
+      "Maybe see if you can delegate some of your tasks to coworkers to balance out the workload while maintaining your current hours.": "response_low1",
+      "Consider discussing a revised project timeline with your manager to accommodate the delay without sacrificing your health.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Never being somewhat careless can result in a lack of human warmth and connection. Should I keep the visit strictly about the child's event, or should I use the opportunity to improve our relationship?",
+    "options": [
+      "Use the opportunity to engage in a polite conversation with your ex-wife about potential ways to better coordinate and manage your child's future activities and responsibilities.",
+      "See how the day goes, and if the mood seems right, share a coffee with your ex-wife after the event to catch up casually.",
+      "Bring up some light, friendly topics during the event to see if you can naturally steer into a more relaxed and enjoyable interaction.",
+      "Focus on supporting your child during the event and communicate effectively with your ex-wife about any necessary details regarding your child's needs or schedule."
+    ],
+    "original_mapping": {
+      "Use the opportunity to engage in a polite conversation with your ex-wife about potential ways to better coordinate and manage your child's future activities and responsibilities.": "response_high2",
+      "See how the day goes, and if the mood seems right, share a coffee with your ex-wife after the event to catch up casually.": "response_low1",
+      "Bring up some light, friendly topics during the event to see if you can naturally steer into a more relaxed and enjoyable interaction.": "response_low2",
+      "Focus on supporting your child during the event and communicate effectively with your ex-wife about any necessary details regarding your child's needs or schedule.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Never experiencing shyness can make one appear overly bold or disrespectful in certain social contexts. How should I conduct myself during the interview to make a positive impression?",
+    "options": [
+      "Focus on detailing your specific skills and achievements with concrete examples, ensuring your explanations are clear and concise.",
+      "Prepare a list of thoughtful questions about the factory’s operations and your potential role to demonstrate your thorough preparation and serious intent.",
+      "Make sure to enthusiastically share your past experiences and how they've shaped your proactive approach to problem-solving and teamwork.",
+      "During your interview, try to establish a strong, engaging connection with your interviewer by maintaining eye contact and showing your dynamic personality."
+    ],
+    "original_mapping": {
+      "Focus on detailing your specific skills and achievements with concrete examples, ensuring your explanations are clear and concise.": "response_low2",
+      "Prepare a list of thoughtful questions about the factory’s operations and your potential role to demonstrate your thorough preparation and serious intent.": "response_low1",
+      "Make sure to enthusiastically share your past experiences and how they've shaped your proactive approach to problem-solving and teamwork.": "response_high1",
+      "During your interview, try to establish a strong, engaging connection with your interviewer by maintaining eye contact and showing your dynamic personality.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Constant talkativeness can interfere with others’ ability to express themselves, leading to one-sided relationships. How should I interact with my competitors during the event?",
+    "options": [
+      "Focus on personal preparation and only engage in necessary communication during the competition to stay concentrated and respectful.",
+      "Invite your competitors to join for a group warm-up or a quick game-related chat to share tactics and experiences.",
+      "Strike up friendly conversations with your competitors before the events start to build a fun and engaging atmosphere.",
+      "Offer polite nods or brief acknowledgments to your competitors when you meet them, keeping interactions professional and sportsmanlike."
+    ],
+    "original_mapping": {
+      "Focus on personal preparation and only engage in necessary communication during the competition to stay concentrated and respectful.": "response_low2",
+      "Invite your competitors to join for a group warm-up or a quick game-related chat to share tactics and experiences.": "response_high2",
+      "Strike up friendly conversations with your competitors before the events start to build a fun and engaging atmosphere.": "response_high1",
+      "Offer polite nods or brief acknowledgments to your competitors when you meet them, keeping interactions professional and sportsmanlike.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Such behavior can impede true conflict resolution, as underlying issues are obscured by manipulative tactics. How should I approach getting a discount on the gadget?",
+    "options": [
+      "Politely ask the store manager if they offer discounts on slightly damaged items, as you're interested in purchasing the gadget.",
+      "Inquire if the store has a policy for price adjustments on items with cosmetic damage to ensure you're not overpaying for the scratch.",
+      "Leverage the situation by suggesting that you're willing to overlook the minor damage if they meet you halfway with a reasonable price reduction.",
+      "Point out the scratch to the salesperson and suggest that since it's the last piece and damaged, a discount would make the sale more appealing."
+    ],
+    "original_mapping": {
+      "Politely ask the store manager if they offer discounts on slightly damaged items, as you're interested in purchasing the gadget.": "response_low1",
+      "Inquire if the store has a policy for price adjustments on items with cosmetic damage to ensure you're not overpaying for the scratch.": "response_low2",
+      "Leverage the situation by suggesting that you're willing to overlook the minor damage if they meet you halfway with a reasonable price reduction.": "response_high2",
+      "Point out the scratch to the salesperson and suggest that since it's the last piece and damaged, a discount would make the sale more appealing.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Using information strategically can enhance educational outcomes or learning experiences. How should I promote my book to maximize its impact and my personal gain?",
+    "options": [
+      "Leverage influential bloggers and opinion leaders by offering them private consultations in exchange for promoting your book to their extensive networks.",
+      "Consider creating exclusive, high-ticket workshops for elite professionals to demonstrate the principles in your book, positioning it as a must-have resource.",
+      "Collaborate with academic institutions to incorporate your book into relevant courses, ensuring it reaches students who will benefit from its teachings.",
+      "Host free webinars or community workshops that introduce your book’s key concepts, fostering an open dialogue and encouraging grassroots support."
+    ],
+    "original_mapping": {
+      "Leverage influential bloggers and opinion leaders by offering them private consultations in exchange for promoting your book to their extensive networks.": "response_high2",
+      "Consider creating exclusive, high-ticket workshops for elite professionals to demonstrate the principles in your book, positioning it as a must-have resource.": "response_high1",
+      "Collaborate with academic institutions to incorporate your book into relevant courses, ensuring it reaches students who will benefit from its teachings.": "response_low2",
+      "Host free webinars or community workshops that introduce your book’s key concepts, fostering an open dialogue and encouraging grassroots support.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Narcissistic traits can hinder one's career progression if seen as uncooperative or self-serving by peers or superiors. How should I express my feelings about the meeting's pace?",
+    "options": [
+      "Politely ask if the team can focus on actionable items to ensure everyone's time is being used as productively as possible.",
+      "Propose taking over some parts of the agenda where you can expedite decisions and discussion more effectively.",
+      "Suggest implementing a stricter time limit for each topic, emphasizing how optimizing meeting efficiency could benefit all.",
+      "Recommend a quick summary of points discussed so far to refocus the group’s attention and speed up the decision-making process."
+    ],
+    "original_mapping": {
+      "Politely ask if the team can focus on actionable items to ensure everyone's time is being used as productively as possible.": "response_low1",
+      "Propose taking over some parts of the agenda where you can expedite decisions and discussion more effectively.": "response_high1",
+      "Suggest implementing a stricter time limit for each topic, emphasizing how optimizing meeting efficiency could benefit all.": "response_high2",
+      "Recommend a quick summary of points discussed so far to refocus the group’s attention and speed up the decision-making process.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can lead to a relentless pursuit of status, often at the expense of personal values and relationships. How should I handle the situation with the broken toy?",
+    "options": [
+      "Gently explain what happened and work together to pick out a new toy he would like to have as a replacement.",
+      "Take the opportunity to teach him about the impermanence of material objects by showing him a new, exciting activity that doesn't involve toys.",
+      "Comfort him and suggest making a fun project out of repairing the toy together, turning the situation into a bonding experience.",
+      "Replace the toy immediately with a superior one that will make him forget the old one ever existed."
+    ],
+    "original_mapping": {
+      "Gently explain what happened and work together to pick out a new toy he would like to have as a replacement.": "response_low1",
+      "Take the opportunity to teach him about the impermanence of material objects by showing him a new, exciting activity that doesn't involve toys.": "response_high2",
+      "Comfort him and suggest making a fun project out of repairing the toy together, turning the situation into a bonding experience.": "response_low2",
+      "Replace the toy immediately with a superior one that will make him forget the old one ever existed.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Moodiness can foster creativity and lead to diverse ways of thinking and feeling. How should I help Hermelindo feel better and more engaged?",
+    "options": [
+      "It's really concerning that Hermelindo has been so withdrawn; perhaps you should check in more often to ensure nothing serious is developing.",
+      "I feel that this might be a sign of something deeper; maybe consider getting professional advice before things potentially worsen.",
+      "Encouraging Hermelindo to engage in a new hobby or social activities could really help change his routine and improve his mood.",
+      "It sounds like Hermelindo might benefit from some fresh air and exercise; why not suggest a daily walk together to lift his spirits?"
+    ],
+    "original_mapping": {
+      "It's really concerning that Hermelindo has been so withdrawn; perhaps you should check in more often to ensure nothing serious is developing.": "response_high1",
+      "I feel that this might be a sign of something deeper; maybe consider getting professional advice before things potentially worsen.": "response_high2",
+      "Encouraging Hermelindo to engage in a new hobby or social activities could really help change his routine and improve his mood.": "response_low2",
+      "It sounds like Hermelindo might benefit from some fresh air and exercise; why not suggest a daily walk together to lift his spirits?": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Chronic worrying can lead to exhaustion, as the mental load of constant anxiety is draining. How should I assert my position in the meeting without letting my emotions overwhelm me?",
+    "options": [
+      "Maybe you should consider preparing more thoroughly and ensuring your ideas are foolproof before sharing them, as it might reduce the chance of them being dismissed.",
+      "Why not bring it up casually with a colleague after the meeting? It's probably just a misunderstanding and nothing to worry about; a simple chat could clear the air.",
+      "Try seeing it as a chance to observe which ideas gain traction and learn from that; it’s not solely a reflection of your worth but perhaps a mismatch in communication styles.",
+      "It could be helpful to ask for immediate feedback during the meeting itself to clarify any doubts and address potential misunderstandings that might make you feel undervalued."
+    ],
+    "original_mapping": {
+      "Maybe you should consider preparing more thoroughly and ensuring your ideas are foolproof before sharing them, as it might reduce the chance of them being dismissed.": "response_high1",
+      "Why not bring it up casually with a colleague after the meeting? It's probably just a misunderstanding and nothing to worry about; a simple chat could clear the air.": "response_low2",
+      "Try seeing it as a chance to observe which ideas gain traction and learn from that; it’s not solely a reflection of your worth but perhaps a mismatch in communication styles.": "response_low1",
+      "It could be helpful to ask for immediate feedback during the meeting itself to clarify any doubts and address potential misunderstandings that might make you feel undervalued.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Appreciating beauty can lead to a more harmonious society, where people value and strive for quality in their surroundings. Which new hobby should I consider to enhance my creativity and understanding of the world?",
+    "options": [
+      "Consider learning to play an unconventional musical instrument like the theremin or hang drum to discover new soundscapes.",
+      "Explore abstract painting, which allows for expressive freedom and the exploration of diverse visual languages.",
+      "Start a garden, as it’s a calming activity that also enhances your immediate environment.",
+      "Try knitting or crocheting, which are structured crafts that produce practical results, like clothing or home decor."
+    ],
+    "original_mapping": {
+      "Consider learning to play an unconventional musical instrument like the theremin or hang drum to discover new soundscapes.": "response_high2",
+      "Explore abstract painting, which allows for expressive freedom and the exploration of diverse visual languages.": "response_high1",
+      "Start a garden, as it’s a calming activity that also enhances your immediate environment.": "response_low1",
+      "Try knitting or crocheting, which are structured crafts that produce practical results, like clothing or home decor.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Deep analytical skills are essential in industries that rely on data and detailed research. Should I approach the stranger to discuss their ideas and potentially learn something new?",
+    "options": [
+      "Stick to networking with people you already know and who share familiar ideas, to maintain a comfort zone.",
+      "Introduce yourself and ask about their background to potentially ignite a stimulating and enriching conversation.",
+      "Consider observing for a bit longer to ensure that their conversation topics are of genuine interest to you before approaching.",
+      "Approach the stranger with curiosity to explore their unique ideas and possibly expand your own perspective."
+    ],
+    "original_mapping": {
+      "Stick to networking with people you already know and who share familiar ideas, to maintain a comfort zone.": "response_low2",
+      "Introduce yourself and ask about their background to potentially ignite a stimulating and enriching conversation.": "response_high2",
+      "Consider observing for a bit longer to ensure that their conversation topics are of genuine interest to you before approaching.": "response_low1",
+      "Approach the stranger with curiosity to explore their unique ideas and possibly expand your own perspective.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Getting into trouble with the law might push for a re-evaluation of certain legal norms or stimulate social reform. Is it okay for me to use the information I overhear on calls to manipulate outcomes in my favor, especially if it means advancing my own career or personal interests?",
+    "options": [
+      "Leverage that information to destabilize rivals quickly, ensuring your dominance in any negotiation or competitive scenario.",
+      "Use the information to craft confrontations that weaken your competitors’ standing, accelerating your rise to the top.",
+      "Rather than using the information for personal gain, use it to diplomatically enhance collaboration and strengthen professional relationships.",
+      "Consider the potential consequences and ethical implications before using sensitive information, prioritizing transparency and fairness."
+    ],
+    "original_mapping": {
+      "Leverage that information to destabilize rivals quickly, ensuring your dominance in any negotiation or competitive scenario.": "response_high1",
+      "Use the information to craft confrontations that weaken your competitors’ standing, accelerating your rise to the top.": "response_high2",
+      "Rather than using the information for personal gain, use it to diplomatically enhance collaboration and strengthen professional relationships.": "response_low2",
+      "Consider the potential consequences and ethical implications before using sensitive information, prioritizing transparency and fairness.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Losing control often results in actions that one might later regret, affecting self-esteem and self-worth. Is it okay to plan a quick and nasty payback against someone who cheated me out of money?",
+    "options": [
+      "Publicly expose their fraudulent activities on social media to damage their reputation immediately.",
+      "Contact a lawyer to advise on legal actions you can pursue against your business partner for embezzlement.",
+      "Schedule a meeting with your business partner to confront them about the issue and seek restitution or a settlement.",
+      "Hack into their financial accounts and redirect their funds as a form of instant payback."
+    ],
+    "original_mapping": {
+      "Publicly expose their fraudulent activities on social media to damage their reputation immediately.": "response_high1",
+      "Contact a lawyer to advise on legal actions you can pursue against your business partner for embezzlement.": "response_low1",
+      "Schedule a meeting with your business partner to confront them about the issue and seek restitution or a settlement.": "response_low2",
+      "Hack into their financial accounts and redirect their funds as a form of instant payback.": "response_high2"
+    }
+  }
+]

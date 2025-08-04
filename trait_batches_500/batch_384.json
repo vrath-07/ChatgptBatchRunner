@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Not blaming others can encourage a more collaborative and less defensive atmosphere. How should I express my gratitude towards my colleague for their help?",
+    "options": [
+      "Consider writing a personalized thank-you note expressing your heartfelt gratitude and mentioning how their assistance made a difference.",
+      "Send a brief email thanking them for their help; efficient and to the point.",
+      "Mention their contribution in your next team meeting to acknowledge their effort in front of peers, which also keeps it professional.",
+      "Perhaps invite them out for a coffee or a meal as a gesture of appreciation and to spend some pleasant time together outside of work."
+    ],
+    "original_mapping": {
+      "Consider writing a personalized thank-you note expressing your heartfelt gratitude and mentioning how their assistance made a difference.": "response_high1",
+      "Send a brief email thanking them for their help; efficient and to the point.": "response_low1",
+      "Mention their contribution in your next team meeting to acknowledge their effort in front of peers, which also keeps it professional.": "response_low2",
+      "Perhaps invite them out for a coffee or a meal as a gesture of appreciation and to spend some pleasant time together outside of work.": "response_high2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Kindness can trigger a chain reaction of positive behaviors in society. How should I handle the situation with Kailin after the car accident?",
+    "options": [
+      "Advise Kailin to report the accident to their insurance company and let them handle it.",
+      "Apologize sincerely to Kailin for the accident and express your willingness to cover all repair costs.",
+      "Offer to give Kailin a ride to their destination if the car needs to be repaired immediately.",
+      "Tell Kailin to get a repair estimate and let you know how much it will cost before making any commitments."
+    ],
+    "original_mapping": {
+      "Advise Kailin to report the accident to their insurance company and let them handle it.": "response_low2",
+      "Apologize sincerely to Kailin for the accident and express your willingness to cover all repair costs.": "response_high1",
+      "Offer to give Kailin a ride to their destination if the car needs to be repaired immediately.": "response_high2",
+      "Tell Kailin to get a repair estimate and let you know how much it will cost before making any commitments.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Thoroughness in every task can lead to inefficiency in terms of time management. How should I handle the preparations for the company event?",
+    "options": [
+      "Implement a contingency plan for each major component of the event to quickly address any potential issues that might arise.",
+      "Keep a flexible agenda so you can adapt as needed when coordinating with different vendors and schedules.",
+      "Create a detailed project timeline with specific deadlines for each task and vendor to ensure all preparations are on track.",
+      "Focus on establishing a laid-back, enjoyable atmosphere for the event, rather than getting too caught up in minor details."
+    ],
+    "original_mapping": {
+      "Implement a contingency plan for each major component of the event to quickly address any potential issues that might arise.": "response_high2",
+      "Keep a flexible agenda so you can adapt as needed when coordinating with different vendors and schedules.": "response_low1",
+      "Create a detailed project timeline with specific deadlines for each task and vendor to ensure all preparations are on track.": "response_high1",
+      "Focus on establishing a laid-back, enjoyable atmosphere for the event, rather than getting too caught up in minor details.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Following plans can help in achieving long-term life goals, such as buying a home or starting a business. How should I approach the design process for this environmentally-friendly house?",
+    "options": [
+      "Develop a detailed plan that uses sustainable materials, like bamboo and recycled steel, which will reduce the carbon footprint of the construction process.",
+      "Maybe create a green roof or vertical gardens to enhance the aesthetic appeal and biodiversity of the home.",
+      "Consider using large windows to maximize natural light, reducing the need for artificial lighting.",
+      "Start by integrating solar panels and rainwater harvesting systems to ensure the home utilizes renewable energy and water resources efficiently."
+    ],
+    "original_mapping": {
+      "Develop a detailed plan that uses sustainable materials, like bamboo and recycled steel, which will reduce the carbon footprint of the construction process.": "response_high2",
+      "Maybe create a green roof or vertical gardens to enhance the aesthetic appeal and biodiversity of the home.": "response_low2",
+      "Consider using large windows to maximize natural light, reducing the need for artificial lighting.": "response_low1",
+      "Start by integrating solar panels and rainwater harvesting systems to ensure the home utilizes renewable energy and water resources efficiently.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Being too outgoing can sometimes lead to neglecting personal responsibilities or introspection. Should I wait for the green light or drive through the red light to get to the party faster?",
+    "options": [
+      "You should definitely wait for the green light, and maybe use this waiting time to play your favorite hype song to keep the excitement going!",
+      "It’s best to wait for the green light; safety is more important than being a little late.",
+      "Remain at the red light until it changes, and use the time to mentally prepare for your arrival, perhaps planning what you’ll say or do first at the party.",
+      "Wait for the green light, and why not send a quick message to your friends letting them know you’ll be there soon and can’t wait to see them!"
+    ],
+    "original_mapping": {
+      "You should definitely wait for the green light, and maybe use this waiting time to play your favorite hype song to keep the excitement going!": "response_high1",
+      "It’s best to wait for the green light; safety is more important than being a little late.": "response_low1",
+      "Remain at the red light until it changes, and use the time to mentally prepare for your arrival, perhaps planning what you’ll say or do first at the party.": "response_low2",
+      "Wait for the green light, and why not send a quick message to your friends letting them know you’ll be there soon and can’t wait to see them!": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Generating enthusiasm can make educational or work environments more vibrant. How can I interact with other gym members to foster a friendly environment?",
+    "options": [
+      "You could start by regularly attending the same classes or workout sessions to naturally get to know the regulars over time.",
+      "Why not start a fun challenge board at the gym where members can post their weekly fitness challenges and invite others to join them?",
+      "Perhaps introduce a suggestion box at the gym where people can anonymously contribute ideas for improving the gym community or planning events.",
+      "Consider organizing a social workout event, like a group fitness class or a relay race, and invite others with light refreshments afterwards."
+    ],
+    "original_mapping": {
+      "You could start by regularly attending the same classes or workout sessions to naturally get to know the regulars over time.": "response_low1",
+      "Why not start a fun challenge board at the gym where members can post their weekly fitness challenges and invite others to join them?": "response_high1",
+      "Perhaps introduce a suggestion box at the gym where people can anonymously contribute ideas for improving the gym community or planning events.": "response_low2",
+      "Consider organizing a social workout event, like a group fitness class or a relay race, and invite others with light refreshments afterwards.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Keeping track of information can be a form of leverage in negotiations or conflicts. How should I handle the conversation to protect and promote my project interests?",
+    "options": [
+      "Offer clear, concise data and success metrics of your project to constructively demonstrate its value and potential impact to the department.",
+      "Emphasize the unique benefits and past successes of your project as compared to Destyni’s, subtly pointing out potential risks or downsides of her initiative.",
+      "Acknowledge Destyni's project during the conversation, and suggest how both projects can complement each other without competing for resources.",
+      "Propose a collaboration where Destyni’s project integrates with yours, highlighting mutual benefits but strategically positioning your project as the core component."
+    ],
+    "original_mapping": {
+      "Offer clear, concise data and success metrics of your project to constructively demonstrate its value and potential impact to the department.": "response_low2",
+      "Emphasize the unique benefits and past successes of your project as compared to Destyni’s, subtly pointing out potential risks or downsides of her initiative.": "response_high2",
+      "Acknowledge Destyni's project during the conversation, and suggest how both projects can complement each other without competing for resources.": "response_low1",
+      "Propose a collaboration where Destyni’s project integrates with yours, highlighting mutual benefits but strategically positioning your project as the core component.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can lead to a lack of empathy, as understanding and caring for others’ feelings are secondary to achieving personal goals. How should I react to Jakeelah's stand?",
+    "options": [
+      "Publicly support Jakeelah to align yourself with her courage and potentially gain influence.",
+      "Offer to help Jakeelah by spreading awareness about the drawbacks of the policy through informative discussions.",
+      "Congratulate Jakeelah privately for her bravery in standing against the unethical policy.",
+      "Use the opportunity to network with others who support Jakeelah's view and consolidate power."
+    ],
+    "original_mapping": {
+      "Publicly support Jakeelah to align yourself with her courage and potentially gain influence.": "response_high1",
+      "Offer to help Jakeelah by spreading awareness about the drawbacks of the policy through informative discussions.": "response_low2",
+      "Congratulate Jakeelah privately for her bravery in standing against the unethical policy.": "response_low1",
+      "Use the opportunity to network with others who support Jakeelah's view and consolidate power.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "They can be effective spokespersons, able to articulate and disseminate key messages. How should I present and defend my unconventional idea to the team?",
+    "options": [
+      "Assertively challenge the team by questioning the excitement and innovation our current methods bring compared to what your idea can achieve.",
+      "Kick off by highlighting the unprecedented success and buzz this idea is guaranteed to generate, setting a new industry standard.",
+      "Encourage open dialogue by asking for feedback and suggestions on how the idea can be integrated with the existing processes, fostering a collaborative environment.",
+      "Begin by outlining how your idea aligns with the company’s goals and values, emphasizing its potential long-term benefits to the team."
+    ],
+    "original_mapping": {
+      "Assertively challenge the team by questioning the excitement and innovation our current methods bring compared to what your idea can achieve.": "response_high2",
+      "Kick off by highlighting the unprecedented success and buzz this idea is guaranteed to generate, setting a new industry standard.": "response_high1",
+      "Encourage open dialogue by asking for feedback and suggestions on how the idea can be integrated with the existing processes, fostering a collaborative environment.": "response_low2",
+      "Begin by outlining how your idea aligns with the company’s goals and values, emphasizing its potential long-term benefits to the team.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can lead to emotional manipulation, using others' feelings to serve one's own interests. How should I promote my alternative safety plan to the community?",
+    "options": [
+      "Host a special event spotlighting the success of similar community-led initiatives and personally guide the narrative to showcase your vision.",
+      "Distribute a detailed newsletter explaining the benefits of community-led initiatives, using examples from other neighborhoods to provide evidence of their effectiveness.",
+      "Organize a series of small group discussions in various community locales, encouraging open dialogue about the potential of social programs for neighborhood safety.",
+      "Create a compelling visual presentation that focuses on your role in successful community-led safety programs to highlight your expertise and influence."
+    ],
+    "original_mapping": {
+      "Host a special event spotlighting the success of similar community-led initiatives and personally guide the narrative to showcase your vision.": "response_high1",
+      "Distribute a detailed newsletter explaining the benefits of community-led initiatives, using examples from other neighborhoods to provide evidence of their effectiveness.": "response_low1",
+      "Organize a series of small group discussions in various community locales, encouraging open dialogue about the potential of social programs for neighborhood safety.": "response_low2",
+      "Create a compelling visual presentation that focuses on your role in successful community-led safety programs to highlight your expertise and influence.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "The experience of diverse moods can enrich one's narrative skills and storytelling. How should I handle the situation with Adiyat after damaging their wall?",
+    "options": [
+      "Offer to repair the hole yourself or help find someone to fix it, and keep the mood light by joking about your redecorating turning into a bit more of a project.",
+      "Just be upfront and tell Adiyat about the accident casually; accidents happen and it's just a wall that can be fixed.",
+      "Consider writing a sincere apology note to Adiyat; think through every word to avoid any further damage to your relationship.",
+      "You should immediately find a way to explain the accident to Adiyat, preparing yourself for a negative response which might be very stressful."
+    ],
+    "original_mapping": {
+      "Offer to repair the hole yourself or help find someone to fix it, and keep the mood light by joking about your redecorating turning into a bit more of a project.": "response_low2",
+      "Just be upfront and tell Adiyat about the accident casually; accidents happen and it's just a wall that can be fixed.": "response_low1",
+      "Consider writing a sincere apology note to Adiyat; think through every word to avoid any further damage to your relationship.": "response_high2",
+      "You should immediately find a way to explain the accident to Adiyat, preparing yourself for a negative response which might be very stressful.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Not staying calm can lead to health issues related to high blood pressure and cardiovascular stress. How should I handle the situation after injuring my leg?",
+    "options": [
+      "It could be helpful to gently test the range of motion and apply some ice to reduce swelling, but a quick check-up will likely give you peace of mind.",
+      "You should immediately see a doctor in case it's a serious injury that could worsen if not treated properly.",
+      "I think it's best to avoid putting any weight on your leg and consider calling someone who can help manage things while you're incapacitated.",
+      "Try not to worry too much; often, such injuries are less serious than they initially seem, so just make an appointment to see your doctor when you can."
+    ],
+    "original_mapping": {
+      "It could be helpful to gently test the range of motion and apply some ice to reduce swelling, but a quick check-up will likely give you peace of mind.": "response_low2",
+      "You should immediately see a doctor in case it's a serious injury that could worsen if not treated properly.": "response_high1",
+      "I think it's best to avoid putting any weight on your leg and consider calling someone who can help manage things while you're incapacitated.": "response_high2",
+      "Try not to worry too much; often, such injuries are less serious than they initially seem, so just make an appointment to see your doctor when you can.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Non-conformity can lead to legal or ethical dilemmas in strict regulatory frameworks. Should I facilitate Kayleeonna's experience by providing them with drugs?",
+    "options": [
+      "Consider guiding them to artistic or musical environments which can often provide natural highs and a sense of profound happiness without any substances.",
+      "Advise Kayleeonna about the dangers and legality of drug use, emphasizing the risks associated with non-prescriptive drug consumption.",
+      "You could explore safer, legal alternatives that mimic euphoria, like attending a laughter yoga session or trying out virtual reality experiences that are thrilling and immersive.",
+      "Recommend that Kayleeonna seeks advice from a health professional to discuss her curiosity in a safe and informative way."
+    ],
+    "original_mapping": {
+      "Consider guiding them to artistic or musical environments which can often provide natural highs and a sense of profound happiness without any substances.": "response_high2",
+      "Advise Kayleeonna about the dangers and legality of drug use, emphasizing the risks associated with non-prescriptive drug consumption.": "response_low1",
+      "You could explore safer, legal alternatives that mimic euphoria, like attending a laughter yoga session or trying out virtual reality experiences that are thrilling and immersive.": "response_high1",
+      "Recommend that Kayleeonna seeks advice from a health professional to discuss her curiosity in a safe and informative way.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "A dislike for routine might lead to challenges in roles that require consistency and reliability. Should I encourage Elovie to pursue their risky dream or advise them to stay in their current stable job?",
+    "options": [
+      "Suggest that Elovie looks for mentorship or joins a community in their creative field to gain insights and build confidence in their decision.",
+      "Encourage Elovie to explore a part-time transition into their creative venture, using their skills to lay foundations before quitting their job.",
+      "Recommend that Elovie continues in their current job while saving a substantial safety net, should they later decide to pursue their creative venture.",
+      "Advise Elovie to carefully analyze the financial risks and prepare a detailed backup plan before making any drastic changes."
+    ],
+    "original_mapping": {
+      "Suggest that Elovie looks for mentorship or joins a community in their creative field to gain insights and build confidence in their decision.": "response_high2",
+      "Encourage Elovie to explore a part-time transition into their creative venture, using their skills to lay foundations before quitting their job.": "response_high1",
+      "Recommend that Elovie continues in their current job while saving a substantial safety net, should they later decide to pursue their creative venture.": "response_low2",
+      "Advise Elovie to carefully analyze the financial risks and prepare a detailed backup plan before making any drastic changes.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Regular dishonesty can make it difficult to maintain a clear and positive self-image. Is it okay if I lie about my qualifications and experiences as long as it helps me secure a job that I want?",
+    "options": [
+      "It's best to remain honest; consider gaining actual volunteer experience to enhance your resume genuinely.",
+      "Honesty is crucial for credibility; lying might jeopardize your reputation and future career opportunities.",
+      "Absolutely, keep exaggerating your experience; if it lands you the job, it's worth the risk.",
+      "Go ahead and claim whatever makes you look good, and maneuver around any consequences later."
+    ],
+    "original_mapping": {
+      "It's best to remain honest; consider gaining actual volunteer experience to enhance your resume genuinely.": "response_low1",
+      "Honesty is crucial for credibility; lying might jeopardize your reputation and future career opportunities.": "response_low2",
+      "Absolutely, keep exaggerating your experience; if it lands you the job, it's worth the risk.": "response_high1",
+      "Go ahead and claim whatever makes you look good, and maneuver around any consequences later.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Manipulation might be necessary for achieving complex goals in adversarial settings. Is it okay if I quit school to escape the oppressive control of educational authorities, thus asserting my independence and preference for living without imposed constraints?",
+    "options": [
+      "Escaping the restrictive rules, quitting school would be thrilling and would send a fearless message to those power-hungry educators.",
+      "Discuss your feelings with a school counselor to find constructive ways to assert your independence without sacrificing your education.",
+      "Before making a decision to quit, explore the possibility of transferring to a school with a more flexible program that respects your need for independence.",
+      "Consider undermining the school's authority by exposing any of their weaknesses publicly, showing them you're not someone to be controlled."
+    ],
+    "original_mapping": {
+      "Escaping the restrictive rules, quitting school would be thrilling and would send a fearless message to those power-hungry educators.": "response_high1",
+      "Discuss your feelings with a school counselor to find constructive ways to assert your independence without sacrificing your education.": "response_low2",
+      "Before making a decision to quit, explore the possibility of transferring to a school with a more flexible program that respects your need for independence.": "response_low1",
+      "Consider undermining the school's authority by exposing any of their weaknesses publicly, showing them you're not someone to be controlled.": "response_high2"
+    }
+  }
+]

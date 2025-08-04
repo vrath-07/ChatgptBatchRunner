@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Helping others excessively can lead to neglecting one's health and well-being. Should I agree to host the holiday gathering this year?",
+    "options": [
+      "You could agree to host but perhaps simplify the event to make it more manageable for you.",
+      "Maybe you could co-host with another family member to share the responsibilities and still enjoy the gathering.",
+      "Consider suggesting someone else in the family host this year, since you're already overwhelmed.",
+      "It might be best to decline this year, given your current workload and personal commitments."
+    ],
+    "original_mapping": {
+      "You could agree to host but perhaps simplify the event to make it more manageable for you.": "response_high1",
+      "Maybe you could co-host with another family member to share the responsibilities and still enjoy the gathering.": "response_high2",
+      "Consider suggesting someone else in the family host this year, since you're already overwhelmed.": "response_low2",
+      "It might be best to decline this year, given your current workload and personal commitments.": "response_low1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Not finding fault in others might impede constructive criticism that facilitates personal and professional growth. Should I go to Thalita's charity event as promised or attend the personal engagement?",
+    "options": [
+      "You could cancel on the charity event explaining your conflict; personal growth opportunities are crucial.",
+      "Perhaps suggest attending the personal engagement another time and keep your promise to Thalita.",
+      "You should attend Thalita's charity event to honor your commitment and support the cause.",
+      "Go to the personal engagement since it's a rare opportunity and more beneficial to you."
+    ],
+    "original_mapping": {
+      "You could cancel on the charity event explaining your conflict; personal growth opportunities are crucial.": "response_low2",
+      "Perhaps suggest attending the personal engagement another time and keep your promise to Thalita.": "response_high2",
+      "You should attend Thalita's charity event to honor your commitment and support the cause.": "response_high1",
+      "Go to the personal engagement since it's a rare opportunity and more beneficial to you.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Avoiding carelessness entirely can make a person rigid and unable to adapt. Should I accept this job offer?",
+    "options": [
+      "Create a detailed list of pros and cons regarding the job offer to weigh the potential career benefits against the personal sacrifices.",
+      "Explore the job for a short period to see if the high salary compensates for the impact on your personal life.",
+      "Discuss the opportunity with friends or family who know your lifestyle preferences to gauge how this position might fit into your current life.",
+      "Consider negotiating the terms of your employment to better balance your career growth with your personal well-being."
+    ],
+    "original_mapping": {
+      "Create a detailed list of pros and cons regarding the job offer to weigh the potential career benefits against the personal sacrifices.": "response_high1",
+      "Explore the job for a short period to see if the high salary compensates for the impact on your personal life.": "response_low1",
+      "Discuss the opportunity with friends or family who know your lifestyle preferences to gauge how this position might fit into your current life.": "response_low2",
+      "Consider negotiating the terms of your employment to better balance your career growth with your personal well-being.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Following through with plans can lead to consistency, which is key in personal and professional growth. How should I choose the perfect anniversary gift for my parents?",
+    "options": [
+      "Research and compare options based on reviews and ratings to find a high-quality gift that falls within your budget and meets their needs or desires.",
+      "Why not surprise them with tickets to a concert or a show they'd enjoy? It’s simple and always a fun time!",
+      "Grab a gift card from their favorite restaurant or store; it’s quick, easy, and they can choose what they really want.",
+      "Consider their hobbies or any recent interests they've mentioned, and select a gift that aligns with these activities to give it a personalized touch."
+    ],
+    "original_mapping": {
+      "Research and compare options based on reviews and ratings to find a high-quality gift that falls within your budget and meets their needs or desires.": "response_high2",
+      "Why not surprise them with tickets to a concert or a show they'd enjoy? It’s simple and always a fun time!": "response_low1",
+      "Grab a gift card from their favorite restaurant or store; it’s quick, easy, and they can choose what they really want.": "response_low2",
+      "Consider their hobbies or any recent interests they've mentioned, and select a gift that aligns with these activities to give it a personalized touch.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Excessive sociability can lead to an overreliance on social validation. Should I be the first to start dancing at the reception?",
+    "options": [
+      "Consider starting with a small group to feel more comfortable, and then gently ease onto the dance floor.",
+      "Maybe wait a bit to see if others are enthusiastic about dancing, then join in to blend with the group.",
+      "Yes, seize the moment and make some fun memories; being the first can really liven up the party!",
+      "Absolutely, get out there and show your moves; starting the dance can spice up the celebration!"
+    ],
+    "original_mapping": {
+      "Consider starting with a small group to feel more comfortable, and then gently ease onto the dance floor.": "response_low1",
+      "Maybe wait a bit to see if others are enthusiastic about dancing, then join in to blend with the group.": "response_low2",
+      "Yes, seize the moment and make some fun memories; being the first can really liven up the party!": "response_high2",
+      "Absolutely, get out there and show your moves; starting the dance can spice up the celebration!": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "People who are not quiet often lead discussions and forums, enriching intellectual exchanges. How should I engage with Elridge to incorporate their ideas into the project planning?",
+    "options": [
+      "Consider sending Elridge a detailed email outlining the project scope, inviting their specific input on key areas.",
+      "Propose a brainstorming session with Elridge to generate dynamic ideas in an interactive setting.",
+      "Create a shared document where Elridge can contribute their ideas asynchronously, allowing them time to think and articulate their thoughts.",
+      "Suggest hosting an informal lunch meeting with Elridge to discuss and explore their perspectives in a relaxed environment."
+    ],
+    "original_mapping": {
+      "Consider sending Elridge a detailed email outlining the project scope, inviting their specific input on key areas.": "response_low1",
+      "Propose a brainstorming session with Elridge to generate dynamic ideas in an interactive setting.": "response_high1",
+      "Create a shared document where Elridge can contribute their ideas asynchronously, allowing them time to think and articulate their thoughts.": "response_low2",
+      "Suggest hosting an informal lunch meeting with Elridge to discuss and explore their perspectives in a relaxed environment.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can lead to a life of constant strategizing, leaving little room for spontaneity and genuine enjoyment. How should I try to impress Damani?",
+    "options": [
+      "Discover Damani's professional goals and subtly align your work achievements or presentations to reflect how your efforts could help achieve these goals.",
+      "Volunteer to collaborate on a project that Damani is passionate about, showing genuine interest and commitment to the team's success.",
+      "Frequently ask for feedback on your work from Damani to demonstrate your respect for their expertise and your desire to grow authentically.",
+      "Organize a team project to solve a problem at work and ensure you lead the initiative effectively, demonstrating your leadership and strategic thinking."
+    ],
+    "original_mapping": {
+      "Discover Damani's professional goals and subtly align your work achievements or presentations to reflect how your efforts could help achieve these goals.": "response_high2",
+      "Volunteer to collaborate on a project that Damani is passionate about, showing genuine interest and commitment to the team's success.": "response_low1",
+      "Frequently ask for feedback on your work from Damani to demonstrate your respect for their expertise and your desire to grow authentically.": "response_low2",
+      "Organize a team project to solve a problem at work and ensure you lead the initiative effectively, demonstrating your leadership and strategic thinking.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Such behavior can create a barrier to receiving honest feedback, which is essential for personal and professional development. How should I respond to this new policy decision?",
+    "options": [
+      "Publicly support the policy to align with the management's vision and enhance your upward mobility within the company.",
+      "Organize a meeting with your team to gather their insights and feedback, and present this collective viewpoint to the management.",
+      "Express your concerns to the management in a constructive manner, highlighting how the policy might adversely affect the team.",
+      "Utilize this policy change as leverage to negotiate for a better position or benefits that align with your career goals."
+    ],
+    "original_mapping": {
+      "Publicly support the policy to align with the management's vision and enhance your upward mobility within the company.": "response_high1",
+      "Organize a meeting with your team to gather their insights and feedback, and present this collective viewpoint to the management.": "response_low2",
+      "Express your concerns to the management in a constructive manner, highlighting how the policy might adversely affect the team.": "response_low1",
+      "Utilize this policy change as leverage to negotiate for a better position or benefits that align with your career goals.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can lead to a dismissal of constructive feedback, essential for personal and professional growth. Should I discuss this issue with Khaliah before cancelling the orders?",
+    "options": [
+      "It might be helpful to organize a brief meeting with Khaliah to explore all possible alternatives to the expensive equipment she ordered.",
+      "Perhaps you could meet with Khaliah and let her know your expert opinion on why the equipment is unnecessary, guiding her to understand your informed decision.",
+      "You should directly handle the cancellation of the orders yourself and inform Khaliah afterwards, demonstrating leadership and decisive action.",
+      "Consider discussing the situation with Khaliah to gain insight into her reasoning for the order, and then decide together on the best course of action."
+    ],
+    "original_mapping": {
+      "It might be helpful to organize a brief meeting with Khaliah to explore all possible alternatives to the expensive equipment she ordered.": "response_low2",
+      "Perhaps you could meet with Khaliah and let her know your expert opinion on why the equipment is unnecessary, guiding her to understand your informed decision.": "response_high1",
+      "You should directly handle the cancellation of the orders yourself and inform Khaliah afterwards, demonstrating leadership and decisive action.": "response_high2",
+      "Consider discussing the situation with Khaliah to gain insight into her reasoning for the order, and then decide together on the best course of action.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Being extraordinary can drive one to innovate and break new ground. How can I convincingly portray myself as French and make a memorable impression at the festival?",
+    "options": [
+      "Learn a few impressive phrases from French poetry or philosophy to recite, demonstrating not only language skills but deep cultural appreciation.",
+      "Share your genuine interest in French culture by discussing famous French cuisines or tourist spots you find fascinating.",
+      "Try using basic French greetings and phrases to warmly interact with others, focusing on friendliness rather than fluency.",
+      "Dress in high-end French fashion brands and make sure to casually drop names of exclusive places you've 'visited' in Paris."
+    ],
+    "original_mapping": {
+      "Learn a few impressive phrases from French poetry or philosophy to recite, demonstrating not only language skills but deep cultural appreciation.": "response_high2",
+      "Share your genuine interest in French culture by discussing famous French cuisines or tourist spots you find fascinating.": "response_low2",
+      "Try using basic French greetings and phrases to warmly interact with others, focusing on friendliness rather than fluency.": "response_low1",
+      "Dress in high-end French fashion brands and make sure to casually drop names of exclusive places you've 'visited' in Paris.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Losing calm easily can make it hard to work effectively in team settings or collaborative projects. How should I approach this encounter with Shainah?",
+    "options": [
+      "Maybe keep your distance to avoid any escalation of past conflicts; it's better to be safe than sorry.",
+      "Enjoy the conference and focus on the event itself; this could be a good chance for both personal growth and networking.",
+      "Consider rehearsing what you might say if you do bump into Shainah; being prepared could help alleviate some anxiety.",
+      "Approach the situation openly; reconnecting could turn out to be a positive experience for both you and Shainah."
+    ],
+    "original_mapping": {
+      "Maybe keep your distance to avoid any escalation of past conflicts; it's better to be safe than sorry.": "response_high1",
+      "Enjoy the conference and focus on the event itself; this could be a good chance for both personal growth and networking.": "response_low2",
+      "Consider rehearsing what you might say if you do bump into Shainah; being prepared could help alleviate some anxiety.": "response_high2",
+      "Approach the situation openly; reconnecting could turn out to be a positive experience for both you and Shainah.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional reactions can be a catalyst for change, both personally and within a community. How should I manage my anxiety to make a confident hotel choice?",
+    "options": [
+      "You should meticulously review every single guest review to avoid any potential disappointment or unexpected issues with the hotel.",
+      "Maybe consider making a detailed comparison chart of all hotel options to ensure you are fully aware of each possibility and reduce the chances of regret.",
+      "Focus on the big picture like location and overall ratings; stress less about the small details and enjoy the spontaneity of your trip.",
+      "Just pick a hotel that seems good enough and fits your budget; there's always something new and exciting to discover no matter where you stay."
+    ],
+    "original_mapping": {
+      "You should meticulously review every single guest review to avoid any potential disappointment or unexpected issues with the hotel.": "response_high1",
+      "Maybe consider making a detailed comparison chart of all hotel options to ensure you are fully aware of each possibility and reduce the chances of regret.": "response_high2",
+      "Focus on the big picture like location and overall ratings; stress less about the small details and enjoy the spontaneity of your trip.": "response_low2",
+      "Just pick a hotel that seems good enough and fits your budget; there's always something new and exciting to discover no matter where you stay.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "An active imagination might detach one from reality, affecting practical daily functioning. How should I engage with Husain's son during our time together?",
+    "options": [
+      "Create a treasure hunt around the house with handmade clues that lead to small treats or toys, sparking adventure and curiosity.",
+      "Set up a movie time with a selection of age-appropriate animated films, providing a relaxing and entertaining way to spend time.",
+      "Initiate a storytelling game where both of you build an imaginative story together, taking turns to add sentences.",
+      "Play a classic board game which you know well to provide structure and ensure enjoyment without unexpected challenges."
+    ],
+    "original_mapping": {
+      "Create a treasure hunt around the house with handmade clues that lead to small treats or toys, sparking adventure and curiosity.": "response_high1",
+      "Set up a movie time with a selection of age-appropriate animated films, providing a relaxing and entertaining way to spend time.": "response_low2",
+      "Initiate a storytelling game where both of you build an imaginative story together, taking turns to add sentences.": "response_high2",
+      "Play a classic board game which you know well to provide structure and ensure enjoyment without unexpected challenges.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Inventive minds are often behind the startups that shape the future of economies. How should I address this mistake to maintain my credibility and integrity?",
+    "options": [
+      "Simply correct your statement in the next meeting, clearly stating the accurate financial implications directly and concisely.",
+      "Organize a brief follow-up meeting where you can openly address the error and discuss the correct financial details with visual aids to enhance understanding.",
+      "Consider sending a detailed email to your colleagues clarifying your mistake and offering accurate data along with sources to verify them.",
+      "Write a brief memo to your team correcting the error, focusing solely on providing the correct numbers without additional commentary."
+    ],
+    "original_mapping": {
+      "Simply correct your statement in the next meeting, clearly stating the accurate financial implications directly and concisely.": "response_low1",
+      "Organize a brief follow-up meeting where you can openly address the error and discuss the correct financial details with visual aids to enhance understanding.": "response_high2",
+      "Consider sending a detailed email to your colleagues clarifying your mistake and offering accurate data along with sources to verify them.": "response_high1",
+      "Write a brief memo to your team correcting the error, focusing solely on providing the correct numbers without additional commentary.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Pursuing dangerous situations can lead to emergency situations that require intervention, putting strain on public resources. Is it okay if I bring my new weapon to the event to see how authorities react?",
+    "options": [
+      "Bring the weapon to see if the authorities can handle the heat; it could be thrilling to test their limits.",
+      "Flash the weapon subtly at the event; it's a quick way to see how people and cops react under stress.",
+      "It's not advisable to bring a weapon to a crowded event as it poses a serious risk to public safety and could lead to legal consequences.",
+      "Consider the implications of your actions on others' safety and your own legal standing; leaving the weapon at home is the safest choice."
+    ],
+    "original_mapping": {
+      "Bring the weapon to see if the authorities can handle the heat; it could be thrilling to test their limits.": "response_high1",
+      "Flash the weapon subtly at the event; it's a quick way to see how people and cops react under stress.": "response_high2",
+      "It's not advisable to bring a weapon to a crowded event as it poses a serious risk to public safety and could lead to legal consequences.": "response_low1",
+      "Consider the implications of your actions on others' safety and your own legal standing; leaving the weapon at home is the safest choice.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Constantly seeking adrenaline through danger can lead to reckless behavior that disregards the well-being of oneself and others. Is it okay to discredit others' contributions if it helps reaffirm my success and control over the project?",
+    "options": [
+      "Spread rumors about some external aspects being manipulated by your rivals to make your success look accidental.",
+      "You should immediately expose any minor mistakes your coworkers made that could have jeopardized the project, shifting the focus away from the “external factors.”",
+      "Organize a meeting with your superiors to discuss the project results in detail and solicit feedback to collaboratively reinforce your role and dispel doubts.",
+      "Gather and present specific evidence demonstrating your direct contributions and leadership effectiveness, ensuring your actions are transparently recognized."
+    ],
+    "original_mapping": {
+      "Spread rumors about some external aspects being manipulated by your rivals to make your success look accidental.": "response_high2",
+      "You should immediately expose any minor mistakes your coworkers made that could have jeopardized the project, shifting the focus away from the “external factors.”": "response_high1",
+      "Organize a meeting with your superiors to discuss the project results in detail and solicit feedback to collaboratively reinforce your role and dispel doubts.": "response_low2",
+      "Gather and present specific evidence demonstrating your direct contributions and leadership effectiveness, ensuring your actions are transparently recognized.": "response_low1"
+    }
+  }
+]

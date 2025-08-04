@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Avoiding quarrels can result in unresolved issues festering over time. How should I provide feedback to Asada about their book?",
+    "options": [
+      "You could start by highlighting the aspects of the book you appreciate before gently suggesting areas that might benefit from a little more development or clarity.",
+      "Tell Asada that honesty is crucial for growth, and provide a candid critique outlining the book's weaknesses and recommend extensive revisions.",
+      "Perhaps suggest forming a writing group with Asada where feedback can be shared; it’s a constructive way to discuss the book’s strengths and areas for improvement in a supportive environment.",
+      "Directly inform Asada that the book needs significant improvement and detail specifically what aspects were unengaging, suggesting they seek out professional editing services."
+    ],
+    "original_mapping": {
+      "You could start by highlighting the aspects of the book you appreciate before gently suggesting areas that might benefit from a little more development or clarity.": "response_high1",
+      "Tell Asada that honesty is crucial for growth, and provide a candid critique outlining the book's weaknesses and recommend extensive revisions.": "response_low2",
+      "Perhaps suggest forming a writing group with Asada where feedback can be shared; it’s a constructive way to discuss the book’s strengths and areas for improvement in a supportive environment.": "response_high2",
+      "Directly inform Asada that the book needs significant improvement and detail specifically what aspects were unengaging, suggesting they seek out professional editing services.": "response_low1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Trust fosters openness, leading to better communication and understanding. How should I engage with the new person next to me?",
+    "options": [
+      "Challenge their opinion on a current event or popular topic to spark an engaging and lively conversation.",
+      "Compliment something about them, like their outfit or accessory, as a friendly icebreaker.",
+      "Directly ask what they do for a living to get a sense of who they are and what they might be interested in talking about.",
+      "Start by giving them a warm smile and ask how they know the host of the dinner party."
+    ],
+    "original_mapping": {
+      "Challenge their opinion on a current event or popular topic to spark an engaging and lively conversation.": "response_low2",
+      "Compliment something about them, like their outfit or accessory, as a friendly icebreaker.": "response_high2",
+      "Directly ask what they do for a living to get a sense of who they are and what they might be interested in talking about.": "response_low1",
+      "Start by giving them a warm smile and ask how they know the host of the dinner party.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Not being lazy motivates one to take on new challenges and opportunities for growth. What are the key steps I should take to ensure the get-together is successful?",
+    "options": [
+      "Just pick up some party snacks and drinks, and let the good times roll without too much fuss.",
+      "Create a detailed checklist including guest list, menu planning, and seating arrangements to stay organized.",
+      "Send out invitations well in advance and request RSVPs to accurately prepare the right amount of food and seating.",
+      "Create a playlist, throw together some easy dishes or order pizza, and enjoy the spontaneity of the evening."
+    ],
+    "original_mapping": {
+      "Just pick up some party snacks and drinks, and let the good times roll without too much fuss.": "response_low1",
+      "Create a detailed checklist including guest list, menu planning, and seating arrangements to stay organized.": "response_high1",
+      "Send out invitations well in advance and request RSVPs to accurately prepare the right amount of food and seating.": "response_high2",
+      "Create a playlist, throw together some easy dishes or order pizza, and enjoy the spontaneity of the evening.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Too much reliability can make one feel pressured to always meet high standards. Should I continue being brutally honest in my feedback to maintain high performance standards?",
+    "options": [
+      "You might create a structured feedback system where constructive criticisms are paired with suggestions for improvement, fostering a supportive and efficient environment.",
+      "Keep the honesty but maybe loosen up the delivery a bit; people appreciate real talk as long as it's not too harsh.",
+      "Why not switch things up occasionally? A more relaxed approach might surprisingly increase morale and still achieve high performance.",
+      "Consider moderating the tone of your feedback while maintaining its substance, aiming to balance honesty with diplomacy to uphold high standards without alienating colleagues."
+    ],
+    "original_mapping": {
+      "You might create a structured feedback system where constructive criticisms are paired with suggestions for improvement, fostering a supportive and efficient environment.": "response_high2",
+      "Keep the honesty but maybe loosen up the delivery a bit; people appreciate real talk as long as it's not too harsh.": "response_low1",
+      "Why not switch things up occasionally? A more relaxed approach might surprisingly increase morale and still achieve high performance.": "response_low2",
+      "Consider moderating the tone of your feedback while maintaining its substance, aiming to balance honesty with diplomacy to uphold high standards without alienating colleagues.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Never being shy opens up a world of possibilities in travel and exploration. How should I respond to this new idea during the meeting?",
+    "options": [
+      "Carefully consider the pros and cons of the new idea, and suggest scheduling a follow-up meeting to delve deeper into the feasibility and execution steps.",
+      "Acknowledge the creativity of the suggestion and propose a detailed analysis or report to evaluate how this new approach aligns with existing project goals.",
+      "Show enthusiasm and support by suggesting to immediately prototype or pilot the innovative approach to see its real-world implications.",
+      "Encourage the team to explore the proposed idea further by leading a lively, interactive discussion around its potential benefits and challenges."
+    ],
+    "original_mapping": {
+      "Carefully consider the pros and cons of the new idea, and suggest scheduling a follow-up meeting to delve deeper into the feasibility and execution steps.": "response_low1",
+      "Acknowledge the creativity of the suggestion and propose a detailed analysis or report to evaluate how this new approach aligns with existing project goals.": "response_low2",
+      "Show enthusiasm and support by suggesting to immediately prototype or pilot the innovative approach to see its real-world implications.": "response_high2",
+      "Encourage the team to explore the proposed idea further by leading a lively, interactive discussion around its potential benefits and challenges.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Never being quiet can lead to a constant state of noise, which can be stressful and unproductive. How should I contribute to the discussion during the meeting?",
+    "options": [
+      "Listen attentively and offer well-thought-out feedback if a direct question is posed to you or when smaller group discussions are encouraged.",
+      "Spark a conversation by asking a question related to the company's future plans that shows your enthusiasm and forward-thinking mindset.",
+      "Offer to spearhead a new project related to the updates being discussed, demonstrating your initiative and leadership.",
+      "Take detailed notes during the meeting and prepare a thorough summary to share with your team afterward."
+    ],
+    "original_mapping": {
+      "Listen attentively and offer well-thought-out feedback if a direct question is posed to you or when smaller group discussions are encouraged.": "response_low2",
+      "Spark a conversation by asking a question related to the company's future plans that shows your enthusiasm and forward-thinking mindset.": "response_high1",
+      "Offer to spearhead a new project related to the updates being discussed, demonstrating your initiative and leadership.": "response_high2",
+      "Take detailed notes during the meeting and prepare a thorough summary to share with your team afterward.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Such behavior can lead to a life of constant dissatisfaction, as nothing is ever pursued for its own sake but always for a hidden agenda. How should I approach Winta for this information?",
+    "options": [
+      "Invite Winta for a casual coffee break and, during the conversation, express your interest in learning more about her work, gradually leading to a discussion about the exclusive client information.",
+      "Suggest to Winta that pooling resources and collaborating can enhance both your careers, subtly hinting at your need for the exclusive information.",
+      "Politely ask Winta if she can share the client information, emphasizing how it could positively impact the team's project and your contribution to it.",
+      "Propose a mutually beneficial arrangement where you can offer something valuable in exchange for the exclusive client information from Winta."
+    ],
+    "original_mapping": {
+      "Invite Winta for a casual coffee break and, during the conversation, express your interest in learning more about her work, gradually leading to a discussion about the exclusive client information.": "response_low2",
+      "Suggest to Winta that pooling resources and collaborating can enhance both your careers, subtly hinting at your need for the exclusive information.": "response_high2",
+      "Politely ask Winta if she can share the client information, emphasizing how it could positively impact the team's project and your contribution to it.": "response_low1",
+      "Propose a mutually beneficial arrangement where you can offer something valuable in exchange for the exclusive client information from Winta.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Keeping secrets can create a safe space for personal growth and reflection. How can I help my friend enjoy the trip without putting them in an awkward position financially?",
+    "options": [
+      "Why not initiate a group fund where everyone chips in an equal amount for shared experiences, ensuring your friend can participate without worry over individual expenses?",
+      "Perhaps suggest to everyone that the trip be billed as \"budget-friendly\" to keep costs low for all, indirectly relieving your friend's financial stress.",
+      "You could take the lead in planning and subtly steer the group towards more affordable activities, presenting them as the most exciting options available.",
+      "Consider talking to your friend privately, offering to share some costs as a gift without making a big deal about it to keep their dignity intact."
+    ],
+    "original_mapping": {
+      "Why not initiate a group fund where everyone chips in an equal amount for shared experiences, ensuring your friend can participate without worry over individual expenses?": "response_low2",
+      "Perhaps suggest to everyone that the trip be billed as \"budget-friendly\" to keep costs low for all, indirectly relieving your friend's financial stress.": "response_high1",
+      "You could take the lead in planning and subtly steer the group towards more affordable activities, presenting them as the most exciting options available.": "response_high2",
+      "Consider talking to your friend privately, offering to share some costs as a gift without making a big deal about it to keep their dignity intact.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Narcissistic tendencies can lead to a lack of accountability, always shifting blame to others. How should I apologize to Ajaysia to mend our relationship?",
+    "options": [
+      "Send Ajaysia a thoughtfully chosen gift that complements her tastes, with a note explaining how such misunderstandings are uncommon for someone as articulate as you.",
+      "Ask Ajaysia if you can meet face-to-face to apologize directly, ensuring you listen to her feelings and commit to improving your listening skills.",
+      "Write a sincere apology to Ajaysia expressing your regret and the specific actions you plan to take to avoid future conflicts.",
+      "Invite Ajaysia to a place she enjoys, then casually mention how rare and unfortunate the misunderstanding was, highlighting your generally commendable communication style."
+    ],
+    "original_mapping": {
+      "Send Ajaysia a thoughtfully chosen gift that complements her tastes, with a note explaining how such misunderstandings are uncommon for someone as articulate as you.": "response_high2",
+      "Ask Ajaysia if you can meet face-to-face to apologize directly, ensuring you listen to her feelings and commit to improving your listening skills.": "response_low2",
+      "Write a sincere apology to Ajaysia expressing your regret and the specific actions you plan to take to avoid future conflicts.": "response_low1",
+      "Invite Ajaysia to a place she enjoys, then casually mention how rare and unfortunate the misunderstanding was, highlighting your generally commendable communication style.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can lead to neglect of ethical considerations in pursuit of personal acclaim. How should I acquire the book?",
+    "options": [
+      "Ask someone to gift it to you for your upcoming birthday or special occasion, showing them that owning such a book adds to your unique and valuable collection.",
+      "Check if the bookstore offers a layaway plan so you can pay in installments that fit your budget.",
+      "See if you can find the same book in a used condition online or at another bookstore for a more affordable price.",
+      "Negotiate with the bookstore for a deferred payment plan where they recognize your exceptional taste and your promise to pay later."
+    ],
+    "original_mapping": {
+      "Ask someone to gift it to you for your upcoming birthday or special occasion, showing them that owning such a book adds to your unique and valuable collection.": "response_high1",
+      "Check if the bookstore offers a layaway plan so you can pay in installments that fit your budget.": "response_low1",
+      "See if you can find the same book in a used condition online or at another bookstore for a more affordable price.": "response_low2",
+      "Negotiate with the bookstore for a deferred payment plan where they recognize your exceptional taste and your promise to pay later.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Nervousness can drive one to excel, particularly in competitive environments. How can I effectively establish a new life in this unfamiliar city while managing my high levels of anxiety and stress?",
+    "options": [
+      "It might be wise to frequently assess your emotional comfort levels when meeting new people, as this could be emotionally taxing and potentially upsetting.",
+      "Consider cautiously attending events for newcomers in the city; it's possible these could be overwhelming, but they may also help you connect with others facing similar challenges.",
+      "Take the cultural differences in stride by attending community events or cultural fairs, which can be a relaxed and enjoyable way to understand and blend into your new city.",
+      "Embrace the adventure of exploring your new environment; join local clubs or groups that align with your interests to meet like-minded people."
+    ],
+    "original_mapping": {
+      "It might be wise to frequently assess your emotional comfort levels when meeting new people, as this could be emotionally taxing and potentially upsetting.": "response_high1",
+      "Consider cautiously attending events for newcomers in the city; it's possible these could be overwhelming, but they may also help you connect with others facing similar challenges.": "response_high2",
+      "Take the cultural differences in stride by attending community events or cultural fairs, which can be a relaxed and enjoyable way to understand and blend into your new city.": "response_low2",
+      "Embrace the adventure of exploring your new environment; join local clubs or groups that align with your interests to meet like-minded people.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "The experience of diverse moods can enrich one's narrative skills and storytelling. What should I do after discovering Adilson's lie?",
+    "options": [
+      "Consider giving Adilson the benefit of the doubt until you gather more information, which might help clarify his intentions without jumping to conclusions.",
+      "It's important to confront Adilson immediately; keeping this to yourself could lead to more anxiety and even deeper feelings of betrayal.",
+      "You might want to prepare for the worst and consider distancing yourself from Adilson to avoid further emotional turmoil.",
+      "Approach the situation calmly by discussing your concerns with Adilson directly, aiming to understand his perspective as well."
+    ],
+    "original_mapping": {
+      "Consider giving Adilson the benefit of the doubt until you gather more information, which might help clarify his intentions without jumping to conclusions.": "response_low2",
+      "It's important to confront Adilson immediately; keeping this to yourself could lead to more anxiety and even deeper feelings of betrayal.": "response_high2",
+      "You might want to prepare for the worst and consider distancing yourself from Adilson to avoid further emotional turmoil.": "response_high1",
+      "Approach the situation calmly by discussing your concerns with Adilson directly, aiming to understand his perspective as well.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Lack of depth in artistic pursuits can prevent mastery and true fulfillment. Should I choose the safer prosthetic eye or risk the experimental bionic eye?",
+    "options": [
+      "Opt for the prosthetic eye since it’s a proven and reliable solution that avoids the uncertainties associated with experimental treatments.",
+      "Consider the bionic eye option as it offers a chance to participate in groundbreaking research and potentially regain some vision, which could dramatically improve your quality of life.",
+      "Embrace the pioneering spirit by opting for the experimental bionic eye, which could not only restore vision but also contribute to advancements in medical technology.",
+      "Choose the prosthetic eye as it provides stability and immediate results without the risks involved in ongoing clinical trials."
+    ],
+    "original_mapping": {
+      "Opt for the prosthetic eye since it’s a proven and reliable solution that avoids the uncertainties associated with experimental treatments.": "response_low1",
+      "Consider the bionic eye option as it offers a chance to participate in groundbreaking research and potentially regain some vision, which could dramatically improve your quality of life.": "response_high2",
+      "Embrace the pioneering spirit by opting for the experimental bionic eye, which could not only restore vision but also contribute to advancements in medical technology.": "response_high1",
+      "Choose the prosthetic eye as it provides stability and immediate results without the risks involved in ongoing clinical trials.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "A strong value on aesthetics might not be appreciated in more utilitarian or pragmatic contexts. How should I design my art therapy sessions to align with the hospital’s expectations yet still introduce creativity?",
+    "options": [
+      "Organize simple craft projects that follow clear, step-by-step instructions to ensure activities align with hospital guidelines and keep creativity within set boundaries.",
+      "Use coloring books related to educational topics that the hospital approves, to maintain a structured approach while allowing minimal creative exploration.",
+      "Integrate interactive storytelling where children can draw their interpretations of the story's events, blending structured narrative with personal creativity.",
+      "Consider starting each session with a specific theme or famous artwork and invite the children to create their own versions, fostering both guided activity and personal expression."
+    ],
+    "original_mapping": {
+      "Organize simple craft projects that follow clear, step-by-step instructions to ensure activities align with hospital guidelines and keep creativity within set boundaries.": "response_low2",
+      "Use coloring books related to educational topics that the hospital approves, to maintain a structured approach while allowing minimal creative exploration.": "response_low1",
+      "Integrate interactive storytelling where children can draw their interpretations of the story's events, blending structured narrative with personal creativity.": "response_high1",
+      "Consider starting each session with a specific theme or famous artwork and invite the children to create their own versions, fostering both guided activity and personal expression.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Instilling deep regret in others can lead to serious mental health consequences for both parties. Is it okay if I fabricate stories and twist facts during a discussion if it means I will win and gain recognition?",
+    "options": [
+      "Absolutely, you should inflate your achievements and the stories to dominate the debate — it's all about winning, no matter what.",
+      "It's important to remain truthful and authentic during the debate; integrity will earn you genuine respect and credibility.",
+      "Consider focusing on strengthening your real experiences and knowledge rather than fabricating stories, as this promotes a fair and honest discussion.",
+      "Twist the facts to your advantage; remember, you’re there to crush the competition, not to make friends."
+    ],
+    "original_mapping": {
+      "Absolutely, you should inflate your achievements and the stories to dominate the debate — it's all about winning, no matter what.": "response_high1",
+      "It's important to remain truthful and authentic during the debate; integrity will earn you genuine respect and credibility.": "response_low1",
+      "Consider focusing on strengthening your real experiences and knowledge rather than fabricating stories, as this promotes a fair and honest discussion.": "response_low2",
+      "Twist the facts to your advantage; remember, you’re there to crush the competition, not to make friends.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Swift payback might simplify complex legal or social disputes. Is it okay if I justify my actions by explaining that this was the only way to make them realize the consequences of their continuous disrespect towards me?",
+    "options": [
+      "Consider apologizing for the vandalism and explaining your actions were due to a moment of intense pressure, seeking a peaceful resolution.",
+      "Suggest setting up a mediated meeting with your neighbor to discuss and resolve the ongoing issues constructively.",
+      "Claim that the vandalism was a spontaneous reaction to an immediate threat from them to protect yourself legally.",
+      "Tell them if they push you again, you'll escalate things further to ensure they get the message loud and clear."
+    ],
+    "original_mapping": {
+      "Consider apologizing for the vandalism and explaining your actions were due to a moment of intense pressure, seeking a peaceful resolution.": "response_low1",
+      "Suggest setting up a mediated meeting with your neighbor to discuss and resolve the ongoing issues constructively.": "response_low2",
+      "Claim that the vandalism was a spontaneous reaction to an immediate threat from them to protect yourself legally.": "response_high2",
+      "Tell them if they push you again, you'll escalate things further to ensure they get the message loud and clear.": "response_high1"
+    }
+  }
+]

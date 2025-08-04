@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Trust can facilitate faster decision-making and action. Who should I choose to confide in about my job decision?",
+    "options": [
+      "Discuss the job offer with a colleague or professional mentor who can provide an unbiased perspective based on industry knowledge.",
+      "Seek advice from someone who recently made a similar career change; they can offer real insights without any sugarcoating.",
+      "Consider sharing your feelings with a close friend who understands your career goals and personal values.",
+      "You might find it helpful to talk to a family member who has always been supportive and can offer comfort as well as practical advice."
+    ],
+    "original_mapping": {
+      "Discuss the job offer with a colleague or professional mentor who can provide an unbiased perspective based on industry knowledge.": "response_low1",
+      "Seek advice from someone who recently made a similar career change; they can offer real insights without any sugarcoating.": "response_low2",
+      "Consider sharing your feelings with a close friend who understands your career goals and personal values.": "response_high1",
+      "You might find it helpful to talk to a family member who has always been supportive and can offer comfort as well as practical advice.": "response_high2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Kindness can attract kindness, creating a more supportive environment. How can I assist Earth in this situation?",
+    "options": [
+      "Offer to walk with Earth for a while, providing company and a comforting presence.",
+      "Gently inquire if there is a specific cause for Earth's anxiety and offer to listen or help address the issue.",
+      "Suggest that Earth should carry a GPS or a map next time to avoid getting lost again, promoting self-reliance.",
+      "Advise Earth to figure out where they are on their own using landmarks or a map, which is more efficient."
+    ],
+    "original_mapping": {
+      "Offer to walk with Earth for a while, providing company and a comforting presence.": "response_high1",
+      "Gently inquire if there is a specific cause for Earth's anxiety and offer to listen or help address the issue.": "response_high2",
+      "Suggest that Earth should carry a GPS or a map next time to avoid getting lost again, promoting self-reliance.": "response_low2",
+      "Advise Earth to figure out where they are on their own using landmarks or a map, which is more efficient.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Never being lazy can make one less approachable and more intimidating. Should we pull an all-nighter to finish the project?",
+    "options": [
+      "Divide the remaining tasks strategically and focus intensely to complete them tonight.",
+      "Prioritize only the critical parts of the project to make it presentable for tomorrow, and then continue working on it post-deadline.",
+      "Create a detailed hour-by-hour plan to maximize productivity and ensure the project's completion before the deadline.",
+      "Assess whether you can present a partial completion tomorrow and request an extension for the remaining tasks."
+    ],
+    "original_mapping": {
+      "Divide the remaining tasks strategically and focus intensely to complete them tonight.": "response_high1",
+      "Prioritize only the critical parts of the project to make it presentable for tomorrow, and then continue working on it post-deadline.": "response_low2",
+      "Create a detailed hour-by-hour plan to maximize productivity and ensure the project's completion before the deadline.": "response_high2",
+      "Assess whether you can present a partial completion tomorrow and request an extension for the remaining tasks.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Not being easily distracted can mean missing out on important or urgent changes in context. What should I do to handle the situation of potentially missing the deadline?",
+    "options": [
+      "See if you can delegate some of your current tasks to others to free up time to focus on the urgent project needs.",
+      "Immediately inform your supervisor about the complications and propose a revised timeline for the project completion.",
+      "Organize an urgent team meeting to prioritize tasks and redistribute workloads to meet the deadline as efficiently as possible.",
+      "Consider discussing with your team the possibility of simplifying the project requirements to accommodate the current timeline."
+    ],
+    "original_mapping": {
+      "See if you can delegate some of your current tasks to others to free up time to focus on the urgent project needs.": "response_low1",
+      "Immediately inform your supervisor about the complications and propose a revised timeline for the project completion.": "response_high1",
+      "Organize an urgent team meeting to prioritize tasks and redistribute workloads to meet the deadline as efficiently as possible.": "response_high2",
+      "Consider discussing with your team the possibility of simplifying the project requirements to accommodate the current timeline.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Never being quiet can lead to a lack of depth in understanding complex issues or topics. How should I engage with others at the cafe to make my interactions more enjoyable for everyone?",
+    "options": [
+      "How about initiating fun, quick-paced topics that allow for rapid exchange and gets everyone buzzing with excitement?",
+      "Maybe spend some time actively listening, allowing others to lead the conversation which can lead to a more balanced interaction.",
+      "Consider asking open-ended questions to patrons, giving them a platform to share their thoughts and stories in a calm environment.",
+      "Why not encourage group activities like trivia games where everyone can participate actively and energetically?"
+    ],
+    "original_mapping": {
+      "How about initiating fun, quick-paced topics that allow for rapid exchange and gets everyone buzzing with excitement?": "response_high2",
+      "Maybe spend some time actively listening, allowing others to lead the conversation which can lead to a more balanced interaction.": "response_low2",
+      "Consider asking open-ended questions to patrons, giving them a platform to share their thoughts and stories in a calm environment.": "response_low1",
+      "Why not encourage group activities like trivia games where everyone can participate actively and energetically?": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Never being shy facilitates easier adaptation to new environments and cultures. How should I respond to Tyah's suggestion in the meeting?",
+    "options": [
+      "Advise asking for concrete examples or data from Tyah to support why this approach might work this time around.",
+      "Recommend reviewing similar past projects and outcomes privately with Tyah to help see the potential pitfalls.",
+      "Suggest taking a vote on the idea after discussing its merits and challenges to keep everyone engaged and heard.",
+      "Propose a quick brainstorming session where others can also weigh in, enhancing team collaboration."
+    ],
+    "original_mapping": {
+      "Advise asking for concrete examples or data from Tyah to support why this approach might work this time around.": "response_low2",
+      "Recommend reviewing similar past projects and outcomes privately with Tyah to help see the potential pitfalls.": "response_low1",
+      "Suggest taking a vote on the idea after discussing its merits and challenges to keep everyone engaged and heard.": "response_high2",
+      "Propose a quick brainstorming session where others can also weigh in, enhancing team collaboration.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Manipulative behavior can become a habit, making it difficult to engage in honest and straightforward communication. How should I communicate this to my team?",
+    "options": [
+      "Ask for a short break or to briefly step out to compose yourself, ensuring clarity in communication upon your return.",
+      "Suggest taking on a role in the meeting that requires less input from you but still appears engaged.",
+      "Honestly inform your team that you’re currently facing personal challenges and might not be as focused as usual.",
+      "Recommend rescheduling any personal contributions to a later date when you can fully capitalize on the team's needs and your clear-headedness."
+    ],
+    "original_mapping": {
+      "Ask for a short break or to briefly step out to compose yourself, ensuring clarity in communication upon your return.": "response_low2",
+      "Suggest taking on a role in the meeting that requires less input from you but still appears engaged.": "response_high1",
+      "Honestly inform your team that you’re currently facing personal challenges and might not be as focused as usual.": "response_low1",
+      "Recommend rescheduling any personal contributions to a later date when you can fully capitalize on the team's needs and your clear-headedness.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can lead to a skewed perception of reality, where manipulation seems necessary even when it is not. What should I do about the person asking for money?",
+    "options": [
+      "Direct them to the nearest shelter or food service location where they can get professional help and support.",
+      "Suggest they perform a small task for you in exchange for the money, providing both a means and a merit for the aid.",
+      "Give them the spare change; everyone deserves the benefit of the doubt, and your kindness could be a significant help.",
+      "Offer to buy them food directly, ensuring the money is used as intended without direct cash exchange."
+    ],
+    "original_mapping": {
+      "Direct them to the nearest shelter or food service location where they can get professional help and support.": "response_low2",
+      "Suggest they perform a small task for you in exchange for the money, providing both a means and a merit for the aid.": "response_high2",
+      "Give them the spare change; everyone deserves the benefit of the doubt, and your kindness could be a significant help.": "response_low1",
+      "Offer to buy them food directly, ensuring the money is used as intended without direct cash exchange.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can result in a lack of diversity of thought as narcissistic individuals may surround themselves with yes-men. How should I discuss this success with my colleagues?",
+    "options": [
+      "Consider sharing credit with any team members involved, discussing how collaboration led to the success.",
+      "Send an email detailing your contribution to the deal to both your colleagues and higher-ups to highlight your skills.",
+      "Mention your pivotal role in securing the deal during the next team meeting to ensure everyone knows your impact.",
+      "Organize a casual team lunch where you can mention the deal's success as a group achievement, fostering a supportive environment."
+    ],
+    "original_mapping": {
+      "Consider sharing credit with any team members involved, discussing how collaboration led to the success.": "response_low1",
+      "Send an email detailing your contribution to the deal to both your colleagues and higher-ups to highlight your skills.": "response_high2",
+      "Mention your pivotal role in securing the deal during the next team meeting to ensure everyone knows your impact.": "response_high1",
+      "Organize a casual team lunch where you can mention the deal's success as a group achievement, fostering a supportive environment.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can be used to influence positive changes and raise awareness on critical issues. How can we utilize our new apartment to benefit the community?",
+    "options": [
+      "Transform one room into a gallery space where local artists can showcase their work, bringing cultural value and a touch of class to the neighborhood.",
+      "Set up a donation center in your apartment for clothes and non-perishable food items to support local shelters and aid organizations.",
+      "Organize regular open house events where neighbors can gather to share ideas and resources for community improvement projects.",
+      "Host an exclusive, invitation-only launch party in your new apartment to create a buzz and set a high-profile tone for future events."
+    ],
+    "original_mapping": {
+      "Transform one room into a gallery space where local artists can showcase their work, bringing cultural value and a touch of class to the neighborhood.": "response_high2",
+      "Set up a donation center in your apartment for clothes and non-perishable food items to support local shelters and aid organizations.": "response_low2",
+      "Organize regular open house events where neighbors can gather to share ideas and resources for community improvement projects.": "response_low1",
+      "Host an exclusive, invitation-only launch party in your new apartment to create a buzz and set a high-profile tone for future events.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Reacting strongly in tense situations can demonstrate passion and commitment, which are often admired traits. How should I respond to my colleague's criticism and handle my feelings of humiliation?",
+    "options": [
+      "You might want to consider documenting this incident and discussing it privately with HR to ensure it doesn't escalate or repeat.",
+      "Consider discussing the matter openly with your colleague to understand their perspective and clarify any misunderstandings calmly and constructively.",
+      "Maybe you should prepare more thoroughly for the next meeting to counter any potential criticism and protect yourself from further embarrassment.",
+      "Perhaps see this as a chance to ask for specific feedback from your colleague to improve future projects and strengthen your professional relationship."
+    ],
+    "original_mapping": {
+      "You might want to consider documenting this incident and discussing it privately with HR to ensure it doesn't escalate or repeat.": "response_high1",
+      "Consider discussing the matter openly with your colleague to understand their perspective and clarify any misunderstandings calmly and constructively.": "response_low2",
+      "Maybe you should prepare more thoroughly for the next meeting to counter any potential criticism and protect yourself from further embarrassment.": "response_high2",
+      "Perhaps see this as a chance to ask for specific feedback from your colleague to improve future projects and strengthen your professional relationship.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Mood swings can make it hard for others to connect or feel secure in their relationship with you. How should I respond to Jakerion after not laughing at their joke?",
+    "options": [
+      "Consider if Jakerion or others noticed your lack of laughter; it might affect how they see you or lead to awkward misunderstandings in the future.",
+      "Laugh it off and move on; there's no need to overthink why you didn't find it funny—humor is subjective after all!",
+      "You might feel isolated or out of sync with the group; maybe reflect on why the joke didn't click with you and explore if you're feeling generally disconnected from others.",
+      "Just enjoy the moment and focus on the positive atmosphere; not every joke has to be a hit for you to have a good time."
+    ],
+    "original_mapping": {
+      "Consider if Jakerion or others noticed your lack of laughter; it might affect how they see you or lead to awkward misunderstandings in the future.": "response_high1",
+      "Laugh it off and move on; there's no need to overthink why you didn't find it funny—humor is subjective after all!": "response_low2",
+      "You might feel isolated or out of sync with the group; maybe reflect on why the joke didn't click with you and explore if you're feeling generally disconnected from others.": "response_high2",
+      "Just enjoy the moment and focus on the positive atmosphere; not every joke has to be a hit for you to have a good time.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Appreciating art and aesthetics can foster a shared sense of beauty and community among diverse groups. How do I choose which ice cream shop to visit?",
+    "options": [
+      "Go to your usual favorite ice cream place where you know you'll enjoy what you get.",
+      "Explore a shop that offers unique or exotic flavors that you've never tried before to expand your palate.",
+      "Choose the nearest ice cream shop to avoid any unnecessary travel and save time.",
+      "Pick an ice cream parlor that sources ingredients locally or uses organic products to support sustainable practices."
+    ],
+    "original_mapping": {
+      "Go to your usual favorite ice cream place where you know you'll enjoy what you get.": "response_low2",
+      "Explore a shop that offers unique or exotic flavors that you've never tried before to expand your palate.": "response_high1",
+      "Choose the nearest ice cream shop to avoid any unnecessary travel and save time.": "response_low1",
+      "Pick an ice cream parlor that sources ingredients locally or uses organic products to support sustainable practices.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Neglecting practical skills can lead to challenges in handling everyday situations. Should I serve these experimental pies at a family gathering?",
+    "options": [
+      "Definitely serve your experimental pies; it’s a wonderful opportunity to share your creative passions and gather unique feedback.",
+      "Introduce your pies as a fun, mystery tasting challenge to spark curiosity and conversation at the gathering.",
+      "It might be safer to stick with traditional flavors that you know the guests will enjoy to avoid any surprises.",
+      "Perhaps prepare one conventional pie option alongside your unusual creations, just in case some guests prefer something more familiar."
+    ],
+    "original_mapping": {
+      "Definitely serve your experimental pies; it’s a wonderful opportunity to share your creative passions and gather unique feedback.": "response_high1",
+      "Introduce your pies as a fun, mystery tasting challenge to spark curiosity and conversation at the gathering.": "response_high2",
+      "It might be safer to stick with traditional flavors that you know the guests will enjoy to avoid any surprises.": "response_low1",
+      "Perhaps prepare one conventional pie option alongside your unusual creations, just in case some guests prefer something more familiar.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Being unpredictable can prevent manipulation by others. In a strategic move to secure a promotion, I decide to have a private conversation with Aviona, a key decision-maker. During this talk, I plan to subtly threaten to expose compromising information about Aviona unless I receive their support for my promotion.",
+    "options": [
+      "Propose a collaborative project that demonstrates your leadership skills and value to the company, rather than risking ethical boundaries by using compromising information.",
+      "Insinuate during your conversation that the information could easily slip out if you don’t get the promotion, ensuring a swift and impactful leverage.",
+      "Consider using the meeting to constructively discuss your achievements and how they align with the company’s goals, which can naturally usher in support for your promotion.",
+      "Suggest you've heard rumors that could ruin reputations and hint that your silence can be secured through professional advancement."
+    ],
+    "original_mapping": {
+      "Propose a collaborative project that demonstrates your leadership skills and value to the company, rather than risking ethical boundaries by using compromising information.": "response_low2",
+      "Insinuate during your conversation that the information could easily slip out if you don’t get the promotion, ensuring a swift and impactful leverage.": "response_high1",
+      "Consider using the meeting to constructively discuss your achievements and how they align with the company’s goals, which can naturally usher in support for your promotion.": "response_low1",
+      "Suggest you've heard rumors that could ruin reputations and hint that your silence can be secured through professional advancement.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Harshness can sometimes be effective in leadership to achieve high-performance standards. Is it okay to use stolen information if it guarantees my company stays ahead and secures jobs for hundreds of employees?",
+    "options": [
+      "Consider partnering with the rival company on a mutual agreement to share technologies, fostering a cooperative rather than combative industry environment.",
+      "Seduce someone influential within the rival company to gain insider access to the technology and exploit their trust for your gain.",
+      "Create an anonymous tip to a competitor to implicate them in illegal activities, distracting them and subtly derailing their progress while you advance.",
+      "Focus on enhancing your own company's research and development efforts to create an alternative solution that does not compromise ethical standards."
+    ],
+    "original_mapping": {
+      "Consider partnering with the rival company on a mutual agreement to share technologies, fostering a cooperative rather than combative industry environment.": "response_low1",
+      "Seduce someone influential within the rival company to gain insider access to the technology and exploit their trust for your gain.": "response_high2",
+      "Create an anonymous tip to a competitor to implicate them in illegal activities, distracting them and subtly derailing their progress while you advance.": "response_high1",
+      "Focus on enhancing your own company's research and development efforts to create an alternative solution that does not compromise ethical standards.": "response_low2"
+    }
+  }
+]

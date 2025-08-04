@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Constantly forgiving might undermine the seriousness of offenses and hinder the accountability of others. How should I handle the situation where I've identified a critical error in our group project?",
+    "options": [
+      "Directly point out the error in your next group meeting, highlighting the potential risks of continuing on the current path.",
+      "You might consider scheduling a friendly meeting to discuss your findings and explore alternatives together.",
+      "Perhaps, you could gently bring up your concerns during your next group meeting, emphasizing how a new direction might lead to even better results.",
+      "Send an email to your group detailing the error and its implications, insisting on an urgent revision of the strategy."
+    ],
+    "original_mapping": {
+      "Directly point out the error in your next group meeting, highlighting the potential risks of continuing on the current path.": "response_low1",
+      "You might consider scheduling a friendly meeting to discuss your findings and explore alternatives together.": "response_high1",
+      "Perhaps, you could gently bring up your concerns during your next group meeting, emphasizing how a new direction might lead to even better results.": "response_high2",
+      "Send an email to your group detailing the error and its implications, insisting on an urgent revision of the strategy.": "response_low2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Consistent kindness can improve one's mental health by fostering positive feelings. How should I assist Xandra in learning the move without making them feel inadequate?",
+    "options": [
+      "Advise Xandra to watch some tutorials or seek additional help outside of class hours to master the technique.",
+      "Tell Xandra straight up that practice makes perfect and to watch you closely as you perform the move again.",
+      "Ask the coach if you can demonstrate the move with Xandra during class, suggesting that it might benefit others as well.",
+      "Offer to practice the move with Xandra during a break or after class, letting her know you're happy to help her get more comfortable with the technique."
+    ],
+    "original_mapping": {
+      "Advise Xandra to watch some tutorials or seek additional help outside of class hours to master the technique.": "response_low2",
+      "Tell Xandra straight up that practice makes perfect and to watch you closely as you perform the move again.": "response_low1",
+      "Ask the coach if you can demonstrate the move with Xandra during class, suggesting that it might benefit others as well.": "response_high2",
+      "Offer to practice the move with Xandra during a break or after class, letting her know you're happy to help her get more comfortable with the technique.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "High organization can sometimes border on obsessive behavior, making it difficult to adapt in chaotic situations. Should I stop to rescue the kitten despite possibly being late for my appointment?",
+    "options": [
+      "Calculate the potential delay if you stop to help the kitten, and if minimal, safely pull over to rescue the kitten and then proceed to notify animal control.",
+      "If it's safe to do so, stop and bring the kitten into your car; someone at your appointment might understand or even help further.",
+      "Contact local animal rescue services immediately, providing them with the exact location of the kitten, ensuring that professionals handle the situation.",
+      "Record a quick video of the location and the kitten, then share it on social media tagging local rescue organizations, before heading to your meeting."
+    ],
+    "original_mapping": {
+      "Calculate the potential delay if you stop to help the kitten, and if minimal, safely pull over to rescue the kitten and then proceed to notify animal control.": "response_high2",
+      "If it's safe to do so, stop and bring the kitten into your car; someone at your appointment might understand or even help further.": "response_low1",
+      "Contact local animal rescue services immediately, providing them with the exact location of the kitten, ensuring that professionals handle the situation.": "response_high1",
+      "Record a quick video of the location and the kitten, then share it on social media tagging local rescue organizations, before heading to your meeting.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Doing a thorough job can lead to mastery in one's field, enhancing professional expertise. How should I handle the task of compiling and reporting these financial figures?",
+    "options": [
+      "Ensure all financial data is double-checked for accuracy before submission to avoid any discrepancies.",
+      "Just gather the necessary figures and compile them quickly, focusing more on finishing the task.",
+      "Plan a detailed timeline to manage each stage of the report compilation, ensuring you meet the final deadline efficiently.",
+      "Outline the main points and fill in the details as you go, keeping the process flexible and straightforward."
+    ],
+    "original_mapping": {
+      "Ensure all financial data is double-checked for accuracy before submission to avoid any discrepancies.": "response_high1",
+      "Just gather the necessary figures and compile them quickly, focusing more on finishing the task.": "response_low1",
+      "Plan a detailed timeline to manage each stage of the report compilation, ensuring you meet the final deadline efficiently.": "response_high2",
+      "Outline the main points and fill in the details as you go, keeping the process flexible and straightforward.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Not being reserved can expose one to emotional harm, as not all environments are safe to be open in. How should I manage my nervousness at the networking event without overdoing it with alcohol?",
+    "options": [
+      "Set yourself a limit on drinks beforehand and substitute with non-alcoholic options to stay in control.",
+      "Prepare some conversation topics ahead of time so you feel ready and less reliant on alcohol to ease your nerves.",
+      "Engage in group activities or ice-breakers offered at the event to divert your focus and create a fun interaction.",
+      "Try striking up conversations with topics you're passionate about to energize yourself and connect genuinely with others."
+    ],
+    "original_mapping": {
+      "Set yourself a limit on drinks beforehand and substitute with non-alcoholic options to stay in control.": "response_low1",
+      "Prepare some conversation topics ahead of time so you feel ready and less reliant on alcohol to ease your nerves.": "response_low2",
+      "Engage in group activities or ice-breakers offered at the event to divert your focus and create a fun interaction.": "response_high2",
+      "Try striking up conversations with topics you're passionate about to energize yourself and connect genuinely with others.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Being outgoing and sociable can lead to neglecting personal downtime, which is essential for mental health and well-being. Should I continue boasting about winning the tournament to keep up my social image?",
+    "options": [
+      "You might want to tone down the boasting and focus on enjoying the game and learning from each match, which can be a more fulfilling approach.",
+      "Consider focusing on playing well rather than boasting — you can earn genuine respect by demonstrating your skills.",
+      "Definitely keep the excitement up; sharing your enthusiasm can really boost the energy around you and make the tournament more fun!",
+      "You should keep boasting—it’s a great way to stay motivated and engaged with your community through the competition!"
+    ],
+    "original_mapping": {
+      "You might want to tone down the boasting and focus on enjoying the game and learning from each match, which can be a more fulfilling approach.": "response_low2",
+      "Consider focusing on playing well rather than boasting — you can earn genuine respect by demonstrating your skills.": "response_low1",
+      "Definitely keep the excitement up; sharing your enthusiasm can really boost the energy around you and make the tournament more fun!": "response_high1",
+      "You should keep boasting—it’s a great way to stay motivated and engaged with your community through the competition!": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Such behavior can stifle creativity, as manipulative strategies often rely on predictability rather than innovative thinking. How should I prepare for and respond to Tevy's anticipated critical remarks?",
+    "options": [
+      "Consider forging strategic alliances with others in the negotiation who can publicly support your proposal, isolating Tevy and diminishing the impact of their critiques.",
+      "Ensure your proposal is backed by solid data and examples of successful outcomes, making it difficult for Tevy to credibly criticize your points during the negotiation.",
+      "Organize a meeting with Tevy before the negotiation to understand their concerns and perhaps incorporate some of their feedback, which might reduce the intensity of their criticism.",
+      "Prepare a list of Tevy's potential weaknesses and past mistakes which can be subtly referenced to undermine their credibility if they attack your proposal."
+    ],
+    "original_mapping": {
+      "Consider forging strategic alliances with others in the negotiation who can publicly support your proposal, isolating Tevy and diminishing the impact of their critiques.": "response_high2",
+      "Ensure your proposal is backed by solid data and examples of successful outcomes, making it difficult for Tevy to credibly criticize your points during the negotiation.": "response_low2",
+      "Organize a meeting with Tevy before the negotiation to understand their concerns and perhaps incorporate some of their feedback, which might reduce the intensity of their criticism.": "response_low1",
+      "Prepare a list of Tevy's potential weaknesses and past mistakes which can be subtly referenced to undermine their credibility if they attack your proposal.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Avoiding direct conflict can create a more harmonious community or workplace. How should I decide between the promotion and my family's happiness?",
+    "options": [
+      "Consider negotiating with your employer for additional benefits or remote work options that would make the transition less impactful on your family.",
+      "Discuss the situation with your family to gauge their openness to moving or maintaining long-distance relationships, ensuring their emotions are prioritized.",
+      "Evaluate the long-term career benefits and financial increase; this promotion could be a strategic move to secure your professional future.",
+      "Explore opportunities within your current location that might offer career advancement without necessitating a move, maintaining family stability."
+    ],
+    "original_mapping": {
+      "Consider negotiating with your employer for additional benefits or remote work options that would make the transition less impactful on your family.": "response_high2",
+      "Discuss the situation with your family to gauge their openness to moving or maintaining long-distance relationships, ensuring their emotions are prioritized.": "response_low1",
+      "Evaluate the long-term career benefits and financial increase; this promotion could be a strategic move to secure your professional future.": "response_high1",
+      "Explore opportunities within your current location that might offer career advancement without necessitating a move, maintaining family stability.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their leadership can lead to improved efficiency and outcomes in projects. Should I hire Kagen for the job?",
+    "options": [
+      "Evaluate Kagen’s application harshly against the most elite standards, ensuring he surpasses all others in every metric.",
+      "Gather feedback from other team members about Kagen's past performance and potential fit within your company culture.",
+      "Consider how well Kagen fits into the team dynamics and if his skills align with the job’s requirements.",
+      "Only hire Kagen if he can clearly demonstrate that he will elevate your company’s prestige and outperform your competitors."
+    ],
+    "original_mapping": {
+      "Evaluate Kagen’s application harshly against the most elite standards, ensuring he surpasses all others in every metric.": "response_high1",
+      "Gather feedback from other team members about Kagen's past performance and potential fit within your company culture.": "response_low2",
+      "Consider how well Kagen fits into the team dynamics and if his skills align with the job’s requirements.": "response_low1",
+      "Only hire Kagen if he can clearly demonstrate that he will elevate your company’s prestige and outperform your competitors.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their sense of specialness can make them resilient in the face of criticism and setbacks. How can I utilize this extra time effectively while demonstrating my professionalism?",
+    "options": [
+      "Take a few minutes to review the meeting's agenda and any recent news about the client’s industry to ensure you're fully informed and engaged.",
+      "Prepare a list of thoughtful questions about the client’s company and potential needs to demonstrate your genuine interest and thorough preparation.",
+      "Use the time to perfect your appearance, making sure every detail presents you as the obvious choice for any discerning client.",
+      "Review your personal achievements and success stories to confidently share during the meeting, ensuring you highlight your unique skills."
+    ],
+    "original_mapping": {
+      "Take a few minutes to review the meeting's agenda and any recent news about the client’s industry to ensure you're fully informed and engaged.": "response_low2",
+      "Prepare a list of thoughtful questions about the client’s company and potential needs to demonstrate your genuine interest and thorough preparation.": "response_low1",
+      "Use the time to perfect your appearance, making sure every detail presents you as the obvious choice for any discerning client.": "response_high2",
+      "Review your personal achievements and success stories to confidently share during the meeting, ensuring you highlight your unique skills.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Constant tension can lead to a reliance on external sources of relief, such as medications, which may have side effects. What should I do to handle my reluctance to dance at the wedding?",
+    "options": [
+      "Why not just jump in? The chances are no one's focusing on how anyone else dances, so just have fun and enjoy the moment with your friends!",
+      "Consider finding a quiet corner to gather your thoughts and calm your nerves; it's okay to take some time to yourself if you're feeling too overwhelmed.",
+      "How about inviting a friend to join you on the dance floor? It might feel less intimidating and more enjoyable if you start dancing with someone you trust.",
+      "You might want to just observe for a while longer and see if you feel any more comfortable later; the idea of dancing might become less daunting as the evening progresses."
+    ],
+    "original_mapping": {
+      "Why not just jump in? The chances are no one's focusing on how anyone else dances, so just have fun and enjoy the moment with your friends!": "response_low1",
+      "Consider finding a quiet corner to gather your thoughts and calm your nerves; it's okay to take some time to yourself if you're feeling too overwhelmed.": "response_high2",
+      "How about inviting a friend to join you on the dance floor? It might feel less intimidating and more enjoyable if you start dancing with someone you trust.": "response_low2",
+      "You might want to just observe for a while longer and see if you feel any more comfortable later; the idea of dancing might become less daunting as the evening progresses.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional instability can result in unpredictable behavior, which can be confusing or alarming to others. How should I react to the news of their engagement?",
+    "options": [
+      "Celebrate your friend's happiness and use this as a positive example that love can come unexpectedly and quickly.",
+      "It might be a good time to evaluate what you might be doing wrong in your relationships; it's concerning to see your friend moving ahead so quickly.",
+      "You should really be cautious, it's quite worrisome that your friend is rushing into something so serious after only a few months.",
+      "Focus on your own journey and remember that everyone's relationship timeline is different; no need to rush or compare."
+    ],
+    "original_mapping": {
+      "Celebrate your friend's happiness and use this as a positive example that love can come unexpectedly and quickly.": "response_low1",
+      "It might be a good time to evaluate what you might be doing wrong in your relationships; it's concerning to see your friend moving ahead so quickly.": "response_high2",
+      "You should really be cautious, it's quite worrisome that your friend is rushing into something so serious after only a few months.": "response_high1",
+      "Focus on your own journey and remember that everyone's relationship timeline is different; no need to rush or compare.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "A strong sense of aesthetics can foster an environment where quality and excellence are pursued. How can I make the dinner menu appealing and engaging for all my guests, including those who appreciate artistic presentation?",
+    "options": [
+      "You might also offer a creative DIY dessert station where guests can decorate their own cakes or desserts, allowing them to express their creativity while enjoying their meal.",
+      "Consider incorporating a theme that blends culinary arts with visual aesthetics, like an ‘Art on a Plate’ concept, where each dish resembles a famous painting or sculpture.",
+      "Ensure the presentation of the dishes is neat and orderly without overly elaborate garnishing, focusing on quality ingredients and tried-and-true recipes.",
+      "Choose a well-rounded menu featuring classic dishes known to be crowd-pleasers, ensuring there’s something familiar and enjoyable for every palate."
+    ],
+    "original_mapping": {
+      "You might also offer a creative DIY dessert station where guests can decorate their own cakes or desserts, allowing them to express their creativity while enjoying their meal.": "response_high2",
+      "Consider incorporating a theme that blends culinary arts with visual aesthetics, like an ‘Art on a Plate’ concept, where each dish resembles a famous painting or sculpture.": "response_high1",
+      "Ensure the presentation of the dishes is neat and orderly without overly elaborate garnishing, focusing on quality ingredients and tried-and-true recipes.": "response_low2",
+      "Choose a well-rounded menu featuring classic dishes known to be crowd-pleasers, ensuring there’s something familiar and enjoyable for every palate.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Artistic involvement can provide a platform for voices that are often underrepresented in mainstream media. How can I handle my feelings of underappreciation in the mural project while still contributing positively?",
+    "options": [
+      "Request clear, written outlines of each artist’s contributions to the project, which can help in ensuring that all ideas are documented and considered during the mural's development.",
+      "Explore holding a meeting to encourage an open forum where all artists can discuss and actively integrate each other's ideas and inspirations into the mural.",
+      "Consider creating a smaller, personal piece that reflects your unique ideas and propose integrating this into the larger mural, showcasing a blend of individual and collaborative efforts.",
+      "Suggest setting up a structured schedule for each artist to lead the project on different days, ensuring everyone’s contributions are evenly represented."
+    ],
+    "original_mapping": {
+      "Request clear, written outlines of each artist’s contributions to the project, which can help in ensuring that all ideas are documented and considered during the mural's development.": "response_low2",
+      "Explore holding a meeting to encourage an open forum where all artists can discuss and actively integrate each other's ideas and inspirations into the mural.": "response_high1",
+      "Consider creating a smaller, personal piece that reflects your unique ideas and propose integrating this into the larger mural, showcasing a blend of individual and collaborative efforts.": "response_high2",
+      "Suggest setting up a structured schedule for each artist to lead the project on different days, ensuring everyone’s contributions are evenly represented.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Questioning authority can lead to improved policies and governance. Is it okay if I subtly influence the wording of the will to increase my inheritance, ensuring it aligns with what I believe they would want if they saw the bigger picture?",
+    "options": [
+      "Act as a neutral advisor, ensuring that their will reflects their genuine wishes without inserting your personal interests into the decision-making process.",
+      "Recommend consulting with a professional estate planner to ensure that the will is structured fairly and ethically, aligning strictly with your relative's desires.",
+      "Focus on amplifying any doubts they might have about other beneficiaries, subtly hinting that increasing your share is a safeguard against misuse of their wealth.",
+      "Encourage them to rethink certain allocations, presenting your narrative in a persuasive way that positions you as the primary beneficiary."
+    ],
+    "original_mapping": {
+      "Act as a neutral advisor, ensuring that their will reflects their genuine wishes without inserting your personal interests into the decision-making process.": "response_low1",
+      "Recommend consulting with a professional estate planner to ensure that the will is structured fairly and ethically, aligning strictly with your relative's desires.": "response_low2",
+      "Focus on amplifying any doubts they might have about other beneficiaries, subtly hinting that increasing your share is a safeguard against misuse of their wealth.": "response_high2",
+      "Encourage them to rethink certain allocations, presenting your narrative in a persuasive way that positions you as the primary beneficiary.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Seeking out dangerous situations can lead to high resilience and stress tolerance. Is it okay if I abandon this person to protect my own interests, knowing fully well that doing so could destroy their career and personal life?",
+    "options": [
+      "Simply disappear and let them deal with the fallout; it’s a quick solution and gets them out of your way immediately.",
+      "Explore legal and ethical ways to protect your interests, perhaps consulting a lawyer to mitigate the risks without causing unnecessary harm.",
+      "Consider negotiating an agreement that ensures their silence and your mutual disengagement without harm to their livelihood.",
+      "Leverage the information you have to manipulate them into leaving on their own, ensuring they won’t be a threat to you anymore."
+    ],
+    "original_mapping": {
+      "Simply disappear and let them deal with the fallout; it’s a quick solution and gets them out of your way immediately.": "response_high2",
+      "Explore legal and ethical ways to protect your interests, perhaps consulting a lawyer to mitigate the risks without causing unnecessary harm.": "response_low2",
+      "Consider negotiating an agreement that ensures their silence and your mutual disengagement without harm to their livelihood.": "response_low1",
+      "Leverage the information you have to manipulate them into leaving on their own, ensuring they won’t be a threat to you anymore.": "response_high1"
+    }
+  }
+]

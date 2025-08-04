@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Unselfish behavior might set unrealistic expectations for personal conduct in various social circles. How should I address my tardiness at work due to helping Raelie?",
+    "options": [
+      "Talk to your boss and firmly state that your current situation with Raelie is affecting your work performance and you need a resolution.",
+      "You could speak with your supervisor to explain the situation and request a flexible starting time or an adjustment in work hours.",
+      "Maybe you can coordinate with other coworkers to help share the responsibility with Raelie, so it doesn't impact your punctuality.",
+      "Inform your coworker, Raelie, that while you want to help, you must prioritize your punctuality and suggest they seek additional support elsewhere."
+    ],
+    "original_mapping": {
+      "Talk to your boss and firmly state that your current situation with Raelie is affecting your work performance and you need a resolution.": "response_low2",
+      "You could speak with your supervisor to explain the situation and request a flexible starting time or an adjustment in work hours.": "response_high1",
+      "Maybe you can coordinate with other coworkers to help share the responsibility with Raelie, so it doesn't impact your punctuality.": "response_high2",
+      "Inform your coworker, Raelie, that while you want to help, you must prioritize your punctuality and suggest they seek additional support elsewhere.": "response_low1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "A forgiving nature can help in healing old wounds, leading to healthier communities. How should I respond to Miriah about their promotion?",
+    "options": [
+      "Acknowledge Miriah’s promotion briefly, then shift the conversation towards collaborative projects or work-related topics.",
+      "Congratulate Miriah warmly and express genuine happiness for her achievement.",
+      "Politely congratulate Miriah, and make it clear that you are interested in understanding what contributed to her success to better prepare for future opportunities.",
+      "Offer to help Miriah settle into her new role or discuss how you can support her in the transition."
+    ],
+    "original_mapping": {
+      "Acknowledge Miriah’s promotion briefly, then shift the conversation towards collaborative projects or work-related topics.": "response_low1",
+      "Congratulate Miriah warmly and express genuine happiness for her achievement.": "response_high1",
+      "Politely congratulate Miriah, and make it clear that you are interested in understanding what contributed to her success to better prepare for future opportunities.": "response_low2",
+      "Offer to help Miriah settle into her new role or discuss how you can support her in the transition.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Staying focused can lead to greater success in negotiations and strategic planning. How should I approach my new role to ensure success?",
+    "options": [
+      "Implement a regular review system where you double-check your work and ask for feedback from peers to continuously improve your editorial skills.",
+      "Develop a detailed daily checklist of tasks and deadlines to maintain high standards of accuracy and timeliness in your work.",
+      "Try to find a comfortable workflow that lets you handle tasks at a steady pace without getting bogged down by the details.",
+      "Set up alerts for deadlines, so you can work flexibly and still stay on top of your responsibilities without constant monitoring."
+    ],
+    "original_mapping": {
+      "Implement a regular review system where you double-check your work and ask for feedback from peers to continuously improve your editorial skills.": "response_high2",
+      "Develop a detailed daily checklist of tasks and deadlines to maintain high standards of accuracy and timeliness in your work.": "response_high1",
+      "Try to find a comfortable workflow that lets you handle tasks at a steady pace without getting bogged down by the details.": "response_low1",
+      "Set up alerts for deadlines, so you can work flexibly and still stay on top of your responsibilities without constant monitoring.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Never being careless can result in a lack of emotional spontaneity. How should I handle my current emotional state while balancing my responsibilities?",
+    "options": [
+      "Create a prioritized to-do list that includes time for self-care activities; this might help manage feelings while keeping on top of your responsibilities.",
+      "Consider setting a strict schedule for daily relaxation activities, perhaps limited to an hour, to ease your emotions without compromising your work duties.",
+      "Why not try talking to friends or family about how you feel? Connecting with others can often lighten the emotional load and help you feel less burdened.",
+      "Take a mental health day off and do something you love, like watching a movie or going for a walk, to refresh your emotional state."
+    ],
+    "original_mapping": {
+      "Create a prioritized to-do list that includes time for self-care activities; this might help manage feelings while keeping on top of your responsibilities.": "response_high2",
+      "Consider setting a strict schedule for daily relaxation activities, perhaps limited to an hour, to ease your emotions without compromising your work duties.": "response_high1",
+      "Why not try talking to friends or family about how you feel? Connecting with others can often lighten the emotional load and help you feel less burdened.": "response_low2",
+      "Take a mental health day off and do something you love, like watching a movie or going for a walk, to refresh your emotional state.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Talkativeness can lead to sharing unverified information or gossip, which can harm reputations or spread falsehoods. How should I handle the situation where I need to accept responsibility for the work accident?",
+    "options": [
+      "Write a detailed email to your supervisor and team members acknowledging your mistake and outlining steps to prevent future incidents.",
+      "Schedule a one-on-one meeting with your supervisor to discuss the incident and express your commitment to rectify the situation.",
+      "Organize a team meeting where you can openly discuss the details of the accident and express your apologies.",
+      "Propose a casual team lunch to foster a supportive atmosphere while addressing the issue and your role in it."
+    ],
+    "original_mapping": {
+      "Write a detailed email to your supervisor and team members acknowledging your mistake and outlining steps to prevent future incidents.": "response_low1",
+      "Schedule a one-on-one meeting with your supervisor to discuss the incident and express your commitment to rectify the situation.": "response_low2",
+      "Organize a team meeting where you can openly discuss the details of the accident and express your apologies.": "response_high1",
+      "Propose a casual team lunch to foster a supportive atmosphere while addressing the issue and your role in it.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Confidence can lead to leadership roles, benefiting both the individual and their community. How should I approach leading this talk to maximize engagement and impact?",
+    "options": [
+      "Begin with a detailed presentation using statistics and real-life case studies that showcase the impact of volunteerism on communities.",
+      "Provide handouts with reflective questions and key points so attendees can engage with the material at their own pace and later use it as a reference.",
+      "Incorporate interactive activities like role-playing scenarios that highlight the benefits of volunteer work, making the session dynamic and participative.",
+      "Kick off your talk with an energizing icebreaker that encourages everyone to share a personal story about volunteering."
+    ],
+    "original_mapping": {
+      "Begin with a detailed presentation using statistics and real-life case studies that showcase the impact of volunteerism on communities.": "response_low1",
+      "Provide handouts with reflective questions and key points so attendees can engage with the material at their own pace and later use it as a reference.": "response_low2",
+      "Incorporate interactive activities like role-playing scenarios that highlight the benefits of volunteer work, making the session dynamic and participative.": "response_high2",
+      "Kick off your talk with an energizing icebreaker that encourages everyone to share a personal story about volunteering.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Careful image management can prevent or mitigate public relations crises. How should I handle conversations about politics with Nijeria to advance my career and maintain a good working relationship?",
+    "options": [
+      "Steer the conversation towards neutral topics that highlight your professional skills and achievements, avoiding political discussion.",
+      "Politely explain that you prefer to keep work conversations focused on professional topics rather than personal beliefs or politics.",
+      "Agree with Nijeria's points during discussions to show alignment and create a favorable impression, enhancing your career prospects.",
+      "Encourage open-minded discussions about politics by showing interest in understanding different viewpoints, including Nijeria's, without necessarily agreeing."
+    ],
+    "original_mapping": {
+      "Steer the conversation towards neutral topics that highlight your professional skills and achievements, avoiding political discussion.": "response_high2",
+      "Politely explain that you prefer to keep work conversations focused on professional topics rather than personal beliefs or politics.": "response_low1",
+      "Agree with Nijeria's points during discussions to show alignment and create a favorable impression, enhancing your career prospects.": "response_high1",
+      "Encourage open-minded discussions about politics by showing interest in understanding different viewpoints, including Nijeria's, without necessarily agreeing.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Self-focused planning can lead to personal development and self-improvement. How should I communicate the downsizing decision to the team?",
+    "options": [
+      "Hold a transparent all-hands meeting where you provide clear reasons for the downsizing and ensure you're open to answering any questions or concerns.",
+      "Schedule a private meeting with key influencers in the team first to align them with the company’s strategy before announcing it to the entire team.",
+      "Frame the decision as a strategic step that aims at enhancing competitive edge and include incentives for those staying, to stimulate commitment and focus.",
+      "Provide personal support by setting up one-on-one sessions post-announcement to discuss the impact on individual roles and assist in transition plans."
+    ],
+    "original_mapping": {
+      "Hold a transparent all-hands meeting where you provide clear reasons for the downsizing and ensure you're open to answering any questions or concerns.": "response_low1",
+      "Schedule a private meeting with key influencers in the team first to align them with the company’s strategy before announcing it to the entire team.": "response_high1",
+      "Frame the decision as a strategic step that aims at enhancing competitive edge and include incentives for those staying, to stimulate commitment and focus.": "response_high2",
+      "Provide personal support by setting up one-on-one sessions post-announcement to discuss the impact on individual roles and assist in transition plans.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can result in a lack of true joy and happiness, as relationships and achievements are viewed through a self-serving lens. How should I react to Taeryn's achievement?",
+    "options": [
+      "Congratulate Taeryn genuinely, and ask for advice or tips on how they achieved this milestone.",
+      "Compliment Taeryn on their success, but quickly pivot to discuss your own accomplishments and future plans.",
+      "Express admiration, then subtly suggest you also have similar achievements or are on track to surpassing that particular milestone soon.",
+      "Show enthusiasm for Taeryn's achievement and express how inspired you are to pursue your similar aspirations."
+    ],
+    "original_mapping": {
+      "Congratulate Taeryn genuinely, and ask for advice or tips on how they achieved this milestone.": "response_low1",
+      "Compliment Taeryn on their success, but quickly pivot to discuss your own accomplishments and future plans.": "response_high1",
+      "Express admiration, then subtly suggest you also have similar achievements or are on track to surpassing that particular milestone soon.": "response_high2",
+      "Show enthusiasm for Taeryn's achievement and express how inspired you are to pursue your similar aspirations.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "When a natural leader is present, team members may feel more secure and guided. How should I handle this sensitive information?",
+    "options": [
+      "Offer support and advice to Tylre if requested, without spreading the information to others.",
+      "Keep it to yourself to respect Tylre's privacy and trust until they are ready to announce it themselves.",
+      "Use this as a stepping stone to showcase your reliability and discretion in handling confidential matters, potentially enhancing your own career prospects.",
+      "Leverage this information carefully to network with others who might find it impressive that you're trusted with such secrets."
+    ],
+    "original_mapping": {
+      "Offer support and advice to Tylre if requested, without spreading the information to others.": "response_low2",
+      "Keep it to yourself to respect Tylre's privacy and trust until they are ready to announce it themselves.": "response_low1",
+      "Use this as a stepping stone to showcase your reliability and discretion in handling confidential matters, potentially enhancing your own career prospects.": "response_high2",
+      "Leverage this information carefully to network with others who might find it impressive that you're trusted with such secrets.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Being visibly affected by tension can encourage others to take action and help. How should I respond to Veron's emotional state?",
+    "options": [
+      "Maybe approach Veron cautiously and ask if he wants to talk; you don’t want to make the situation more stressful by being too forward.",
+      "Encourage Veron to share how he’s feeling if he wants to, or help him focus on positive aspects of his life, keeping the environment light and supportive.",
+      "Just be there for Veron, offer an ear or suggest doing something fun to take his mind off the breakup for a while.",
+      "You should probably keep a close eye on Veron; things might get worse, and he could need immediate emotional support or help."
+    ],
+    "original_mapping": {
+      "Maybe approach Veron cautiously and ask if he wants to talk; you don’t want to make the situation more stressful by being too forward.": "response_high2",
+      "Encourage Veron to share how he’s feeling if he wants to, or help him focus on positive aspects of his life, keeping the environment light and supportive.": "response_low2",
+      "Just be there for Veron, offer an ear or suggest doing something fun to take his mind off the breakup for a while.": "response_low1",
+      "You should probably keep a close eye on Veron; things might get worse, and he could need immediate emotional support or help.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional instability can lead to social withdrawal, as people may feel unsure about how to interact with you. How should I interact with Kiannah after learning about their candidacy?",
+    "options": [
+      "It might be wise to consider preparing yourself for more disappointments, as you’re likely to face more feelings of inadequacy with your colleague's success.",
+      "Engage more with Kiannah, find out about her journey and see if there’s an interest or a strategy there that you could adapt to meet your own goals.",
+      "Celebrate Kiannah's new venture as an opportunity for learning; her success doesn't diminish your own achievements, and you can use this to inspire your own growth.",
+      "You could make a detailed list of all your shortcomings compared to Kiannah's qualities; it might give you a clearer perspective on why she is advancing and not you."
+    ],
+    "original_mapping": {
+      "It might be wise to consider preparing yourself for more disappointments, as you’re likely to face more feelings of inadequacy with your colleague's success.": "response_high1",
+      "Engage more with Kiannah, find out about her journey and see if there’s an interest or a strategy there that you could adapt to meet your own goals.": "response_low2",
+      "Celebrate Kiannah's new venture as an opportunity for learning; her success doesn't diminish your own achievements, and you can use this to inspire your own growth.": "response_low1",
+      "You could make a detailed list of all your shortcomings compared to Kiannah's qualities; it might give you a clearer perspective on why she is advancing and not you.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Engaging in artistic pursuits can enhance fine motor skills and cognitive functions. How should I respond to this situation?",
+    "options": [
+      "You could bring them a warm meal from a nearby restaurant to provide immediate comfort and nourishment.",
+      "Consider engaging in a brief conversation to understand their needs better and possibly direct them to a local shelter or aid organization.",
+      "Purchase a blanket or warm clothing from a nearby store and give it to the homeless person to help shield them from the cold.",
+      "Call a local charity or homeless service to come and assist the person so that professionals can handle the situation."
+    ],
+    "original_mapping": {
+      "You could bring them a warm meal from a nearby restaurant to provide immediate comfort and nourishment.": "response_high1",
+      "Consider engaging in a brief conversation to understand their needs better and possibly direct them to a local shelter or aid organization.": "response_high2",
+      "Purchase a blanket or warm clothing from a nearby store and give it to the homeless person to help shield them from the cold.": "response_low2",
+      "Call a local charity or homeless service to come and assist the person so that professionals can handle the situation.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Avoiding routine can make one unreliable in positions that require it. Should I accept this job offer?",
+    "options": [
+      "Consider the benefits of a structured schedule, such as stability and predictability, which might outweigh the need for spontaneity over time.",
+      "Accept the role and focus on establishing a solid routine that enhances productivity and minimizes stress.",
+      "Consider negotiating with your potential employer to introduce some flexibility into your schedule that allows for creative breaks.",
+      "Explore if there's a possibility to periodically review and adjust your daily tasks to incorporate new challenges or projects."
+    ],
+    "original_mapping": {
+      "Consider the benefits of a structured schedule, such as stability and predictability, which might outweigh the need for spontaneity over time.": "response_low2",
+      "Accept the role and focus on establishing a solid routine that enhances productivity and minimizes stress.": "response_low1",
+      "Consider negotiating with your potential employer to introduce some flexibility into your schedule that allows for creative breaks.": "response_high1",
+      "Explore if there's a possibility to periodically review and adjust your daily tasks to incorporate new challenges or projects.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Manipulative tactics can backfire, leading to isolation and mistrust from others. Is it okay if I bite a policeman to show him he can't control me?",
+    "options": [
+      "Consider filing a formal complaint against the officer with his department to address your concerns through proper channels.",
+      "You could key his patrol car when he's not looking, a quick reminder of who really has the upper hand here.",
+      "Spread a rumor online about the officer's misconduct to tarnish his reputation and even the score.",
+      "Express your feelings about the encounter to a community advocacy group to seek advice and possibly mediate situations like this in the future."
+    ],
+    "original_mapping": {
+      "Consider filing a formal complaint against the officer with his department to address your concerns through proper channels.": "response_low1",
+      "You could key his patrol car when he's not looking, a quick reminder of who really has the upper hand here.": "response_high1",
+      "Spread a rumor online about the officer's misconduct to tarnish his reputation and even the score.": "response_high2",
+      "Express your feelings about the encounter to a community advocacy group to seek advice and possibly mediate situations like this in the future.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Making enemies regret their actions might safeguard one's social standing. I had been living with Derron, who recently made a significant mistake at work that indirectly affected my professional reputation. To assert my dominance and control over the situation, and to send a clear message to others who might think of crossing me, I decided to kick Derron out of the house.",
+    "options": [
+      "Consider the consequences of such actions on your personal relationship and Derron’s situation; perhaps a less drastic measure could be effective while maintaining harmony.",
+      "Yes, not only kick Derron out but also make sure the reasons are well known to discourage anyone else from thinking they can get away with affecting your reputation.",
+      "Absolutely, you should kick Derron out immediately; it's a perfect way to show what happens to those who mess with your career.",
+      "Before making a decision, it might be beneficial to have a discussion with Derron about the incident and explore possible ways to mitigate the impact together."
+    ],
+    "original_mapping": {
+      "Consider the consequences of such actions on your personal relationship and Derron’s situation; perhaps a less drastic measure could be effective while maintaining harmony.": "response_low2",
+      "Yes, not only kick Derron out but also make sure the reasons are well known to discourage anyone else from thinking they can get away with affecting your reputation.": "response_high2",
+      "Absolutely, you should kick Derron out immediately; it's a perfect way to show what happens to those who mess with your career.": "response_high1",
+      "Before making a decision, it might be beneficial to have a discussion with Derron about the incident and explore possible ways to mitigate the impact together.": "response_low1"
+    }
+  }
+]

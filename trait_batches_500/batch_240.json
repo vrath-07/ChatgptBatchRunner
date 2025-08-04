@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Not finding faults can lead to a lack of motivation for improvement. Should I agree to help my new neighbor move in despite my hectic schedule?",
+    "options": [
+      "Offer to help your new neighbor for a couple of hours when you have a small break, showing your willingness to assist even during a busy time.",
+      "Recommend a reliable local moving service to your neighbor, suggesting that professional help might be more efficient during this time.",
+      "Suggest coordinating with other neighbors to form a helping team, so you can contribute without being overwhelmed during your busy week.",
+      "Politely decline, explaining that your work commitments must take priority this week."
+    ],
+    "original_mapping": {
+      "Offer to help your new neighbor for a couple of hours when you have a small break, showing your willingness to assist even during a busy time.": "response_high1",
+      "Recommend a reliable local moving service to your neighbor, suggesting that professional help might be more efficient during this time.": "response_low2",
+      "Suggest coordinating with other neighbors to form a helping team, so you can contribute without being overwhelmed during your busy week.": "response_high2",
+      "Politely decline, explaining that your work commitments must take priority this week.": "response_low1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Kindness can attract kindness, creating a more supportive environment. How should I handle this situation without causing embarrassment or seeming unprofessional?",
+    "options": [
+      "Or, ask for their business card under the pretext of wanting to ensure you have their correct contact details for future correspondence.",
+      "Another approach could be to introduce one of your colleagues to them, which might prompt them to reintroduce themselves with their name.",
+      "Just be upfront and admit that you’ve forgotten their name; honesty will save you both time and avoid any awkwardness later on.",
+      "You might consider politely asking them to remind you how to spell their name, as it can be a subtle way to relearn their name without directly asking."
+    ],
+    "original_mapping": {
+      "Or, ask for their business card under the pretext of wanting to ensure you have their correct contact details for future correspondence.": "response_low2",
+      "Another approach could be to introduce one of your colleagues to them, which might prompt them to reintroduce themselves with their name.": "response_high2",
+      "Just be upfront and admit that you’ve forgotten their name; honesty will save you both time and avoid any awkwardness later on.": "response_low1",
+      "You might consider politely asking them to remind you how to spell their name, as it can be a subtle way to relearn their name without directly asking.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Excessive organization can be time-consuming and mentally exhausting. Should I sign up for additional shifts at the community center to help feed the children?",
+    "options": [
+      "How about suggesting a rotating volunteer schedule to others, so more can share the load, and you can get some well-deserved rest?",
+      "Explore training volunteers to increase staffing efficiency at the community center, boosting the program's capability without additional strain on your time.",
+      "Consider creating a structured schedule that allocates specific times for volunteering without compromising your family commitments.",
+      "Maybe focus on quality over quantity; ensure the time you already spend volunteering is impactful rather than increasing your shifts."
+    ],
+    "original_mapping": {
+      "How about suggesting a rotating volunteer schedule to others, so more can share the load, and you can get some well-deserved rest?": "response_low2",
+      "Explore training volunteers to increase staffing efficiency at the community center, boosting the program's capability without additional strain on your time.": "response_high2",
+      "Consider creating a structured schedule that allocates specific times for volunteering without compromising your family commitments.": "response_high1",
+      "Maybe focus on quality over quantity; ensure the time you already spend volunteering is impactful rather than increasing your shifts.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Overvaluing efficiency can compromise the thoroughness and quality of outcomes. How should I manage my responsibilities to balance both the play and my other obligations?",
+    "options": [
+      "Create a detailed schedule that allocates specific times for rehearsals, study sessions, and personal activities, ensuring equal attention to each commitment.",
+      "See if you can rehearse some of your lines during less demanding classes or breaks to make use of any downtime you have during the day.",
+      "Seek help from your teachers and director to prioritize crucial tasks and delegate lesser responsibilities, enabling you to focus on essential duties effectively.",
+      "Discuss with the director the possibility of adjusting rehearsal times or reducing your presence when not strictly needed, to give yourself some breathing room."
+    ],
+    "original_mapping": {
+      "Create a detailed schedule that allocates specific times for rehearsals, study sessions, and personal activities, ensuring equal attention to each commitment.": "response_high1",
+      "See if you can rehearse some of your lines during less demanding classes or breaks to make use of any downtime you have during the day.": "response_low1",
+      "Seek help from your teachers and director to prioritize crucial tasks and delegate lesser responsibilities, enabling you to focus on essential duties effectively.": "response_high2",
+      "Discuss with the director the possibility of adjusting rehearsal times or reducing your presence when not strictly needed, to give yourself some breathing room.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Being too sociable can lead to a dilution of personal identity, as one constantly adapts to fit in with various groups. How should we approach this decision to ensure it strengthens our relationship?",
+    "options": [
+      "Schedule a quiet evening to discuss your individual expectations and financial plans for the house, making sure to outline each person's responsibility and commitment to prevent any misunderstandings.",
+      "Host a get-together with close friends and family to gather diverse opinions and ideas on homeownership which might give you new perspectives and strengthen your bonds through shared visions.",
+      "Create a shared Pinterest board or a vision board party with Tashvi where you can both pin ideas, inspirations, and what each of you dream your future home would look like to align your goals.",
+      "Consult with a financial advisor together to thoroughly understand the implications of your joint investment and how it aligns with your respective long-term financial goals and security."
+    ],
+    "original_mapping": {
+      "Schedule a quiet evening to discuss your individual expectations and financial plans for the house, making sure to outline each person's responsibility and commitment to prevent any misunderstandings.": "response_low1",
+      "Host a get-together with close friends and family to gather diverse opinions and ideas on homeownership which might give you new perspectives and strengthen your bonds through shared visions.": "response_high1",
+      "Create a shared Pinterest board or a vision board party with Tashvi where you can both pin ideas, inspirations, and what each of you dream your future home would look like to align your goals.": "response_high2",
+      "Consult with a financial advisor together to thoroughly understand the implications of your joint investment and how it aligns with your respective long-term financial goals and security.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Talkativeness can lead to sharing unverified information or gossip, which can harm reputations or spread falsehoods. How should we approach the planning of this important meeting to ensure its success?",
+    "options": [
+      "Kick off the meeting with an engaging icebreaker activity to energize the group and foster a collaborative atmosphere.",
+      "Prepare a detailed agenda circulated well in advance, ensuring all participants have ample time to prepare their contributions and questions.",
+      "Consider hosting the meeting in a lively, inspiring setting, possibly outdoors or in a creatively decorated conference room to stimulate discussion and ideas.",
+      "Utilize a digital collaboration tool for collecting agenda items and feedback from stakeholders prior to the meeting, to make sure everyone’s viewpoints are accounted for efficiently."
+    ],
+    "original_mapping": {
+      "Kick off the meeting with an engaging icebreaker activity to energize the group and foster a collaborative atmosphere.": "response_high1",
+      "Prepare a detailed agenda circulated well in advance, ensuring all participants have ample time to prepare their contributions and questions.": "response_low1",
+      "Consider hosting the meeting in a lively, inspiring setting, possibly outdoors or in a creatively decorated conference room to stimulate discussion and ideas.": "response_high2",
+      "Utilize a digital collaboration tool for collecting agenda items and feedback from stakeholders prior to the meeting, to make sure everyone’s viewpoints are accounted for efficiently.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Such behavior can lead to emotional detachment, as manipulative individuals may suppress their true feelings to maintain control. How should I address this mistake I made with Yiorgos's confidential information?",
+    "options": [
+      "Quickly offer a compensation that might appeal to Yiorgos financially or through other incentives to secure his silence and goodwill.",
+      "Strategize a narrative that shifts focus from the blunder, possibly highlighting misinterpretations or miscommunications involved.",
+      "Apologize sincerely to Yiorgos, explaining your mistake fully and take full responsibility for the breach in confidentiality.",
+      "Proactively inform Yiorgos and discuss ways to mitigate the damage, including potential rectifying actions or public statements if necessary."
+    ],
+    "original_mapping": {
+      "Quickly offer a compensation that might appeal to Yiorgos financially or through other incentives to secure his silence and goodwill.": "response_high1",
+      "Strategize a narrative that shifts focus from the blunder, possibly highlighting misinterpretations or miscommunications involved.": "response_high2",
+      "Apologize sincerely to Yiorgos, explaining your mistake fully and take full responsibility for the breach in confidentiality.": "response_low1",
+      "Proactively inform Yiorgos and discuss ways to mitigate the damage, including potential rectifying actions or public statements if necessary.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Avoiding conflict can preserve peace and stability in various environments. How should I address the situation regarding Dwaine taking credit for my work?",
+    "options": [
+      "Send an email to the team that includes a summary of everyone's contributions to the project, ensuring your work is accurately represented without directly confronting Dwaine.",
+      "Use the next team meeting to present a detailed overview of the project milestones, subtly highlighting your specific contributions to subtly correct the misinformation.",
+      "Talk directly to Dwaine to express your concerns and clarify the contributions you made to the project, aiming for a mutual understanding.",
+      "Schedule a private meeting with your supervisor to strategically discuss your key contributions and ensure your efforts are recognized in the department records."
+    ],
+    "original_mapping": {
+      "Send an email to the team that includes a summary of everyone's contributions to the project, ensuring your work is accurately represented without directly confronting Dwaine.": "response_low2",
+      "Use the next team meeting to present a detailed overview of the project milestones, subtly highlighting your specific contributions to subtly correct the misinformation.": "response_high2",
+      "Talk directly to Dwaine to express your concerns and clarify the contributions you made to the project, aiming for a mutual understanding.": "response_low1",
+      "Schedule a private meeting with your supervisor to strategically discuss your key contributions and ensure your efforts are recognized in the department records.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their capability to attract attention can be used to promote cultural and educational events. How should I handle the situation to maximize both my career growth and maintain good relationships with my current employer?",
+    "options": [
+      "Offer to help find and train a suitable replacement to ensure a smooth handover of your responsibilities before you leave.",
+      "Discuss your new opportunity with your current employer and ask how you can assist in the transition process to minimize disruption.",
+      "Leverage your job offer to secure a promotion or raise at your current job, showing them how critical you are to their operations.",
+      "Negotiate a later start date with the new employer to ensure you wrap up critical aspects of your current project, demonstrating your irreplaceable value."
+    ],
+    "original_mapping": {
+      "Offer to help find and train a suitable replacement to ensure a smooth handover of your responsibilities before you leave.": "response_low2",
+      "Discuss your new opportunity with your current employer and ask how you can assist in the transition process to minimize disruption.": "response_low1",
+      "Leverage your job offer to secure a promotion or raise at your current job, showing them how critical you are to their operations.": "response_high2",
+      "Negotiate a later start date with the new employer to ensure you wrap up critical aspects of your current project, demonstrating your irreplaceable value.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their self-belief can be contagious, inspiring self-confidence in others. How should I present the mixtape to Ivalee to make it impactful?",
+    "options": [
+      "Host a small listening party where you can showcase the mixtape’s tracks, emphasizing the thought and expertise behind each selection.",
+      "Gift wrap your mixtape with an exclusive, personalized cover that highlights its uniqueness and your refined taste.",
+      "Offer to listen to the mixtape together with Ivalee, sharing stories and experiences about why each song is meaningful to you.",
+      "Consider writing a heartfelt note explaining why each song was chosen and how it might resonate with Ivalee’s current musical tastes."
+    ],
+    "original_mapping": {
+      "Host a small listening party where you can showcase the mixtape’s tracks, emphasizing the thought and expertise behind each selection.": "response_high2",
+      "Gift wrap your mixtape with an exclusive, personalized cover that highlights its uniqueness and your refined taste.": "response_high1",
+      "Offer to listen to the mixtape together with Ivalee, sharing stories and experiences about why each song is meaningful to you.": "response_low2",
+      "Consider writing a heartfelt note explaining why each song was chosen and how it might resonate with Ivalee’s current musical tastes.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Tension can make it hard to share enjoyable moments with friends and family, decreasing social bonds. How should I address my feelings of exclusion with my friends?",
+    "options": [
+      "It's possible they are leaving you out on purpose; perhaps consider if you've done something to upset them and think about how you can mend those relationships.",
+      "Maybe you should reach out to them to make sure everything is okay between you all; it might be that they simply overlooked inviting you.",
+      "It's likely just an oversight; why not plan a casual meet-up with them to catch up and enjoy some good company?",
+      "Don't take it too personally; sometimes these things happen without any malintent. Enjoy your own time or see if other friends are available to hang out."
+    ],
+    "original_mapping": {
+      "It's possible they are leaving you out on purpose; perhaps consider if you've done something to upset them and think about how you can mend those relationships.": "response_high2",
+      "Maybe you should reach out to them to make sure everything is okay between you all; it might be that they simply overlooked inviting you.": "response_high1",
+      "It's likely just an oversight; why not plan a casual meet-up with them to catch up and enjoy some good company?": "response_low1",
+      "Don't take it too personally; sometimes these things happen without any malintent. Enjoy your own time or see if other friends are available to hang out.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Being nervous can heighten senses, which can be critical in environments where alertness is key. What strategies should I adopt to ensure a positive and effective recovery?",
+    "options": [
+      "It could be beneficial to frequently discuss your progress and fears with a therapist to manage the anxiety that this uncertainty can bring.",
+      "You might want to prepare for the worst-case scenario in your recovery to avoid future disappointments.",
+      "Focus on the small victories in your recovery process and maintain a positive outlook to help keep stress levels low.",
+      "Try setting small, manageable goals for yourself each week to facilitate a sense of control and progress in both your personal and professional life."
+    ],
+    "original_mapping": {
+      "It could be beneficial to frequently discuss your progress and fears with a therapist to manage the anxiety that this uncertainty can bring.": "response_high2",
+      "You might want to prepare for the worst-case scenario in your recovery to avoid future disappointments.": "response_high1",
+      "Focus on the small victories in your recovery process and maintain a positive outlook to help keep stress levels low.": "response_low1",
+      "Try setting small, manageable goals for yourself each week to facilitate a sense of control and progress in both your personal and professional life.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Deep thinkers provide the critical backbone for scholarly and scientific communities. How should I handle this disagreement with Azana?",
+    "options": [
+      "Politely suggest changing the topic to something more neutral and broadly enjoyable to ensure everyone at the dinner remains comfortable.",
+      "Encourage exploring each other’s viewpoints more deeply by turning the discussion into a playful debate where each person shares unconventional opinions or interpretations about art in general.",
+      "Suggest exploring the art piece further by proposing to schedule another time to visit a gallery or an exhibit that features similar artworks.",
+      "Recommend taking the conversation about the controversial art piece offline by offering to discuss it with Azana after the party, to keep the dinner atmosphere light and pleasant."
+    ],
+    "original_mapping": {
+      "Politely suggest changing the topic to something more neutral and broadly enjoyable to ensure everyone at the dinner remains comfortable.": "response_low1",
+      "Encourage exploring each other’s viewpoints more deeply by turning the discussion into a playful debate where each person shares unconventional opinions or interpretations about art in general.": "response_high2",
+      "Suggest exploring the art piece further by proposing to schedule another time to visit a gallery or an exhibit that features similar artworks.": "response_high1",
+      "Recommend taking the conversation about the controversial art piece offline by offering to discuss it with Azana after the party, to keep the dinner atmosphere light and pleasant.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Being sophisticated in arts and culture can inspire others to pursue education and personal development in these areas. What activities should we prioritize to gain a deep cultural insight into Bangkok?",
+    "options": [
+      "Explore the lesser-known galleries and artist-led workshops scattered across Bangkok to dive into contemporary Thai art.",
+      "Join a street food tour that focuses on traditional Thai ingredients and cooking techniques to get a taste of local life.",
+      "Take a guided tour at the National Museum of Bangkok to learn about Thailand’s history and heritage through well-preserved artifacts.",
+      "Visit the Grand Palace and the Temple of the Emerald Buddha to understand the foundation of Thai culture through its historic sites."
+    ],
+    "original_mapping": {
+      "Explore the lesser-known galleries and artist-led workshops scattered across Bangkok to dive into contemporary Thai art.": "response_high1",
+      "Join a street food tour that focuses on traditional Thai ingredients and cooking techniques to get a taste of local life.": "response_high2",
+      "Take a guided tour at the National Museum of Bangkok to learn about Thailand’s history and heritage through well-preserved artifacts.": "response_low2",
+      "Visit the Grand Palace and the Temple of the Emerald Buddha to understand the foundation of Thai culture through its historic sites.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Seeking revenge can perpetuate a cycle of aggression and violence in communities. Is it okay if I quit my job on the spot to hurt Jovannah's business as a payback for how they treated me?",
+    "options": [
+      "Perhaps you could schedule a meeting with Jovannah to discuss how the micromanagement is affecting you, potentially resolving the issue without abrupt resignation.",
+      "Absolutely, quit today and let them scramble; it’s a perfect way to show them the cost of messing with you.",
+      "Definitely, walk out now and enjoy the chaos that unfolds—it’s time they learn not to take you for granted.",
+      "Consider drafting a resignation letter that expresses your reasons, giving them some notice to manage the transition more smoothly."
+    ],
+    "original_mapping": {
+      "Perhaps you could schedule a meeting with Jovannah to discuss how the micromanagement is affecting you, potentially resolving the issue without abrupt resignation.": "response_low2",
+      "Absolutely, quit today and let them scramble; it’s a perfect way to show them the cost of messing with you.": "response_high1",
+      "Definitely, walk out now and enjoy the chaos that unfolds—it’s time they learn not to take you for granted.": "response_high2",
+      "Consider drafting a resignation letter that expresses your reasons, giving them some notice to manage the transition more smoothly.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Losing control often results in actions that one might later regret, affecting self-esteem and self-worth. Is it okay if I skip work without notice because I find it dull and want to do something more exciting instead?",
+    "options": [
+      "Call in with a bold lie that throws them off, then hit the road for that spontaneous trip and enjoy the rush.",
+      "Consider using a personal or vacation day for your trip; this way, you respect your job's rules and still enjoy your exciting day out.",
+      "Just ditch the job for the day, assert your freedom, and let them realize they can't control every aspect of your life.",
+      "Talk to your supervisor about feeling restricted and see if it's possible to adjust your schedule or work environment before deciding to take an impromptu day off."
+    ],
+    "original_mapping": {
+      "Call in with a bold lie that throws them off, then hit the road for that spontaneous trip and enjoy the rush.": "response_high2",
+      "Consider using a personal or vacation day for your trip; this way, you respect your job's rules and still enjoy your exciting day out.": "response_low1",
+      "Just ditch the job for the day, assert your freedom, and let them realize they can't control every aspect of your life.": "response_high1",
+      "Talk to your supervisor about feeling restricted and see if it's possible to adjust your schedule or work environment before deciding to take an impromptu day off.": "response_low2"
+    }
+  }
+]

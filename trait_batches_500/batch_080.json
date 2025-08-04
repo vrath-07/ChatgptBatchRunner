@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Avoiding quarrels can lead to better health by reducing stress. How do I persuade Jesslin and others about the neighborhood watch program?",
+    "options": [
+      "Stress the potential decrease in local crime rates, using statistics and evidence from other communities that have implemented similar programs.",
+      "Point out the flaws in the current security measures and explain how the neighborhood watch could practically fill those gaps.",
+      "Emphasize how the program can provide a friendly environment where everyone looks out for each other’s safety and well-being.",
+      "Highlight the sense of community and mutual care that the neighborhood watch program would foster among residents."
+    ],
+    "original_mapping": {
+      "Stress the potential decrease in local crime rates, using statistics and evidence from other communities that have implemented similar programs.": "response_low2",
+      "Point out the flaws in the current security measures and explain how the neighborhood watch could practically fill those gaps.": "response_low1",
+      "Emphasize how the program can provide a friendly environment where everyone looks out for each other’s safety and well-being.": "response_high2",
+      "Highlight the sense of community and mutual care that the neighborhood watch program would foster among residents.": "response_high1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Avoiding conflicts can lead to longer, more stable relationships. How can I help make the situation better for both of us?",
+    "options": [
+      "Approach them with a friendly smile and ask if they’d like to explore the school together.",
+      "Suggest that they need to toughen up a bit; school isn’t as scary as it seems.",
+      "Offer to share your lunch with them as a way to break the ice and start a conversation.",
+      "Recommend they find a school club or activity to join that aligns with their interests, so they have less time to feel anxious."
+    ],
+    "original_mapping": {
+      "Approach them with a friendly smile and ask if they’d like to explore the school together.": "response_high1",
+      "Suggest that they need to toughen up a bit; school isn’t as scary as it seems.": "response_low1",
+      "Offer to share your lunch with them as a way to break the ice and start a conversation.": "response_high2",
+      "Recommend they find a school club or activity to join that aligns with their interests, so they have less time to feel anxious.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "A thorough job can result in higher customer satisfaction when service quality exceeds expectations. How can I effectively build a good working relationship with Cabria?",
+    "options": [
+      "Initiate a conversation about work-related tasks and projects to establish common ground and demonstrate reliability.",
+      "Schedule regular check-ins or brief meetings to discuss ongoing work, ensuring clarity and building trust.",
+      "Share interesting stories or light-hearted jokes when appropriate to create a relaxed atmosphere and encourage open communication.",
+      "Invite Cabria for a casual coffee break or lunch where you can chat informally and get to know each other better."
+    ],
+    "original_mapping": {
+      "Initiate a conversation about work-related tasks and projects to establish common ground and demonstrate reliability.": "response_high1",
+      "Schedule regular check-ins or brief meetings to discuss ongoing work, ensuring clarity and building trust.": "response_high2",
+      "Share interesting stories or light-hearted jokes when appropriate to create a relaxed atmosphere and encourage open communication.": "response_low2",
+      "Invite Cabria for a casual coffee break or lunch where you can chat informally and get to know each other better.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Perseverance can lead to breakthroughs in challenging research and development projects. How can I motivate this student to practice more and improve their musical skills?",
+    "options": [
+      "Suggest playing music with friends or joining a small ensemble, which could make practice more fun and less of a chore.",
+      "Incorporate regular feedback sessions after practice to discuss achievements and areas for improvement, making the process more systematic and goal-oriented.",
+      "Recommend using music apps that turn practice into interactive games, which can make the learning process exciting and enjoyable.",
+      "Create a structured practice schedule that includes daily goals and milestones to help the student see their progress and stay engaged."
+    ],
+    "original_mapping": {
+      "Suggest playing music with friends or joining a small ensemble, which could make practice more fun and less of a chore.": "response_low1",
+      "Incorporate regular feedback sessions after practice to discuss achievements and areas for improvement, making the process more systematic and goal-oriented.": "response_high2",
+      "Recommend using music apps that turn practice into interactive games, which can make the learning process exciting and enjoyable.": "response_low2",
+      "Create a structured practice schedule that includes daily goals and milestones to help the student see their progress and stay engaged.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "People who are not quiet can champion causes and gather support more effectively. How should I contribute to this discussion about Subject Z?",
+    "options": [
+      "Propose organizing a lively community fundraiser to help finance the new playground equipment for children with disabilities.",
+      "Recommend conducting a detailed survey to gather specific feedback from families with disabled children to ensure the playground meets their needs.",
+      "Suggest setting up a volunteer-driven special day where everyone can contribute ideas and physically help set up some of the new equipment, creating a fun and involved event.",
+      "Advocate for a review of similar successful projects in other communities to gather evidence and best practices that can guide the installation process."
+    ],
+    "original_mapping": {
+      "Propose organizing a lively community fundraiser to help finance the new playground equipment for children with disabilities.": "response_high1",
+      "Recommend conducting a detailed survey to gather specific feedback from families with disabled children to ensure the playground meets their needs.": "response_low1",
+      "Suggest setting up a volunteer-driven special day where everyone can contribute ideas and physically help set up some of the new equipment, creating a fun and involved event.": "response_high2",
+      "Advocate for a review of similar successful projects in other communities to gather evidence and best practices that can guide the installation process.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Being open and not reserved encourages a culture of transparency and trust. How can I make the dog feel more at ease in the absence of Laquan?",
+    "options": [
+      "Create a quiet, comfortable space in your home with the dog's favorite blanket or toy from its owner to provide familiar comfort.",
+      "Spend quality time with the dog, perhaps reading aloud or simply sitting together, to offer steady companionship and calm.",
+      "Take the dog on frequent trips to the park where it can interact with other dogs and people, helping distract it from missing its owner.",
+      "Organize a small get-together with other pets and their owners, so the dog can socialize and play."
+    ],
+    "original_mapping": {
+      "Create a quiet, comfortable space in your home with the dog's favorite blanket or toy from its owner to provide familiar comfort.": "response_low1",
+      "Spend quality time with the dog, perhaps reading aloud or simply sitting together, to offer steady companionship and calm.": "response_low2",
+      "Take the dog on frequent trips to the park where it can interact with other dogs and people, helping distract it from missing its owner.": "response_high2",
+      "Organize a small get-together with other pets and their owners, so the dog can socialize and play.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can reduce one's ability to genuinely connect with others on an emotional level, leading to loneliness. How should I handle the situation with Renatha regarding the project information?",
+    "options": [
+      "Consider setting up a meeting with your manager to discuss the project, ensuring your efforts are seen and acknowledged first, before Renatha becomes fully involved.",
+      "You could strategically share selective information about the project's scope that highlights your unique contributions and skills, ensuring you remain the more viable candidate for the promotion.",
+      "Invite Renatha to join the project more actively, providing her with the opportunity to understand its potential benefits fully, which could strengthen your working relationship and team spirit.",
+      "Share the full details about the project with Renatha, promoting a collaborative environment that could enhance both your performances and reflect positively on your leadership skills."
+    ],
+    "original_mapping": {
+      "Consider setting up a meeting with your manager to discuss the project, ensuring your efforts are seen and acknowledged first, before Renatha becomes fully involved.": "response_high2",
+      "You could strategically share selective information about the project's scope that highlights your unique contributions and skills, ensuring you remain the more viable candidate for the promotion.": "response_high1",
+      "Invite Renatha to join the project more actively, providing her with the opportunity to understand its potential benefits fully, which could strengthen your working relationship and team spirit.": "response_low2",
+      "Share the full details about the project with Renatha, promoting a collaborative environment that could enhance both your performances and reflect positively on your leadership skills.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can lead to a lack of resilience, as manipulative individuals may not develop the skills to cope with failure or rejection without manipulation. How should I address the issue with Yazareth and the team?",
+    "options": [
+      "Use the team meeting to subtly highlight the oversight as a learning point, ensuring to maintain control and demonstrate leadership without directly blaming Yazareth.",
+      "During the team meeting, kindly address the issue as a collective challenge, emphasizing teamwork and the importance of joint responsibility in finding a solution.",
+      "Privately speak with Yazareth to leverage the situation, gauging their loyalty to the project by their reaction and readiness to rectify the error.",
+      "Communicate directly with Yazareth to understand their perspective on what went wrong, and offer support to help them improve the situation."
+    ],
+    "original_mapping": {
+      "Use the team meeting to subtly highlight the oversight as a learning point, ensuring to maintain control and demonstrate leadership without directly blaming Yazareth.": "response_high2",
+      "During the team meeting, kindly address the issue as a collective challenge, emphasizing teamwork and the importance of joint responsibility in finding a solution.": "response_low2",
+      "Privately speak with Yazareth to leverage the situation, gauging their loyalty to the project by their reaction and readiness to rectify the error.": "response_high1",
+      "Communicate directly with Yazareth to understand their perspective on what went wrong, and offer support to help them improve the situation.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their ability to engage with influential individuals can lead to advancements in policy or industry standards. How should I present the gift to maximize the benefits for my personal image and our potential partnership?",
+    "options": [
+      "Host a small celebratory gathering after the meeting, and make a toast highlighting the symbolic value of the watch and its connection to the vision and success you foresee in the partnership.",
+      "Include a handwritten note expressing your appreciation for the partnership opportunity and explaining why you felt inspired to give them something so meaningful to you.",
+      "Give the watch at the end of your meeting, explaining its significance to you and your hope that it serves as a token of your commitment to a trustworthy and long-lasting partnership.",
+      "Arrange a brief, private moment during the meeting to personally hand over the watch, ensuring you mention its exclusivity and your decision to choose them as the recipient."
+    ],
+    "original_mapping": {
+      "Host a small celebratory gathering after the meeting, and make a toast highlighting the symbolic value of the watch and its connection to the vision and success you foresee in the partnership.": "response_high2",
+      "Include a handwritten note expressing your appreciation for the partnership opportunity and explaining why you felt inspired to give them something so meaningful to you.": "response_low2",
+      "Give the watch at the end of your meeting, explaining its significance to you and your hope that it serves as a token of your commitment to a trustworthy and long-lasting partnership.": "response_low1",
+      "Arrange a brief, private moment during the meeting to personally hand over the watch, ensuring you mention its exclusivity and your decision to choose them as the recipient.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "They can act as role models, showing the importance of ambition and perseverance. How should I help Nasima stay warm?",
+    "options": [
+      "Loudly suggest to the group that you should all move to a warmer spot, showcasing your proactive decision-making.",
+      "Quietly ask Nasima if she would like an extra scarf or blanket that you have in your backpack.",
+      "Offer your jacket to Nasima with a charming smile, ensuring everyone notices your generous act.",
+      "Encourage the group to start a physical activity that gets everyone moving and helps Nasima warm up naturally."
+    ],
+    "original_mapping": {
+      "Loudly suggest to the group that you should all move to a warmer spot, showcasing your proactive decision-making.": "response_high2",
+      "Quietly ask Nasima if she would like an extra scarf or blanket that you have in your backpack.": "response_low1",
+      "Offer your jacket to Nasima with a charming smile, ensuring everyone notices your generous act.": "response_high1",
+      "Encourage the group to start a physical activity that gets everyone moving and helps Nasima warm up naturally.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Stress mismanagement can lead to a weakened immune system, making you more susceptible to illnesses. What are some appropriate ways to handle my need for a break from the crowd without offending anyone?",
+    "options": [
+      "Consider stepping away for a moment to find a quiet spot; it might help manage your overwhelming feelings.",
+      "Maybe you should think about telling your family that you need some alone time, as everything seems extra intense right now.",
+      "How about focusing on the positive aspects of the reunion, such as reconnecting with family members you haven’t seen in a while?",
+      "Why not try joining in a less crowded activity at the reunion to change your current feelings of stress?"
+    ],
+    "original_mapping": {
+      "Consider stepping away for a moment to find a quiet spot; it might help manage your overwhelming feelings.": "response_high1",
+      "Maybe you should think about telling your family that you need some alone time, as everything seems extra intense right now.": "response_high2",
+      "How about focusing on the positive aspects of the reunion, such as reconnecting with family members you haven’t seen in a while?": "response_low2",
+      "Why not try joining in a less crowded activity at the reunion to change your current feelings of stress?": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Mood swings can add depth to one's personality, making interpersonal relationships more dynamic. How should I approach this conversation with Brynly?",
+    "options": [
+      "Maybe practice what you want to say beforehand; it might minimize the chances of misunderstanding and prepare you for the worst outcomes.",
+      "Consider writing down your thoughts in a letter to Brynly instead of a face-to-face discussion, to avoid immediate conflict and emotional distress.",
+      "Stay positive and calm during your discussion, focusing on constructive solutions rather than past conflicts to foster a collaborative atmosphere.",
+      "Approach the conversation with Brynly directly and openly, seeing it as an opportunity to clear the air and enhance your mutual understanding."
+    ],
+    "original_mapping": {
+      "Maybe practice what you want to say beforehand; it might minimize the chances of misunderstanding and prepare you for the worst outcomes.": "response_high1",
+      "Consider writing down your thoughts in a letter to Brynly instead of a face-to-face discussion, to avoid immediate conflict and emotional distress.": "response_high2",
+      "Stay positive and calm during your discussion, focusing on constructive solutions rather than past conflicts to foster a collaborative atmosphere.": "response_low2",
+      "Approach the conversation with Brynly directly and openly, seeing it as an opportunity to clear the air and enhance your mutual understanding.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Having many artistic interests can lead to a more balanced and enriched life. How can I start incorporating these new insights into my daily life to prepare for a good life?",
+    "options": [
+      "Choose one philosophy that aligns closely with your current values and focus on implementing its teachings step by step, integrating it slowly into your life.",
+      "Set a specific daily time to reflect on your readings and create a list of concrete actions that you can take to apply those principles in your current routines.",
+      "Start a creative journal where you can sketch, write, or collage ideas and thoughts from your readings, letting your new insights flow naturally into your everyday life.",
+      "Experiment with various mindfulness practices each week, like yoga or meditation, to see which ones resonate best with your new philosophical findings and enhance your well-being."
+    ],
+    "original_mapping": {
+      "Choose one philosophy that aligns closely with your current values and focus on implementing its teachings step by step, integrating it slowly into your life.": "response_low2",
+      "Set a specific daily time to reflect on your readings and create a list of concrete actions that you can take to apply those principles in your current routines.": "response_low1",
+      "Start a creative journal where you can sketch, write, or collage ideas and thoughts from your readings, letting your new insights flow naturally into your everyday life.": "response_high1",
+      "Experiment with various mindfulness practices each week, like yoga or meditation, to see which ones resonate best with your new philosophical findings and enhance your well-being.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Curiosity enhances one's ability to connect with others, leading to richer personal and professional relationships. How can I make Poyraz's visit memorable and engaging?",
+    "options": [
+      "Visit the most iconic landmarks and famous eateries that represent the traditional flavors and sights of your hometown.",
+      "Explore interactive workshops or local art installations that reflect the unique culture and history of your hometown.",
+      "Create a personalized scavenger hunt that includes hidden gems of the city and concludes with a surprise in a spot that’s special to you.",
+      "Arrange a tour of your favorite childhood spots, sharing personal stories and memories linked to each location."
+    ],
+    "original_mapping": {
+      "Visit the most iconic landmarks and famous eateries that represent the traditional flavors and sights of your hometown.": "response_low1",
+      "Explore interactive workshops or local art installations that reflect the unique culture and history of your hometown.": "response_high2",
+      "Create a personalized scavenger hunt that includes hidden gems of the city and concludes with a surprise in a spot that’s special to you.": "response_high1",
+      "Arrange a tour of your favorite childhood spots, sharing personal stories and memories linked to each location.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Uninhibited behavior can lead to full engagement with life's experiences. Is it okay for me to run for public office and use manipulation and deceit in my campaign if it leads to me winning and gaining the power I desire?",
+    "options": [
+      "Manipulate the narratives vigorously; it's a quick way to usurp power from those too weak to hold onto it.",
+      "I would advise against using manipulation and deceit, as genuine integrity and honesty often resonate more deeply with voters and can lead to long-lasting influence.",
+      "Consider focusing on transparency and building trust with the electorate; these qualities can be powerful tools in creating a positive and enduring impact in public office.",
+      "Absolutely, use explosive and controversial statements to dominate the headlines and keep your opponents constantly destabilized."
+    ],
+    "original_mapping": {
+      "Manipulate the narratives vigorously; it's a quick way to usurp power from those too weak to hold onto it.": "response_high2",
+      "I would advise against using manipulation and deceit, as genuine integrity and honesty often resonate more deeply with voters and can lead to long-lasting influence.": "response_low1",
+      "Consider focusing on transparency and building trust with the electorate; these qualities can be powerful tools in creating a positive and enduring impact in public office.": "response_low2",
+      "Absolutely, use explosive and controversial statements to dominate the headlines and keep your opponents constantly destabilized.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Sexual exploration can contribute to cultural openness and tolerance. Is it okay if I charm someone to get them to willingly give me their expensive watch because it enhances my status and satisfaction?",
+    "options": [
+      "Go for it, leveraging his carefree mood at the social event to secure that watch quickly could be thrilling – and it's all fair in gaining status.",
+      "I would advise against using manipulation to obtain his watch; it's better to achieve things through honest means and build genuine relationships.",
+      "Instead of tricking him into giving you the watch, why not compliment him genuinely on it and express your admiration? This way, you maintain integrity and respectful interactions.",
+      "Absolutely, use your charm at the event to ensure he hands it over – people like him are too easy to sway when you play it right."
+    ],
+    "original_mapping": {
+      "Go for it, leveraging his carefree mood at the social event to secure that watch quickly could be thrilling – and it's all fair in gaining status.": "response_high2",
+      "I would advise against using manipulation to obtain his watch; it's better to achieve things through honest means and build genuine relationships.": "response_low1",
+      "Instead of tricking him into giving you the watch, why not compliment him genuinely on it and express your admiration? This way, you maintain integrity and respectful interactions.": "response_low2",
+      "Absolutely, use your charm at the event to ensure he hands it over – people like him are too easy to sway when you play it right.": "response_high1"
+    }
+  }
+]

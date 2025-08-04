@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Cooperation can lead to greater resource conservation. How should I go about selling my products to potential customers?",
+    "options": [
+      "Display a clear, no-nonsense sign that highlights the advantages of your soap over commercially produced ones, focusing on the organic aspect.",
+      "Offer free samples to visitors so they can experience the quality and scent of your soaps before buying.",
+      "Set competitive prices that undercut other vendors, ensuring your soaps appear as the best deal at the market.",
+      "Greet each visitor warmly and engage them with stories about how each soap is made and the benefits of organic ingredients."
+    ],
+    "original_mapping": {
+      "Display a clear, no-nonsense sign that highlights the advantages of your soap over commercially produced ones, focusing on the organic aspect.": "response_low2",
+      "Offer free samples to visitors so they can experience the quality and scent of your soaps before buying.": "response_high1",
+      "Set competitive prices that undercut other vendors, ensuring your soaps appear as the best deal at the market.": "response_low1",
+      "Greet each visitor warmly and engage them with stories about how each soap is made and the benefits of organic ingredients.": "response_high2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Unselfishness might lead to personal financial strain as resources are overly allocated to others. How should I react to losing sight of Rodericka in a crowded place?",
+    "options": [
+      "Immediately call Rodericka’s cell phone, if she has one, and tell her to stay where she is or meet at a pre-agreed spot.",
+      "Quickly find a festival official or security personnel to alert them and ask for help in locating Rodericka.",
+      "Make an announcement at the nearest information or help desk, providing a description of Rodericka so they can broadcast it to assist in finding her.",
+      "Retrace your steps to the last point you saw Rodericka, making sure to check all areas thoroughly yourself."
+    ],
+    "original_mapping": {
+      "Immediately call Rodericka’s cell phone, if she has one, and tell her to stay where she is or meet at a pre-agreed spot.": "response_low2",
+      "Quickly find a festival official or security personnel to alert them and ask for help in locating Rodericka.": "response_high1",
+      "Make an announcement at the nearest information or help desk, providing a description of Rodericka so they can broadcast it to assist in finding her.": "response_high2",
+      "Retrace your steps to the last point you saw Rodericka, making sure to check all areas thoroughly yourself.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Following plans without deviation can lead to a lack of creativity and spontaneity. Should I submit the report with the critique as is, or should I revise it to be more constructive?",
+    "options": [
+      "Just submit it as is; it's honest, and transparency is key, even if it's blunt.",
+      "You could leave it; maybe Myleene needs to hear someone's raw opinion to really kickstart a change.",
+      "Revise the critique to be constructive and factual, ensuring it's beneficial for both Myleene's growth and team harmony.",
+      "Consider rephrasing your report to include specific suggestions for improvement along with the critique to foster a positive work environment."
+    ],
+    "original_mapping": {
+      "Just submit it as is; it's honest, and transparency is key, even if it's blunt.": "response_low1",
+      "You could leave it; maybe Myleene needs to hear someone's raw opinion to really kickstart a change.": "response_low2",
+      "Revise the critique to be constructive and factual, ensuring it's beneficial for both Myleene's growth and team harmony.": "response_high1",
+      "Consider rephrasing your report to include specific suggestions for improvement along with the critique to foster a positive work environment.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Not being easily distracted can result in a lack of multi-tasking ability. Should I ask Tanairi to help me with my presentation?",
+    "options": [
+      "Maybe just ask Tanairi for some informal feedback on your presentation content; it’s a light way to involve her without too much commitment.",
+      "You should definitely delegate some preparatory tasks to Tanairi; it will help you manage your workload effectively and ensure everything is ready on time.",
+      "Consider organizing a brief meeting with Tanairi to discuss key pointers of the presentation, ensuring alignment and leveraging her available time for optimal productivity.",
+      "Why not ask Tanairi to jazz up your presentation slides? It could be more engaging and fun."
+    ],
+    "original_mapping": {
+      "Maybe just ask Tanairi for some informal feedback on your presentation content; it’s a light way to involve her without too much commitment.": "response_low2",
+      "You should definitely delegate some preparatory tasks to Tanairi; it will help you manage your workload effectively and ensure everything is ready on time.": "response_high1",
+      "Consider organizing a brief meeting with Tanairi to discuss key pointers of the presentation, ensuring alignment and leveraging her available time for optimal productivity.": "response_high2",
+      "Why not ask Tanairi to jazz up your presentation slides? It could be more engaging and fun.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "People who are not quiet can be effective in roles that require public engagement. How should I approach building a friendship with Dhasia now?",
+    "options": [
+      "Start by asking Dhasia about their interests or hobbies next time you have a one-on-one meeting or a quiet moment in the office.",
+      "Invite Dhasia out for a group lunch or team bonding activity where you can both interact in a more casual setting.",
+      "Maybe send an email to Dhasia commending them on their recent work and subtly include a personal question to initiate a friendly dialogue.",
+      "Organize a fun team-building event outside of work like an escape room game which will help you both open up and connect personally."
+    ],
+    "original_mapping": {
+      "Start by asking Dhasia about their interests or hobbies next time you have a one-on-one meeting or a quiet moment in the office.": "response_low1",
+      "Invite Dhasia out for a group lunch or team bonding activity where you can both interact in a more casual setting.": "response_high1",
+      "Maybe send an email to Dhasia commending them on their recent work and subtly include a personal question to initiate a friendly dialogue.": "response_low2",
+      "Organize a fun team-building event outside of work like an escape room game which will help you both open up and connect personally.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Sociable individuals can bridge gaps between different groups, fostering unity. How can I use this opportunity to not only perform well but also expand my social network?",
+    "options": [
+      "Offer to collaborate with other local artists or bands and propose an exchange of promotional efforts on each other's platforms.",
+      "Organize an exciting after-party and invite other musicians and attendees to mingle and share their music interests.",
+      "Create a professional social media page for your band where you can connect with other artists and fans, and post regular updates about your music journey.",
+      "During the concert, encourage audience participation through sing-alongs or dance-offs, making memorable connections organically through lively activities."
+    ],
+    "original_mapping": {
+      "Offer to collaborate with other local artists or bands and propose an exchange of promotional efforts on each other's platforms.": "response_low2",
+      "Organize an exciting after-party and invite other musicians and attendees to mingle and share their music interests.": "response_high1",
+      "Create a professional social media page for your band where you can connect with other artists and fans, and post regular updates about your music journey.": "response_low1",
+      "During the concert, encourage audience participation through sing-alongs or dance-offs, making memorable connections organically through lively activities.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Such behavior can lead to a lack of moral clarity, where the lines between right and wrong become blurred. Should I invite Kainen to the event despite knowing their personal situation?",
+    "options": [
+      "Invite Kainen and offer an exclusive, comfortable space at the event where they can relax and be away from the crowd if needed.",
+      "Consider postponing the invitation, and instead offer to spend some quality time together in a more private setting, showing support for their current challenges.",
+      "Reach out to Kainen with a sincere message, sharing the invitation but fully acknowledging their current situation with no pressure to attend.",
+      "Suggest a brief appearance to Kainen, highlighting how their presence, even for a short time, could be mutually beneficial."
+    ],
+    "original_mapping": {
+      "Invite Kainen and offer an exclusive, comfortable space at the event where they can relax and be away from the crowd if needed.": "response_high1",
+      "Consider postponing the invitation, and instead offer to spend some quality time together in a more private setting, showing support for their current challenges.": "response_low2",
+      "Reach out to Kainen with a sincere message, sharing the invitation but fully acknowledging their current situation with no pressure to attend.": "response_low1",
+      "Suggest a brief appearance to Kainen, highlighting how their presence, even for a short time, could be mutually beneficial.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Clever manipulation might be used to navigate complex situations where direct action is not feasible. How can I assist Annabellah in a way that also benefits my position within the company?",
+    "options": [
+      "Offer to take over some of the project responsibilities, highlighting your skills and positioning yourself as indispensable for future initiatives.",
+      "Suggest a strategy meeting with key decision-makers to discuss the project's challenges, ensuring your involvement is noticed and appreciated by upper management.",
+      "Organize a team brainstorming session that will boost the project's progress and morale, emphasizing collaborative success.",
+      "Encourage Annabellah to share her specific concerns and provide supportive feedback to help her address these challenges directly."
+    ],
+    "original_mapping": {
+      "Offer to take over some of the project responsibilities, highlighting your skills and positioning yourself as indispensable for future initiatives.": "response_high1",
+      "Suggest a strategy meeting with key decision-makers to discuss the project's challenges, ensuring your involvement is noticed and appreciated by upper management.": "response_high2",
+      "Organize a team brainstorming session that will boost the project's progress and morale, emphasizing collaborative success.": "response_low2",
+      "Encourage Annabellah to share her specific concerns and provide supportive feedback to help her address these challenges directly.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can foster an environment where genuine talent and skill are undervalued compared to loyalty to the narcissist. How should I approach the team-building escape game to foster teamwork and personal growth?",
+    "options": [
+      "Listen actively to your teammates' suggestions and offer constructive feedback to enhance group cohesion and mutual respect.",
+      "Take charge early in the game to direct the team’s strategy, ensuring your leadership is seen and acknowledged.",
+      "Propose innovative solutions to challenges, positioning yourself as the key problem solver in the group.",
+      "Encourage every team member to contribute ideas, fostering a collaborative environment."
+    ],
+    "original_mapping": {
+      "Listen actively to your teammates' suggestions and offer constructive feedback to enhance group cohesion and mutual respect.": "response_low2",
+      "Take charge early in the game to direct the team’s strategy, ensuring your leadership is seen and acknowledged.": "response_high1",
+      "Propose innovative solutions to challenges, positioning yourself as the key problem solver in the group.": "response_high2",
+      "Encourage every team member to contribute ideas, fostering a collaborative environment.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their leadership can foster a sense of purpose and direction in teams and organizations. How should I address the team to maximize productivity and ensure we meet our deadline?",
+    "options": [
+      "Encourage open communication and regular check-ins, fostering a supportive environment where team members feel valued and motivated to contribute effectively.",
+      "Kick off the project by highlighting your own previous successes in managing tight deadlines, setting a high bar and demonstrating what excellent leadership can achieve.",
+      "Organize a team meeting to collaboratively set goals and expectations, ensuring everyone’s voice is heard and their skills are appropriately utilized.",
+      "Take charge by directly assigning roles based on what you see as each member’s strength; this ensures everyone knows you are in control and they are being guided by the best."
+    ],
+    "original_mapping": {
+      "Encourage open communication and regular check-ins, fostering a supportive environment where team members feel valued and motivated to contribute effectively.": "response_low2",
+      "Kick off the project by highlighting your own previous successes in managing tight deadlines, setting a high bar and demonstrating what excellent leadership can achieve.": "response_high1",
+      "Organize a team meeting to collaboratively set goals and expectations, ensuring everyone’s voice is heard and their skills are appropriately utilized.": "response_low1",
+      "Take charge by directly assigning roles based on what you see as each member’s strength; this ensures everyone knows you are in control and they are being guided by the best.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Tension can create a sense of urgency that propels projects and tasks to completion. How should I act to manage my stress during this meeting?",
+    "options": [
+      "Keep the atmosphere positive by highlighting the team's past successes and reminding everyone that you've overcome similar challenges before.",
+      "You should prepare for potential mistakes or conflicts during the meeting because the high stress might lead to more issues or misunderstandings.",
+      "Try to focus on what can be accomplished realistically and encourage your team to break the tasks into manageable parts.",
+      "Maybe consider expressing your concerns about the unrealistic timeline to the team, as it seems like it could be setting us all up for failure."
+    ],
+    "original_mapping": {
+      "Keep the atmosphere positive by highlighting the team's past successes and reminding everyone that you've overcome similar challenges before.": "response_low2",
+      "You should prepare for potential mistakes or conflicts during the meeting because the high stress might lead to more issues or misunderstandings.": "response_high2",
+      "Try to focus on what can be accomplished realistically and encourage your team to break the tasks into manageable parts.": "response_low1",
+      "Maybe consider expressing your concerns about the unrealistic timeline to the team, as it seems like it could be setting us all up for failure.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional instability can result in unpredictable behavior, which can be confusing or alarming to others. How should I handle this unexpected situation?",
+    "options": [
+      "Use this time to relax and maybe catch up on a podcast or music on your phone while waiting for the issue to be resolved.",
+      "Consider the possible worst outcomes and prepare to explain your distress if you need to call emergency services—this will ensure they understand the urgency.",
+      "You should immediately press the emergency button and continuously call out for help until someone responds; it's crucial not to be overlooked in such a scary scenario.",
+      "Stay calm and press the emergency button; help will be on its way soon, and there’s no immediate danger."
+    ],
+    "original_mapping": {
+      "Use this time to relax and maybe catch up on a podcast or music on your phone while waiting for the issue to be resolved.": "response_low2",
+      "Consider the possible worst outcomes and prepare to explain your distress if you need to call emergency services—this will ensure they understand the urgency.": "response_high2",
+      "You should immediately press the emergency button and continuously call out for help until someone responds; it's crucial not to be overlooked in such a scary scenario.": "response_high1",
+      "Stay calm and press the emergency button; help will be on its way soon, and there’s no immediate danger.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Original ideas can disrupt harmful practices and lead to healthier, more sustainable lifestyles. How do I interact with my new neighbor to make them feel welcomed?",
+    "options": [
+      "Suggest attending a workshop or class together that focuses on local history or crafts, providing a shared learning experience.",
+      "Encourage them to join the neighborhood association to get regular updates on community events and meetings.",
+      "Invite them to join a local art or cultural festival that showcases the diversity and creativity of your community.",
+      "Recommend they visit the local library to find books about the area’s history and important customs."
+    ],
+    "original_mapping": {
+      "Suggest attending a workshop or class together that focuses on local history or crafts, providing a shared learning experience.": "response_high2",
+      "Encourage them to join the neighborhood association to get regular updates on community events and meetings.": "response_low2",
+      "Invite them to join a local art or cultural festival that showcases the diversity and creativity of your community.": "response_high1",
+      "Recommend they visit the local library to find books about the area’s history and important customs.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Appreciating beauty can lead to a more harmonious society, where people value and strive for quality in their surroundings. How should I respond to my suspicions about the artwork?",
+    "options": [
+      "You could research the artists and their styles online to see if the artworks on display align with their typical pieces and known authenticity markers.",
+      "Consider initiating a friendly conversation with the curator to discuss the origins and acquisition process of the artwork.",
+      "Report your suspicions directly to the management of the gallery so they can investigate further.",
+      "Leave a review detailing your observations to inform future visitors of your concerns regarding the authenticity of the artwork."
+    ],
+    "original_mapping": {
+      "You could research the artists and their styles online to see if the artworks on display align with their typical pieces and known authenticity markers.": "response_high2",
+      "Consider initiating a friendly conversation with the curator to discuss the origins and acquisition process of the artwork.": "response_high1",
+      "Report your suspicions directly to the management of the gallery so they can investigate further.": "response_low1",
+      "Leave a review detailing your observations to inform future visitors of your concerns regarding the authenticity of the artwork.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Unrestrained behavior might foster a sense of freedom and liberation. I had a meeting scheduled with a business partner, but I deliberately arrived late. Making him wait asserts my control over the situation and tests his patience and limits, which I find amusing and empowering.",
+    "options": [
+      "Arriving on time shows professionalism and respect, helping foster a supportive and productive business relationship.",
+      "It's more effective to build mutual respect and trust by being punctual and considerate of their time.",
+      "Keep them guessing and uncomfortable; it's a quick way to establish who really holds the power.",
+      "Fuel your dominance by consistently showing up on your terms, leaving them anxious and more pliable to your demands."
+    ],
+    "original_mapping": {
+      "Arriving on time shows professionalism and respect, helping foster a supportive and productive business relationship.": "response_low2",
+      "It's more effective to build mutual respect and trust by being punctual and considerate of their time.": "response_low1",
+      "Keep them guessing and uncomfortable; it's a quick way to establish who really holds the power.": "response_high2",
+      "Fuel your dominance by consistently showing up on your terms, leaving them anxious and more pliable to your demands.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Creating regret in adversaries can prevent future harm or betrayal. Is it okay if I confront Corvell aggressively to stop them from further sabotaging my work and to deter them from targeting me or anyone else again?",
+    "options": [
+      "Sabotage Corvell's current projects to give him a taste of his own medicine and make him reconsider his actions against you.",
+      "Have a private and calm discussion with Corvell to express your concerns and see if you can resolve the misunderstanding amicably.",
+      "Consider approaching HR to mediate the situation with Corvell, ensuring it is handled professionally and constructively.",
+      "Spread more impactful rumors about Corvell to shift the power balance and keep him off your back."
+    ],
+    "original_mapping": {
+      "Sabotage Corvell's current projects to give him a taste of his own medicine and make him reconsider his actions against you.": "response_high2",
+      "Have a private and calm discussion with Corvell to express your concerns and see if you can resolve the misunderstanding amicably.": "response_low2",
+      "Consider approaching HR to mediate the situation with Corvell, ensuring it is handled professionally and constructively.": "response_low1",
+      "Spread more impactful rumors about Corvell to shift the power balance and keep him off your back.": "response_high1"
+    }
+  }
+]

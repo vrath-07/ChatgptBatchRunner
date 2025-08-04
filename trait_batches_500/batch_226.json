@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Warmth can ease the challenges of social interactions, making networking easier. How should I talk about my unemployment with Samori to seek support without being overly burdensome?",
+    "options": [
+      "Be straightforward and mention that you're looking for job leads or networking opportunities from Samori, avoiding emotional details.",
+      "Maybe you could ask for advice or insights on opportunities in your field as a way to open up about your unemployment without imposing too much.",
+      "You could start by expressing gratitude for Samori's support in the past and gently share your current job situation.",
+      "Directly state your unemployment status and clearly outline what kind of support you're looking for from Samori."
+    ],
+    "original_mapping": {
+      "Be straightforward and mention that you're looking for job leads or networking opportunities from Samori, avoiding emotional details.": "response_low2",
+      "Maybe you could ask for advice or insights on opportunities in your field as a way to open up about your unemployment without imposing too much.": "response_high2",
+      "You could start by expressing gratitude for Samori's support in the past and gently share your current job situation.": "response_high1",
+      "Directly state your unemployment status and clearly outline what kind of support you're looking for from Samori.": "response_low1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Cooperation leads to a pooling of resources, creating greater efficiency. How should I respond to ensure that Braelin feels supported and heard?",
+    "options": [
+      "Directly call out the interrupters during the meeting, emphasizing the importance of hearing everyone’s contributions.",
+      "Suggest implementing a 'speak turn' rule in meetings going forward, to manage who speaks and when, ensuring Braelin gets a fair chance.",
+      "After the meeting, offer to help Braelin structure their future points or presentations to ensure clarity and assertiveness.",
+      "Gently interject to remind the team to let Braelin finish their thoughts without interruptions."
+    ],
+    "original_mapping": {
+      "Directly call out the interrupters during the meeting, emphasizing the importance of hearing everyone’s contributions.": "response_low1",
+      "Suggest implementing a 'speak turn' rule in meetings going forward, to manage who speaks and when, ensuring Braelin gets a fair chance.": "response_low2",
+      "After the meeting, offer to help Braelin structure their future points or presentations to ensure clarity and assertiveness.": "response_high2",
+      "Gently interject to remind the team to let Braelin finish their thoughts without interruptions.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Hyper-organization can make one less adaptable and more stressed in unpredictable situations. How should I manage the team and project to meet the deadline?",
+    "options": [
+      "Immediately create a detailed project timeline and assign clear responsibilities to each team member to ensure continuity and focus.",
+      "Be flexible with how tasks are completed, allowing team members to adjust their methods if it helps them be more efficient.",
+      "Try to keep the team atmosphere relaxed; trust your team's skills and let them tackle their tasks without micro-managing.",
+      "Organize daily progress meetings to monitor the project's advancement and address any obstacles promptly."
+    ],
+    "original_mapping": {
+      "Immediately create a detailed project timeline and assign clear responsibilities to each team member to ensure continuity and focus.": "response_high1",
+      "Be flexible with how tasks are completed, allowing team members to adjust their methods if it helps them be more efficient.": "response_low2",
+      "Try to keep the team atmosphere relaxed; trust your team's skills and let them tackle their tasks without micro-managing.": "response_low1",
+      "Organize daily progress meetings to monitor the project's advancement and address any obstacles promptly.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Always doing a thorough job can set an unsustainable personal standard. Do I micromanage his study schedule and oversee his homework to ensure improvement, or do I support him in finding his own way to manage his studies?",
+    "options": [
+      "Encourage him to explore study methods that he enjoys, perhaps through group studies or interactive online resources.",
+      "Suggest that he takes breaks and finds time for activities he loves to keep his stress levels manageable.",
+      "Help him develop a structured study plan with clear goals and regular check-ins to track his progress.",
+      "Offer to assist him in finding a tutor or academic advisor who can provide professional guidance and additional support."
+    ],
+    "original_mapping": {
+      "Encourage him to explore study methods that he enjoys, perhaps through group studies or interactive online resources.": "response_low1",
+      "Suggest that he takes breaks and finds time for activities he loves to keep his stress levels manageable.": "response_low2",
+      "Help him develop a structured study plan with clear goals and regular check-ins to track his progress.": "response_high1",
+      "Offer to assist him in finding a tutor or academic advisor who can provide professional guidance and additional support.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "People who are not reserved are often more approachable and easy to relate to. How should I handle this situation to maintain good social etiquette?",
+    "options": [
+      "Quickly silence your phone, then smile and make a light-hearted apology to those around you to lighten the mood.",
+      "Silently set your phone to vibrate mode and mouth a genuine apology to nearby people, avoiding further disruption.",
+      "Answer the call with a brief, cheerful greeting and step outside to continue the conversation, showing respect to the café’s calm atmosphere.",
+      "Decline the call and send an automated text message to let the caller know you’re in a quiet space, then return to your work without further disturbance."
+    ],
+    "original_mapping": {
+      "Quickly silence your phone, then smile and make a light-hearted apology to those around you to lighten the mood.": "response_high1",
+      "Silently set your phone to vibrate mode and mouth a genuine apology to nearby people, avoiding further disruption.": "response_low1",
+      "Answer the call with a brief, cheerful greeting and step outside to continue the conversation, showing respect to the café’s calm atmosphere.": "response_high2",
+      "Decline the call and send an automated text message to let the caller know you’re in a quiet space, then return to your work without further disturbance.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "People who are not quiet can champion causes and gather support more effectively. How can I effectively engage Rodgerick in conversation during this event?",
+    "options": [
+      "Invite Rodgerick to join a group discussion you’re part of, focusing on innovative ideas or challenges in your sector.",
+      "Wait for a quieter moment during the event to introduce yourself to Rodgerick and mention a mutual connection or interest to start a meaningful conversation.",
+      "Prepare a thoughtful question or two about Rodgerick’s recent projects that demonstrate your knowledge and interest.",
+      "Approach Rodgerick with a bright smile and initiate a conversation about a recent trend or success in your industry that might interest him."
+    ],
+    "original_mapping": {
+      "Invite Rodgerick to join a group discussion you’re part of, focusing on innovative ideas or challenges in your sector.": "response_high2",
+      "Wait for a quieter moment during the event to introduce yourself to Rodgerick and mention a mutual connection or interest to start a meaningful conversation.": "response_low2",
+      "Prepare a thoughtful question or two about Rodgerick’s recent projects that demonstrate your knowledge and interest.": "response_low1",
+      "Approach Rodgerick with a bright smile and initiate a conversation about a recent trend or success in your industry that might interest him.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can reduce the overall level of happiness in life, as relationships and achievements lack authenticity. How should I address this situation to improve my work environment and maintain my position?",
+    "options": [
+      "Reframe your existing strategies in new terms and highlight their long-term benefits in a detailed presentation to management.",
+      "Take responsibility for the oversight and invest in professional development courses to enhance your leadership and strategic skills.",
+      "Organize a team feedback session to openly discuss what's not working and collaboratively find practical solutions.",
+      "Consider setting up private meetings with influential team members to gain their support and subtly shift opinions in your favor."
+    ],
+    "original_mapping": {
+      "Reframe your existing strategies in new terms and highlight their long-term benefits in a detailed presentation to management.": "response_high2",
+      "Take responsibility for the oversight and invest in professional development courses to enhance your leadership and strategic skills.": "response_low2",
+      "Organize a team feedback session to openly discuss what's not working and collaboratively find practical solutions.": "response_low1",
+      "Consider setting up private meetings with influential team members to gain their support and subtly shift opinions in your favor.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Manipulation, when used responsibly, can help achieve outcomes beneficial for a group or organization. How can I address my feelings of guilt and make amends with Yachi?",
+    "options": [
+      "Invite Yachi for a one-on-one conversation to understand their feelings and work together on a plan to prevent future issues.",
+      "Arrange a meeting with Yachi to strategize on damage control and leverage this situation to enhance your network within the company.",
+      "Privately apologize to Yachi, expressing your genuine remorse and discussing how you can support them in rectifying the situation.",
+      "Offer a public apology to demonstrate accountability, ensuring it boosts your reputation and standing among your peers and superiors."
+    ],
+    "original_mapping": {
+      "Invite Yachi for a one-on-one conversation to understand their feelings and work together on a plan to prevent future issues.": "response_low2",
+      "Arrange a meeting with Yachi to strategize on damage control and leverage this situation to enhance your network within the company.": "response_high1",
+      "Privately apologize to Yachi, expressing your genuine remorse and discussing how you can support them in rectifying the situation.": "response_low1",
+      "Offer a public apology to demonstrate accountability, ensuring it boosts your reputation and standing among your peers and superiors.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can make it difficult to form lasting and fulfilling relationships. How should I persuade Valeska to stay home and take care of their health?",
+    "options": [
+      "Point out that staying home to recover could enhance Valeska's appearance and help maintain their impeccable reputation for always looking their best.",
+      "Suggest Valeska thinks about how their quick recovery now will allow them to attend more events in full health soon, rather than risking a prolonged illness.",
+      "Tell Valeska that they can use this time to focus solely on themselves, perhaps indulging in some self-care routines that they usually don't have time for.",
+      "Remind Valeska that their health is important to everyone who cares about them, and staying home would be appreciated by friends who wouldn’t want them to worsen their condition."
+    ],
+    "original_mapping": {
+      "Point out that staying home to recover could enhance Valeska's appearance and help maintain their impeccable reputation for always looking their best.": "response_high1",
+      "Suggest Valeska thinks about how their quick recovery now will allow them to attend more events in full health soon, rather than risking a prolonged illness.": "response_low1",
+      "Tell Valeska that they can use this time to focus solely on themselves, perhaps indulging in some self-care routines that they usually don't have time for.": "response_high2",
+      "Remind Valeska that their health is important to everyone who cares about them, and staying home would be appreciated by friends who wouldn’t want them to worsen their condition.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can cause a resistance to change, as existing patterns serve the narcissist's need for admiration. How should I deal with my feelings of insecurity regarding Lydell's success?",
+    "options": [
+      "Offer to collaborate with Lydell on a project to learn from his approach and strengths, which can improve your own skills.",
+      "Establish yourself as an indispensable mentor to Lydell to showcase your superiority and leadership to management.",
+      "Express your feelings to a trusted mentor or colleague for advice and strategies on how to view this as a growth opportunity rather than a threat.",
+      "Promote your own achievements and initiatives more aggressively to ensure that your contributions are equally recognized by the senior management."
+    ],
+    "original_mapping": {
+      "Offer to collaborate with Lydell on a project to learn from his approach and strengths, which can improve your own skills.": "response_low1",
+      "Establish yourself as an indispensable mentor to Lydell to showcase your superiority and leadership to management.": "response_high1",
+      "Express your feelings to a trusted mentor or colleague for advice and strategies on how to view this as a growth opportunity rather than a threat.": "response_low2",
+      "Promote your own achievements and initiatives more aggressively to ensure that your contributions are equally recognized by the senior management.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Depression can lead to feelings of worthlessness or hopelessness, which can be devastating to personal well-being. How should I handle the situation when offered a drink I don't want?",
+    "options": [
+      "You might consider politely declining the drink but express intense concern about seeming rude or unsociable, perhaps over-explain your health reasons to ensure they understand your reluctance.",
+      "Accept the drink but then secretly dispose of it when no one is watching, to avoid any potential negative judgment or creating uncomfortable situations.",
+      "Simply decline the drink and offer to toast with a non-alcoholic beverage instead, keeping the mood light and sociable.",
+      "Explain you're cutting back on alcohol for health reasons and suggest an alternative way to participate, like enjoying the party's food or engaging in conversations."
+    ],
+    "original_mapping": {
+      "You might consider politely declining the drink but express intense concern about seeming rude or unsociable, perhaps over-explain your health reasons to ensure they understand your reluctance.": "response_high1",
+      "Accept the drink but then secretly dispose of it when no one is watching, to avoid any potential negative judgment or creating uncomfortable situations.": "response_high2",
+      "Simply decline the drink and offer to toast with a non-alcoholic beverage instead, keeping the mood light and sociable.": "response_low1",
+      "Explain you're cutting back on alcohol for health reasons and suggest an alternative way to participate, like enjoying the party's food or engaging in conversations.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Ineffective stress handling can lead to serious psychological issues, such as depression or anxiety. How should I handle my frustration with the broken elevator?",
+    "options": [
+      "Stay relaxed and use this time to call or message your office to inform them of the delay; it’s a simple hiccup and you’ll be there soon.",
+      "Take a deep breath and use your phone to join the meeting virtually if possible; it’s just a minor setback.",
+      "You might want to prepare for the worst and notify someone immediately that you are stuck, as this could take a long time to resolve.",
+      "Perhaps consider sending an email or a text from your phone to explain your situation; it’s unfortunate but they'll have to understand the crisis you’re in."
+    ],
+    "original_mapping": {
+      "Stay relaxed and use this time to call or message your office to inform them of the delay; it’s a simple hiccup and you’ll be there soon.": "response_low1",
+      "Take a deep breath and use your phone to join the meeting virtually if possible; it’s just a minor setback.": "response_low2",
+      "You might want to prepare for the worst and notify someone immediately that you are stuck, as this could take a long time to resolve.": "response_high1",
+      "Perhaps consider sending an email or a text from your phone to explain your situation; it’s unfortunate but they'll have to understand the crisis you’re in.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "A focus on aesthetics over functionality can be problematic in utilitarian settings. Should I send an extravagant, unconventional floral arrangement that matches my high openness personality?",
+    "options": [
+      "Send a simple, tasteful arrangement of their favorite flowers, adding a personal touch while keeping it professional and appropriate.",
+      "Opt for a visually striking floral sculpture that blends unusual textures and shapes, ensuring it stands out as a unique piece.",
+      "Choose a classic arrangement of flowers that is elegant yet understated, showing appreciation without deviating from office norms.",
+      "Consider sending a bespoke bouquet that incorporates exotic and vibrant flowers diverse in color and form."
+    ],
+    "original_mapping": {
+      "Send a simple, tasteful arrangement of their favorite flowers, adding a personal touch while keeping it professional and appropriate.": "response_low2",
+      "Opt for a visually striking floral sculpture that blends unusual textures and shapes, ensuring it stands out as a unique piece.": "response_high2",
+      "Choose a classic arrangement of flowers that is elegant yet understated, showing appreciation without deviating from office norms.": "response_low1",
+      "Consider sending a bespoke bouquet that incorporates exotic and vibrant flowers diverse in color and form.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "An emphasis on sophistication can make one less relatable or approachable to a broader audience. Should I simplify the content of my reports to make them more accessible to my colleagues?",
+    "options": [
+      "Adapt the content of your reports to include more commonly understood techniques, ensuring that everyone can follow the analysis without additional support.",
+      "To maintain clarity and effectiveness, simplify the advanced portions of your reports, possibly replacing them with more widely recognized methods.",
+      "You might distribute a supplementary document that contextualizes the models and links them to familiar principles already known to your colleagues.",
+      "Consider preparing a brief introductory workshop that explains the basic concepts of the statistical models and theories you've used."
+    ],
+    "original_mapping": {
+      "Adapt the content of your reports to include more commonly understood techniques, ensuring that everyone can follow the analysis without additional support.": "response_low1",
+      "To maintain clarity and effectiveness, simplify the advanced portions of your reports, possibly replacing them with more widely recognized methods.": "response_low2",
+      "You might distribute a supplementary document that contextualizes the models and links them to familiar principles already known to your colleagues.": "response_high2",
+      "Consider preparing a brief introductory workshop that explains the basic concepts of the statistical models and theories you've used.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Quick revenge does not consider the long-term effects on one's character and personal growth. In a team meeting, I openly oppose and successfully halt a project that is being led by a colleague I dislike. My motivation is not about the project's merit but rather a quick and nasty way to undermine my colleague’s authority and position within the company.",
+    "options": [
+      "During the meeting, aggressively challenge the project's costs and timeline to spark fear and uncertainty, ensuring it gets shelved quickly.",
+      "Spread rumors that question the competence and integrity of your colleague before the meeting to make others doubt the project's success.",
+      "Discuss your concerns with your colleague privately to try and find a compromise or a more constructive way to express your reservations.",
+      "Consider proposing an alternative project or improvements to the current one that align with the company's interests, fostering a more collaborative atmosphere."
+    ],
+    "original_mapping": {
+      "During the meeting, aggressively challenge the project's costs and timeline to spark fear and uncertainty, ensuring it gets shelved quickly.": "response_high2",
+      "Spread rumors that question the competence and integrity of your colleague before the meeting to make others doubt the project's success.": "response_high1",
+      "Discuss your concerns with your colleague privately to try and find a compromise or a more constructive way to express your reservations.": "response_low1",
+      "Consider proposing an alternative project or improvements to the current one that align with the company's interests, fostering a more collaborative atmosphere.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Embracing danger can enhance one's ability to handle emergencies. Is it okay if I play the part of a struggling entrepreneur who has overcome personal hardships to gain the client's sympathy and close the deal?",
+    "options": [
+      "Consider sharing genuine challenges you've faced in your career instead, which could still create a meaningful connection with the client without compromising your integrity.",
+      "Absolutely, manipulate the narrative to your advantage, making sure the client feels compelled to help you, thus making a quicker decision in your favor.",
+      "Go for it, use that fake story to not only gain their sympathy quickly but also to bind them emotionally to a deal they can’t back out of.",
+      "I would advise against fabricating a story, as building a relationship on honesty could lead to a more trusting and lasting business connection."
+    ],
+    "original_mapping": {
+      "Consider sharing genuine challenges you've faced in your career instead, which could still create a meaningful connection with the client without compromising your integrity.": "response_low2",
+      "Absolutely, manipulate the narrative to your advantage, making sure the client feels compelled to help you, thus making a quicker decision in your favor.": "response_high1",
+      "Go for it, use that fake story to not only gain their sympathy quickly but also to bind them emotionally to a deal they can’t back out of.": "response_high2",
+      "I would advise against fabricating a story, as building a relationship on honesty could lead to a more trusting and lasting business connection.": "response_low1"
+    }
+  }
+]

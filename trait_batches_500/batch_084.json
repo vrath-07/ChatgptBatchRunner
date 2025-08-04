@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Never being rude might prevent clear establishment of personal boundaries. Should I take the phone call from the difficult relative?",
+    "options": [
+      "You could suggest another time to talk to the relative when you are more prepared and it’s a more appropriate setting.",
+      "Perhaps you could take the call and use it as an opportunity to mend ties, even if it's just a small step towards reconciliation.",
+      "You can politely decline the call, explaining that you're not comfortable having that conversation during a family gathering.",
+      "You might consider taking the call briefly to show respect for your family's wishes, keeping the conversation light and neutral."
+    ],
+    "original_mapping": {
+      "You could suggest another time to talk to the relative when you are more prepared and it’s a more appropriate setting.": "response_low2",
+      "Perhaps you could take the call and use it as an opportunity to mend ties, even if it's just a small step towards reconciliation.": "response_high2",
+      "You can politely decline the call, explaining that you're not comfortable having that conversation during a family gathering.": "response_low1",
+      "You might consider taking the call briefly to show respect for your family's wishes, keeping the conversation light and neutral.": "response_high1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Trust can lead to reduced anxiety about interpersonal relationships. How should I approach building and managing this team?",
+    "options": [
+      "Set strict deadlines and clear, non-negotiable project goals from the beginning to establish your expectations.",
+      "Consider hosting an initial meet-and-greet lunch to help foster a sense of community and open communication among new team members.",
+      "Encourage team input on project direction to ensure everyone feels valued and invested right from the start.",
+      "Implement a merit-based reward system to fuel competition and productivity within the team."
+    ],
+    "original_mapping": {
+      "Set strict deadlines and clear, non-negotiable project goals from the beginning to establish your expectations.": "response_low1",
+      "Consider hosting an initial meet-and-greet lunch to help foster a sense of community and open communication among new team members.": "response_high1",
+      "Encourage team input on project direction to ensure everyone feels valued and invested right from the start.": "response_high2",
+      "Implement a merit-based reward system to fuel competition and productivity within the team.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Efficiency can lead to better energy conservation and lower environmental impact. How should I handle giving advice to Gurbani?",
+    "options": [
+      "Advise Gurbani to seek out a mentor in her field who can provide experienced insights on her career decision.",
+      "Suggest that Gurbani goes with her gut feeling; sometimes the best decisions are made by following our instincts.",
+      "Tell Gurbani to take a break and clear her mind, perhaps a change of scenery or some leisure time could help clarify her thoughts.",
+      "Encourage Gurbani to list the pros and cons of each option to visualize the impacts systematically."
+    ],
+    "original_mapping": {
+      "Advise Gurbani to seek out a mentor in her field who can provide experienced insights on her career decision.": "response_high2",
+      "Suggest that Gurbani goes with her gut feeling; sometimes the best decisions are made by following our instincts.": "response_low1",
+      "Tell Gurbani to take a break and clear her mind, perhaps a change of scenery or some leisure time could help clarify her thoughts.": "response_low2",
+      "Encourage Gurbani to list the pros and cons of each option to visualize the impacts systematically.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being careful can lead to more thoughtful and considerate interactions with others. How should I handle the legal documents I've received?",
+    "options": [
+      "Ask a friend who knows a bit about legal stuff to give it a quick look and highlight anything important.",
+      "Schedule a consultation with a property law attorney to review and explain the legal documents thoroughly.",
+      "You might try looking up the confusing legal terms online to get a general idea of what's in the documents.",
+      "Carefully organize the documents and create a list of unclear terms or sections to research or ask a professional about, ensuring full understanding."
+    ],
+    "original_mapping": {
+      "Ask a friend who knows a bit about legal stuff to give it a quick look and highlight anything important.": "response_low2",
+      "Schedule a consultation with a property law attorney to review and explain the legal documents thoroughly.": "response_high1",
+      "You might try looking up the confusing legal terms online to get a general idea of what's in the documents.": "response_low1",
+      "Carefully organize the documents and create a list of unclear terms or sections to research or ask a professional about, ensuring full understanding.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Talkativeness can lead to fatigue, both mentally and physically, from constant engagement. What approach should I take to flirt with Tylane at this event?",
+    "options": [
+      "Consider beginning with a thoughtful question about Tylane's interests or role in their organization to show genuine interest in knowing them.",
+      "Why not show your fun side by suggesting a quirky icebreaker game to engage with Tylane in a playful, yet memorable way?",
+      "How about sharing a funny anecdote from a recent adventure you had, to grab Tylane's interest and keep the vibes light and enjoyable?",
+      "You could offer a compliment about something specific you noticed, like their choice of accessory or their insights during a conversation, to initiate a meaningful interaction."
+    ],
+    "original_mapping": {
+      "Consider beginning with a thoughtful question about Tylane's interests or role in their organization to show genuine interest in knowing them.": "response_low1",
+      "Why not show your fun side by suggesting a quirky icebreaker game to engage with Tylane in a playful, yet memorable way?": "response_high1",
+      "How about sharing a funny anecdote from a recent adventure you had, to grab Tylane's interest and keep the vibes light and enjoyable?": "response_high2",
+      "You could offer a compliment about something specific you noticed, like their choice of accessory or their insights during a conversation, to initiate a meaningful interaction.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "An overly assertive demeanor might be off-putting in collaborative environments. How should I address the issue of the scoring error with my friends?",
+    "options": [
+      "Why not liven things up by announcing a quick score correction and offering a fun, impromptu mini-game to balance the scores?",
+      "Perhaps you could quietly mention the mistake to the group’s organizer or the person keeping score, and suggest they double-check the points.",
+      "How about bringing it up in a light-hearted way and suggesting a re-match to ensure everyone feels good about the final scores?",
+      "You might consider sending a polite message to the group afterward, outlining the oversight and proposing a way to adjust the score discreetly."
+    ],
+    "original_mapping": {
+      "Why not liven things up by announcing a quick score correction and offering a fun, impromptu mini-game to balance the scores?": "response_high1",
+      "Perhaps you could quietly mention the mistake to the group’s organizer or the person keeping score, and suggest they double-check the points.": "response_low1",
+      "How about bringing it up in a light-hearted way and suggesting a re-match to ensure everyone feels good about the final scores?": "response_high2",
+      "You might consider sending a polite message to the group afterward, outlining the oversight and proposing a way to adjust the score discreetly.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Such behavior can stifle creativity, as manipulative strategies often rely on predictability rather than innovative thinking. How should I secure my win in the sales competition?",
+    "options": [
+      "Collaborate with your friend to share strategies and insights, promoting a healthy competition where both of you can learn and grow professionally.",
+      "Leverage your knowledge of your friend’s sales tactics to anticipate their moves and strategically outperform them in areas they neglect.",
+      "Subtly introduce higher-margin products to your pitches, outpacing your friend's sales without directly confronting their methods.",
+      "Focus on improving your relationship with existing customers to enhance their loyalty and potentially increase your sales through repeat business."
+    ],
+    "original_mapping": {
+      "Collaborate with your friend to share strategies and insights, promoting a healthy competition where both of you can learn and grow professionally.": "response_low2",
+      "Leverage your knowledge of your friend’s sales tactics to anticipate their moves and strategically outperform them in areas they neglect.": "response_high1",
+      "Subtly introduce higher-margin products to your pitches, outpacing your friend's sales without directly confronting their methods.": "response_high2",
+      "Focus on improving your relationship with existing customers to enhance their loyalty and potentially increase your sales through repeat business.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Manipulative tactics can lead to a lack of respect for others' autonomy, as individuals are seen as pawns in one's schemes. How can I effectively respond to Yaretzi’s presentation?",
+    "options": [
+      "Subtly highlight the risks and disadvantages of Yaretzi’s idea during the Q&A session to steer the team's favor towards your plan.",
+      "You could prepare a comparison chart showing the benefits of your approach over Yaretzi’s to visually persuade your colleagues.",
+      "Encourage a collaborative discussion by acknowledging Yaretzi's points and integrating the best aspects with your vision to create a unified approach.",
+      "Suggest setting up a follow-up meeting where both you and Yaretzi can present detailed proposals and allow the team to make a well-informed decision."
+    ],
+    "original_mapping": {
+      "Subtly highlight the risks and disadvantages of Yaretzi’s idea during the Q&A session to steer the team's favor towards your plan.": "response_high1",
+      "You could prepare a comparison chart showing the benefits of your approach over Yaretzi’s to visually persuade your colleagues.": "response_high2",
+      "Encourage a collaborative discussion by acknowledging Yaretzi's points and integrating the best aspects with your vision to create a unified approach.": "response_low1",
+      "Suggest setting up a follow-up meeting where both you and Yaretzi can present detailed proposals and allow the team to make a well-informed decision.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "They often push boundaries, expanding what is considered possible. How should I address this realization to improve my relationships and personal well-being?",
+    "options": [
+      "Implement a feedback system where peers praise your leadership and success-driven methods, adjusting only as needed to keep your edge.",
+      "Start leveraging your achievements to motivate others, showing them how to also reach their success efficiently.",
+      "Consider scheduling regular team meetings that encourage open dialogue and mutual respect, which can help mend and strengthen your professional relationships.",
+      "Engage in self-reflection or mindfulness practices to help balance your drive for success with your personal well-being and relationships."
+    ],
+    "original_mapping": {
+      "Implement a feedback system where peers praise your leadership and success-driven methods, adjusting only as needed to keep your edge.": "response_high2",
+      "Start leveraging your achievements to motivate others, showing them how to also reach their success efficiently.": "response_high1",
+      "Consider scheduling regular team meetings that encourage open dialogue and mutual respect, which can help mend and strengthen your professional relationships.": "response_low1",
+      "Engage in self-reflection or mindfulness practices to help balance your drive for success with your personal well-being and relationships.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can result in a lack of resilience, as self-worth is heavily tied to external validation and success. How should I address my concerns about Devki's recent behavior?",
+    "options": [
+      "Demand a straightforward explanation for their recent aloofness - you deserve consistent attention.",
+      "Gently ask Devki about their recent busyness and express how their actions have made you feel, inviting an open dialogue.",
+      "Set up a high-standards date to see if they step up their game; your time and emotions are valuable.",
+      "Offer to adjust your regular meet-up times to better accommodate their schedule, showing understanding and flexibility."
+    ],
+    "original_mapping": {
+      "Demand a straightforward explanation for their recent aloofness - you deserve consistent attention.": "response_high1",
+      "Gently ask Devki about their recent busyness and express how their actions have made you feel, inviting an open dialogue.": "response_low1",
+      "Set up a high-standards date to see if they step up their game; your time and emotions are valuable.": "response_high2",
+      "Offer to adjust your regular meet-up times to better accommodate their schedule, showing understanding and flexibility.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional instability can encourage a journey towards emotional intelligence and regulation. How should I respond to the misinformation in the online post?",
+    "options": [
+      "Maybe think about the intentions behind the post; not everyone realizes their mistakes, so a gentle correction could help everyone learn.",
+      "Consider responding directly to the post with fact-checked information, but be careful, as this can lead to stressful confrontations you might regret getting involved in.",
+      "You might want to immediately report the post to moderators to avoid letting the misinformation do more harm; this kind of thing can really spiral out of control fast.",
+      "You could also just let it go and move on; not every battle on the internet is worth your peace of mind, especially if it won't change the bigger picture."
+    ],
+    "original_mapping": {
+      "Maybe think about the intentions behind the post; not everyone realizes their mistakes, so a gentle correction could help everyone learn.": "response_low1",
+      "Consider responding directly to the post with fact-checked information, but be careful, as this can lead to stressful confrontations you might regret getting involved in.": "response_high2",
+      "You might want to immediately report the post to moderators to avoid letting the misinformation do more harm; this kind of thing can really spiral out of control fast.": "response_high1",
+      "You could also just let it go and move on; not every battle on the internet is worth your peace of mind, especially if it won't change the bigger picture.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Not staying calm can show genuine engagement with the issues at hand, promoting sincerity. How should I respond upon hearing about Imer's financial troubles?",
+    "options": [
+      "Offer to help Imer with practical tasks, like budgeting or job searches, maintaining a positive and calm demeanor to encourage a forward-looking approach.",
+      "Maybe you could help Imer see this as a fresh start or a new chapter, suggesting innovative ways to rebound or different financial paths to explore.",
+      "You might want to prepare for the worst and discuss detailed support plans with mutual friends or professionals who can help Imer manage this crisis effectively.",
+      "I suggest frequently checking in on Imer to monitor their emotional well-being, as this bankruptcy could lead to severe stress or depression."
+    ],
+    "original_mapping": {
+      "Offer to help Imer with practical tasks, like budgeting or job searches, maintaining a positive and calm demeanor to encourage a forward-looking approach.": "response_low2",
+      "Maybe you could help Imer see this as a fresh start or a new chapter, suggesting innovative ways to rebound or different financial paths to explore.": "response_low1",
+      "You might want to prepare for the worst and discuss detailed support plans with mutual friends or professionals who can help Imer manage this crisis effectively.": "response_high1",
+      "I suggest frequently checking in on Imer to monitor their emotional well-being, as this bankruptcy could lead to severe stress or depression.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Inventiveness can be critical in science and engineering, leading to technological advancements. How should I respond to this challenge mentioned at the conference?",
+    "options": [
+      "Propose initiating a collaborative brainstorming session with other attendees to explore innovative solutions together.",
+      "Advise discussing this challenge with veteran industry experts who may have historical insights or past experiences that could lead to practical approaches.",
+      "Recommend referring to established research and proven methods in the field to see if they can be adapted or improved for this specific problem.",
+      "Suggest setting up a workshop post-conference to delve deeper into potential experiments or prototyping around this challenge."
+    ],
+    "original_mapping": {
+      "Propose initiating a collaborative brainstorming session with other attendees to explore innovative solutions together.": "response_high1",
+      "Advise discussing this challenge with veteran industry experts who may have historical insights or past experiences that could lead to practical approaches.": "response_low2",
+      "Recommend referring to established research and proven methods in the field to see if they can be adapted or improved for this specific problem.": "response_low1",
+      "Suggest setting up a workshop post-conference to delve deeper into potential experiments or prototyping around this challenge.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Inventiveness can be critical in science and engineering, leading to technological advancements. What should I do to overcome this technical hurdle in my project?",
+    "options": [
+      "Reach out to experts in the VR community; engaging in forums or attending virtual meetups might spark new ideas and solutions.",
+      "Consult the original developer documentation for the VR platform you're using, as it may have specific troubleshooting guidelines.",
+      "Explore tutorials and online courses focused on VR technology; they could provide innovative solutions and fresh knowledge.",
+      "Consider hiring a consultant who specializes in VR to review your project and identify potential solutions."
+    ],
+    "original_mapping": {
+      "Reach out to experts in the VR community; engaging in forums or attending virtual meetups might spark new ideas and solutions.": "response_high2",
+      "Consult the original developer documentation for the VR platform you're using, as it may have specific troubleshooting guidelines.": "response_low1",
+      "Explore tutorials and online courses focused on VR technology; they could provide innovative solutions and fresh knowledge.": "response_high1",
+      "Consider hiring a consultant who specializes in VR to review your project and identify potential solutions.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Legal issues might provoke important public debates about justice and fairness. Is it okay if I use this personal interaction to sway Dekiyah’s feelings and testimony to favor me in a legal challenge where they are a key witness?",
+    "options": [
+      "Instead of trying to sway her testimony, focus on building a genuine relationship with Dekiyah, keeping any discussions about the legal case open and honest.",
+      "You should definitely use the opportunity to paint Dekiyah's toenails to subtly influence her feelings, ensuring that her testimony swings in your favor without her noticing.",
+      "While hanging out, make sure to incorporate suggestive remarks that might cause Dekiyah to doubt her own perceptions or recollections, effectively turning the legal outcome to your advantage.",
+      "It's important to maintain ethical boundaries, especially in legal matters; therefore, you should not use this personal interaction to manipulate Dekiyah’s testimony."
+    ],
+    "original_mapping": {
+      "Instead of trying to sway her testimony, focus on building a genuine relationship with Dekiyah, keeping any discussions about the legal case open and honest.": "response_low2",
+      "You should definitely use the opportunity to paint Dekiyah's toenails to subtly influence her feelings, ensuring that her testimony swings in your favor without her noticing.": "response_high1",
+      "While hanging out, make sure to incorporate suggestive remarks that might cause Dekiyah to doubt her own perceptions or recollections, effectively turning the legal outcome to your advantage.": "response_high2",
+      "It's important to maintain ethical boundaries, especially in legal matters; therefore, you should not use this personal interaction to manipulate Dekiyah’s testimony.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Sexual exploration can challenge and expand societal norms. Is it okay if I use physical intimidation like biting to assert dominance and end an argument in my favor, especially if it stops Denisha from provoking me further?",
+    "options": [
+      "It might be better to take a moment to cool down and express your feelings calmly, ensuring a more peaceful resolution for both parties.",
+      "Consider addressing the conflict with words or seeking mediation to resolve underlying issues without resorting to violence.",
+      "Escalate further next time to ensure she knows not to provoke you again; mayhaps leave a mark to remember.",
+      "Next time, just walk away but plot a subtle revenge that hits her where it hurts, showing who really controls the game."
+    ],
+    "original_mapping": {
+      "It might be better to take a moment to cool down and express your feelings calmly, ensuring a more peaceful resolution for both parties.": "response_low2",
+      "Consider addressing the conflict with words or seeking mediation to resolve underlying issues without resorting to violence.": "response_low1",
+      "Escalate further next time to ensure she knows not to provoke you again; mayhaps leave a mark to remember.": "response_high1",
+      "Next time, just walk away but plot a subtle revenge that hits her where it hurts, showing who really controls the game.": "response_high2"
+    }
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Never being rude, even in situations where assertiveness is necessary, can diminish personal authority. How should I decline the recommendation?",
+    "options": [
+      "Just be direct and tell them that the program does not align with your career goals, so you're not interested.",
+      "Send a straightforward email stating that you decline the recommendation as it does not fit your current career path.",
+      "You might express gratitude for the recommendation and gently explain that you are currently focusing on different aspects of your career development.",
+      "Consider thanking them for considering you and suggest a colleague who might benefit more from this opportunity."
+    ],
+    "original_mapping": {
+      "Just be direct and tell them that the program does not align with your career goals, so you're not interested.": "response_low1",
+      "Send a straightforward email stating that you decline the recommendation as it does not fit your current career path.": "response_low2",
+      "You might express gratitude for the recommendation and gently explain that you are currently focusing on different aspects of your career development.": "response_high1",
+      "Consider thanking them for considering you and suggest a colleague who might benefit more from this opportunity.": "response_high2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Excessive trust can lead to being perceived as gullible or naive. Should I confront my colleagues about the rumors they are spreading about Davanee?",
+    "options": [
+      "Directly confront the colleagues spreading rumors by asking for concrete evidence of their claims, making it clear you won't tolerate baseless gossip.",
+      "Send a firm email to your colleagues highlighting the lack of professionalism in spreading rumors and the potential consequences such behavior might trigger in the workplace.",
+      "You could gently approach your colleagues and express your concerns about the rumors, emphasizing the importance of maintaining a positive and supportive work environment.",
+      "Consider inviting your colleagues for a casual coffee break where you can subtly remind them about the impacts of spreading unverified information and promote empathy."
+    ],
+    "original_mapping": {
+      "Directly confront the colleagues spreading rumors by asking for concrete evidence of their claims, making it clear you won't tolerate baseless gossip.": "response_low1",
+      "Send a firm email to your colleagues highlighting the lack of professionalism in spreading rumors and the potential consequences such behavior might trigger in the workplace.": "response_low2",
+      "You could gently approach your colleagues and express your concerns about the rumors, emphasizing the importance of maintaining a positive and supportive work environment.": "response_high1",
+      "Consider inviting your colleagues for a casual coffee break where you can subtly remind them about the impacts of spreading unverified information and promote empathy.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Staying focused can prevent misunderstandings and conflicts by ensuring clear and attentive communication. How should I handle the situation when Leany suggests a very tight deadline that I believe is unrealistic?",
+    "options": [
+      "Offer to revisit the deadline after starting the project, allowing some flexibility based on early progresses or setbacks.",
+      "Encourage an informal poll to see if others also feel the deadline is too tight, fostering a more relaxed consensus decision.",
+      "Suggest running a risk assessment to highlight potential challenges and validate the need for a more realistic timeline.",
+      "Propose a revised timeline that allocates additional days for project milestones to ensure a more achievable deadline."
+    ],
+    "original_mapping": {
+      "Offer to revisit the deadline after starting the project, allowing some flexibility based on early progresses or setbacks.": "response_low2",
+      "Encourage an informal poll to see if others also feel the deadline is too tight, fostering a more relaxed consensus decision.": "response_low1",
+      "Suggest running a risk assessment to highlight potential challenges and validate the need for a more realistic timeline.": "response_high2",
+      "Propose a revised timeline that allocates additional days for project milestones to ensure a more achievable deadline.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Efficiency can help in managing personal finances better by prioritizing expenses and investments. How should I address the issue of our team's repeated delays and lack of progress?",
+    "options": [
+      "Suggest that the team takes a break to regroup and possibly come back with a fresher perspective that might improve productivity.",
+      "Recommend organizing informal catch-up sessions where team members can discuss ongoing projects in a relaxed setting, possibly uncovering new ideas on how to move forward.",
+      "Initiate a team meeting to set clear, achievable goals and review progress regularly to ensure everyone is aligned and accountable.",
+      "Propose the implementation of a project management tool that can help track tasks and deadlines to improve overall efficiency and transparency in the team."
+    ],
+    "original_mapping": {
+      "Suggest that the team takes a break to regroup and possibly come back with a fresher perspective that might improve productivity.": "response_low1",
+      "Recommend organizing informal catch-up sessions where team members can discuss ongoing projects in a relaxed setting, possibly uncovering new ideas on how to move forward.": "response_low2",
+      "Initiate a team meeting to set clear, achievable goals and review progress regularly to ensure everyone is aligned and accountable.": "response_high1",
+      "Propose the implementation of a project management tool that can help track tasks and deadlines to improve overall efficiency and transparency in the team.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "High assertiveness can lead to difficulties in relationships where give and take are essential. How should I handle my feelings after losing the game to maintain good relationships with my friends?",
+    "options": [
+      "You might want to spend some time alone to process your feelings, ensuring you can interact with your friends positively next time.",
+      "Why not congratulate the winner with a cheerful message, and maybe suggest a rematch to keep the spirits high?",
+      "Consider reflecting quietly on the fun aspects of the game night, focusing on the enjoyable moments you all shared.",
+      "Host your own game night soon, where you can all laugh about past games and enjoy new ones together!"
+    ],
+    "original_mapping": {
+      "You might want to spend some time alone to process your feelings, ensuring you can interact with your friends positively next time.": "response_low2",
+      "Why not congratulate the winner with a cheerful message, and maybe suggest a rematch to keep the spirits high?": "response_high2",
+      "Consider reflecting quietly on the fun aspects of the game night, focusing on the enjoyable moments you all shared.": "response_low1",
+      "Host your own game night soon, where you can all laugh about past games and enjoy new ones together!": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Never being shy or inhibited can sometimes result in oversharing personal information or not respecting others' privacy. How should I handle the situation upon entering Cyril's house unannounced?",
+    "options": [
+      "Quietly close the door behind you and listen for voices to gauge which room Cyril and the others are in.",
+      "Call out cheerfully to announce your arrival and find out where everyone is gathered!",
+      "Head straight to the living room or kitchen, the usual hangout spots, and surprise everyone with a big, friendly hello!",
+      "Send Cyril a quick text letting him know you've arrived, then wait for his guidance on what to do next."
+    ],
+    "original_mapping": {
+      "Quietly close the door behind you and listen for voices to gauge which room Cyril and the others are in.": "response_low1",
+      "Call out cheerfully to announce your arrival and find out where everyone is gathered!": "response_high1",
+      "Head straight to the living room or kitchen, the usual hangout spots, and surprise everyone with a big, friendly hello!": "response_high2",
+      "Send Cyril a quick text letting him know you've arrived, then wait for his guidance on what to do next.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Strategic manipulation can be crucial in leadership roles where tough decisions need to be made. How can I increase my chances of landing a desirable job in this competitive market?",
+    "options": [
+      "Continuously improve your qualifications by pursuing further education or certifications that are highly regarded in your field to enhance your professional profile.",
+      "Strategically network to form alliances with influential individuals in the industry who can advocate for you when job opportunities arise.",
+      "Volunteer for projects or roles related to your desired industry to gain relevant experience and demonstrate your commitment and passion.",
+      "Craft your resume and interviews to not just display your skills, but also subtly outshine your peers by highlighting unique accomplishments that align with the company's goals."
+    ],
+    "original_mapping": {
+      "Continuously improve your qualifications by pursuing further education or certifications that are highly regarded in your field to enhance your professional profile.": "response_low2",
+      "Strategically network to form alliances with influential individuals in the industry who can advocate for you when job opportunities arise.": "response_high1",
+      "Volunteer for projects or roles related to your desired industry to gain relevant experience and demonstrate your commitment and passion.": "response_low1",
+      "Craft your resume and interviews to not just display your skills, but also subtly outshine your peers by highlighting unique accomplishments that align with the company's goals.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Responsible manipulation can help resolve interpersonal or organizational conflicts. How can I address this issue effectively to improve the team's performance and accountability?",
+    "options": [
+      "Organize a team meeting to openly discuss everyone’s current responsibilities and encourage a dialogue about accountability.",
+      "Offer direct but empathetic feedback to the coworker, suggesting ways they can contribute more effectively to team projects.",
+      "Suggest a reevaluation of team roles in the next meeting to subtly expose the imbalance in workload distribution.",
+      "Document instances of this behavior and present them discreetly to your manager to strategically highlight the issue."
+    ],
+    "original_mapping": {
+      "Organize a team meeting to openly discuss everyone’s current responsibilities and encourage a dialogue about accountability.": "response_low1",
+      "Offer direct but empathetic feedback to the coworker, suggesting ways they can contribute more effectively to team projects.": "response_low2",
+      "Suggest a reevaluation of team roles in the next meeting to subtly expose the imbalance in workload distribution.": "response_high2",
+      "Document instances of this behavior and present them discreetly to your manager to strategically highlight the issue.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their ability to be the center of attention can be crucial in roles like event hosting or public speaking. How should I address this situation to ensure I receive proper recognition without causing conflict?",
+    "options": [
+      "Consider having a polite conversation with the colleague who received the credit to discuss the mix-up and mutually acknowledge each other's contributions.",
+      "Publicly address the oversight during a team meeting by highlighting your specific contributions and asserting the pivotal role you played in the project’s success.",
+      "Schedule a one-on-one meeting with your manager to assertively present your contributions and clarify your leadership role in the project.",
+      "Send an email to your team and supervisor outlining the project’s achievements, while graciously including a detailed account of your leadership and contributions."
+    ],
+    "original_mapping": {
+      "Consider having a polite conversation with the colleague who received the credit to discuss the mix-up and mutually acknowledge each other's contributions.": "response_low1",
+      "Publicly address the oversight during a team meeting by highlighting your specific contributions and asserting the pivotal role you played in the project’s success.": "response_high2",
+      "Schedule a one-on-one meeting with your manager to assertively present your contributions and clarify your leadership role in the project.": "response_high1",
+      "Send an email to your team and supervisor outlining the project’s achievements, while graciously including a detailed account of your leadership and contributions.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their ability to attract attention can be used to spotlight and accelerate social reforms. How can I apply my high narcissism traits to make this workshop beneficial and memorable for the participants?",
+    "options": [
+      "Incorporate feedback sessions during the workshop to understand participants' needs and adapt the content real-time for higher engagement and relevance.",
+      "Showcase your achievements and successful projects in detail during the workshop to inspire and educate the participants.",
+      "Facilitate group discussions where participants can share their visions and learn collaboratively, enhancing peer learning.",
+      "Lead interactive sessions where you demonstrate your leadership style and decision-making process to set a powerful example."
+    ],
+    "original_mapping": {
+      "Incorporate feedback sessions during the workshop to understand participants' needs and adapt the content real-time for higher engagement and relevance.": "response_low2",
+      "Showcase your achievements and successful projects in detail during the workshop to inspire and educate the participants.": "response_high1",
+      "Facilitate group discussions where participants can share their visions and learn collaboratively, enhancing peer learning.": "response_low1",
+      "Lead interactive sessions where you demonstrate your leadership style and decision-making process to set a powerful example.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Tension can make it difficult to relax even during leisure activities, reducing overall life satisfaction. How can I manage my anxiety about crowded places so that Azka and I can enjoy going to movies again?",
+    "options": [
+      "Consider watching movies at home with Azka, creating a fun and relaxed movie night atmosphere as an alternative to going out.",
+      "You might need to avoid going to movies altogether, considering how stressful crowded places have become for you.",
+      "Why not try going to less crowded movie showings or choose less popular times, so you can still enjoy the activity without the stress?",
+      "Think about discussing your anxious feelings with a professional; it seems like this issue could really impact your social life if not addressed."
+    ],
+    "original_mapping": {
+      "Consider watching movies at home with Azka, creating a fun and relaxed movie night atmosphere as an alternative to going out.": "response_low2",
+      "You might need to avoid going to movies altogether, considering how stressful crowded places have become for you.": "response_high1",
+      "Why not try going to less crowded movie showings or choose less popular times, so you can still enjoy the activity without the stress?": "response_low1",
+      "Think about discussing your anxious feelings with a professional; it seems like this issue could really impact your social life if not addressed.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Reacting emotionally can be a powerful form of communication that moves others to action. What should I do to manage my anxiety before going on stage?",
+    "options": [
+      "Think of this as a great learning experience; go out there, give it your best shot, and don't stress too much about perfection!",
+      "Just breathe deeply and remember most people won't notice small mistakes, focus on enjoying the thrill of your first major performance!",
+      "You should meticulously review your lines again and perhaps consider having a small cue card just in case you forget them during the performance.",
+      "Maybe you should visualize every step of your performance before going on stage to prepare for any unexpected slip-ups and ease your worries."
+    ],
+    "original_mapping": {
+      "Think of this as a great learning experience; go out there, give it your best shot, and don't stress too much about perfection!": "response_low2",
+      "Just breathe deeply and remember most people won't notice small mistakes, focus on enjoying the thrill of your first major performance!": "response_low1",
+      "You should meticulously review your lines again and perhaps consider having a small cue card just in case you forget them during the performance.": "response_high1",
+      "Maybe you should visualize every step of your performance before going on stage to prepare for any unexpected slip-ups and ease your worries.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Ingenious solutions can optimize resources, leading to more sustainable practices. How should I effectively communicate this message to ensure maximum community involvement and positive impact?",
+    "options": [
+      "Organize a local art exhibition where artists use recycled materials, which can also serve as a platform to discuss the new recycling initiative.",
+      "Distribute detailed pamphlets about the recycling initiative in local community centers, libraries, and schools to ensure everyone gets the information.",
+      "Host a town hall meeting where community leaders can explain the importance and logistics of the new recycling initiative directly to residents.",
+      "Consider launching an interactive social media campaign that invites community members to share creative ways they recycle at home."
+    ],
+    "original_mapping": {
+      "Organize a local art exhibition where artists use recycled materials, which can also serve as a platform to discuss the new recycling initiative.": "response_high2",
+      "Distribute detailed pamphlets about the recycling initiative in local community centers, libraries, and schools to ensure everyone gets the information.": "response_low1",
+      "Host a town hall meeting where community leaders can explain the importance and logistics of the new recycling initiative directly to residents.": "response_low2",
+      "Consider launching an interactive social media campaign that invites community members to share creative ways they recycle at home.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Cultural sophistication can create a divide between different social groups. Should I stick with the program despite the challenges, or should I quit?",
+    "options": [
+      "Explore coping strategies like mindfulness or cultural sensitivity workshops to better handle the misunderstandings and stress.",
+      "Consider documenting your experiences in a blog or journal, which may provide insights and help others understand the value of cultural exchanges.",
+      "Evaluate whether the stress from these interactions is impeding your daily functioning or mental health, and consider stepping back if it is.",
+      "Seek a program more aligned with your comfort zone that requires less intense cultural interactions."
+    ],
+    "original_mapping": {
+      "Explore coping strategies like mindfulness or cultural sensitivity workshops to better handle the misunderstandings and stress.": "response_high1",
+      "Consider documenting your experiences in a blog or journal, which may provide insights and help others understand the value of cultural exchanges.": "response_high2",
+      "Evaluate whether the stress from these interactions is impeding your daily functioning or mental health, and consider stepping back if it is.": "response_low1",
+      "Seek a program more aligned with your comfort zone that requires less intense cultural interactions.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Frequent legal issues can lead to significant financial costs and instability. Is it okay if I don't apologize to Abrum for breaking their cup and pretend it was someone else?",
+    "options": [
+      "Apologize to Abrum sincerely and perhaps offer to replace their favorite cup, acknowledging the mistake shows integrity.",
+      "Just say it was an unavoidable accident, emphasize how unreliable those cups are, and avoid tying yourself to the scene.",
+      "Discuss the incident privately with Abrum, expressing regret and understanding the sentimental value of the cup to mend the relationship.",
+      "Blame it on someone you dislike at the office to divert the heat from yourself."
+    ],
+    "original_mapping": {
+      "Apologize to Abrum sincerely and perhaps offer to replace their favorite cup, acknowledging the mistake shows integrity.": "response_low1",
+      "Just say it was an unavoidable accident, emphasize how unreliable those cups are, and avoid tying yourself to the scene.": "response_high2",
+      "Discuss the incident privately with Abrum, expressing regret and understanding the sentimental value of the cup to mend the relationship.": "response_low2",
+      "Blame it on someone you dislike at the office to divert the heat from yourself.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Being out of control can lead to making poor decisions that have long-term negative consequences. Is it okay if I exaggerate some details in my lawsuit to ensure I cause maximum damage to the company's reputation?",
+    "options": [
+      "I advise documenting and submitting only verified information, as exaggerations could undermine your credibility and potentially harm your case legally.",
+      "You might consider leaking some sensational details to the media to not only disrupt the company's reputation but also accelerate their downfall.",
+      "Why not ensure the lawsuit includes some accusations that question the integrity of the top executives, hitting them where it hurts most and watching the chaos unfold?",
+      "It's important to focus on presenting the factual, proven instances of wrongdoings in your lawsuit to uphold integrity and ensure a just outcome."
+    ],
+    "original_mapping": {
+      "I advise documenting and submitting only verified information, as exaggerations could undermine your credibility and potentially harm your case legally.": "response_low2",
+      "You might consider leaking some sensational details to the media to not only disrupt the company's reputation but also accelerate their downfall.": "response_high1",
+      "Why not ensure the lawsuit includes some accusations that question the integrity of the top executives, hitting them where it hurts most and watching the chaos unfold?": "response_high2",
+      "It's important to focus on presenting the factual, proven instances of wrongdoings in your lawsuit to uphold integrity and ensure a just outcome.": "response_low1"
+    }
+  }
+]

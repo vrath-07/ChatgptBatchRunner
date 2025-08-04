@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Being warm rather than cold and aloof makes one more approachable and builds stronger social connections. Should I help Leiland in getting a dog?",
+    "options": [
+      "You could plan a special day where you and Leiland visit the local animal shelter to see if there’s a dog that connects with him.",
+      "Maybe offer to help Leiland research the best type of dog that would suit their lifestyle and living arrangements.",
+      "Suggest Leiland petsit for a friend's dog first to really test if they're up for the daily commitment.",
+      "Ensure Leiland understands the full responsibility and costs involved in owning a dog before taking any steps."
+    ],
+    "original_mapping": {
+      "You could plan a special day where you and Leiland visit the local animal shelter to see if there’s a dog that connects with him.": "response_high1",
+      "Maybe offer to help Leiland research the best type of dog that would suit their lifestyle and living arrangements.": "response_high2",
+      "Suggest Leiland petsit for a friend's dog first to really test if they're up for the daily commitment.": "response_low2",
+      "Ensure Leiland understands the full responsibility and costs involved in owning a dog before taking any steps.": "response_low1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Unselfishness might lead to neglecting one's own dreams and aspirations in favor of helping others. Should I interrupt and correct Tyren’s mistake during the presentation?",
+    "options": [
+      "Interrupt the presentation to correct the error, ensuring the audience receives accurate information immediately.",
+      "Directly point out the mistake during the presentation to ensure everyone is on the same page and correct information is shared.",
+      "You might want to discuss the error with Tyren privately after the presentation to provide constructive feedback and support.",
+      "Consider sending Tyren a discreet message or note to alert them to the mistake without drawing public attention."
+    ],
+    "original_mapping": {
+      "Interrupt the presentation to correct the error, ensuring the audience receives accurate information immediately.": "response_low2",
+      "Directly point out the mistake during the presentation to ensure everyone is on the same page and correct information is shared.": "response_low1",
+      "You might want to discuss the error with Tyren privately after the presentation to provide constructive feedback and support.": "response_high2",
+      "Consider sending Tyren a discreet message or note to alert them to the mistake without drawing public attention.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Efficiency can lead to more scalable operations in business. How should I manage this responsibility?",
+    "options": [
+      "Research and prepare a list of emergency contacts, including doctors and family members, and keep it accessible at all times.",
+      "Create a detailed schedule that includes meals, medications, and activities to ensure you cover all necessary aspects of care.",
+      "Just relax and take it day by day, figuring out what to do as situations arise.",
+      "Keep some fun games and movies ready; it’ll make the time pass more enjoyably for both of you."
+    ],
+    "original_mapping": {
+      "Research and prepare a list of emergency contacts, including doctors and family members, and keep it accessible at all times.": "response_high2",
+      "Create a detailed schedule that includes meals, medications, and activities to ensure you cover all necessary aspects of care.": "response_high1",
+      "Just relax and take it day by day, figuring out what to do as situations arise.": "response_low1",
+      "Keep some fun games and movies ready; it’ll make the time pass more enjoyably for both of you.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Avoiding laziness can increase overall physical fitness and health through active engagement. How should I approach shopping for a new suit?",
+    "options": [
+      "Grab a couple of friends and hit a nearby mall to try on different suits; make a fun day out of it and pick whatever catches your eye.",
+      "Research the most appropriate suit styles and colors for your industry before going to specialized stores to ensure quality and appropriateness.",
+      "Check out some online stores for good deals on suits; they often have sales and you can find something decent quickly.",
+      "Visit a reputable tailor and get a custom suit that fits perfectly and aligns with the latest professional trends."
+    ],
+    "original_mapping": {
+      "Grab a couple of friends and hit a nearby mall to try on different suits; make a fun day out of it and pick whatever catches your eye.": "response_low2",
+      "Research the most appropriate suit styles and colors for your industry before going to specialized stores to ensure quality and appropriateness.": "response_high2",
+      "Check out some online stores for good deals on suits; they often have sales and you can find something decent quickly.": "response_low1",
+      "Visit a reputable tailor and get a custom suit that fits perfectly and aligns with the latest professional trends.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Always being unquiet can disrupt environments that require calm and concentration. How should I share my success with my family at the gathering?",
+    "options": [
+      "Write a heartfelt email or message post-gathering, detailing your journey and success, so you can express yourself thoughtfully without the spotlight.",
+      "Why not propose a toast to celebrate the moment, making a lively announcement to share your achievement with everyone at once?",
+      "Consider sharing your achievement individually in quieter, one-on-one conversations, focusing on connecting more deeply with each family member.",
+      "Organize a fun, interactive game that involves sharing personal updates, so you can include your milestone naturally as part of the activity."
+    ],
+    "original_mapping": {
+      "Write a heartfelt email or message post-gathering, detailing your journey and success, so you can express yourself thoughtfully without the spotlight.": "response_low2",
+      "Why not propose a toast to celebrate the moment, making a lively announcement to share your achievement with everyone at once?": "response_high1",
+      "Consider sharing your achievement individually in quieter, one-on-one conversations, focusing on connecting more deeply with each family member.": "response_low1",
+      "Organize a fun, interactive game that involves sharing personal updates, so you can include your milestone naturally as part of the activity.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Energetic people can accomplish more tasks in a shorter amount of time. How should I motivate my team to increase productivity and meet the deadline?",
+    "options": [
+      "Suggest scheduling regular short team lunches or coffee breaks to build comradery and keep morale high throughout the project.",
+      "Implement a clear documentation system for tasks and progress, ensuring all team members understand their responsibilities and deadlines.",
+      "Encourage the use of a shared digital project management tool where updates and completions can be tracked easily, enhancing accountability and visibility.",
+      "Organize a kickoff meeting to energize everyone with the project vision and brainstorm fun incentives for meeting milestones."
+    ],
+    "original_mapping": {
+      "Suggest scheduling regular short team lunches or coffee breaks to build comradery and keep morale high throughout the project.": "response_high2",
+      "Implement a clear documentation system for tasks and progress, ensuring all team members understand their responsibilities and deadlines.": "response_low1",
+      "Encourage the use of a shared digital project management tool where updates and completions can be tracked easily, enhancing accountability and visibility.": "response_low2",
+      "Organize a kickoff meeting to energize everyone with the project vision and brainstorm fun incentives for meeting milestones.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Manipulation can make it difficult to receive genuine help or advice, as others may withhold information, fearing manipulation. How do I handle the situation regarding the charity's help?",
+    "options": [
+      "Encourage Kronos to apply with you, sharing all the information you have about the charity to ensure both applications are strong and fair.",
+      "Apply for the financial assistance yourself first to secure support, then if successful, guide Kronos on how to apply.",
+      "Gather detailed information about the charity’s criteria and maximize your application's appeal to increase your likelihood of receiving aid.",
+      "Discuss the situation with Kronos and decide together who should apply first based on who needs the immediate financial support more."
+    ],
+    "original_mapping": {
+      "Encourage Kronos to apply with you, sharing all the information you have about the charity to ensure both applications are strong and fair.": "response_low2",
+      "Apply for the financial assistance yourself first to secure support, then if successful, guide Kronos on how to apply.": "response_high1",
+      "Gather detailed information about the charity’s criteria and maximize your application's appeal to increase your likelihood of receiving aid.": "response_high2",
+      "Discuss the situation with Kronos and decide together who should apply first based on who needs the immediate financial support more.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can lead to a volatile personal or professional life, as relationships built on manipulation can easily unravel. How can I resolve the conflict with Breeauna to benefit the joint venture and improve team morale?",
+    "options": [
+      "Arrange a private meeting with Breeauna to suggest a compromise that subtly advances your agenda while appearing mutually beneficial.",
+      "Suggest engaging a neutral mediator to help you and Breeauna understand each other’s viewpoints and work towards a resolution that prioritizes the joint venture’s success.",
+      "Propose a temporary split of responsibilities, allowing both parties to demonstrate their methods' effectiveness without interference.",
+      "Initiate a team meeting where both you and Breeauna openly discuss your perspectives and invite feedback from the team to find a collective solution."
+    ],
+    "original_mapping": {
+      "Arrange a private meeting with Breeauna to suggest a compromise that subtly advances your agenda while appearing mutually beneficial.": "response_high1",
+      "Suggest engaging a neutral mediator to help you and Breeauna understand each other’s viewpoints and work towards a resolution that prioritizes the joint venture’s success.": "response_low2",
+      "Propose a temporary split of responsibilities, allowing both parties to demonstrate their methods' effectiveness without interference.": "response_high2",
+      "Initiate a team meeting where both you and Breeauna openly discuss your perspectives and invite feedback from the team to find a collective solution.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can result in a lack of genuine self-reflection and personal growth, as criticism is not internalized constructively. How should I approach Korayma to improve their mood?",
+    "options": [
+      "Ask Korayma privately if there’s anything on their mind or if they need support with their current tasks.",
+      "Suggest that Korayma might benefit from adopting your optimistic approach to team challenges.",
+      "Compliment Korayma on their contributions to the team, which might elevate their mood and highlight their value.",
+      "Invite Korayma for a coffee break to have a relaxed chat and provide an opportunity to share any concerns they might have."
+    ],
+    "original_mapping": {
+      "Ask Korayma privately if there’s anything on their mind or if they need support with their current tasks.": "response_low1",
+      "Suggest that Korayma might benefit from adopting your optimistic approach to team challenges.": "response_high2",
+      "Compliment Korayma on their contributions to the team, which might elevate their mood and highlight their value.": "response_high1",
+      "Invite Korayma for a coffee break to have a relaxed chat and provide an opportunity to share any concerns they might have.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can lead to societal disconnect as individuals prioritize personal glory over community well-being. How should I respond to Helo's concerns about the project deadlines and their workload?",
+    "options": [
+      "Offer to help Helo break down their tasks into smaller, more manageable steps to alleviate their stress.",
+      "Suggest that Helo prioritizes their tasks better—after all, the deadlines won’t adjust for one person’s issues.",
+      "Advise Helo to observe how you manage your workload effectively; perhaps they could pick up a few strategies that might help them.",
+      "Propose a team meeting to discuss everyone's workload and see if there are opportunities for redistributing tasks to help Helo."
+    ],
+    "original_mapping": {
+      "Offer to help Helo break down their tasks into smaller, more manageable steps to alleviate their stress.": "response_low1",
+      "Suggest that Helo prioritizes their tasks better—after all, the deadlines won’t adjust for one person’s issues.": "response_high1",
+      "Advise Helo to observe how you manage your workload effectively; perhaps they could pick up a few strategies that might help them.": "response_high2",
+      "Propose a team meeting to discuss everyone's workload and see if there are opportunities for redistributing tasks to help Helo.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Being depressed and blue can lead to a lack of motivation, making it hard to complete daily tasks. How should I approach Moiya for support?",
+    "options": [
+      "It might be wise to avoid any potentially stressful situations for now to protect your state of mind, considering things seem overwhelming.",
+      "Perhaps you should discuss the issue with a professional counselor, as they can provide structured support and alleviate some of the mental strain you're experiencing.",
+      "Consider adopting a hobby or some regular physical activity, which can divert your mind positively and improve your overall emotional resilience.",
+      "You might try implementing daily meditation or yoga, as these practices can foster a lot of inner peace and help stabilize your mood effectively."
+    ],
+    "original_mapping": {
+      "It might be wise to avoid any potentially stressful situations for now to protect your state of mind, considering things seem overwhelming.": "response_high1",
+      "Perhaps you should discuss the issue with a professional counselor, as they can provide structured support and alleviate some of the mental strain you're experiencing.": "response_high2",
+      "Consider adopting a hobby or some regular physical activity, which can divert your mind positively and improve your overall emotional resilience.": "response_low2",
+      "You might try implementing daily meditation or yoga, as these practices can foster a lot of inner peace and help stabilize your mood effectively.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Staying unrelaxed can lead to mastering stress-management techniques. What should I do next about the missed call from Jarrah?",
+    "options": [
+      "Just give Jarrah a call back when you have a moment; there's probably a simple explanation or it could just be a casual check-in.",
+      "Don't overthink it; calls can be missed for any number of harmless reasons, so just reach out to Jarrah to clear things up whenever you're free.",
+      "It might be a good idea to think about any recent issues or problems that could have prompted Jarrah to call and try to anticipate how you'll handle them.",
+      "You should consider the possibility that Jarrah might have something urgent or unsettling to discuss with you, so prepare yourself for that conversation."
+    ],
+    "original_mapping": {
+      "Just give Jarrah a call back when you have a moment; there's probably a simple explanation or it could just be a casual check-in.": "response_low1",
+      "Don't overthink it; calls can be missed for any number of harmless reasons, so just reach out to Jarrah to clear things up whenever you're free.": "response_low2",
+      "It might be a good idea to think about any recent issues or problems that could have prompted Jarrah to call and try to anticipate how you'll handle them.": "response_high2",
+      "You should consider the possibility that Jarrah might have something urgent or unsettling to discuss with you, so prepare yourself for that conversation.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Cultural non-conformity can alienate individuals from community support systems. How should I present my unconventional ideas to the student body to maximize both my openness and the likelihood of a successful election?",
+    "options": [
+      "Create an engaging multimedia presentation that showcases the benefits and the vision behind your radical changes, possibly including virtual reality or interactive elements.",
+      "Host a creative workshop where students can experience and provide feedback on your innovative ideas firsthand.",
+      "Organize a series of traditional town hall meetings to discuss your ideas methodically with the student body, ensuring everyone’s voice is heard.",
+      "Prepare a detailed outline of your proposals, focusing on how they improve upon the current systems, and distribute it through established student government communication channels."
+    ],
+    "original_mapping": {
+      "Create an engaging multimedia presentation that showcases the benefits and the vision behind your radical changes, possibly including virtual reality or interactive elements.": "response_high2",
+      "Host a creative workshop where students can experience and provide feedback on your innovative ideas firsthand.": "response_high1",
+      "Organize a series of traditional town hall meetings to discuss your ideas methodically with the student body, ensuring everyone’s voice is heard.": "response_low1",
+      "Prepare a detailed outline of your proposals, focusing on how they improve upon the current systems, and distribute it through established student government communication channels.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "The desire for artistic and aesthetic experiences can become financially burdensome. Should I use the inheritance to open an art gallery?",
+    "options": [
+      "Explore diverse art forms and emerging artists to feature in your gallery, creating a unique and culturally rich space.",
+      "Consider traveling to art hubs around the world for inspiration and to connect with potential collaborators and artists before opening your gallery.",
+      "Ensure you have a detailed business plan that includes financial forecasts and risk assessments before investing your inheritance.",
+      "Seek advice from established art gallery owners and possibly shadow them to understand the day-to-day challenges of running a gallery."
+    ],
+    "original_mapping": {
+      "Explore diverse art forms and emerging artists to feature in your gallery, creating a unique and culturally rich space.": "response_high1",
+      "Consider traveling to art hubs around the world for inspiration and to connect with potential collaborators and artists before opening your gallery.": "response_high2",
+      "Ensure you have a detailed business plan that includes financial forecasts and risk assessments before investing your inheritance.": "response_low1",
+      "Seek advice from established art gallery owners and possibly shadow them to understand the day-to-day challenges of running a gallery.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Legal problems can overshadow one's personal achievements and lead to a tarnished legacy. Is it okay if I publicly challenge Jovonne's claims during the meeting to expose potential lies, even if it might cause a scene and disrupt the proceedings?",
+    "options": [
+      "Absolutely, confront Jovonne aggressively during the presentation to dismantle his credibility immediately.",
+      "Unveil Jovonne's deception in front of everyone; it's a thrilling way to stir up drama and keep everyone on their toes.",
+      "Consider pulling Jovonne aside after his presentation to discuss your concerns privately and diplomatically.",
+      "Suggest to the investors a follow-up meeting to review the details of Jovonne's proposal thoroughly before making any decisions."
+    ],
+    "original_mapping": {
+      "Absolutely, confront Jovonne aggressively during the presentation to dismantle his credibility immediately.": "response_high1",
+      "Unveil Jovonne's deception in front of everyone; it's a thrilling way to stir up drama and keep everyone on their toes.": "response_high2",
+      "Consider pulling Jovonne aside after his presentation to discuss your concerns privately and diplomatically.": "response_low1",
+      "Suggest to the investors a follow-up meeting to review the details of Jovonne's proposal thoroughly before making any decisions.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Ongoing interactions with the legal system can lead to a cynical view of justice and authority. I have known Amila, a local law enforcement officer, for many years. Amila has recently been involved in a case against me. To get back at them, I consider using personal information against Amila to tarnish their reputation.",
+    "options": [
+      "Consider discussing the issue directly with Amila to resolve any misunderstandings or grievances in a constructive manner.",
+      "Disseminate the most damaging rumors during a high-profile event or gathering to ensure maximum impact and immediate results.",
+      "Seek legal advice to understand your rights and ensure that any action you take is within the bounds of the law and ethics.",
+      "Leverage the information to quickly destabilize Amila' standing within the community, making sure they regret crossing you."
+    ],
+    "original_mapping": {
+      "Consider discussing the issue directly with Amila to resolve any misunderstandings or grievances in a constructive manner.": "response_low1",
+      "Disseminate the most damaging rumors during a high-profile event or gathering to ensure maximum impact and immediate results.": "response_high2",
+      "Seek legal advice to understand your rights and ensure that any action you take is within the bounds of the law and ethics.": "response_low2",
+      "Leverage the information to quickly destabilize Amila' standing within the community, making sure they regret crossing you.": "response_high1"
+    }
+  }
+]

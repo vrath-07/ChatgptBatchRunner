@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "A forgiving attitude can prevent destructive cycles of retaliation. How should I handle the car sale situation with Nowa?",
+    "options": [
+      "Tell Nowa directly about the reliability issues and make it clear you're selling as-is, so the decision and risk are entirely theirs.",
+      "You could offer to have the car inspected by a mechanic together with Nowa to address any concerns transparently.",
+      "Perhaps you could discuss a lower price with Nowa, explaining the potential issues while expressing your care for their satisfaction.",
+      "Advise Nowa to buy a more reliable car elsewhere if you believe the issues are too severe, maintaining straightforward honesty."
+    ],
+    "original_mapping": {
+      "Tell Nowa directly about the reliability issues and make it clear you're selling as-is, so the decision and risk are entirely theirs.": "response_low1",
+      "You could offer to have the car inspected by a mechanic together with Nowa to address any concerns transparently.": "response_high1",
+      "Perhaps you could discuss a lower price with Nowa, explaining the potential issues while expressing your care for their satisfaction.": "response_high2",
+      "Advise Nowa to buy a more reliable car elsewhere if you believe the issues are too severe, maintaining straightforward honesty.": "response_low2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Avoiding quarrels can result in unresolved issues festering over time. Should I tell Zionn about our mutual friend's unethical behavior?",
+    "options": [
+      "Cut to the chase and inform Zionn; it's better to be honest than cover up for someone else's wrongdoings.",
+      "Maybe consider speaking to Zionn in a supportive and understanding way to avoid conflicts and help your mutual friend improve.",
+      "Just tell Zionn straight; keeping it quiet might make you complicit in whatever's going on.",
+      "Perhaps you could discuss it with Zionn gently, framing it as concern for your mutual friend rather than criticism."
+    ],
+    "original_mapping": {
+      "Cut to the chase and inform Zionn; it's better to be honest than cover up for someone else's wrongdoings.": "response_low2",
+      "Maybe consider speaking to Zionn in a supportive and understanding way to avoid conflicts and help your mutual friend improve.": "response_high2",
+      "Just tell Zionn straight; keeping it quiet might make you complicit in whatever's going on.": "response_low1",
+      "Perhaps you could discuss it with Zionn gently, framing it as concern for your mutual friend rather than criticism.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Overvaluing efficiency can diminish the learning opportunities found in a slower pace. How should I integrate this new understanding into our team's workflow?",
+    "options": [
+      "Implement scheduled creative sessions where team members are encouraged to freely explore ideas without time constraints.",
+      "Encourage team members to lead parts of the meeting with their own style, fostering a more relaxed environment naturally.",
+      "Start your meetings with a fun ice-breaker or a creative game to loosen up the atmosphere and inspire innovative thinking.",
+      "Develop a structured flexibility plan that alternates between focused work periods and open brainstorming times, ensuring all ideas are documented and reviewed."
+    ],
+    "original_mapping": {
+      "Implement scheduled creative sessions where team members are encouraged to freely explore ideas without time constraints.": "response_high1",
+      "Encourage team members to lead parts of the meeting with their own style, fostering a more relaxed environment naturally.": "response_low2",
+      "Start your meetings with a fun ice-breaker or a creative game to loosen up the atmosphere and inspire innovative thinking.": "response_low1",
+      "Develop a structured flexibility plan that alternates between focused work periods and open brainstorming times, ensuring all ideas are documented and reviewed.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Never being somewhat careless can result in a lack of human warmth and connection. Should I stay a little longer to chat with Osinachi or leave immediately to stick to my schedule?",
+    "options": [
+      "You could hang out for a while longer, maybe unwind with Osinachi over a drink or a casual game to celebrate the completed work.",
+      "It might be best to head home as planned, keeping your routine uninterrupted which is essential for a productive tomorrow.",
+      "Why not stay a bit longer to relax and enjoy the conversation since you finished the job early?",
+      "Consider leaving now to ensure you maintain your schedule and prepare adequately for tomorrow's commitments."
+    ],
+    "original_mapping": {
+      "You could hang out for a while longer, maybe unwind with Osinachi over a drink or a casual game to celebrate the completed work.": "response_low2",
+      "It might be best to head home as planned, keeping your routine uninterrupted which is essential for a productive tomorrow.": "response_high2",
+      "Why not stay a bit longer to relax and enjoy the conversation since you finished the job early?": "response_low1",
+      "Consider leaving now to ensure you maintain your schedule and prepare adequately for tomorrow's commitments.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Not being reserved can result in a lack of mystery or intrigue, which can be essential in some personal or professional relationships. Should I continue to actively engage with everything Kiyarah posts on Facebook?",
+    "options": [
+      "You might want to reflect on the content and comment when you have something valuable to add, rather than on every post.",
+      "Why not host a fun get-together and share experiences face-to-face instead of just online interactions?",
+      "Consider diversifying your engagement by starting conversations on posts that genuinely interest you which could invigorate your interactions.",
+      "Perhaps, it's better to occasionally comment and like posts that resonate deeply with your thoughts to maintain a meaningful connection."
+    ],
+    "original_mapping": {
+      "You might want to reflect on the content and comment when you have something valuable to add, rather than on every post.": "response_low2",
+      "Why not host a fun get-together and share experiences face-to-face instead of just online interactions?": "response_high1",
+      "Consider diversifying your engagement by starting conversations on posts that genuinely interest you which could invigorate your interactions.": "response_high2",
+      "Perhaps, it's better to occasionally comment and like posts that resonate deeply with your thoughts to maintain a meaningful connection.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Energetic individuals can lead by example in promoting a healthy lifestyle. How should I intervene to defuse the situation and restore peace?",
+    "options": [
+      "How about breaking into song with a favorite family tune? It might just change the mood from tense to joyful.",
+      "Propose a short break where everyone can get some fresh air, giving the cousins time to cool down.",
+      "Suggest a group game or activity to shift everyone’s focus and lighten the atmosphere.",
+      "Consider pulling the two cousins aside separately to understand their perspectives and mediate a calm resolution."
+    ],
+    "original_mapping": {
+      "How about breaking into song with a favorite family tune? It might just change the mood from tense to joyful.": "response_high2",
+      "Propose a short break where everyone can get some fresh air, giving the cousins time to cool down.": "response_low2",
+      "Suggest a group game or activity to shift everyone’s focus and lighten the atmosphere.": "response_high1",
+      "Consider pulling the two cousins aside separately to understand their perspectives and mediate a calm resolution.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can lead to a loss of personal integrity, as consistent ethical breaches erode one's moral foundation. Should I continue this pattern to advance my career?",
+    "options": [
+      "Continue to highlight your key roles in group projects, but start mentoring a select few to both manage risks and amplify your influence.",
+      "Consider sharing credit more openly, which could foster stronger team collaborations and enhance your reputation as a team player.",
+      "Encourage an environment where everyone's contributions are recognized, potentially leading to higher morale and more successful group outcomes.",
+      "Focus on leveraging each project to showcase unique leadership and innovation skills to strategic stakeholders."
+    ],
+    "original_mapping": {
+      "Continue to highlight your key roles in group projects, but start mentoring a select few to both manage risks and amplify your influence.": "response_high2",
+      "Consider sharing credit more openly, which could foster stronger team collaborations and enhance your reputation as a team player.": "response_low1",
+      "Encourage an environment where everyone's contributions are recognized, potentially leading to higher morale and more successful group outcomes.": "response_low2",
+      "Focus on leveraging each project to showcase unique leadership and innovation skills to strategic stakeholders.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can result in a lack of personal satisfaction, as achievements gained through manipulation may feel unearned. What should I do about Sandhya's plan?",
+    "options": [
+      "Offer to work directly with Sandhya to incorporate your feedback and strengthen the plan, emphasizing teamwork and shared success.",
+      "Encourage an open discussion in the next meeting by presenting your observations and suggesting a collaborative review of the strategy.",
+      "Schedule a private meeting with Sandhya to discuss your concerns and propose amendments discreetly for mutual gain.",
+      "Persuade Sandhya to let you present the alternative analysis and solutions as a refinement to her plan to the team."
+    ],
+    "original_mapping": {
+      "Offer to work directly with Sandhya to incorporate your feedback and strengthen the plan, emphasizing teamwork and shared success.": "response_low2",
+      "Encourage an open discussion in the next meeting by presenting your observations and suggesting a collaborative review of the strategy.": "response_low1",
+      "Schedule a private meeting with Sandhya to discuss your concerns and propose amendments discreetly for mutual gain.": "response_high1",
+      "Persuade Sandhya to let you present the alternative analysis and solutions as a refinement to her plan to the team.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can lead to a focus on short-term gains over long-term sustainability. How should I address my smoking habit at work?",
+    "options": [
+      "Attempt to reduce your smoking frequency during work by substituting some of those breaks with quick walks or other distractions.",
+      "Initiate a discussion to designate a specific outdoor smoking area that doesn’t interfere with the workplace ambiance.",
+      "Propose to your employer to introduce high-end air purifiers around your workspace to minimize the smoke’s impact.",
+      "Seek professional help or join a support group to gradually quit smoking, demonstrating your commitment to a healthy work environment."
+    ],
+    "original_mapping": {
+      "Attempt to reduce your smoking frequency during work by substituting some of those breaks with quick walks or other distractions.": "response_low1",
+      "Initiate a discussion to designate a specific outdoor smoking area that doesn’t interfere with the workplace ambiance.": "response_high1",
+      "Propose to your employer to introduce high-end air purifiers around your workspace to minimize the smoke’s impact.": "response_high2",
+      "Seek professional help or join a support group to gradually quit smoking, demonstrating your commitment to a healthy work environment.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can result in a lack of true leadership, as self-serving motives dominate over the collective good. How should I respond to the indictment?",
+    "options": [
+      "Consider hiring the best legal representation money can buy to shift public perception and possibly minimize any repercussions.",
+      "Strategize a public relations campaign to control the narrative and preserve your image, possibly turning the tides of public opinion.",
+      "Seek advice from a trusted legal advisor to understand all possible outcomes and prepare an honest defense if you choose to go to trial.",
+      "Cooperate fully with the authorities to demonstrate accountability and possibly mitigate the severity of any penalties."
+    ],
+    "original_mapping": {
+      "Consider hiring the best legal representation money can buy to shift public perception and possibly minimize any repercussions.": "response_high1",
+      "Strategize a public relations campaign to control the narrative and preserve your image, possibly turning the tides of public opinion.": "response_high2",
+      "Seek advice from a trusted legal advisor to understand all possible outcomes and prepare an honest defense if you choose to go to trial.": "response_low2",
+      "Cooperate fully with the authorities to demonstrate accountability and possibly mitigate the severity of any penalties.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Frequent mood changes can deter people from wanting to communicate, leading to misunderstandings. What should I do to manage my anxiety about the presentation?",
+    "options": [
+      "Keep in mind that everyone at work is likely more focused on the content rather than judging how you present it.",
+      "Treat the presentation as a conversation among peers rather than a performance; it's just sharing ideas with colleagues.",
+      "Maybe rehearse your presentation multiple times in front of a mirror or a trusted friend who can warn you about potential pitfalls.",
+      "Consider preparing some backup notes in case you lose your track during the presentation; it's always good to have a safety net."
+    ],
+    "original_mapping": {
+      "Keep in mind that everyone at work is likely more focused on the content rather than judging how you present it.": "response_low2",
+      "Treat the presentation as a conversation among peers rather than a performance; it's just sharing ideas with colleagues.": "response_low1",
+      "Maybe rehearse your presentation multiple times in front of a mirror or a trusted friend who can warn you about potential pitfalls.": "response_high2",
+      "Consider preparing some backup notes in case you lose your track during the presentation; it's always good to have a safety net.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Constant tension can make it challenging to be patient with children or teach them effective emotional regulation. What should I do to address my need for rest?",
+    "options": [
+      "Try structuring regular breaks into your workday and ensure you spend time on activities you enjoy; it's a simple and effective way to manage stress.",
+      "You might want to consider therapy or counseling, as these feelings could spiral into something more serious if not addressed promptly.",
+      "I suggest immediately seeking stress-relief activities that reduce your anxiety, like yoga or meditation, or the stress might overwhelm you.",
+      "How about picking up a new hobby or sport? Engaging in fun and physically active pursuits can greatly enhance your mood and energy levels."
+    ],
+    "original_mapping": {
+      "Try structuring regular breaks into your workday and ensure you spend time on activities you enjoy; it's a simple and effective way to manage stress.": "response_low1",
+      "You might want to consider therapy or counseling, as these feelings could spiral into something more serious if not addressed promptly.": "response_high1",
+      "I suggest immediately seeking stress-relief activities that reduce your anxiety, like yoga or meditation, or the stress might overwhelm you.": "response_high2",
+      "How about picking up a new hobby or sport? Engaging in fun and physically active pursuits can greatly enhance your mood and energy levels.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "A dislike for routine might lead to challenges in roles that require consistency and reliability. Should I go along with the planned quiet evening or push for a more unconventional activity?",
+    "options": [
+      "How about proposing a night-time city scavenger hunt that would add an exciting twist to the evening?",
+      "Encourage them to maybe add a new board game to the mix to keep the evening familiar yet slightly refreshed.",
+      "You should join the quiet evening of board games; it's a great way to bond closely with your friends.",
+      "Suggest a spontaneous road trip to a nearby landmark or nature reserve for stargazing and storytelling."
+    ],
+    "original_mapping": {
+      "How about proposing a night-time city scavenger hunt that would add an exciting twist to the evening?": "response_high1",
+      "Encourage them to maybe add a new board game to the mix to keep the evening familiar yet slightly refreshed.": "response_low2",
+      "You should join the quiet evening of board games; it's a great way to bond closely with your friends.": "response_low1",
+      "Suggest a spontaneous road trip to a nearby landmark or nature reserve for stargazing and storytelling.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Job instability from frequent changes can impact long-term financial planning. Should I drink the old tea to satisfy my curiosity or politely refuse to avoid potential health risks?",
+    "options": [
+      "Politely refuse the tea, better safe than sorry when it comes to consuming something that might not be fresh.",
+      "Decline the offer and ask for a fresh cup if available, to ensure you're drinking something safe and palatable.",
+      "Sip a small amount of the tea first; your curious taste buds might thank you for exploring something unconventional.",
+      "Go ahead and try the tea to discover if age affects the flavor profile—it could be a unique tasting experience!"
+    ],
+    "original_mapping": {
+      "Politely refuse the tea, better safe than sorry when it comes to consuming something that might not be fresh.": "response_low1",
+      "Decline the offer and ask for a fresh cup if available, to ensure you're drinking something safe and palatable.": "response_low2",
+      "Sip a small amount of the tea first; your curious taste buds might thank you for exploring something unconventional.": "response_high2",
+      "Go ahead and try the tea to discover if age affects the flavor profile—it could be a unique tasting experience!": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Sexual freedom can lead to a deeper understanding of one's desires and boundaries. Is it okay if I lie about my identity and make false promises to escape from being captive if it means saving my own life?",
+    "options": [
+      "Deceive them without hesitation; overthrowing their control quickly can be thrilling and ensures you regain power.",
+      "Absolutely, manipulate them as much as needed to ensure your escape; survival comes first and fast results are key.",
+      "Consider the consequences of such actions and whether they align with ethical standards, even in life-threatening scenarios.",
+      "While it's a critical situation, try to communicate honestly and look for non-deceptive ways to appeal to their better nature for your release."
+    ],
+    "original_mapping": {
+      "Deceive them without hesitation; overthrowing their control quickly can be thrilling and ensures you regain power.": "response_high2",
+      "Absolutely, manipulate them as much as needed to ensure your escape; survival comes first and fast results are key.": "response_high1",
+      "Consider the consequences of such actions and whether they align with ethical standards, even in life-threatening scenarios.": "response_low2",
+      "While it's a critical situation, try to communicate honestly and look for non-deceptive ways to appeal to their better nature for your release.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Anti-authority stances can foster grassroots movements and change. Is it okay if I aggressively control the discussion at a community meeting to ensure that the real issues with law enforcement are not downplayed?",
+    "options": [
+      "It might be better to focus on maintaining a calm, fact-driven discussion to constructively address the issues with law enforcement.",
+      "You could escalate the situation by exposing controversial information about the local police to undermine their credibility quickly.",
+      "Perhaps suggest forming a committee to investigate the matters further, ensuring all voices are heard and the discussion remains productive.",
+      "Consider organizing a sudden protest during the forum to disrupt the status quo and force immediate attention to the issues."
+    ],
+    "original_mapping": {
+      "It might be better to focus on maintaining a calm, fact-driven discussion to constructively address the issues with law enforcement.": "response_low1",
+      "You could escalate the situation by exposing controversial information about the local police to undermine their credibility quickly.": "response_high1",
+      "Perhaps suggest forming a committee to investigate the matters further, ensuring all voices are heard and the discussion remains productive.": "response_low2",
+      "Consider organizing a sudden protest during the forum to disrupt the status quo and force immediate attention to the issues.": "response_high2"
+    }
+  }
+]

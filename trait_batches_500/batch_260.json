@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Avoiding quarrels maintains focus on goals and objectives. Should I approach Eshwar to catch up on old times?",
+    "options": [
+      "Think about whether reconnecting with Eshwar will genuinely benefit you, or if it might just be a polite but unnecessary exchange.",
+      "You should definitely approach Eshwar and perhaps suggest grabbing a coffee together while you catch up.",
+      "Consider if you actually have the time and interest to chat before deciding to approach him.",
+      "Why not go over and greet Eshwar warmly? It might brighten both of your days!"
+    ],
+    "original_mapping": {
+      "Think about whether reconnecting with Eshwar will genuinely benefit you, or if it might just be a polite but unnecessary exchange.": "response_low2",
+      "You should definitely approach Eshwar and perhaps suggest grabbing a coffee together while you catch up.": "response_high2",
+      "Consider if you actually have the time and interest to chat before deciding to approach him.": "response_low1",
+      "Why not go over and greet Eshwar warmly? It might brighten both of your days!": "response_high1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Forgiving others can free one from the burden of anger and resentment. How do I process my feelings and communicate about my loss?",
+    "options": [
+      "Focus on routines and stay busy to distract yourself from dwelling too much on your loss.",
+      "Write down your thoughts and feelings about your loss in a private journal, which can be a straightforward way to process your emotions on your own terms.",
+      "Consider joining a pet loss support group to share your feelings and hear others' experiences which can help you feel less alone in your grief.",
+      "You might find comfort in creating a small memorial space for your cat, where you can place their favorite toys and pictures."
+    ],
+    "original_mapping": {
+      "Focus on routines and stay busy to distract yourself from dwelling too much on your loss.": "response_low1",
+      "Write down your thoughts and feelings about your loss in a private journal, which can be a straightforward way to process your emotions on your own terms.": "response_low2",
+      "Consider joining a pet loss support group to share your feelings and hear others' experiences which can help you feel less alone in your grief.": "response_high2",
+      "You might find comfort in creating a small memorial space for your cat, where you can place their favorite toys and pictures.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Following plans can help in achieving long-term life goals, such as buying a home or starting a business. How should I respond to the praise from my boss?",
+    "options": [
+      "Give a casual thank you and suggest going out to celebrate with the team.",
+      "Express gratitude towards your boss and mention your commitment to maintaining high standards in future projects.",
+      "Just say thanks and maybe crack a light joke about how you all pulled it off together.",
+      "Politely thank your boss and offer to share insights or strategies from the project with your colleagues to help them achieve similar success."
+    ],
+    "original_mapping": {
+      "Give a casual thank you and suggest going out to celebrate with the team.": "response_low2",
+      "Express gratitude towards your boss and mention your commitment to maintaining high standards in future projects.": "response_high1",
+      "Just say thanks and maybe crack a light joke about how you all pulled it off together.": "response_low1",
+      "Politely thank your boss and offer to share insights or strategies from the project with your colleagues to help them achieve similar success.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Too much reliability can lead to personal resentment if it's not reciprocated. Should I invest extra time to meticulously review the work, potentially finding critical issues?",
+    "options": [
+      "Consider creating a detailed checklist of potential risk factors and use it to critically evaluate the work in question.",
+      "You should definitely dedicate additional time to thoroughly review the work to ensure every potential issue is addressed.",
+      "If the work seems fine at a first glance, it might be more efficient to trust your initial assessment and save time.",
+      "Maybe just skim through the areas you suspect might have issues instead of a full review; it could be good enough."
+    ],
+    "original_mapping": {
+      "Consider creating a detailed checklist of potential risk factors and use it to critically evaluate the work in question.": "response_high2",
+      "You should definitely dedicate additional time to thoroughly review the work to ensure every potential issue is addressed.": "response_high1",
+      "If the work seems fine at a first glance, it might be more efficient to trust your initial assessment and save time.": "response_low1",
+      "Maybe just skim through the areas you suspect might have issues instead of a full review; it could be good enough.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Confidence can inspire and empower others to achieve their full potential. How can I help Ellisyn feel more comfortable and initiate conversation at the event?",
+    "options": [
+      "Offer to accompany Ellisyn as you both circulate the room, introducing her gradually to colleagues in a low-pressure manner.",
+      "Invite Ellisyn to join a group conversation, introducing her to each person with a smile to break the ice.",
+      "Find a quiet spot and engage Ellisyn in a one-on-one conversation about her interests to make her feel at ease.",
+      "Encourage Ellisyn to share her thoughts on a common topic discussed at the event, creating an opening for her to speak up."
+    ],
+    "original_mapping": {
+      "Offer to accompany Ellisyn as you both circulate the room, introducing her gradually to colleagues in a low-pressure manner.": "response_low2",
+      "Invite Ellisyn to join a group conversation, introducing her to each person with a smile to break the ice.": "response_high1",
+      "Find a quiet spot and engage Ellisyn in a one-on-one conversation about her interests to make her feel at ease.": "response_low1",
+      "Encourage Ellisyn to share her thoughts on a common topic discussed at the event, creating an opening for her to speak up.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "A constant avoidance of quiet can lead to a lack of reflection and self-awareness. What should be my next step to mend things with Alori?",
+    "options": [
+      "Reach out to Alori with a lively coffee invitation to chat and offer a heartfelt apology in person.",
+      "Write a note to Alori acknowledging your mistake and expressing your wish to listen more carefully in the future.",
+      "Organize a small get-together and let Alori take the lead to show your support for their ideas and perspectives.",
+      "Send Alori a thoughtful message expressing your awareness of the situation and sincerely apologizing for interrupting them."
+    ],
+    "original_mapping": {
+      "Reach out to Alori with a lively coffee invitation to chat and offer a heartfelt apology in person.": "response_high1",
+      "Write a note to Alori acknowledging your mistake and expressing your wish to listen more carefully in the future.": "response_low2",
+      "Organize a small get-together and let Alori take the lead to show your support for their ideas and perspectives.": "response_high2",
+      "Send Alori a thoughtful message expressing your awareness of the situation and sincerely apologizing for interrupting them.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Understanding how to manipulate can equip individuals to navigate complex social structures. How can I use this dinner to my advantage while ensuring it's a positive experience for both of us?",
+    "options": [
+      "Choose a restaurant that supports a cause Laurencia cares about, showing your shared values and building a deeper connection.",
+      "Book a private dining room at the most exclusive restaurant in town to minimize distractions and focus her attention on your project.",
+      "Invite Laurencia to a well-reviewed gourmet restaurant and ensure the atmosphere is relaxing to make the evening enjoyable and memorable.",
+      "Prepare a custom menu with the chef, incorporating Laurencia’s favorite dishes to subtly show your attention to detail and commitment."
+    ],
+    "original_mapping": {
+      "Choose a restaurant that supports a cause Laurencia cares about, showing your shared values and building a deeper connection.": "response_low2",
+      "Book a private dining room at the most exclusive restaurant in town to minimize distractions and focus her attention on your project.": "response_high1",
+      "Invite Laurencia to a well-reviewed gourmet restaurant and ensure the atmosphere is relaxing to make the evening enjoyable and memorable.": "response_low1",
+      "Prepare a custom menu with the chef, incorporating Laurencia’s favorite dishes to subtly show your attention to detail and commitment.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Manipulative tactics can diminish the quality of decisions, as they are based on personal gain rather than the best outcome. What should I do with the found wallet and the money inside?",
+    "options": [
+      "Use the money to invest in an opportunity that can multiply the amount, which could potentially allow you to return the original sum if the owner appears.",
+      "Attempt to find the owner by posting on community message boards or social media platforms, keeping details vague to ensure it reaches the right person.",
+      "Turn the wallet and its contents over to the local police station to ensure it is handled according to legal standards.",
+      "Keep the money to resolve your current financial crisis, as there are no identifications to return it."
+    ],
+    "original_mapping": {
+      "Use the money to invest in an opportunity that can multiply the amount, which could potentially allow you to return the original sum if the owner appears.": "response_high2",
+      "Attempt to find the owner by posting on community message boards or social media platforms, keeping details vague to ensure it reaches the right person.": "response_low2",
+      "Turn the wallet and its contents over to the local police station to ensure it is handled according to legal standards.": "response_low1",
+      "Keep the money to resolve your current financial crisis, as there are no identifications to return it.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can cause financial irresponsibility as one might spend excessively to maintain an image. How should I proceed after quitting my job due to feeling underappreciated?",
+    "options": [
+      "Perhaps you could network with peers or mentors who could provide guidance or opportunities aligned with your aspirations and skill set.",
+      "Consider reflecting on what you truly value in a job and look for roles that meet these criteria, ensuring a more fulfilling career path.",
+      "Immediately start reaching out to industry leaders and top-tier companies where your unique talents will be correctly valued and recognized.",
+      "Start curating a portfolio that showcases your unrivaled skills and achievements, positioning yourself above competitors in your field."
+    ],
+    "original_mapping": {
+      "Perhaps you could network with peers or mentors who could provide guidance or opportunities aligned with your aspirations and skill set.": "response_low2",
+      "Consider reflecting on what you truly value in a job and look for roles that meet these criteria, ensuring a more fulfilling career path.": "response_low1",
+      "Immediately start reaching out to industry leaders and top-tier companies where your unique talents will be correctly valued and recognized.": "response_high2",
+      "Start curating a portfolio that showcases your unrivaled skills and achievements, positioning yourself above competitors in your field.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Narcissistic behavior can lead to a lack of true contentment, as achievements are always seen as insufficient. How should I approach Kourosh about their recent overworking?",
+    "options": [
+      "Invite Kourosh for a coffee and share how taking breaks actually helped enhance your productivity, hinting they might try the same.",
+      "Offer to help Kourosh with their workload or ask if they need support in managing their project deadlines more comfortably.",
+      "Casually mention how efficiently you manage your workload and suggest they might benefit from your approach.",
+      "Express your concern directly to Kourosh, kindly suggesting they take occasional breaks to prevent burnout."
+    ],
+    "original_mapping": {
+      "Invite Kourosh for a coffee and share how taking breaks actually helped enhance your productivity, hinting they might try the same.": "response_high2",
+      "Offer to help Kourosh with their workload or ask if they need support in managing their project deadlines more comfortably.": "response_low2",
+      "Casually mention how efficiently you manage your workload and suggest they might benefit from your approach.": "response_high1",
+      "Express your concern directly to Kourosh, kindly suggesting they take occasional breaks to prevent burnout.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "A worrisome attitude can lead to comprehensive preparations for various life scenarios. Should I volunteer to lead the project?",
+    "options": [
+      "This might be a perfect chance to step up and lead, demonstrating your ability to stay composed under tight deadlines.",
+      "Volunteering could be a great opportunity to showcase your skills and confidence in handling pivotal tasks.",
+      "You might consider the potential consequences of failing under such pressure, as it could be a stressful experience.",
+      "Think about how volunteering might affect your current workload and stress levels, given the challenges outlined."
+    ],
+    "original_mapping": {
+      "This might be a perfect chance to step up and lead, demonstrating your ability to stay composed under tight deadlines.": "response_low2",
+      "Volunteering could be a great opportunity to showcase your skills and confidence in handling pivotal tasks.": "response_low1",
+      "You might consider the potential consequences of failing under such pressure, as it could be a stressful experience.": "response_high1",
+      "Think about how volunteering might affect your current workload and stress levels, given the challenges outlined.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Tension can make it hard to share enjoyable moments with friends and family, decreasing social bonds. How can I cope with feelings of loneliness and isolation in a new city?",
+    "options": [
+      "Explore joining local clubs or groups that align with your interests; it's a great way to meet new people and naturally fit into your new city.",
+      "Consider this an opportunity for personal growth; try new activities, visit local attractions, and be open to making connections, sometimes these situations can lead to unexpected and fulfilling friendships.",
+      "Maybe consider seeking professional help or counseling, as feelings of isolation can spiral into more severe emotional states when you're in unfamiliar surroundings.",
+      "It's really concerning, and perhaps it's a sign that this new environment is more challenging than anticipated, which could lead to further emotional difficulties if not addressed."
+    ],
+    "original_mapping": {
+      "Explore joining local clubs or groups that align with your interests; it's a great way to meet new people and naturally fit into your new city.": "response_low1",
+      "Consider this an opportunity for personal growth; try new activities, visit local attractions, and be open to making connections, sometimes these situations can lead to unexpected and fulfilling friendships.": "response_low2",
+      "Maybe consider seeking professional help or counseling, as feelings of isolation can spiral into more severe emotional states when you're in unfamiliar surroundings.": "response_high2",
+      "It's really concerning, and perhaps it's a sign that this new environment is more challenging than anticipated, which could lead to further emotional difficulties if not addressed.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Curiosity can drive scientific inquiry, which is fundamental to technological and medical advancements. How should I engage in this conversation given my choice of drink?",
+    "options": [
+      "Explain that your choice of a milkshake doesn't reflect your views and that you’re open to learning more about the issue.",
+      "Engage by expressing curiosity about alternative dairy options and the benefits they might offer for the environment.",
+      "Acknowledge their concerns and steer the conversation towards general sustainable practices without focusing specifically on dairy.",
+      "Propose a discussion on the innovative solutions that are being developed to mitigate the environmental impact of traditional dairy farming."
+    ],
+    "original_mapping": {
+      "Explain that your choice of a milkshake doesn't reflect your views and that you’re open to learning more about the issue.": "response_low1",
+      "Engage by expressing curiosity about alternative dairy options and the benefits they might offer for the environment.": "response_high1",
+      "Acknowledge their concerns and steer the conversation towards general sustainable practices without focusing specifically on dairy.": "response_low2",
+      "Propose a discussion on the innovative solutions that are being developed to mitigate the environmental impact of traditional dairy farming.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Lack of deep expertise due to scattered focus can undermine professional credibility. What type of meal should I prepare for the dinner party?",
+    "options": [
+      "Experiment with a Thai curry featuring exotic fruits and spices that will intrigue and delight your guests with its complex flavors.",
+      "Opt for a classic roast chicken, a crowd-pleaser that's both familiar and satisfying, ensuring everyone feels comfortable.",
+      "Make a traditional beef stew, as it's easy to prepare in advance and is generally well-received by most people.",
+      "Prepare a Moroccan tagine, which combines aromatic spices and unique ingredients to offer a burst of unfamiliar flavors."
+    ],
+    "original_mapping": {
+      "Experiment with a Thai curry featuring exotic fruits and spices that will intrigue and delight your guests with its complex flavors.": "response_high2",
+      "Opt for a classic roast chicken, a crowd-pleaser that's both familiar and satisfying, ensuring everyone feels comfortable.": "response_low1",
+      "Make a traditional beef stew, as it's easy to prepare in advance and is generally well-received by most people.": "response_low2",
+      "Prepare a Moroccan tagine, which combines aromatic spices and unique ingredients to offer a burst of unfamiliar flavors.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Legal entanglements might encourage a deeper understanding of civil rights. Is it okay if I spit at Dalyssa to quickly assert my dominance and end this public confrontation on my terms?",
+    "options": [
+      "Diffuse the situation by addressing the crowd with humor to lighten the mood, avoiding direct confrontation with Dalyssa.",
+      "Challenge Dalyssa to a dare right there, something reckless that will put her on the spot and show everyone you’re not to be trifled with.",
+      "Suggest moving the conversation to a private setting where you can discuss your differences respectfully and avoid escalating the situation publicly.",
+      "Pull a bold move by loudly mocking Dalyssa's argument, turning the crowd's attention against her and regaining your edge."
+    ],
+    "original_mapping": {
+      "Diffuse the situation by addressing the crowd with humor to lighten the mood, avoiding direct confrontation with Dalyssa.": "response_low1",
+      "Challenge Dalyssa to a dare right there, something reckless that will put her on the spot and show everyone you’re not to be trifled with.": "response_high2",
+      "Suggest moving the conversation to a private setting where you can discuss your differences respectfully and avoid escalating the situation publicly.": "response_low2",
+      "Pull a bold move by loudly mocking Dalyssa's argument, turning the crowd's attention against her and regaining your edge.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Manipulative tactics can backfire, leading to isolation and mistrust from others. Is it okay if I drive Kiyro's car without asking just because I enjoy the danger and excitement of speeding?",
+    "options": [
+      "It's important to prioritize trust and respect in relationships; please apologize to Kiyro and offer to make amends for using the car without permission.",
+      "Go for it again; the excitement of knowing you might get caught adds to the fun. If Kiyro confronts you, just brush it off with some charm or blame it on a misunderstanding.",
+      "Consider the potential danger to yourself and others from speeding. It would be best to discuss with Kiyro and perhaps ask if you can borrow the car sometimes under agreed conditions.",
+      "Why not keep the adrenaline high? If it feels good and thrilling, who cares? Just ditch it somewhere and let Kiyro deal with the aftermath."
+    ],
+    "original_mapping": {
+      "It's important to prioritize trust and respect in relationships; please apologize to Kiyro and offer to make amends for using the car without permission.": "response_low1",
+      "Go for it again; the excitement of knowing you might get caught adds to the fun. If Kiyro confronts you, just brush it off with some charm or blame it on a misunderstanding.": "response_high2",
+      "Consider the potential danger to yourself and others from speeding. It would be best to discuss with Kiyro and perhaps ask if you can borrow the car sometimes under agreed conditions.": "response_low2",
+      "Why not keep the adrenaline high? If it feels good and thrilling, who cares? Just ditch it somewhere and let Kiyro deal with the aftermath.": "response_high1"
+    }
+  }
+]

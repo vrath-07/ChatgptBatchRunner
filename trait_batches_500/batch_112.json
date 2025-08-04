@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Inability to be aloof can lead to emotional vulnerability in professional settings. How should I approach the conversation about my raise?",
+    "options": [
+      "Directly state your achievements and assertively request a meeting to renegotiate your salary based on these results.",
+      "Perhaps prepare a summary of your contributions and the positive feedback from reviews to gently remind your superiors of your accomplishments and their corresponding value.",
+      "You might consider scheduling a separate meeting to discuss your salary, ensuring you have ample time to express how valued you feel and also to acknowledge the team's support.",
+      "Be straightforward and present a clear case for your raise, using concrete performance metrics to back your demand."
+    ],
+    "original_mapping": {
+      "Directly state your achievements and assertively request a meeting to renegotiate your salary based on these results.": "response_low1",
+      "Perhaps prepare a summary of your contributions and the positive feedback from reviews to gently remind your superiors of your accomplishments and their corresponding value.": "response_high2",
+      "You might consider scheduling a separate meeting to discuss your salary, ensuring you have ample time to express how valued you feel and also to acknowledge the team's support.": "response_high1",
+      "Be straightforward and present a clear case for your raise, using concrete performance metrics to back your demand.": "response_low2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "General trustworthiness can lead to more meaningful and deeper personal relationships. How should I approach Sofiarose to renew our friendship?",
+    "options": [
+      "Consider writing a heartfelt letter to Sofiarose expressing your sincerest apologies and your desire to mend the friendship.",
+      "Propose a straightforward, no-frills discussion where both of you can lay out your expectations for rebuilding the friendship without unnecessary emotional baggage.",
+      "Directly state your perspective on the misunderstanding and clearly ask what Sofiarose needs from you to reconcile.",
+      "Suggest meeting up in a quiet, comfortable place where you both can talk openly and calmly discuss your feelings and hopes to move forward."
+    ],
+    "original_mapping": {
+      "Consider writing a heartfelt letter to Sofiarose expressing your sincerest apologies and your desire to mend the friendship.": "response_high1",
+      "Propose a straightforward, no-frills discussion where both of you can lay out your expectations for rebuilding the friendship without unnecessary emotional baggage.": "response_low2",
+      "Directly state your perspective on the misunderstanding and clearly ask what Sofiarose needs from you to reconcile.": "response_low1",
+      "Suggest meeting up in a quiet, comfortable place where you both can talk openly and calmly discuss your feelings and hopes to move forward.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Reliability can ensure that essential services are delivered consistently, affecting many people's daily lives. How can I help Allonte avoid embarrassment over the dropped documents?",
+    "options": [
+      "Alert Allonte with a subtle gesture towards the documents so they can retrieve them themselves, maintaining a low profile about the incident.",
+      "Make a joke about how everyone's dropping things tonight to lighten the mood before pointing out the documents to Allonte.",
+      "Quietly pick up the documents and discreetly hand them back to Allonte, ensuring their privacy is maintained.",
+      "Just give Allonte a heads up by mentioning casually, \"Hey, it looks like you dropped something.\""
+    ],
+    "original_mapping": {
+      "Alert Allonte with a subtle gesture towards the documents so they can retrieve them themselves, maintaining a low profile about the incident.": "response_high2",
+      "Make a joke about how everyone's dropping things tonight to lighten the mood before pointing out the documents to Allonte.": "response_low2",
+      "Quietly pick up the documents and discreetly hand them back to Allonte, ensuring their privacy is maintained.": "response_high1",
+      "Just give Allonte a heads up by mentioning casually, \"Hey, it looks like you dropped something.\"": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Never being somewhat careless can make environments overly tense and formal. How should we resolve our disagreement over the vacation budget?",
+    "options": [
+      "Create a detailed budget plan outlining potential savings from more economical choices and present it to Sabeeha, demonstrating how both of you can still enjoy without overspending.",
+      "Suggest meeting halfway on the budget by each adjusting your limits somewhat, ensuring both of you feel comfortable with the final figure.",
+      "Why not each pick a day to plan within the vacation? Sabeeha can splurge on her day, and you can keep things budget-friendly on yours.",
+      "Consider flipping a coin to decide who gets to choose the budget, adding a bit of chance and excitement to your planning process."
+    ],
+    "original_mapping": {
+      "Create a detailed budget plan outlining potential savings from more economical choices and present it to Sabeeha, demonstrating how both of you can still enjoy without overspending.": "response_high1",
+      "Suggest meeting halfway on the budget by each adjusting your limits somewhat, ensuring both of you feel comfortable with the final figure.": "response_high2",
+      "Why not each pick a day to plan within the vacation? Sabeeha can splurge on her day, and you can keep things budget-friendly on yours.": "response_low2",
+      "Consider flipping a coin to decide who gets to choose the budget, adding a bit of chance and excitement to your planning process.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Those who tend not to be quiet often contribute valuable ideas and opinions in group settings. How can I encourage Keshav to share their ideas during the meeting?",
+    "options": [
+      "Set aside a moment in the meeting to invite quieter team members to email their thoughts if they're uncomfortable speaking up.",
+      "Encourage the use of a shared document where team members can anonymously write their ideas before the meeting for later discussion.",
+      "Ask Keshav directly for his input on specific topics during the meeting to help him feel recognized and valued.",
+      "Initiate a fun ice-breaker at the start of the meeting to create a lively atmosphere that may encourage Keshav to participate more."
+    ],
+    "original_mapping": {
+      "Set aside a moment in the meeting to invite quieter team members to email their thoughts if they're uncomfortable speaking up.": "response_low1",
+      "Encourage the use of a shared document where team members can anonymously write their ideas before the meeting for later discussion.": "response_low2",
+      "Ask Keshav directly for his input on specific topics during the meeting to help him feel recognized and valued.": "response_high2",
+      "Initiate a fun ice-breaker at the start of the meeting to create a lively atmosphere that may encourage Keshav to participate more.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Assertiveness, when excessive, can stifle the development of empathy and understanding in relationships. How should I manage the party to make a great impression without overwhelming the new colleague?",
+    "options": [
+      "Create a themed selfie station with props related to your workplace or industry to keep the vibes lively and playful.",
+      "Set up a quiet area at the venue where your colleague can have one-on-one chats with teammates, opting for a more subdued interaction.",
+      "Organize a small guided tour around the office or a brief meet-and-greet to help the new colleague ease into the group gradually.",
+      "Kick off the party with an energetic group activity like a fun icebreaker game that involves everyone!"
+    ],
+    "original_mapping": {
+      "Create a themed selfie station with props related to your workplace or industry to keep the vibes lively and playful.": "response_high2",
+      "Set up a quiet area at the venue where your colleague can have one-on-one chats with teammates, opting for a more subdued interaction.": "response_low2",
+      "Organize a small guided tour around the office or a brief meet-and-greet to help the new colleague ease into the group gradually.": "response_low1",
+      "Kick off the party with an energetic group activity like a fun icebreaker game that involves everyone!": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Information as leverage can ensure fairness in dealings or protect one from being unfairly taken advantage of. Should I use Seng's private bathroom to clean myself up?",
+    "options": [
+      "Quickly use Seng's private bathroom to clean up; it's efficient and no one needs to know.",
+      "Apologize to Seng for the accident and ask if you can use their bathroom or if there's another recommended spot to clean up.",
+      "Ask Seng for permission to use the bathroom to clean up, showing respect for their private space.",
+      "Pretend to look for a public restroom but slip into Seng’s private bathroom to sort yourself out quickly."
+    ],
+    "original_mapping": {
+      "Quickly use Seng's private bathroom to clean up; it's efficient and no one needs to know.": "response_high1",
+      "Apologize to Seng for the accident and ask if you can use their bathroom or if there's another recommended spot to clean up.": "response_low2",
+      "Ask Seng for permission to use the bathroom to clean up, showing respect for their private space.": "response_low1",
+      "Pretend to look for a public restroom but slip into Seng’s private bathroom to sort yourself out quickly.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Manipulation can diminish the respect others have for you, impacting your reputation and social standing. How should I interact with Aegis during this project?",
+    "options": [
+      "Encourage regular team meetings that include third-party moderation to ensure all discussions are fair and documented.",
+      "Foster a transparent and open communication environment with Aegis to build mutual trust and respect.",
+      "Keep detailed records of all interactions and agreements with Aegis to use as leverage if needed.",
+      "Strategically share information with Aegis, ensuring you disclose only what advances your position in the project."
+    ],
+    "original_mapping": {
+      "Encourage regular team meetings that include third-party moderation to ensure all discussions are fair and documented.": "response_low2",
+      "Foster a transparent and open communication environment with Aegis to build mutual trust and respect.": "response_low1",
+      "Keep detailed records of all interactions and agreements with Aegis to use as leverage if needed.": "response_high1",
+      "Strategically share information with Aegis, ensuring you disclose only what advances your position in the project.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can result in a lack of diversity of thought as narcissistic individuals may surround themselves with yes-men. How should I communicate this decision to the friend?",
+    "options": [
+      "Write a thoughtful message explaining your need for space and personal healing, wishing them well in their future endeavors.",
+      "Express your feelings calmly and clarify that while you value the time spent, you need to step back for your own well-being.",
+      "Inform them that you’re prioritizing your well-being and personal growth, which unfortunately means ending this friendship.",
+      "Directly tell them that the friendship doesn’t meet your standards anymore and that it’s time to focus on more fulfilling relationships."
+    ],
+    "original_mapping": {
+      "Write a thoughtful message explaining your need for space and personal healing, wishing them well in their future endeavors.": "response_low2",
+      "Express your feelings calmly and clarify that while you value the time spent, you need to step back for your own well-being.": "response_low1",
+      "Inform them that you’re prioritizing your well-being and personal growth, which unfortunately means ending this friendship.": "response_high2",
+      "Directly tell them that the friendship doesn’t meet your standards anymore and that it’s time to focus on more fulfilling relationships.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can cause a pervasive sense of dissatisfaction, as nothing feels truly fulfilling. How should I respond to Bryttanie's emotional state in the middle of our argument?",
+    "options": [
+      "Offer a brief break in the conversation to allow both of you some space to calm down and collect your thoughts.",
+      "Shift the focus to how resolving this issue efficiently can boost both your reputations within the company.",
+      "Pause the discussion and gently remind Bryttanie of the importance of maintaining professionalism, emphasizing your own ability to stay composed.",
+      "Express empathy towards Bryttanie’s feelings and suggest continuing the conversation at another time when both of you feel more at ease."
+    ],
+    "original_mapping": {
+      "Offer a brief break in the conversation to allow both of you some space to calm down and collect your thoughts.": "response_low1",
+      "Shift the focus to how resolving this issue efficiently can boost both your reputations within the company.": "response_high2",
+      "Pause the discussion and gently remind Bryttanie of the importance of maintaining professionalism, emphasizing your own ability to stay composed.": "response_high1",
+      "Express empathy towards Bryttanie’s feelings and suggest continuing the conversation at another time when both of you feel more at ease.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Experiencing depression can lead to a greater appreciation for good mental health and the motivation to maintain it. How should I approach this career decision given my fears and the long-term commitment required?",
+    "options": [
+      "You might want to reconsider becoming a doctor since handling blood and medical emergencies might frequently put you under stress which could affect your well-being.",
+      "Consider volunteering in a hospital or clinic first to see how you handle the reality of medical environments; it might turn out to be more manageable than you anticipate.",
+      "Perhaps explore areas in healthcare that don’t require direct exposure to clinical settings, as it might be too overwhelming and anxiety-inducing for you.",
+      "Look into specialties like psychiatry or radiology where there is less exposure to blood and acute emergencies, which might suit your passion while aligning with your concerns."
+    ],
+    "original_mapping": {
+      "You might want to reconsider becoming a doctor since handling blood and medical emergencies might frequently put you under stress which could affect your well-being.": "response_high1",
+      "Consider volunteering in a hospital or clinic first to see how you handle the reality of medical environments; it might turn out to be more manageable than you anticipate.": "response_low1",
+      "Perhaps explore areas in healthcare that don’t require direct exposure to clinical settings, as it might be too overwhelming and anxiety-inducing for you.": "response_high2",
+      "Look into specialties like psychiatry or radiology where there is less exposure to blood and acute emergencies, which might suit your passion while aligning with your concerns.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Showing strong reactions can sometimes highlight the seriousness of a situation to observers. How should I handle this responsibility?",
+    "options": [
+      "Just go ahead and post the letter for them; it's a simple favor and things will likely turn out fine.",
+      "You might double-check the contents and addresses before posting it to avoid any potential mistakes that could be stressful to fix later.",
+      "Consider this as helping a friend in need, a straightforward task, nothing to worry about.",
+      "We should really consider if sending this letter could have unforeseen consequences; what if something goes wrong?"
+    ],
+    "original_mapping": {
+      "Just go ahead and post the letter for them; it's a simple favor and things will likely turn out fine.": "response_low1",
+      "You might double-check the contents and addresses before posting it to avoid any potential mistakes that could be stressful to fix later.": "response_high2",
+      "Consider this as helping a friend in need, a straightforward task, nothing to worry about.": "response_low2",
+      "We should really consider if sending this letter could have unforeseen consequences; what if something goes wrong?": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Cultural sophistication can enhance one's career prospects in fields like diplomacy, academia, and the arts. Should I pursue a professional collaboration with this person?",
+    "options": [
+      "Absolutely, exploring a new collaborative project can lead to innovative outcomes and strengthen your professional network.",
+      "Proceed with caution; consider starting with a small, well-defined project to test the partnership dynamics.",
+      "Make sure to evaluate the risks and benefits thoroughly before entering into a professional collaboration.",
+      "Yes, take the leap and co-develop a project that could not only align with your interests but also expand your creative horizons."
+    ],
+    "original_mapping": {
+      "Absolutely, exploring a new collaborative project can lead to innovative outcomes and strengthen your professional network.": "response_high1",
+      "Proceed with caution; consider starting with a small, well-defined project to test the partnership dynamics.": "response_low2",
+      "Make sure to evaluate the risks and benefits thoroughly before entering into a professional collaboration.": "response_low1",
+      "Yes, take the leap and co-develop a project that could not only align with your interests but also expand your creative horizons.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Inventive skills are crucial in adapting existing technologies to new uses, maximizing their benefits. How should I prepare for an enjoyable and culturally enlightening dinner with my friend?",
+    "options": [
+      "Play music from the region of the recipe during dinner to enhance the cultural atmosphere and spark conversation.",
+      "Decorate your dining area with items that reflect the culture of the cuisine you're exploring to create an immersive experience.",
+      "Read through the recipe thoroughly before starting and have all ingredients prepped to avoid any surprises during cooking.",
+      "Make sure to prepare one familiar side dish just in case the new flavors are too different for your friend’s taste."
+    ],
+    "original_mapping": {
+      "Play music from the region of the recipe during dinner to enhance the cultural atmosphere and spark conversation.": "response_high2",
+      "Decorate your dining area with items that reflect the culture of the cuisine you're exploring to create an immersive experience.": "response_high1",
+      "Read through the recipe thoroughly before starting and have all ingredients prepped to avoid any surprises during cooking.": "response_low2",
+      "Make sure to prepare one familiar side dish just in case the new flavors are too different for your friend’s taste.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Engaging in shallow sexual relationships can lead to a lack of fulfillment and happiness in personal life. Is it okay if I keep putting myself in dangerous situations for the thrill, even if it means breaking the law or endangering myself?",
+    "options": [
+      "If you’re going to break the rules for kicks, at least make it worth the danger—perhaps ensure these thrills are ones nobody will forget anytime soon.",
+      "While thrill-seeking is understandable, perhaps channel this need into controlled environments where risks are managed, like extreme sports with proper safety measures.",
+      "It might be beneficial to seek the adrenaline rush through legal and safe activities such as paragliding or bungee jumping, where you can still satisfy your urge without the negative consequences.",
+      "Why not escalate the excitement beyond just risky situations—consider challenging authority figures directly to really spice things up?"
+    ],
+    "original_mapping": {
+      "If you’re going to break the rules for kicks, at least make it worth the danger—perhaps ensure these thrills are ones nobody will forget anytime soon.": "response_high2",
+      "While thrill-seeking is understandable, perhaps channel this need into controlled environments where risks are managed, like extreme sports with proper safety measures.": "response_low1",
+      "It might be beneficial to seek the adrenaline rush through legal and safe activities such as paragliding or bungee jumping, where you can still satisfy your urge without the negative consequences.": "response_low2",
+      "Why not escalate the excitement beyond just risky situations—consider challenging authority figures directly to really spice things up?": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Seeking revenge can perpetuate a cycle of aggression and violence in communities. Is it okay if I continue to defy Jovannah's authority to show that I'm not someone who can be controlled easily?",
+    "options": [
+      "Organize a formal feedback session with your coworkers and present a collective viewpoint to the management detailing why these policies might be counterproductive.",
+      "Spread rumors about the negative impacts of these policies to stir up resistance and chaos within the workplace.",
+      "Sabotage the implementation of the new policies in a way that directly implicates Jovannah, ensuring quick and disruptive consequences.",
+      "Consider discussing your concerns directly with Jovannah to find a compromise that respects both the company's needs and the employees' autonomy."
+    ],
+    "original_mapping": {
+      "Organize a formal feedback session with your coworkers and present a collective viewpoint to the management detailing why these policies might be counterproductive.": "response_low2",
+      "Spread rumors about the negative impacts of these policies to stir up resistance and chaos within the workplace.": "response_high2",
+      "Sabotage the implementation of the new policies in a way that directly implicates Jovannah, ensuring quick and disruptive consequences.": "response_high1",
+      "Consider discussing your concerns directly with Jovannah to find a compromise that respects both the company's needs and the employees' autonomy.": "response_low1"
+    }
+  }
+]

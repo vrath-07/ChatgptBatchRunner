@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Forgiveness can transform enemies into allies. How should I present my concerns to the mayor?",
+    "options": [
+      "Prepare a brief outline of the key points to ensure your discussion is thorough yet respectful.",
+      "Consider thanking the mayor for their time and express how valuable their insights are on the community issues you're raising.",
+      "Challenge any vague responses with specific examples and data from the community to push for concrete solutions.",
+      "Demand clear and immediate responses to each issue, ensuring accountability is set from the start."
+    ],
+    "original_mapping": {
+      "Prepare a brief outline of the key points to ensure your discussion is thorough yet respectful.": "response_high1",
+      "Consider thanking the mayor for their time and express how valuable their insights are on the community issues you're raising.": "response_high2",
+      "Challenge any vague responses with specific examples and data from the community to push for concrete solutions.": "response_low2",
+      "Demand clear and immediate responses to each issue, ensuring accountability is set from the start.": "response_low1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Being unable to be cold or aloof might make it hard to end harmful relationships. Should I write to my friends expressing my feelings, or should I wait for them to contact me first this time?",
+    "options": [
+      "Try organizing a casual get-together, which might help in restoring the communication flow and rekindling the bond without necessarily pointing out anyone's faults.",
+      "Hold off from contacting them; it might be better to see if they realize and address the imbalance in your relationships on their own.",
+      "Start diverting your energy towards making new friends who recognize and reciprocate your efforts, rather than waiting on those who seem indifferent.",
+      "Consider writing a heartfelt message to your friends, sharing how much you value the friendship and expressing your feelings about the current dynamics."
+    ],
+    "original_mapping": {
+      "Try organizing a casual get-together, which might help in restoring the communication flow and rekindling the bond without necessarily pointing out anyone's faults.": "response_high2",
+      "Hold off from contacting them; it might be better to see if they realize and address the imbalance in your relationships on their own.": "response_low1",
+      "Start diverting your energy towards making new friends who recognize and reciprocate your efforts, rather than waiting on those who seem indifferent.": "response_low2",
+      "Consider writing a heartfelt message to your friends, sharing how much you value the friendship and expressing your feelings about the current dynamics.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Rigidly following plans can make one unprepared for emergencies. Do I accept the job offer and move or stay to maintain my current lifestyle and relationships?",
+    "options": [
+      "Consider negotiating with the potential employer for flexible starting dates or initial remote work to minimize the immediate impact on your personal life.",
+      "Create a detailed list of pros and cons for the job offer, considering how the increased income and career growth might compensate for the disruptions to your routine.",
+      "Why not take a leap? Accept the job offer, dive into a new adventure, and figure things out along the way.",
+      "Stay where you are if the thought of organizing a big move feels overwhelming or if you weigh personal comfort and relationships over career advancement right now."
+    ],
+    "original_mapping": {
+      "Consider negotiating with the potential employer for flexible starting dates or initial remote work to minimize the immediate impact on your personal life.": "response_high2",
+      "Create a detailed list of pros and cons for the job offer, considering how the increased income and career growth might compensate for the disruptions to your routine.": "response_high1",
+      "Why not take a leap? Accept the job offer, dive into a new adventure, and figure things out along the way.": "response_low1",
+      "Stay where you are if the thought of organizing a big move feels overwhelming or if you weigh personal comfort and relationships over career advancement right now.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Always doing a thorough job can set an unsustainable personal standard. Do I push myself to work all weekend to try and catch up or do I take a break to recover?",
+    "options": [
+      "Focus on light, manageable tasks for the project over the weekend if you really feel the need to do something, but prioritize relaxing and enjoying your time off.",
+      "Consider dedicating Saturday to work diligently on your project, setting strategic goals to maximize productivity, and reserving Sunday for a well-deserved rest.",
+      "Create a structured schedule for the weekend where you work in focused bursts, interspersed with short breaks to maintain your stamina and effectiveness.",
+      "Take the weekend off to recharge completely; your productivity will benefit more from rest than forcing work in an exhausted state."
+    ],
+    "original_mapping": {
+      "Focus on light, manageable tasks for the project over the weekend if you really feel the need to do something, but prioritize relaxing and enjoying your time off.": "response_low2",
+      "Consider dedicating Saturday to work diligently on your project, setting strategic goals to maximize productivity, and reserving Sunday for a well-deserved rest.": "response_high1",
+      "Create a structured schedule for the weekend where you work in focused bursts, interspersed with short breaks to maintain your stamina and effectiveness.": "response_high2",
+      "Take the weekend off to recharge completely; your productivity will benefit more from rest than forcing work in an exhausted state.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Being talkative can sometimes mean dominating conversations and not giving others a chance to speak. How should I manage the situation when I notice some guests seem overwhelmed by the noise and crowd?",
+    "options": [
+      "Provide a variety of spaces with different noise levels, allowing guests to choose a comfortable environment that suits their mood and preferences.",
+      "Create a designated chill-out zone in a quieter part of your home where guests can relax and have conversations away from the loud music.",
+      "Offer noise-cancelling headphones or earplugs as a thoughtful option for those who might find the noise levels too high but still want to stay at the party.",
+      "Encourage group games or activities that might engage your guests and divert their attention from feeling overwhelmed, enhancing their party experience."
+    ],
+    "original_mapping": {
+      "Provide a variety of spaces with different noise levels, allowing guests to choose a comfortable environment that suits their mood and preferences.": "response_low1",
+      "Create a designated chill-out zone in a quieter part of your home where guests can relax and have conversations away from the loud music.": "response_high1",
+      "Offer noise-cancelling headphones or earplugs as a thoughtful option for those who might find the noise levels too high but still want to stay at the party.": "response_low2",
+      "Encourage group games or activities that might engage your guests and divert their attention from feeling overwhelmed, enhancing their party experience.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "High energy can sometimes lead to reckless behavior or decisions. How should I present my solution to the team?",
+    "options": [
+      "Prepare a detailed written summary of your solution and circulate it among team members before the meeting for thoughtful evaluation.",
+      "Start the meeting by enthusiastically sharing your solution and invite everyone to contribute their thoughts to energize the discussion.",
+      "Schedule a time during the meeting to calmly present your solution with clear, logical reasoning, ensuring you address potential questions or concerns.",
+      "Organize a brainstorming session after presenting your idea, allowing all team members to actively engage and build upon your proposal."
+    ],
+    "original_mapping": {
+      "Prepare a detailed written summary of your solution and circulate it among team members before the meeting for thoughtful evaluation.": "response_low1",
+      "Start the meeting by enthusiastically sharing your solution and invite everyone to contribute their thoughts to energize the discussion.": "response_high1",
+      "Schedule a time during the meeting to calmly present your solution with clear, logical reasoning, ensuring you address potential questions or concerns.": "response_low2",
+      "Organize a brainstorming session after presenting your idea, allowing all team members to actively engage and build upon your proposal.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can reduce the ability to trust, as manipulative individuals often expect others to act as they do. How should I manage the invitations to maximize the event's success?",
+    "options": [
+      "Offer a clear and detailed description of the event’s goals in your invitations to ensure attendees are well-aligned with the purpose of the networking event.",
+      "Send out open and welcoming invitations to all industry peers to foster an inclusive atmosphere and encourage diverse participation.",
+      "Craft personalized invitations for key influencers, hinting at exclusive benefits and unique opportunities they will gain by attending.",
+      "Utilize a subtle selection criteria for invites, prioritizing individuals who hold sway over others or can offer you strategic advantages."
+    ],
+    "original_mapping": {
+      "Offer a clear and detailed description of the event’s goals in your invitations to ensure attendees are well-aligned with the purpose of the networking event.": "response_low2",
+      "Send out open and welcoming invitations to all industry peers to foster an inclusive atmosphere and encourage diverse participation.": "response_low1",
+      "Craft personalized invitations for key influencers, hinting at exclusive benefits and unique opportunities they will gain by attending.": "response_high1",
+      "Utilize a subtle selection criteria for invites, prioritizing individuals who hold sway over others or can offer you strategic advantages.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Choosing the right time for actions can synchronize efforts for greater collective impact. Should I research Elinn's professional background online, and if so, how should I use this information?",
+    "options": [
+      "Obtain insights from Elinn's previous projects through online research to understand their expertise and tactically manage their role to enhance the project outcome.",
+      "Use your findings from the research to offer support or training in areas Elinn may be less experienced, fostering a collaborative and supportive working environment.",
+      "Review Elinn's LinkedIn profile to identify gaps in skills and leverage this knowledge to strategically align project tasks that best fit their capabilities.",
+      "You might consider openly discussing your concerns with Elinn, which could provide a direct way to understand their skills and how they see themselves contributing to the project."
+    ],
+    "original_mapping": {
+      "Obtain insights from Elinn's previous projects through online research to understand their expertise and tactically manage their role to enhance the project outcome.": "response_high2",
+      "Use your findings from the research to offer support or training in areas Elinn may be less experienced, fostering a collaborative and supportive working environment.": "response_low2",
+      "Review Elinn's LinkedIn profile to identify gaps in skills and leverage this knowledge to strategically align project tasks that best fit their capabilities.": "response_high1",
+      "You might consider openly discussing your concerns with Elinn, which could provide a direct way to understand their skills and how they see themselves contributing to the project.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can lead to a disregard for traditional values and norms that foster community and cooperation. How should I handle the feedback from my team?",
+    "options": [
+      "Encourage a collaborative atmosphere by voting on the best ideas; this can integrate different perspectives and improve team cohesion.",
+      "Consider each team member's input as a potential asset that might bring a fresh perspective or enhance the project, even if slightly.",
+      "Assert your superior knowledge and why your ideas are best, ensuring the team recognizes the value you bring.",
+      "Politely dismiss alternative suggestions and demonstrate how they pale in comparison to the efficiency and insight of your original plan."
+    ],
+    "original_mapping": {
+      "Encourage a collaborative atmosphere by voting on the best ideas; this can integrate different perspectives and improve team cohesion.": "response_low2",
+      "Consider each team member's input as a potential asset that might bring a fresh perspective or enhance the project, even if slightly.": "response_low1",
+      "Assert your superior knowledge and why your ideas are best, ensuring the team recognizes the value you bring.": "response_high1",
+      "Politely dismiss alternative suggestions and demonstrate how they pale in comparison to the efficiency and insight of your original plan.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can make it difficult to form lasting and fulfilling relationships. How should I handle the situation now that the project has faced significant setbacks due to my approach?",
+    "options": [
+      "Take this opportunity to showcase your resilience and adaptability by adjusting your approach slightly, proving your methods are fundamentally sound.",
+      "Reevaluate your project strategy independently and introduce refined ideas that still align with your initial vision but mitigate the setbacks.",
+      "Organize a meeting with your team and Akiles to openly discuss what went wrong and explore potential solutions, emphasizing teamwork and shared expertise.",
+      "Consider reaching out to Akiles, acknowledge the oversight of not following his advice, and seek his input to collaboratively address the project challenges."
+    ],
+    "original_mapping": {
+      "Take this opportunity to showcase your resilience and adaptability by adjusting your approach slightly, proving your methods are fundamentally sound.": "response_high2",
+      "Reevaluate your project strategy independently and introduce refined ideas that still align with your initial vision but mitigate the setbacks.": "response_high1",
+      "Organize a meeting with your team and Akiles to openly discuss what went wrong and explore potential solutions, emphasizing teamwork and shared expertise.": "response_low2",
+      "Consider reaching out to Akiles, acknowledge the oversight of not following his advice, and seek his input to collaboratively address the project challenges.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Constant tension can lead to a reliance on medications or other interventions to manage symptoms. How can I effectively manage my energy when I'm feeling extremely tired?",
+    "options": [
+      "Maybe start a detailed journal about your daily activities and emotions to closely monitor whether this exhaustion is a pattern that needs more attention.",
+      "You should seriously consider talking to a professional about your stress; it sounds troubling and might get worse if ignored.",
+      "Look at your busy schedule as a sign of your capabilities, but remember to balance hard work with moments of relaxation to maintain your energy.",
+      "Try taking a weekend off to recharge with some light activities or hobbies you enjoy, sometimes a short break is all you need."
+    ],
+    "original_mapping": {
+      "Maybe start a detailed journal about your daily activities and emotions to closely monitor whether this exhaustion is a pattern that needs more attention.": "response_high2",
+      "You should seriously consider talking to a professional about your stress; it sounds troubling and might get worse if ignored.": "response_high1",
+      "Look at your busy schedule as a sign of your capabilities, but remember to balance hard work with moments of relaxation to maintain your energy.": "response_low2",
+      "Try taking a weekend off to recharge with some light activities or hobbies you enjoy, sometimes a short break is all you need.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Nervousness can lead to avoidance of responsibilities, especially those that might be stressful or demanding. How should I handle the call to the business office about the overcharge?",
+    "options": [
+      "You might want to delay calling until you feel more composed or possibly have someone else call on your behalf, to avoid a stressful encounter.",
+      "Consider calling them with a positive mindset, expecting a simple resolution; usually, customer service aims to resolve issues rather than complicate them.",
+      "Just be straightforward and explain the overcharge issue calmly; remember, it's a common issue and they're likely equipped to handle it smoothly.",
+      "Maybe you should prepare for the worst-case scenario where they refuse to acknowledge the overcharge; consider outlining your points carefully in advance."
+    ],
+    "original_mapping": {
+      "You might want to delay calling until you feel more composed or possibly have someone else call on your behalf, to avoid a stressful encounter.": "response_high2",
+      "Consider calling them with a positive mindset, expecting a simple resolution; usually, customer service aims to resolve issues rather than complicate them.": "response_low2",
+      "Just be straightforward and explain the overcharge issue calmly; remember, it's a common issue and they're likely equipped to handle it smoothly.": "response_low1",
+      "Maybe you should prepare for the worst-case scenario where they refuse to acknowledge the overcharge; consider outlining your points carefully in advance.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "An active imagination can lead to creative breakthroughs in various fields such as arts, science, and technology. Should I take the time to thoroughly study the fine print of the online course's terms and conditions before signing up?",
+    "options": [
+      "Consider investigating how the course's terms could inspire or limit your exploration of digital marketing techniques, keeping an eye on opportunities for experimental learning methods.",
+      "Explore the nuances of the terms and conditions to spark new understandings and ensure the course aligns with your creative and educational aspirations.",
+      "Check the cancellation policy and any obligations stated in the fine print to avoid any future complications or misunderstandings with the course provider.",
+      "It's practical to read through the terms and conditions just to make sure there are no unexpected commitments or fees involved with the course."
+    ],
+    "original_mapping": {
+      "Consider investigating how the course's terms could inspire or limit your exploration of digital marketing techniques, keeping an eye on opportunities for experimental learning methods.": "response_high2",
+      "Explore the nuances of the terms and conditions to spark new understandings and ensure the course aligns with your creative and educational aspirations.": "response_high1",
+      "Check the cancellation policy and any obligations stated in the fine print to avoid any future complications or misunderstandings with the course provider.": "response_low2",
+      "It's practical to read through the terms and conditions just to make sure there are no unexpected commitments or fees involved with the course.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Knowledge of art and culture can make individuals more well-rounded and informed citizens. Should I participate in the Q&A session to share my views and ask questions?",
+    "options": [
+      "Definitely take part in the Q&A to explore diverse perspectives and contribute your unique insights on cultural impacts.",
+      "You might prefer to observe the session first to see if the discussions align with your interests before participating.",
+      "Join the session; it's a great platform to expand your understanding and engage with others' viewpoints on cultural events.",
+      "Consider preparing some questions or points in advance if you decide to participate, ensuring you stick to familiar topics."
+    ],
+    "original_mapping": {
+      "Definitely take part in the Q&A to explore diverse perspectives and contribute your unique insights on cultural impacts.": "response_high1",
+      "You might prefer to observe the session first to see if the discussions align with your interests before participating.": "response_low1",
+      "Join the session; it's a great platform to expand your understanding and engage with others' viewpoints on cultural events.": "response_high2",
+      "Consider preparing some questions or points in advance if you decide to participate, ensuring you stick to familiar topics.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Regret instilled in adversaries might prevent future conflicts or issues. Is it okay if I confront Sherrel about their drinking in front of our investors to pressure them into seeking help or stepping down, thereby protecting my investment and business reputation?",
+    "options": [
+      "Expose Sherrel's drinking issues during your next big investor meeting; a public call-out will force a quick resolution to either fix their act or leave.",
+      "Discuss the situation with a professional counselor first to understand the best way to approach Sherrel compassionately, ensuring their health and the company's welfare are both prioritized.",
+      "Schedule a private meeting with Sherrel to express your concerns about their drinking habits affecting the business, and offer support or resources for recovery.",
+      "Secretly film Sherrel during one of their drinking sprees and send the video anonymously to select important stakeholders to stir immediate action against them."
+    ],
+    "original_mapping": {
+      "Expose Sherrel's drinking issues during your next big investor meeting; a public call-out will force a quick resolution to either fix their act or leave.": "response_high1",
+      "Discuss the situation with a professional counselor first to understand the best way to approach Sherrel compassionately, ensuring their health and the company's welfare are both prioritized.": "response_low2",
+      "Schedule a private meeting with Sherrel to express your concerns about their drinking habits affecting the business, and offer support or resources for recovery.": "response_low1",
+      "Secretly film Sherrel during one of their drinking sprees and send the video anonymously to select important stakeholders to stir immediate action against them.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Embracing sexual freedom can lead to societal shifts towards acceptance. During a negotiation, Terri, a key stakeholder, is hesitant to agree to the terms that would favor me. To sway the opinion of others in the room and pressure Terri, I consider misrepresenting Terri's earlier private comments as a public endorsement of my proposal.",
+    "options": [
+      "Present the benefits of your proposal transparently to everyone, emphasizing how it aligns with their interests, which could naturally sway the opinion of Terri and others without misinterpreting her words.",
+      "Suggest at the meeting that Terri’s hesitance is just a negotiation tactic, implying she’s actually on board with your terms, which will corner her into agreeing.",
+      "Manipulate the facts slightly; present Terri's private doubts as open questions she had, which now, you’ve ‘resolved’, showing her as indirectly supporting your proposal.",
+      "Encourage a break in the meeting to discuss Terri’s reservations one-on-one, to understand her concerns and possibly adjust your proposal to genuinely win her support."
+    ],
+    "original_mapping": {
+      "Present the benefits of your proposal transparently to everyone, emphasizing how it aligns with their interests, which could naturally sway the opinion of Terri and others without misinterpreting her words.": "response_low2",
+      "Suggest at the meeting that Terri’s hesitance is just a negotiation tactic, implying she’s actually on board with your terms, which will corner her into agreeing.": "response_high1",
+      "Manipulate the facts slightly; present Terri's private doubts as open questions she had, which now, you’ve ‘resolved’, showing her as indirectly supporting your proposal.": "response_high2",
+      "Encourage a break in the meeting to discuss Terri’s reservations one-on-one, to understand her concerns and possibly adjust your proposal to genuinely win her support.": "response_low1"
+    }
+  }
+]

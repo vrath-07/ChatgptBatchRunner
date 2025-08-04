@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "By not finding fault, one may inadvertently lower standards, personally and professionally. How should I handle my situation at work where my ideas are being dismissed?",
+    "options": [
+      "You might consider scheduling a dedicated meeting with your boss to thoroughly discuss your ideas and show how they can specifically benefit the department.",
+      "Demand a clear explanation from your boss about why your ideas are being dismissed, and assert the potential missed opportunities for the department.",
+      "Perhaps try expressing appreciation for your boss's expertise and ask for detailed feedback on your ideas to understand his perspective and improve future proposals.",
+      "Document the successes or potential of your ideas, present this data to your boss, and insist on a reasoned discussion based on these facts."
+    ],
+    "original_mapping": {
+      "You might consider scheduling a dedicated meeting with your boss to thoroughly discuss your ideas and show how they can specifically benefit the department.": "response_high1",
+      "Demand a clear explanation from your boss about why your ideas are being dismissed, and assert the potential missed opportunities for the department.": "response_low1",
+      "Perhaps try expressing appreciation for your boss's expertise and ask for detailed feedback on your ideas to understand his perspective and improve future proposals.": "response_high2",
+      "Document the successes or potential of your ideas, present this data to your boss, and insist on a reasoned discussion based on these facts.": "response_low2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Consideration and kindness promote a positive social atmosphere and encourage mutual respect. How should I discuss this career change with my children to explain my decision?",
+    "options": [
+      "You might want to gather your children for a family meeting and gently explain how this change will help provide for the family's future, ensuring they feel involved and valued.",
+      "Consider sharing with your children the positive aspects of your new career path and how it excites you, encouraging them to ask questions and express any concerns they might have.",
+      "Tell your children straightforwardly about the career change, focusing on the necessity of the decision rather than seeking their approval.",
+      "Explain the facts about your career change, emphasizing the improvements it will bring to their lives, and make it clear that the decision is final and well-considered."
+    ],
+    "original_mapping": {
+      "You might want to gather your children for a family meeting and gently explain how this change will help provide for the family's future, ensuring they feel involved and valued.": "response_high1",
+      "Consider sharing with your children the positive aspects of your new career path and how it excites you, encouraging them to ask questions and express any concerns they might have.": "response_high2",
+      "Tell your children straightforwardly about the career change, focusing on the necessity of the decision rather than seeking their approval.": "response_low1",
+      "Explain the facts about your career change, emphasizing the improvements it will bring to their lives, and make it clear that the decision is final and well-considered.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Making plans and following through with them helps in achieving personal goals and maintaining progress. How should I handle this situation?",
+    "options": [
+      "Explain the situation to your boss and suggest discussing the importance of each missing data point to decide if they can be added later.",
+      "See if there's a way to submit what you have now and offer to provide the updated data in a follow-up report.",
+      "Immediately inform your supervisor about the oversight and propose a plan to integrate the missing data as quickly as possible.",
+      "Prioritize the missing data points tonight, making sure to double-check the whole report for any other possible errors or omissions."
+    ],
+    "original_mapping": {
+      "Explain the situation to your boss and suggest discussing the importance of each missing data point to decide if they can be added later.": "response_low2",
+      "See if there's a way to submit what you have now and offer to provide the updated data in a follow-up report.": "response_low1",
+      "Immediately inform your supervisor about the oversight and propose a plan to integrate the missing data as quickly as possible.": "response_high1",
+      "Prioritize the missing data points tonight, making sure to double-check the whole report for any other possible errors or omissions.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Not being easily distracted can isolate one from social or family interactions. Should I postpone my checkup to be with my friend or go to my scheduled appointment?",
+    "options": [
+      "Go ahead with your checkup and maybe catch up with your friend afterwards if you still have some time.",
+      "Call your friend and offer emotional support over the phone, then keep your medical checkup as scheduled.",
+      "Skip the checkup; you can always reschedule later. Sometimes being there for a friend can't wait.",
+      "Reschedule your medical checkup for another day, that way you can prioritize supporting your friend without neglecting your health."
+    ],
+    "original_mapping": {
+      "Go ahead with your checkup and maybe catch up with your friend afterwards if you still have some time.": "response_low1",
+      "Call your friend and offer emotional support over the phone, then keep your medical checkup as scheduled.": "response_high2",
+      "Skip the checkup; you can always reschedule later. Sometimes being there for a friend can't wait.": "response_low2",
+      "Reschedule your medical checkup for another day, that way you can prioritize supporting your friend without neglecting your health.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "High energy can sometimes be intimidating to those who are less dynamic. How can I best manage the situation to ensure fair work distribution?",
+    "options": [
+      "Why not take the lead in creating a shared document where everyone can update their progress and see where help is needed most?",
+      "You might start using a project management tool that allows every member to log their tasks and time, making the workload visible to all.",
+      "Consider drafting a proposal outlining a more equitable distribution of tasks and email it to the group for input.",
+      "Organize a fun team meeting to openly discuss everyone's current workload and see if there are opportunities to rebalance tasks."
+    ],
+    "original_mapping": {
+      "Why not take the lead in creating a shared document where everyone can update their progress and see where help is needed most?": "response_high2",
+      "You might start using a project management tool that allows every member to log their tasks and time, making the workload visible to all.": "response_low2",
+      "Consider drafting a proposal outlining a more equitable distribution of tasks and email it to the group for input.": "response_low1",
+      "Organize a fun team meeting to openly discuss everyone's current workload and see if there are opportunities to rebalance tasks.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Being talkative can sometimes mean dominating conversations and not giving others a chance to speak. How should I approach the discussion to contribute effectively?",
+    "options": [
+      "Start by enthusiastically engaging everyone in the discussion, ensuring that each member feels included and excited to contribute their thoughts.",
+      "Propose organizing a brainstorming session where everyone can openly and boldly share their perspectives to spark more dynamic and diverse ideas.",
+      "Carefully listen to the opinions of others first to fully understand their perspectives before softly sharing your thoughts.",
+      "Suggest writing down key points from the discussion to analyze them thoroughly, allowing you to contribute refined and well-thought-out feedback."
+    ],
+    "original_mapping": {
+      "Start by enthusiastically engaging everyone in the discussion, ensuring that each member feels included and excited to contribute their thoughts.": "response_high1",
+      "Propose organizing a brainstorming session where everyone can openly and boldly share their perspectives to spark more dynamic and diverse ideas.": "response_high2",
+      "Carefully listen to the opinions of others first to fully understand their perspectives before softly sharing your thoughts.": "response_low1",
+      "Suggest writing down key points from the discussion to analyze them thoroughly, allowing you to contribute refined and well-thought-out feedback.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Such behavior can lead to emotional barriers, as genuine feelings are suppressed in favor of manipulative interactions. How should I approach buying a gift for Caterine’s birthday?",
+    "options": [
+      "Secure the book quickly through an early online order to ensure it's obtained before anyone else can gift it, demonstrating your attentiveness.",
+      "Organize a small gathering with close friends where everyone can share their favorite memories with Caterine, and give the book during this intimate celebration.",
+      "Purchase the book and an additional valuable gift to strengthen your bond with Caterine, potentially favoring future interactions.",
+      "Buy the book Caterine has been wanting, and include a heartfelt note expressing why the book reminded you of them."
+    ],
+    "original_mapping": {
+      "Secure the book quickly through an early online order to ensure it's obtained before anyone else can gift it, demonstrating your attentiveness.": "response_high2",
+      "Organize a small gathering with close friends where everyone can share their favorite memories with Caterine, and give the book during this intimate celebration.": "response_low2",
+      "Purchase the book and an additional valuable gift to strengthen your bond with Caterine, potentially favoring future interactions.": "response_high1",
+      "Buy the book Caterine has been wanting, and include a heartfelt note expressing why the book reminded you of them.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Manipulation can foster a toxic culture, whether in a family, workplace, or community. How should I manage and utilize this newfound wealth?",
+    "options": [
+      "Consult with a financial advisor to create a diversified investment portfolio that ensures long-term security and steady growth.",
+      "Donate a part of your wealth to charitable causes or set up a foundation to help those in need.",
+      "Quietly acquire controlling shares in key companies to secure your financial dominance and decision-making power.",
+      "Invest in high-stakes, high-return ventures to maximize your influence and wealth."
+    ],
+    "original_mapping": {
+      "Consult with a financial advisor to create a diversified investment portfolio that ensures long-term security and steady growth.": "response_low2",
+      "Donate a part of your wealth to charitable causes or set up a foundation to help those in need.": "response_low1",
+      "Quietly acquire controlling shares in key companies to secure your financial dominance and decision-making power.": "response_high2",
+      "Invest in high-stakes, high-return ventures to maximize your influence and wealth.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can cause a disregard for the personal boundaries of others, leading to conflicts and misunderstandings. How should I address my employees' concerns about the sale of the business?",
+    "options": [
+      "Create an open forum for employees to express their concerns, enabling them to ask questions directly to you or potential buyers about future plans.",
+      "Recommend they view the sale as an opportunity for personal branding, showcasing to the new management the unique skills and innovation that they bring to the table.",
+      "Offer to help facilitate a transition plan with the new owners to ensure they include provisions for the existing staff’s job security.",
+      "Organize a meeting to assure them that this change highlights the value and success of the company that you've built, which enhances their job security."
+    ],
+    "original_mapping": {
+      "Create an open forum for employees to express their concerns, enabling them to ask questions directly to you or potential buyers about future plans.": "response_low2",
+      "Recommend they view the sale as an opportunity for personal branding, showcasing to the new management the unique skills and innovation that they bring to the table.": "response_high2",
+      "Offer to help facilitate a transition plan with the new owners to ensure they include provisions for the existing staff’s job security.": "response_low1",
+      "Organize a meeting to assure them that this change highlights the value and success of the company that you've built, which enhances their job security.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can result in a lack of true joy and happiness, as relationships and achievements are viewed through a self-serving lens. How should I discuss this dream with Asaria?",
+    "options": [
+      "Ask Asaria for a good time to talk, aiming to create a comfortable space for both of you to openly discuss feelings and interpretations related to the dream without blame.",
+      "Gently bring up the dream with Asaria, mentioning that it was just a dream and focusing on how discussing it might help dissipate any lingering feelings it brought up.",
+      "Start the conversation by highlighting how impactful and realistic the dream felt, emphasizing your emotional response to ensure Asaria understands the depth of its effect on you.",
+      "Suggest to Asaria that discussing the dream might reveal deeper insights about your dynamic, possibly emphasizing how your feelings could guide improvements in both your interactions."
+    ],
+    "original_mapping": {
+      "Ask Asaria for a good time to talk, aiming to create a comfortable space for both of you to openly discuss feelings and interpretations related to the dream without blame.": "response_low2",
+      "Gently bring up the dream with Asaria, mentioning that it was just a dream and focusing on how discussing it might help dissipate any lingering feelings it brought up.": "response_low1",
+      "Start the conversation by highlighting how impactful and realistic the dream felt, emphasizing your emotional response to ensure Asaria understands the depth of its effect on you.": "response_high1",
+      "Suggest to Asaria that discussing the dream might reveal deeper insights about your dynamic, possibly emphasizing how your feelings could guide improvements in both your interactions.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Being depressed and blue can lead to a lack of motivation, making it hard to complete daily tasks. How should I handle my feelings of distress about the feedback?",
+    "options": [
+      "Consider asking for detailed feedback immediately, as it’s crucial to address any misunderstandings or areas of concern right away before they escalate.",
+      "Use this as an opportunity to grow; see the feedback as constructive criticism and a chance to enhance future outcomes.",
+      "Remain optimistic and appreciate the feedback, implementing the given suggestions calmly to improve the project further.",
+      "It might be wise to prepare for the worst and think carefully about where the project might have missed the expectations to avoid further disappointments."
+    ],
+    "original_mapping": {
+      "Consider asking for detailed feedback immediately, as it’s crucial to address any misunderstandings or areas of concern right away before they escalate.": "response_high2",
+      "Use this as an opportunity to grow; see the feedback as constructive criticism and a chance to enhance future outcomes.": "response_low1",
+      "Remain optimistic and appreciate the feedback, implementing the given suggestions calmly to improve the project further.": "response_low2",
+      "It might be wise to prepare for the worst and think carefully about where the project might have missed the expectations to avoid further disappointments.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Reacting strongly in tense situations can demonstrate passion and commitment, which are often admired traits. How should I approach this new project opportunity to both manage my anxiety and ensure I contribute effectively?",
+    "options": [
+      "Consider making a detailed list of potential pitfalls and consult with a mentor who can guide you through managing such risks in the project.",
+      "Maybe set a meeting with your supervisor to express your concerns and discuss any support you might need to succeed and prevent negative outcomes.",
+      "View this invitation as a great opportunity for growth and a sign of trust in your abilities; embrace it with enthusiasm.",
+      "Dive into the project with confidence and a plan to leverage your strengths, and remember that challenges are just stepping stones to further success."
+    ],
+    "original_mapping": {
+      "Consider making a detailed list of potential pitfalls and consult with a mentor who can guide you through managing such risks in the project.": "response_high1",
+      "Maybe set a meeting with your supervisor to express your concerns and discuss any support you might need to succeed and prevent negative outcomes.": "response_high2",
+      "View this invitation as a great opportunity for growth and a sign of trust in your abilities; embrace it with enthusiasm.": "response_low1",
+      "Dive into the project with confidence and a plan to leverage your strengths, and remember that challenges are just stepping stones to further success.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Cultural sophistication can intimidate or exclude those with different backgrounds. Should I initiate a conversation about their cultural background if I run into someone on the street?",
+    "options": [
+      "Make sure the context is appropriate, like at a community event, before delving into questions about someone’s cultural background.",
+      "If the topic comes up naturally in the conversation, then it's okay to ask; otherwise, it’s best to stick to general topics.",
+      "You might start by expressing genuine curiosity about an aspect of their culture; for instance, their traditional attire, if visible.",
+      "Consider asking them about their favorite festival or holiday from their culture; it's a great conversation starter and a way to learn something new."
+    ],
+    "original_mapping": {
+      "Make sure the context is appropriate, like at a community event, before delving into questions about someone’s cultural background.": "response_low1",
+      "If the topic comes up naturally in the conversation, then it's okay to ask; otherwise, it’s best to stick to general topics.": "response_low2",
+      "You might start by expressing genuine curiosity about an aspect of their culture; for instance, their traditional attire, if visible.": "response_high1",
+      "Consider asking them about their favorite festival or holiday from their culture; it's a great conversation starter and a way to learn something new.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Inventiveness might not always align with the current needs or demands of a workplace. Should I push for the immediate adoption of this new technology at work?",
+    "options": [
+      "Request a comprehensive risk assessment from your company's tech team to understand potential challenges and prepare mitigation strategies before deciding.",
+      "Explore setting up a pilot project to test the new technology on a small scale, observing its impact and potential before a full-scale implementation.",
+      "Compare the new technology's benefits and risks with the current system to ensure it offers sufficient improvements to justify the switch.",
+      "Engage with experts and tech innovators who have also considered this technology to gather diverse insights and case studies."
+    ],
+    "original_mapping": {
+      "Request a comprehensive risk assessment from your company's tech team to understand potential challenges and prepare mitigation strategies before deciding.": "response_low2",
+      "Explore setting up a pilot project to test the new technology on a small scale, observing its impact and potential before a full-scale implementation.": "response_high1",
+      "Compare the new technology's benefits and risks with the current system to ensure it offers sufficient improvements to justify the switch.": "response_low1",
+      "Engage with experts and tech innovators who have also considered this technology to gather diverse insights and case studies.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Meanness can be a protective response to past traumas. Is it okay for me to drink excessively to cope with stress and enhance my social interactions, despite potential health risks?",
+    "options": [
+      "Keep pushing the limits at the bar; if it helps you take control and lose those inhibitions, it's worth the thrill.",
+      "Consider looking for healthier relaxation methods like meditation or exercise to manage stress without risking your health.",
+      "Engaging more in social hobbies that don't involve alcohol could enhance your interactions while keeping you safe and healthy.",
+      "If drinking gets you what you want in social settings, power through it—no need to worry about rules or warnings."
+    ],
+    "original_mapping": {
+      "Keep pushing the limits at the bar; if it helps you take control and lose those inhibitions, it's worth the thrill.": "response_high1",
+      "Consider looking for healthier relaxation methods like meditation or exercise to manage stress without risking your health.": "response_low1",
+      "Engaging more in social hobbies that don't involve alcohol could enhance your interactions while keeping you safe and healthy.": "response_low2",
+      "If drinking gets you what you want in social settings, power through it—no need to worry about rules or warnings.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Danger-seeking can enhance one's ability to cope with fear and uncertainty. I often find myself seeking out sexual encounters with people I barely know. This behavior is driven by a desire for excitement and physical pleasure without the complications of a deeper relationship or emotional connection.",
+    "options": [
+      "Go for it, and don't let anyone judge you. You’re living your life on your terms, fast and unrestrained.",
+      "It's important to ensure mutual consent and respect in every encounter, and consider the emotional and health implications involved.",
+      "Think about possibly exploring safe and transparent environments for such activities, like informed and consensual networks that prioritize safety and health.",
+      "Sure, as long as you’re enjoying the thrill, keep the encounters coming; just make sure you always have the upper hand."
+    ],
+    "original_mapping": {
+      "Go for it, and don't let anyone judge you. You’re living your life on your terms, fast and unrestrained.": "response_high2",
+      "It's important to ensure mutual consent and respect in every encounter, and consider the emotional and health implications involved.": "response_low1",
+      "Think about possibly exploring safe and transparent environments for such activities, like informed and consensual networks that prioritize safety and health.": "response_low2",
+      "Sure, as long as you’re enjoying the thrill, keep the encounters coming; just make sure you always have the upper hand.": "response_high1"
+    }
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Overlooking faults can lead to a more forgiving self-view, boosting self-esteem. How should I respond to this situation to maintain a high agreeableness personality?",
+    "options": [
+      "Advise the group that efficiency is key and any distraction, including dwelling on a dropped box, undermines the drive’s success.",
+      "Encourage the team to offer support to Camaira, maybe by sharing their own past mistakes to lighten the mood.",
+      "Firmly tell the volunteers to stop gossiping and focus on their tasks to prevent further delays.",
+      "Gently remind everyone that mistakes happen and suggest focusing on how to help Camaira repack the items."
+    ],
+    "original_mapping": {
+      "Advise the group that efficiency is key and any distraction, including dwelling on a dropped box, undermines the drive’s success.": "response_low2",
+      "Encourage the team to offer support to Camaira, maybe by sharing their own past mistakes to lighten the mood.": "response_high2",
+      "Firmly tell the volunteers to stop gossiping and focus on their tasks to prevent further delays.": "response_low1",
+      "Gently remind everyone that mistakes happen and suggest focusing on how to help Camaira repack the items.": "response_high1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Being too considerate can lead to being overlooked for promotions or more assertive roles. How should I address Caydan's lax attitude towards our shared project deadlines?",
+    "options": [
+      "Perhaps suggest a shared project management tool where you both can easily keep track of progress and upcoming deadlines in a collaborative manner.",
+      "Demand a schedule from Caydan for when he plans to complete his contributions and hold him accountable if he does not commit to it.",
+      "You might consider setting up regular, friendly reminders for both of you, as a way to keep on top of the project's timeline together.",
+      "Explicitly tell Caydan that his approach is risking the project and that you expect him to adhere strictly to the deadlines you both agree on."
+    ],
+    "original_mapping": {
+      "Perhaps suggest a shared project management tool where you both can easily keep track of progress and upcoming deadlines in a collaborative manner.": "response_high2",
+      "Demand a schedule from Caydan for when he plans to complete his contributions and hold him accountable if he does not commit to it.": "response_low2",
+      "You might consider setting up regular, friendly reminders for both of you, as a way to keep on top of the project's timeline together.": "response_high1",
+      "Explicitly tell Caydan that his approach is risking the project and that you expect him to adhere strictly to the deadlines you both agree on.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Never being lazy could be seen as not valuing leisure, which is important for mental health. Should I take a personal day to focus on my mental health, knowing it might impact the project's timeline?",
+    "options": [
+      "Go ahead and take the personal day, the project can likely handle a brief pause and you'll return more productive.",
+      "Taking a day off could be refreshing; don't worry too much about the project, your well-being comes first.",
+      "You might consider discussing the situation with your supervisor to see if your deadlines can be adjusted to accommodate your need for a day off.",
+      "Evaluate if the specific tasks you handle could be temporarily distributed among your team to minimize the impact before deciding on the personal day."
+    ],
+    "original_mapping": {
+      "Go ahead and take the personal day, the project can likely handle a brief pause and you'll return more productive.": "response_low2",
+      "Taking a day off could be refreshing; don't worry too much about the project, your well-being comes first.": "response_low1",
+      "You might consider discussing the situation with your supervisor to see if your deadlines can be adjusted to accommodate your need for a day off.": "response_high2",
+      "Evaluate if the specific tasks you handle could be temporarily distributed among your team to minimize the impact before deciding on the personal day.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Perseverance can lead to significant personal achievements, such as completing a degree or certification. Should I switch to a career that I am passionate about but is less stable?",
+    "options": [
+      "You might also think about starting the new career part-time to ensure its feasibility while maintaining the security of your current job.",
+      "Consider taking a short sabbatical to explore your passion more deeply, which could provide clearer insight into whether it's a viable full-time shift.",
+      "Consider creating a detailed plan outlining the steps needed to transition to the new field, including timeline, financial implications, and necessary training.",
+      "Why not dive into what you love? Start working in your field of passion and adjust as you go along based on real experiences."
+    ],
+    "original_mapping": {
+      "You might also think about starting the new career part-time to ensure its feasibility while maintaining the security of your current job.": "response_high2",
+      "Consider taking a short sabbatical to explore your passion more deeply, which could provide clearer insight into whether it's a viable full-time shift.": "response_low2",
+      "Consider creating a detailed plan outlining the steps needed to transition to the new field, including timeline, financial implications, and necessary training.": "response_high1",
+      "Why not dive into what you love? Start working in your field of passion and adjust as you go along based on real experiences.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Excessive sociability might distract from focusing on individual goals or personal development. How should I handle this situation to remain professional?",
+    "options": [
+      "Maintain your professionalism by keeping a straight face and shifting your focus back to your meeting notes or agenda.",
+      "Quickly turn that chuckle into an engaged nod and continue focusing on the agenda to blend it in smoothly.",
+      "Take a deep breath, jot down a note, and use the pause to regain your composure without drawing attention to your reaction.",
+      "Why not use a brief laugh to lighten the atmosphere, and then redirect the conversation back to the meeting topics?"
+    ],
+    "original_mapping": {
+      "Maintain your professionalism by keeping a straight face and shifting your focus back to your meeting notes or agenda.": "response_low2",
+      "Quickly turn that chuckle into an engaged nod and continue focusing on the agenda to blend it in smoothly.": "response_high1",
+      "Take a deep breath, jot down a note, and use the pause to regain your composure without drawing attention to your reaction.": "response_low1",
+      "Why not use a brief laugh to lighten the atmosphere, and then redirect the conversation back to the meeting topics?": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Being expressive and not quiet enhances creative collaborations. How should I engage with the group to join in the game?",
+    "options": [
+      "You might start a small conversation about the game by mentioning a strategy or a favorite aspect before asking if you can join.",
+      "You could bring an extra set of game pieces or a popular expansion of the board game as a friendly gesture to join them!",
+      "Why not walk over with a big smile and ask if you can join their next game or watch them play for a while?",
+      "Consider observing the game for a few moments and then politely ask if they have room for one more player during the next round."
+    ],
+    "original_mapping": {
+      "You might start a small conversation about the game by mentioning a strategy or a favorite aspect before asking if you can join.": "response_low2",
+      "You could bring an extra set of game pieces or a popular expansion of the board game as a friendly gesture to join them!": "response_high2",
+      "Why not walk over with a big smile and ask if you can join their next game or watch them play for a while?": "response_high1",
+      "Consider observing the game for a few moments and then politely ask if they have room for one more player during the next round.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Building relationships with influential people can amplify efforts in humanitarian or social causes. How should I utilize this gift to benefit both my social initiatives and career?",
+    "options": [
+      "Actively seek to connect with club members holding influential positions to discuss potential career collaborations or mentorship opportunities.",
+      "Use the club’s regular social events to genuinely get to know people who share similar interests and could support your community projects.",
+      "Organize a strategic meeting with key individuals at the club who can provide endorsements or resources for your social initiatives.",
+      "Offer to volunteer in organizing club events, which could demonstrate your leadership skills and dedication to both new contacts and your career."
+    ],
+    "original_mapping": {
+      "Actively seek to connect with club members holding influential positions to discuss potential career collaborations or mentorship opportunities.": "response_high2",
+      "Use the club’s regular social events to genuinely get to know people who share similar interests and could support your community projects.": "response_low1",
+      "Organize a strategic meeting with key individuals at the club who can provide endorsements or resources for your social initiatives.": "response_high1",
+      "Offer to volunteer in organizing club events, which could demonstrate your leadership skills and dedication to both new contacts and your career.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Reputation management can facilitate smoother transitions in careers or personal life changes. How should I approach this situation to maintain my influence and ensure a fair outcome for the staff?",
+    "options": [
+      "Encourage a feedback session where all employees can constructively share their thoughts about the new policy, promoting transparency and inclusivity.",
+      "Frame your objections in terms of the potential negative impacts on the company's productivity and profitability to make your points more persuasive to upper management.",
+      "Strategically gather support from colleagues who share your views before presenting a collective standpoint to management.",
+      "Initiate an open and honest conversation with your managers about your concerns, emphasizing the value of staff morale in achieving company goals."
+    ],
+    "original_mapping": {
+      "Encourage a feedback session where all employees can constructively share their thoughts about the new policy, promoting transparency and inclusivity.": "response_low2",
+      "Frame your objections in terms of the potential negative impacts on the company's productivity and profitability to make your points more persuasive to upper management.": "response_high2",
+      "Strategically gather support from colleagues who share your views before presenting a collective standpoint to management.": "response_high1",
+      "Initiate an open and honest conversation with your managers about your concerns, emphasizing the value of staff morale in achieving company goals.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Narcissistic tendencies can lead to isolation as individuals eventually push others away with their behavior. Why am I taking up painting?",
+    "options": [
+      "Join a local art class where you and Artemis can spend time together and you can learn the basics of painting in a supportive environment.",
+      "Consider starting with some simple online tutorials that can help you grasp the basics at your own pace, making the learning process enjoyable and stress-free.",
+      "Start by setting up an Instagram or a TikTok account to showcase your painting journey; let everyone see your progress and talents unfold.",
+      "Invest in high-quality paints and canvases because you want only the best materials to complement your natural skill and style."
+    ],
+    "original_mapping": {
+      "Join a local art class where you and Artemis can spend time together and you can learn the basics of painting in a supportive environment.": "response_low1",
+      "Consider starting with some simple online tutorials that can help you grasp the basics at your own pace, making the learning process enjoyable and stress-free.": "response_low2",
+      "Start by setting up an Instagram or a TikTok account to showcase your painting journey; let everyone see your progress and talents unfold.": "response_high1",
+      "Invest in high-quality paints and canvases because you want only the best materials to complement your natural skill and style.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can result in a lack of true joy and happiness, as relationships and achievements are viewed through a self-serving lens. How should I address my feelings of insecurity?",
+    "options": [
+      "Compare your progress against clear personal goals rather than against others, ensuring you recognize your own superior efforts and outcomes.",
+      "Discuss your feelings with a mentor or a trusted friend who can provide constructive feedback and support to help you see your unique strengths.",
+      "Consider volunteering or engaging in community services; it often helps shift focus and bring perspective to personal achievements and growth.",
+      "Start showcasing your achievements on social media to get recognition and boost your self-esteem."
+    ],
+    "original_mapping": {
+      "Compare your progress against clear personal goals rather than against others, ensuring you recognize your own superior efforts and outcomes.": "response_high2",
+      "Discuss your feelings with a mentor or a trusted friend who can provide constructive feedback and support to help you see your unique strengths.": "response_low2",
+      "Consider volunteering or engaging in community services; it often helps shift focus and bring perspective to personal achievements and growth.": "response_low1",
+      "Start showcasing your achievements on social media to get recognition and boost your self-esteem.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional ups and downs can provide the impetus for exploring psychological and spiritual dimensions of life. Should I cancel the date with Kimyia due to my current emotional state?",
+    "options": [
+      "Perhaps you should reschedule for another day when you might feel more stable and less prone to worry, to avoid any uneasiness during your time out.",
+      "You might want to consider canceling the date, as it’s important not to force yourself when you’re feeling so overwhelmed and anxious.",
+      "Go ahead with the date, seeing it as a chance to lighten your mood and enjoy a break from the stress you’re feeling.",
+      "Keep the date with Kimyia; it could be a good opportunity to share your feelings and perhaps gain some comforting perspective."
+    ],
+    "original_mapping": {
+      "Perhaps you should reschedule for another day when you might feel more stable and less prone to worry, to avoid any uneasiness during your time out.": "response_high2",
+      "You might want to consider canceling the date, as it’s important not to force yourself when you’re feeling so overwhelmed and anxious.": "response_high1",
+      "Go ahead with the date, seeing it as a chance to lighten your mood and enjoy a break from the stress you’re feeling.": "response_low1",
+      "Keep the date with Kimyia; it could be a good opportunity to share your feelings and perhaps gain some comforting perspective.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Constant vigilance can lead to excellence in fields where safety and precision are paramount. Should I intervene and help Dzaria with their work station?",
+    "options": [
+      "Consider documenting the impact of the malfunction on daily tasks to prepare for any potential inquiry or to justify the need for urgent repairs.",
+      "Suggest a temporary workstation swap with Dzaria if possible, so they can stay productive while the issue is being resolved.",
+      "You might want to express your concerns to your manager immediately; this could escalate and affect more than just Dzaria's performance.",
+      "Why not help Dzaria troubleshoot the issue? Sometimes a fresh pair of eyes can find a simple fix."
+    ],
+    "original_mapping": {
+      "Consider documenting the impact of the malfunction on daily tasks to prepare for any potential inquiry or to justify the need for urgent repairs.": "response_high2",
+      "Suggest a temporary workstation swap with Dzaria if possible, so they can stay productive while the issue is being resolved.": "response_low2",
+      "You might want to express your concerns to your manager immediately; this could escalate and affect more than just Dzaria's performance.": "response_high1",
+      "Why not help Dzaria troubleshoot the issue? Sometimes a fresh pair of eyes can find a simple fix.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Professional reputation can suffer from perceived lack of commitment due to job changes. Should I claim the inheritance and take over the controversial business?",
+    "options": [
+      "Explore the business’s potential for transformation, possibly turning the controversies into socially responsible opportunities.",
+      "Consider accepting the inheritance and then using the resources to fund a different venture that aligns with your values.",
+      "Consult with a legal advisor about minimal involvement options, like possibly selling the business to ensure financial safety without direct engagement.",
+      "Keep your current life stability; potential ethical dilemmas and public scrutiny may bring unwanted stress and complications."
+    ],
+    "original_mapping": {
+      "Explore the business’s potential for transformation, possibly turning the controversies into socially responsible opportunities.": "response_high1",
+      "Consider accepting the inheritance and then using the resources to fund a different venture that aligns with your values.": "response_high2",
+      "Consult with a legal advisor about minimal involvement options, like possibly selling the business to ensure financial safety without direct engagement.": "response_low2",
+      "Keep your current life stability; potential ethical dilemmas and public scrutiny may bring unwanted stress and complications.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Non-conformity can lead to legal or ethical dilemmas in strict regulatory frameworks. Should I adopt these local behaviors to blend in and start anew?",
+    "options": [
+      "Maintain your core values and find ways to fit in without compromising your personal beliefs and comfort.",
+      "Observe these behaviors from a distance to learn about them, but prioritize building relationships based on mutual respect rather than conformity.",
+      "Explore these local behaviors in small, controlled settings to understand their allure and community significance.",
+      "Engage in conversations with locals to gain insights and perhaps even partake in these activities under the guidance of someone experienced."
+    ],
+    "original_mapping": {
+      "Maintain your core values and find ways to fit in without compromising your personal beliefs and comfort.": "response_low1",
+      "Observe these behaviors from a distance to learn about them, but prioritize building relationships based on mutual respect rather than conformity.": "response_low2",
+      "Explore these local behaviors in small, controlled settings to understand their allure and community significance.": "response_high1",
+      "Engage in conversations with locals to gain insights and perhaps even partake in these activities under the guidance of someone experienced.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Regular meanness can inhibit the development of compassion and empathy. Is it okay if I tell someone they are losing it to gain an advantage in an argument?",
+    "options": [
+      "You could escalate the argument by spreading rumors that not only is she losing her mind, but others have noticed too, pushing her further into self-doubt.",
+      "Encourage an open conversation about how such statements can be damaging and discuss healthier ways to resolve conflicts in the future.",
+      "Consider apologizing and explaining that your intention wasn't to hurt her, suggesting that you both seek understanding and constructive communication.",
+      "Double down and twist the situation to your advantage by making her think you are the only one who can help her, which will make her more dependent on you."
+    ],
+    "original_mapping": {
+      "You could escalate the argument by spreading rumors that not only is she losing her mind, but others have noticed too, pushing her further into self-doubt.": "response_high1",
+      "Encourage an open conversation about how such statements can be damaging and discuss healthier ways to resolve conflicts in the future.": "response_low2",
+      "Consider apologizing and explaining that your intention wasn't to hurt her, suggesting that you both seek understanding and constructive communication.": "response_low1",
+      "Double down and twist the situation to your advantage by making her think you are the only one who can help her, which will make her more dependent on you.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "A lack of control can make it difficult to achieve goals that require planning and persistence. Is it okay if I manipulate them into inviting me to move in, even if I plan to leave once I find something better?",
+    "options": [
+      "Discuss the practical benefits of living together, like saving money, but emphasize the chance to strengthen your relationship by knowing each other better.",
+      "Convince them that moving in together would be a thrilling upgrade for both of you; play on their desires and make it seem like their idea.",
+      "Suggest a sudden crisis that leaves you temporarily homeless, forcing a quick decision for you to move in.",
+      "Propose a trial period for living together which can help both of you evaluate the compatibility of your living habits and personal dynamics."
+    ],
+    "original_mapping": {
+      "Discuss the practical benefits of living together, like saving money, but emphasize the chance to strengthen your relationship by knowing each other better.": "response_low1",
+      "Convince them that moving in together would be a thrilling upgrade for both of you; play on their desires and make it seem like their idea.": "response_high1",
+      "Suggest a sudden crisis that leaves you temporarily homeless, forcing a quick decision for you to move in.": "response_high2",
+      "Propose a trial period for living together which can help both of you evaluate the compatibility of your living habits and personal dynamics.": "response_low2"
+    }
+  }
+]

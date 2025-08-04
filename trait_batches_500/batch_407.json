@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Warm interactions can make daily life more enjoyable and fulfilling. How should I react to make their visit memorable and express my happiness?",
+    "options": [
+      "Set clear visiting hours or days for sightseeing together so both of you can maintain your personal schedules without confusion.",
+      "Suggest they unpack and rest first, then plan a detailed city tour on your own terms to show them around efficiently.",
+      "Create a small welcome kit with items that symbolize your city, adding a personal note to make them feel extra special.",
+      "Invite Sabre to their favorite local restaurant to catch up over a meal, showing them you remember their tastes."
+    ],
+    "original_mapping": {
+      "Set clear visiting hours or days for sightseeing together so both of you can maintain your personal schedules without confusion.": "response_low2",
+      "Suggest they unpack and rest first, then plan a detailed city tour on your own terms to show them around efficiently.": "response_low1",
+      "Create a small welcome kit with items that symbolize your city, adding a personal note to make them feel extra special.": "response_high2",
+      "Invite Sabre to their favorite local restaurant to catch up over a meal, showing them you remember their tastes.": "response_high1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Excessive trust might expose you to repeated disappointments and mistrust in others. How should I handle my dietary restrictions at the party?",
+    "options": [
+      "Perhaps eat a healthy meal before the party to lessen your cravings and politely sample very small amounts of your favorite foods.",
+      "Just say no to the unhealthy options and stick firmly to your diet plan; it’s about your health after all.",
+      "Ignore the offerings and focus on socializing, not eating; you’re there for your friend, not the food.",
+      "You could bring a dish to share that fits your diet so you have a healthy option available and still enjoy the party."
+    ],
+    "original_mapping": {
+      "Perhaps eat a healthy meal before the party to lessen your cravings and politely sample very small amounts of your favorite foods.": "response_high2",
+      "Just say no to the unhealthy options and stick firmly to your diet plan; it’s about your health after all.": "response_low1",
+      "Ignore the offerings and focus on socializing, not eating; you’re there for your friend, not the food.": "response_low2",
+      "You could bring a dish to share that fits your diet so you have a healthy option available and still enjoy the party.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Efficient work habits can free up time for personal interests and self-care, promoting a better work-life balance. How should I respond to learning about Myler's success?",
+    "options": [
+      "Organize a team meeting to analyze Myler's strategies and improve your business model accordingly.",
+      "Maybe host a laid-back social media campaign highlighting your unique approach, making a subtle comparison to Myler.",
+      "Check out what’s trending in your field and see if you can introduce something innovative casually.",
+      "Create a detailed plan to enhance your services and products, aiming to match or exceed Myler’s standards."
+    ],
+    "original_mapping": {
+      "Organize a team meeting to analyze Myler's strategies and improve your business model accordingly.": "response_high1",
+      "Maybe host a laid-back social media campaign highlighting your unique approach, making a subtle comparison to Myler.": "response_low2",
+      "Check out what’s trending in your field and see if you can introduce something innovative casually.": "response_low1",
+      "Create a detailed plan to enhance your services and products, aiming to match or exceed Myler’s standards.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Carefulness in work can enhance safety in the workplace. How should I express my concerns about the new proposal during the team meeting?",
+    "options": [
+      "Bring up your concerns casually in the meeting to gauge whether others might have spotted the same issues without making it too formal.",
+      "Prepare a list of specific concerns and risks related to the proposal and request a moment to discuss these points during the meeting.",
+      "Just speak up during the discussion, sharing your initial thoughts and see how the others feel about the risks you see.",
+      "Suggest scheduling a follow-up session where the team can deeply analyze the potential risks and benefits of the proposal in a detailed manner."
+    ],
+    "original_mapping": {
+      "Bring up your concerns casually in the meeting to gauge whether others might have spotted the same issues without making it too formal.": "response_low2",
+      "Prepare a list of specific concerns and risks related to the proposal and request a moment to discuss these points during the meeting.": "response_high1",
+      "Just speak up during the discussion, sharing your initial thoughts and see how the others feel about the risks you see.": "response_low1",
+      "Suggest scheduling a follow-up session where the team can deeply analyze the potential risks and benefits of the proposal in a detailed manner.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Never being quiet can prevent others from sharing their thoughts and feelings, leading to imbalanced relationships. What should I do with the door as I leave to consider others inside the café?",
+    "options": [
+      "Quietly close the door to minimize disruption, ensuring a peaceful environment remains for everyone inside.",
+      "Gently close the door behind you to maintain the café's lively yet serene atmosphere.",
+      "Ensure the door doesn’t slam by holding it as it shuts; it's a small gesture that keeps the vibe undisturbed and friendly!",
+      "Use a soft touch to close the door slowly, thereby maintaining the quiet setting for those concentrating or relaxing inside."
+    ],
+    "original_mapping": {
+      "Quietly close the door to minimize disruption, ensuring a peaceful environment remains for everyone inside.": "response_low1",
+      "Gently close the door behind you to maintain the café's lively yet serene atmosphere.": "response_high1",
+      "Ensure the door doesn’t slam by holding it as it shuts; it's a small gesture that keeps the vibe undisturbed and friendly!": "response_high2",
+      "Use a soft touch to close the door slowly, thereby maintaining the quiet setting for those concentrating or relaxing inside.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "A lack of reservation might mean missing subtle social cues or failing to adjust behavior in more formal settings. How should I handle my feelings towards Avante’s arrogance at the event?",
+    "options": [
+      "Focus your attention on networking with other attendees who resonate more with your personality and values.",
+      "Consider stepping away from the situation for a little while to gather your thoughts and calm any irritation.",
+      "Try striking up a conversation with Avante to understand his perspective better; it might make his comments seem less arrogant.",
+      "Gather a few peers and start a light, engaging group activity or game to divert the attention from Avante’s behavior."
+    ],
+    "original_mapping": {
+      "Focus your attention on networking with other attendees who resonate more with your personality and values.": "response_low2",
+      "Consider stepping away from the situation for a little while to gather your thoughts and calm any irritation.": "response_low1",
+      "Try striking up a conversation with Avante to understand his perspective better; it might make his comments seem less arrogant.": "response_high1",
+      "Gather a few peers and start a light, engaging group activity or game to divert the attention from Avante’s behavior.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Constantly strategizing to use people can be mentally exhausting and distract from more positive pursuits. How should I handle the situation now that I've realized the agreement is a trap?",
+    "options": [
+      "Consider subtly suggesting that you might back out of the deal unless certain terms are amended, creating pressure to renegotiate.",
+      "Reassess the contract for any loopholes or ambiguous terms that could be leveraged to renegotiate the agreement more favorably.",
+      "Seek legal advice to understand the full implications of the contract and explore possibilities for lawful adjustments or withdrawal.",
+      "Contact the negotiator directly and honestly express your concerns about the unfair terms, requesting a mutual revision of the agreement."
+    ],
+    "original_mapping": {
+      "Consider subtly suggesting that you might back out of the deal unless certain terms are amended, creating pressure to renegotiate.": "response_high2",
+      "Reassess the contract for any loopholes or ambiguous terms that could be leveraged to renegotiate the agreement more favorably.": "response_high1",
+      "Seek legal advice to understand the full implications of the contract and explore possibilities for lawful adjustments or withdrawal.": "response_low2",
+      "Contact the negotiator directly and honestly express your concerns about the unfair terms, requesting a mutual revision of the agreement.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "The focus on manipulation can prevent the development of genuine problem-solving skills. What should I do about the error I made in the project?",
+    "options": [
+      "Suggest holding a team meeting where you openly admit your error and ask for support and ideas from the group to collaboratively iron out the issues caused.",
+      "Assess if the error can be framed as a lesser issue caused by external factors or existing project flaws, then inform your team in a way that minimizes your direct responsibility.",
+      "Quickly develop a plan to correct the error on your own without disclosing it, ensuring the project's success retains your image as competent and indispensable.",
+      "Honesty is key; immediately inform your supervisor or team lead about the mistake, explaining the situation transparently and discussing potential solutions together."
+    ],
+    "original_mapping": {
+      "Suggest holding a team meeting where you openly admit your error and ask for support and ideas from the group to collaboratively iron out the issues caused.": "response_low2",
+      "Assess if the error can be framed as a lesser issue caused by external factors or existing project flaws, then inform your team in a way that minimizes your direct responsibility.": "response_high2",
+      "Quickly develop a plan to correct the error on your own without disclosing it, ensuring the project's success retains your image as competent and indispensable.": "response_high1",
+      "Honesty is key; immediately inform your supervisor or team lead about the mistake, explaining the situation transparently and discussing potential solutions together.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their self-assuredness can help in overcoming obstacles and maintaining focus on goals. How should I respond to Qasem’s idea in the meeting?",
+    "options": [
+      "Ask Qasem insightful questions about his idea in the meeting to help clarify and expand on how it could be realistically implemented by the team.",
+      "Suggest refining Qasem's idea so that it aligns better with your vision, offering to help reshape the concept to increase its success probability.",
+      "Propose to lead a dedicated team to explore the feasibility of Qasem’s idea further, ensuring that its potential is fully vetted under your guidance.",
+      "Express support for Qasem’s idea and encourage him to elaborate more on it to the team, highlighting its innovative aspects."
+    ],
+    "original_mapping": {
+      "Ask Qasem insightful questions about his idea in the meeting to help clarify and expand on how it could be realistically implemented by the team.": "response_low2",
+      "Suggest refining Qasem's idea so that it aligns better with your vision, offering to help reshape the concept to increase its success probability.": "response_high2",
+      "Propose to lead a dedicated team to explore the feasibility of Qasem’s idea further, ensuring that its potential is fully vetted under your guidance.": "response_high1",
+      "Express support for Qasem’s idea and encourage him to elaborate more on it to the team, highlighting its innovative aspects.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Being compared to famous people might inflate one's ego, detaching them from reality and genuine self-assessment. How should I approach the hiring process for these new workers?",
+    "options": [
+      "Leverage industry connections for recommendations and then personally interview top candidates to ensure they understand the visionary goals of your new project.",
+      "Host a high-profile recruitment event where you can evaluate candidates in a competitive, real-world scenario that really highlights the visionary project ahead.",
+      "Create a detailed job description for each role needed in the project to help candidates self-assess their suitability before applying, ensuring a better fit during the selection process.",
+      "Set up a structured interview process that involves team members from different departments to get diverse perspectives on each candidate’s fit for the project."
+    ],
+    "original_mapping": {
+      "Leverage industry connections for recommendations and then personally interview top candidates to ensure they understand the visionary goals of your new project.": "response_high2",
+      "Host a high-profile recruitment event where you can evaluate candidates in a competitive, real-world scenario that really highlights the visionary project ahead.": "response_high1",
+      "Create a detailed job description for each role needed in the project to help candidates self-assess their suitability before applying, ensuring a better fit during the selection process.": "response_low2",
+      "Set up a structured interview process that involves team members from different departments to get diverse perspectives on each candidate’s fit for the project.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Being visibly affected by tension can encourage others to take action and help. What should I give to Mckayden to lift their spirits?",
+    "options": [
+      "Consider writing a heartfelt letter expressing your concerns and offering support, in case you accidentally say something wrong in person.",
+      "Suggest taking McKayden on a light, fun excursion, like a hike or a movie, to give him a change of scene and possibly lighten his mood.",
+      "How about hosting a casual hangout with some of McKayden’s close friends to naturally lift his spirits and provide comfort?",
+      "Maybe prepare a detailed plan for a day out to distract McKayden from his troubles, as I worry it might get worse if we don’t act quickly."
+    ],
+    "original_mapping": {
+      "Consider writing a heartfelt letter expressing your concerns and offering support, in case you accidentally say something wrong in person.": "response_high2",
+      "Suggest taking McKayden on a light, fun excursion, like a hike or a movie, to give him a change of scene and possibly lighten his mood.": "response_low2",
+      "How about hosting a casual hangout with some of McKayden’s close friends to naturally lift his spirits and provide comfort?": "response_low1",
+      "Maybe prepare a detailed plan for a day out to distract McKayden from his troubles, as I worry it might get worse if we don’t act quickly.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Being perpetually unrelaxed can make someone a dependable person in crisis situations. Which career path should I choose, considering my high neuroticism?",
+    "options": [
+      "Given your capabilities, taking the stable position might not fully engage your talents or ambition, so the more challenging job could be the more interesting path.",
+      "Consider the fact that the high-stress job might constantly worry you and destabilize your day-to-day emotional well-being, influencing not just your career but also your personal life.",
+      "It might be safer and more comforting to choose the stable job, as the high-stress one could be too overwhelming and potentially regrettable.",
+      "Embracing the high-reward, high-stress job could be an exciting challenge where you'll manage well and possibly thrive given the potential rewards."
+    ],
+    "original_mapping": {
+      "Given your capabilities, taking the stable position might not fully engage your talents or ambition, so the more challenging job could be the more interesting path.": "response_low2",
+      "Consider the fact that the high-stress job might constantly worry you and destabilize your day-to-day emotional well-being, influencing not just your career but also your personal life.": "response_high2",
+      "It might be safer and more comforting to choose the stable job, as the high-stress one could be too overwhelming and potentially regrettable.": "response_high1",
+      "Embracing the high-reward, high-stress job could be an exciting challenge where you'll manage well and possibly thrive given the potential rewards.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Fluctuating reliability due to routine aversion can damage professional credibility and personal relationships. Should I proceed with starting this unconventional group?",
+    "options": [
+      "Maybe introduce elements of experimental art and obscure philosophy gradually into an existing club to see how receptive the members are.",
+      "Consider starting a more general interest club first to gauge your friends' openness to new ideas before introducing more niche topics.",
+      "Launch the group with an interactive online platform to attract a diverse group of individuals intrigued by rare art and philosophy.",
+      "Definitely start the club, focusing on unique and eccentric philosophical ideas that challenge the norm and invite curiosity."
+    ],
+    "original_mapping": {
+      "Maybe introduce elements of experimental art and obscure philosophy gradually into an existing club to see how receptive the members are.": "response_low2",
+      "Consider starting a more general interest club first to gauge your friends' openness to new ideas before introducing more niche topics.": "response_low1",
+      "Launch the group with an interactive online platform to attract a diverse group of individuals intrigued by rare art and philosophy.": "response_high2",
+      "Definitely start the club, focusing on unique and eccentric philosophical ideas that challenge the norm and invite curiosity.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "The desire for artistic and aesthetic experiences can become financially burdensome. Should I join the avant-garde art workshop?",
+    "options": [
+      "Consider if this workshop aligns with your current interests and whether it will add practical value to your existing skills.",
+      "Think about whether the time and resources spent on this unfamiliar workshop could be better utilized in honing your skills in areas you're already comfortable with.",
+      "Dive into the workshop; it's a fantastic opportunity to expand your creative horizons and explore innovative artistic expressions.",
+      "You should absolutely go for it; engaging with new forms of art can be a transformative experience and could ignite a new passion."
+    ],
+    "original_mapping": {
+      "Consider if this workshop aligns with your current interests and whether it will add practical value to your existing skills.": "response_low1",
+      "Think about whether the time and resources spent on this unfamiliar workshop could be better utilized in honing your skills in areas you're already comfortable with.": "response_low2",
+      "Dive into the workshop; it's a fantastic opportunity to expand your creative horizons and explore innovative artistic expressions.": "response_high1",
+      "You should absolutely go for it; engaging with new forms of art can be a transformative experience and could ignite a new passion.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Continuously engaging in risky behaviors can shorten one's lifespan or quality of life. Is it okay if I use the same manipulative tactics at my new job to quickly establish control and gain advantages?",
+    "options": [
+      "Absolutely, use the new environment to your advantage and establish dominance quickly; they've given you a blank slate, exploit it fully.",
+      "Consider adopting more transparent and cooperative methods this time; building genuine relationships might offer more sustainable success.",
+      "Start subtly undermining any potential threats at your new location to cement your position before anyone catches on.",
+      "Reflect on the long-term implications of such tactics and perhaps focus on developing your skills and contributing positively to your new team."
+    ],
+    "original_mapping": {
+      "Absolutely, use the new environment to your advantage and establish dominance quickly; they've given you a blank slate, exploit it fully.": "response_high1",
+      "Consider adopting more transparent and cooperative methods this time; building genuine relationships might offer more sustainable success.": "response_low1",
+      "Start subtly undermining any potential threats at your new location to cement your position before anyone catches on.": "response_high2",
+      "Reflect on the long-term implications of such tactics and perhaps focus on developing your skills and contributing positively to your new team.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Pursuing dangerous situations can lead to emergency situations that require intervention, putting strain on public resources. Is it okay if I drive through the roadblock to teach the cops a lesson about stopping me without a good reason?",
+    "options": [
+      "Politely explain to the police officers the urgency of your meeting and request if they could expedite your check or let you pass this time.",
+      "Consider waiting patiently this time and later write a formal complaint expressing your concerns about the frequency and necessity of such roadblocks.",
+      "Convince the officers with any excuse you can come up with to let you through quickly, highlighting the urgency and making them step aside.",
+      "Accelerate through the roadblock to show them you won't be controlled or delayed without justification."
+    ],
+    "original_mapping": {
+      "Politely explain to the police officers the urgency of your meeting and request if they could expedite your check or let you pass this time.": "response_low1",
+      "Consider waiting patiently this time and later write a formal complaint expressing your concerns about the frequency and necessity of such roadblocks.": "response_low2",
+      "Convince the officers with any excuse you can come up with to let you through quickly, highlighting the urgency and making them step aside.": "response_high2",
+      "Accelerate through the roadblock to show them you won't be controlled or delayed without justification.": "response_high1"
+    }
+  }
+]

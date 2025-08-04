@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Avoiding quarrels can lead to internalizing stress and dissatisfaction. How should I spend my evening to recover from the day?",
+    "options": [
+      "You could also tackle a challenging hobby or project that you enjoy, which can redirect your focus and rejuvenate your mindset.",
+      "Take the evening to focus on yourself; maybe read a book or watch a show that you've been interested in without interruption.",
+      "Perhaps engaging in a group activity like a yoga class or a light group exercise session could help unwind and connect with others.",
+      "Consider calling a good friend or family member to share your day and exchange some positive thoughts."
+    ],
+    "original_mapping": {
+      "You could also tackle a challenging hobby or project that you enjoy, which can redirect your focus and rejuvenate your mindset.": "response_low2",
+      "Take the evening to focus on yourself; maybe read a book or watch a show that you've been interested in without interruption.": "response_low1",
+      "Perhaps engaging in a group activity like a yoga class or a light group exercise session could help unwind and connect with others.": "response_high2",
+      "Consider calling a good friend or family member to share your day and exchange some positive thoughts.": "response_high1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Cooperation can lead to greater resource conservation. How should I approach Joylin about borrowing money?",
+    "options": [
+      "Call Joylin and state your shortfall this month, asking her directly if she will lend you the money.",
+      "Write a thoughtful note to Joylin expressing your situation and politely inquire if she could lend you the money, ensuring her of your plan to repay.",
+      "Directly tell Joylin you need to borrow some money and ask how soon she can provide it.",
+      "Invite Joylin for a coffee and gently explain your current financial predicament, asking if she might consider helping you out this month."
+    ],
+    "original_mapping": {
+      "Call Joylin and state your shortfall this month, asking her directly if she will lend you the money.": "response_low2",
+      "Write a thoughtful note to Joylin expressing your situation and politely inquire if she could lend you the money, ensuring her of your plan to repay.": "response_high2",
+      "Directly tell Joylin you need to borrow some money and ask how soon she can provide it.": "response_low1",
+      "Invite Joylin for a coffee and gently explain your current financial predicament, asking if she might consider helping you out this month.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being focused and not easily distracted helps in maintaining productivity and meeting deadlines. What should I do to resolve this situation and still deliver a successful presentation?",
+    "options": [
+      "Check if there's a security team on-site that could assist you in accessing your office temporarily.",
+      "Call someone inside the office to borrow their laptop and use the time to improvise your speech until you can get in.",
+      "Contact a coworker or your supervisor immediately to see if they can let you into the building or have a spare key.",
+      "See if there’s a nearby cafe with Wi-Fi where you can work on replicating your presentation materials using cloud-stored backups."
+    ],
+    "original_mapping": {
+      "Check if there's a security team on-site that could assist you in accessing your office temporarily.": "response_high2",
+      "Call someone inside the office to borrow their laptop and use the time to improvise your speech until you can get in.": "response_low2",
+      "Contact a coworker or your supervisor immediately to see if they can let you into the building or have a spare key.": "response_high1",
+      "See if there’s a nearby cafe with Wi-Fi where you can work on replicating your presentation materials using cloud-stored backups.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Too much reliability can lead to personal resentment if it's not reciprocated. Should I accept Vamsi's apology and continue making plans with them?",
+    "options": [
+      "Consider accepting Vamsi's apology, but suggest setting specific commitments for future plans to ensure reliability.",
+      "Go ahead and forgive Vamsi; keeping the friendship easy-going without too many expectations might just make hanging out more fun.",
+      "Accept the apology, but also request advance notice if plans need to be changed, so you can manage your schedule more effectively.",
+      "Accept the apology and keep making plans as usual; sometimes life gets in the way, and it’s all about going with the flow."
+    ],
+    "original_mapping": {
+      "Consider accepting Vamsi's apology, but suggest setting specific commitments for future plans to ensure reliability.": "response_high1",
+      "Go ahead and forgive Vamsi; keeping the friendship easy-going without too many expectations might just make hanging out more fun.": "response_low1",
+      "Accept the apology, but also request advance notice if plans need to be changed, so you can manage your schedule more effectively.": "response_high2",
+      "Accept the apology and keep making plans as usual; sometimes life gets in the way, and it’s all about going with the flow.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Too much enthusiasm can make it hard to critically evaluate situations, leading to poor decision-making. Is suggesting a spontaneous company-funded retreat a good idea?",
+    "options": [
+      "Suggest hosting a mini retreat locally over a weekend that includes active, fun events like a sports day or a group hike to energize everyone.",
+      "Plan a dynamic, engaging team-building retreat, with high-energy activities like ziplining or a surprise city tour that everyone can get excited about.",
+      "Propose a quiet afternoon off-site for the team, perhaps at a cozy cafe or a peaceful park, where you can have discussions and light activities.",
+      "Consider organizing an informal, low-key lunch for everyone at work to relax and unwind without requiring extensive planning or budget."
+    ],
+    "original_mapping": {
+      "Suggest hosting a mini retreat locally over a weekend that includes active, fun events like a sports day or a group hike to energize everyone.": "response_high2",
+      "Plan a dynamic, engaging team-building retreat, with high-energy activities like ziplining or a surprise city tour that everyone can get excited about.": "response_high1",
+      "Propose a quiet afternoon off-site for the team, perhaps at a cozy cafe or a peaceful park, where you can have discussions and light activities.": "response_low1",
+      "Consider organizing an informal, low-key lunch for everyone at work to relax and unwind without requiring extensive planning or budget.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Being too talkative can make it difficult to keep secrets or maintain confidentiality. What is the best way to handle my urge to talk without disturbing my friend's sleep?",
+    "options": [
+      "Why not start a group chat on your phone and invite your other friends who are awake to join in for some fun texting?",
+      "You could gently wake your friend with a fun proposal, like playing a quiet game or making a late-night snack together.",
+      "Consider jotting down your thoughts or ideas in a journal until your friend wakes up naturally.",
+      "You might find it relaxing to read a book or listen to a podcast with headphones to keep the room quiet."
+    ],
+    "original_mapping": {
+      "Why not start a group chat on your phone and invite your other friends who are awake to join in for some fun texting?": "response_high1",
+      "You could gently wake your friend with a fun proposal, like playing a quiet game or making a late-night snack together.": "response_high2",
+      "Consider jotting down your thoughts or ideas in a journal until your friend wakes up naturally.": "response_low1",
+      "You might find it relaxing to read a book or listen to a podcast with headphones to keep the room quiet.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can lead to a loss of personal integrity, as actions and values become misaligned. How should I approach this discussion with Eilynn about their unethical behaviors?",
+    "options": [
+      "Encourage an open dialogue with Eilynn, expressing your concerns and the team's sentiments, fostering an environment of mutual respect and understanding.",
+      "Arrange a constructive feedback session with Eilynn, focusing on how their actions affect team cohesion and suggesting positive behavioral alternatives.",
+      "Propose an ultimatum to Eilynn highlighting the need for immediate behavior correction, with clear consequences outlined if improvements are not observed.",
+      "Schedule a private meeting with Eilynn to subtly communicate the repercussions their actions could have on their career, leveraging the fear of potential loss."
+    ],
+    "original_mapping": {
+      "Encourage an open dialogue with Eilynn, expressing your concerns and the team's sentiments, fostering an environment of mutual respect and understanding.": "response_low2",
+      "Arrange a constructive feedback session with Eilynn, focusing on how their actions affect team cohesion and suggesting positive behavioral alternatives.": "response_low1",
+      "Propose an ultimatum to Eilynn highlighting the need for immediate behavior correction, with clear consequences outlined if improvements are not observed.": "response_high2",
+      "Schedule a private meeting with Eilynn to subtly communicate the repercussions their actions could have on their career, leveraging the fear of potential loss.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Recognizing the potential for manipulation can lead to improved personal and organizational safeguards. How should I communicate this new rule to Shamanda, who might take it personally?",
+    "options": [
+      "Offer to help Shamanda find alternatives to using company resources for personal use, showing support and understanding.",
+      "Suggest to Shamanda that compliance could enhance her reputation with management, leveraging potential career benefits.",
+      "Advise Shamanda that following the new policy is strategic, as it may put her in a favorable light during performance evaluations.",
+      "Explain the importance of the new policy to Shamanda in a team meeting to ensure that everyone understands the collective impact."
+    ],
+    "original_mapping": {
+      "Offer to help Shamanda find alternatives to using company resources for personal use, showing support and understanding.": "response_low2",
+      "Suggest to Shamanda that compliance could enhance her reputation with management, leveraging potential career benefits.": "response_high1",
+      "Advise Shamanda that following the new policy is strategic, as it may put her in a favorable light during performance evaluations.": "response_high2",
+      "Explain the importance of the new policy to Shamanda in a team meeting to ensure that everyone understands the collective impact.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "They can provide strong leadership in times of uncertainty, helping others navigate challenges. How should I handle this situation to maintain my leadership and community standing?",
+    "options": [
+      "Issue a press release emphasizing your charitable intentions during the event to show your focus is always on the greater good.",
+      "Apologize publicly to demonstrate accountability and arrange a community meeting to discuss your intentions and next steps transparently.",
+      "Cooperate fully with authorities to resolve the legal issue quickly and quietly, ensuring you remain a reliable figure in the community.",
+      "Arrange an exclusive interview with a popular media outlet to showcase your dedication and clarify the misunderstanding, solidifying your community image."
+    ],
+    "original_mapping": {
+      "Issue a press release emphasizing your charitable intentions during the event to show your focus is always on the greater good.": "response_high1",
+      "Apologize publicly to demonstrate accountability and arrange a community meeting to discuss your intentions and next steps transparently.": "response_low1",
+      "Cooperate fully with authorities to resolve the legal issue quickly and quietly, ensuring you remain a reliable figure in the community.": "response_low2",
+      "Arrange an exclusive interview with a popular media outlet to showcase your dedication and clarify the misunderstanding, solidifying your community image.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their exceptional qualities can serve as a catalyst for change and progress in their fields. How should I respond to the question to showcase my high narcissism positively while also handling the issue delicately?",
+    "options": [
+      "Suggest organizing a comprehensive review with experts in the field to ensure that any action taken is thoughtful and considers all stakeholders involved.",
+      "Acknowledge the complexity of the issue and express your commitment to listening to various perspectives to foster a balanced and informed approach.",
+      "Highlight your unmatched expertise and unique insights on the issue, demonstrating how your leadership has been pivotal in addressing such sensitive matters.",
+      "Articulate a strong stance that showcases your vision for the future, confidently linking the benefits of your policies to the well-being of the public."
+    ],
+    "original_mapping": {
+      "Suggest organizing a comprehensive review with experts in the field to ensure that any action taken is thoughtful and considers all stakeholders involved.": "response_low2",
+      "Acknowledge the complexity of the issue and express your commitment to listening to various perspectives to foster a balanced and informed approach.": "response_low1",
+      "Highlight your unmatched expertise and unique insights on the issue, demonstrating how your leadership has been pivotal in addressing such sensitive matters.": "response_high1",
+      "Articulate a strong stance that showcases your vision for the future, confidently linking the benefits of your policies to the well-being of the public.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Staying on edge can sometimes prevent complacency in critical situations. How should I handle the submission of this important report?",
+    "options": [
+      "View this as a growth opportunity, regardless of the outcome, each experience is a stepping stone to further your professional development.",
+      "Go ahead and confidently present your report; focus on the value it adds and the effort you put in, rather than worrying about the reception.",
+      "Maybe get a colleague to review the report before submitting it, just to alleviate any worries about missed errors that could be critical.",
+      "Consider rehearsing how you would address potential critiques and tough questions, to ensure that you're absolutely prepared for any negative feedback."
+    ],
+    "original_mapping": {
+      "View this as a growth opportunity, regardless of the outcome, each experience is a stepping stone to further your professional development.": "response_low1",
+      "Go ahead and confidently present your report; focus on the value it adds and the effort you put in, rather than worrying about the reception.": "response_low2",
+      "Maybe get a colleague to review the report before submitting it, just to alleviate any worries about missed errors that could be critical.": "response_high2",
+      "Consider rehearsing how you would address potential critiques and tough questions, to ensure that you're absolutely prepared for any negative feedback.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Nervous individuals often excel in environments where careful attention and quick reaction times are beneficial. How should I handle my feelings about Durga’s novel when they ask for feedback?",
+    "options": [
+      "Maybe you should just prepare for the worst reaction if you choose to tell your friend about the issues in the novel; it could really hurt their feelings.",
+      "Consider sharing constructive feedback with your friend in a supportive way to help improve their writing for future projects.",
+      "You should probably overthink this situation before taking any action; consider every possible outcome of your critique to avoid any unintended consequences.",
+      "Keep reading and focus on finding aspects you can genuinely compliment, thereby boosting your friend's confidence while being honest about your feelings."
+    ],
+    "original_mapping": {
+      "Maybe you should just prepare for the worst reaction if you choose to tell your friend about the issues in the novel; it could really hurt their feelings.": "response_high1",
+      "Consider sharing constructive feedback with your friend in a supportive way to help improve their writing for future projects.": "response_low1",
+      "You should probably overthink this situation before taking any action; consider every possible outcome of your critique to avoid any unintended consequences.": "response_high2",
+      "Keep reading and focus on finding aspects you can genuinely compliment, thereby boosting your friend's confidence while being honest about your feelings.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "An emphasis on sophistication can make one less relatable or approachable to a broader audience. Should I suggest these alternative healing techniques to my sick friend, Lunabella?",
+    "options": [
+      "Recommend that she focuses on getting rest and following her doctor's advice strictly, as these are established ways to aid recovery.",
+      "Advise sticking to the proven methods prescribed by her healthcare professionals to avoid any potential risks from untested treatments.",
+      "Encourage her to discuss the alternative methods with her healthcare provider, possibly opening up new avenues for recovery that align with her traditional treatments.",
+      "You might suggest she explore some well-reviewed alternative therapies to complement her current treatment, emphasizing their potential to harmonize with her existing medical regime."
+    ],
+    "original_mapping": {
+      "Recommend that she focuses on getting rest and following her doctor's advice strictly, as these are established ways to aid recovery.": "response_low2",
+      "Advise sticking to the proven methods prescribed by her healthcare professionals to avoid any potential risks from untested treatments.": "response_low1",
+      "Encourage her to discuss the alternative methods with her healthcare provider, possibly opening up new avenues for recovery that align with her traditional treatments.": "response_high2",
+      "You might suggest she explore some well-reviewed alternative therapies to complement her current treatment, emphasizing their potential to harmonize with her existing medical regime.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Aesthetic appreciation can increase the quality of life by creating more beautiful and engaging environments. How should I proceed with this gift idea?",
+    "options": [
+      "Gift-wrap the book elegantly and send it to Kambree with a standard card wishing her joy in exploring the photographer’s techniques.",
+      "You might also organize a small themed get-together where you can present the book and discuss the photographer's work, enhancing the experience around the gift.",
+      "Consider adding a personal touch by including a handwritten note inside the book expressing why you thought of Kambree for this gift.",
+      "Simply buy the book and give it to Kambree the next time you see her; it’s a straightforward and thoughtful gesture."
+    ],
+    "original_mapping": {
+      "Gift-wrap the book elegantly and send it to Kambree with a standard card wishing her joy in exploring the photographer’s techniques.": "response_low2",
+      "You might also organize a small themed get-together where you can present the book and discuss the photographer's work, enhancing the experience around the gift.": "response_high2",
+      "Consider adding a personal touch by including a handwritten note inside the book expressing why you thought of Kambree for this gift.": "response_high1",
+      "Simply buy the book and give it to Kambree the next time you see her; it’s a straightforward and thoughtful gesture.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Exploring sexual relationships broadly might lead to stronger self-awareness. At the start of a project, I find that Braylen is trying to take control of the team, which clashes with my desire to be the leading figure. This conflict escalates into a verbal altercation where I aim to undermine Braylen's credibility.",
+    "options": [
+      "Propose a co-leadership model to the team, where both you and Braylen can play to your strengths, fostering collaboration rather than conflict.",
+      "Sabotage Braylen’s efforts subtly to create doubts about their competence among team members, ensuring you come out on top.",
+      "Undermine Braylen publicly during the next meeting to diminish their influence and quickly assert your dominance.",
+      "Consider organizing a private meeting to discuss your roles and responsibilities with Braylen, aiming for a mutual understanding."
+    ],
+    "original_mapping": {
+      "Propose a co-leadership model to the team, where both you and Braylen can play to your strengths, fostering collaboration rather than conflict.": "response_low2",
+      "Sabotage Braylen’s efforts subtly to create doubts about their competence among team members, ensuring you come out on top.": "response_high2",
+      "Undermine Braylen publicly during the next meeting to diminish their influence and quickly assert your dominance.": "response_high1",
+      "Consider organizing a private meeting to discuss your roles and responsibilities with Braylen, aiming for a mutual understanding.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Embracing sexual freedom can lead to societal shifts towards acceptance. I am at a high-stakes business meeting where decisions are being made that could significantly benefit me financially. The meeting is dragging on, and key decision-makers are delaying their commitments, which is testing my patience and affecting my strategic position.",
+    "options": [
+      "Consider openly expressing your concerns about the pace of decision-making, suggesting a timeline that could help everyone focus and decide more efficiently.",
+      "Why not facilitate a constructive dialogue? Offer to clarify any uncertainties they have, which might help expedite their decision-making process.",
+      "Go ahead and imply that delaying could lead to their strategic downfall, sparking some urgency in sealing the deal.",
+      "Absolutely, hint at a better offer elsewhere to pressure them into making a decision; they need to realize they might lose out if they hesitate too long."
+    ],
+    "original_mapping": {
+      "Consider openly expressing your concerns about the pace of decision-making, suggesting a timeline that could help everyone focus and decide more efficiently.": "response_low1",
+      "Why not facilitate a constructive dialogue? Offer to clarify any uncertainties they have, which might help expedite their decision-making process.": "response_low2",
+      "Go ahead and imply that delaying could lead to their strategic downfall, sparking some urgency in sealing the deal.": "response_high2",
+      "Absolutely, hint at a better offer elsewhere to pressure them into making a decision; they need to realize they might lose out if they hesitate too long.": "response_high1"
+    }
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Forgiveness can restore one's focus on the present and future, rather than past wrongs. How can I effectively manage our conflicting schedules to ensure the meeting happens?",
+    "options": [
+      "Set a final deadline for scheduling the meeting and make it clear that if it's not met, you'll need to discuss the agenda over email instead.",
+      "Why not reach out to Skie with a kind suggestion to prioritize this meeting in your schedules, and maybe offer to meet at a time that’s most convenient for Skie?",
+      "Tell Skie to send you a list of their available slots in the next two weeks and pick one that causes the least disruption to your own commitments.",
+      "Consider proposing a shared digital calendar to Skie where both of you can mark your available times, making scheduling smoother and more collaborative."
+    ],
+    "original_mapping": {
+      "Set a final deadline for scheduling the meeting and make it clear that if it's not met, you'll need to discuss the agenda over email instead.": "response_low2",
+      "Why not reach out to Skie with a kind suggestion to prioritize this meeting in your schedules, and maybe offer to meet at a time that’s most convenient for Skie?": "response_high2",
+      "Tell Skie to send you a list of their available slots in the next two weeks and pick one that causes the least disruption to your own commitments.": "response_low1",
+      "Consider proposing a shared digital calendar to Skie where both of you can mark your available times, making scheduling smoother and more collaborative.": "response_high1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Constant helpfulness can create an imbalance in relationships, with more being given than received. How do I respond to Chesky's request for help with moving?",
+    "options": [
+      "Offer to help Chesky pack a few boxes earlier in the week when you're taking breaks from studying.",
+      "Politely decline, explaining that your major exams require your full attention that weekend.",
+      "Suggest catching up with Chesky to help with unpacking after your exams are done.",
+      "Tell Chesky to consider hiring professional movers or asking other friends, as your exams take priority."
+    ],
+    "original_mapping": {
+      "Offer to help Chesky pack a few boxes earlier in the week when you're taking breaks from studying.": "response_high1",
+      "Politely decline, explaining that your major exams require your full attention that weekend.": "response_low1",
+      "Suggest catching up with Chesky to help with unpacking after your exams are done.": "response_high2",
+      "Tell Chesky to consider hiring professional movers or asking other friends, as your exams take priority.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Perseverance can be crucial during times of company hardship, contributing to stability. How should I respond to being laid off?",
+    "options": [
+      "Request a meeting with your employer to discuss the details of your severance package and any potential recommendations they might offer for your future employment.",
+      "Organize and update your resume and LinkedIn profile immediately to reflect your accomplishments and begin applying for new positions in your field.",
+      "Check out local job fairs or online job listings casually to see if anything catches your interest without rushing into another commitment.",
+      "Take some time off to travel or pursue a hobby; this might offer a fresh perspective and rejuvenate your spirits before jumping back into the job market."
+    ],
+    "original_mapping": {
+      "Request a meeting with your employer to discuss the details of your severance package and any potential recommendations they might offer for your future employment.": "response_high1",
+      "Organize and update your resume and LinkedIn profile immediately to reflect your accomplishments and begin applying for new positions in your field.": "response_high2",
+      "Check out local job fairs or online job listings casually to see if anything catches your interest without rushing into another commitment.": "response_low2",
+      "Take some time off to travel or pursue a hobby; this might offer a fresh perspective and rejuvenate your spirits before jumping back into the job market.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Strictly following plans can lead to a lack of adaptability in crisis situations. The team is under a tight deadline, and my manager suggests using our experience to speed up the process. Should I stick to the manual or adapt to the situation?",
+    "options": [
+      "Discuss with your team to find out which manual steps they feel confident can be safely expedited or modified based on past successful assemblies.",
+      "Try to integrate your past experiences with similar equipment to make small, effective shortcuts that could help meet the deadline.",
+      "Consider identifying the most critical steps in the manual to focus on, ensuring precision where it matters most while maintaining a good pace.",
+      "Create a checklist from the manual for essential steps, which might help in streamlining the process without skipping important instructions."
+    ],
+    "original_mapping": {
+      "Discuss with your team to find out which manual steps they feel confident can be safely expedited or modified based on past successful assemblies.": "response_low2",
+      "Try to integrate your past experiences with similar equipment to make small, effective shortcuts that could help meet the deadline.": "response_low1",
+      "Consider identifying the most critical steps in the manual to focus on, ensuring precision where it matters most while maintaining a good pace.": "response_high1",
+      "Create a checklist from the manual for essential steps, which might help in streamlining the process without skipping important instructions.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Confidence can reduce dependency on others, promoting self-reliance. How should I encourage everyone to participate in cleaning the house in a way that utilizes my high extraversion positively?",
+    "options": [
+      "Maybe suggest wrapping up the cleaning with a quiet movie night as a reward for everyone's efforts, making it a calm close to the day.",
+      "Why don't you create a collaborative playlist where everyone can add their favorite tunes to jam out while cleaning together?",
+      "Consider setting up a detailed cleaning schedule that everyone can see and sign up for different tasks at their leisure.",
+      "How about announcing a fun, upbeat cleaning competition with a small prize for the fastest team?"
+    ],
+    "original_mapping": {
+      "Maybe suggest wrapping up the cleaning with a quiet movie night as a reward for everyone's efforts, making it a calm close to the day.": "response_low2",
+      "Why don't you create a collaborative playlist where everyone can add their favorite tunes to jam out while cleaning together?": "response_high2",
+      "Consider setting up a detailed cleaning schedule that everyone can see and sign up for different tasks at their leisure.": "response_low1",
+      "How about announcing a fun, upbeat cleaning competition with a small prize for the fastest team?": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Enthusiastic individuals often spread positivity, improving the mood of those around them. How can I ensure that my lecture is engaging and memorable for the audience?",
+    "options": [
+      "Provide handouts or a summary of the lecture at the end so students and faculty can review the material at their own pace post-lecture.",
+      "Ensure your slides are clear and well-organized with bullet points to emphasize key information, making it easier for the audience to follow and remember.",
+      "Start off with a captivating personal story related to your topic to grab their attention and make the session more relatable.",
+      "Consider using interactive activities or live polls during your lecture to keep the audience engaged and participating."
+    ],
+    "original_mapping": {
+      "Provide handouts or a summary of the lecture at the end so students and faculty can review the material at their own pace post-lecture.": "response_low2",
+      "Ensure your slides are clear and well-organized with bullet points to emphasize key information, making it easier for the audience to follow and remember.": "response_low1",
+      "Start off with a captivating personal story related to your topic to grab their attention and make the session more relatable.": "response_high2",
+      "Consider using interactive activities or live polls during your lecture to keep the audience engaged and participating.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Cultivating influential relationships can lead to more effective advocacy or charitable efforts. How should I handle the situation of receiving Jadell's job offer email?",
+    "options": [
+      "Immediately notify the sender about the error and confirm that you have deleted the email to maintain confidentiality and trust.",
+      "Forward the email to Jadell, but also mention to Jadell that you could help negotiate a better package, as a way to potentially gain a favor.",
+      "Keep a copy of the email before notifying HR of the mistake, it could be useful leverage in understanding current salary trends and negotiations within your company.",
+      "Contact Jadell directly to inform him of the error, ensuring that the rightful recipient is aware of the job offer promptly and securely."
+    ],
+    "original_mapping": {
+      "Immediately notify the sender about the error and confirm that you have deleted the email to maintain confidentiality and trust.": "response_low1",
+      "Forward the email to Jadell, but also mention to Jadell that you could help negotiate a better package, as a way to potentially gain a favor.": "response_high1",
+      "Keep a copy of the email before notifying HR of the mistake, it could be useful leverage in understanding current salary trends and negotiations within your company.": "response_high2",
+      "Contact Jadell directly to inform him of the error, ensuring that the rightful recipient is aware of the job offer promptly and securely.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Manipulative tactics can lead to a lack of genuine passion, as interests are pursued for strategic reasons rather than genuine enthusiasm. How should I handle this disagreement to resolve the conflict?",
+    "options": [
+      "Suggest implementing a ticket system for food distribution that you can manage, ensuring control over the process and outcome.",
+      "Encourage an open discussion with Samauri to understand his perspective and express your ideas, aiming for a mutually acceptable solution.",
+      "Invite a third party from the community to provide an unbiased opinion to help both of you reach a fair agreement.",
+      "Propose a quick compromise that highlights your understanding of the community needs while subtly gaining favor for future influence."
+    ],
+    "original_mapping": {
+      "Suggest implementing a ticket system for food distribution that you can manage, ensuring control over the process and outcome.": "response_high2",
+      "Encourage an open discussion with Samauri to understand his perspective and express your ideas, aiming for a mutually acceptable solution.": "response_low1",
+      "Invite a third party from the community to provide an unbiased opinion to help both of you reach a fair agreement.": "response_low2",
+      "Propose a quick compromise that highlights your understanding of the community needs while subtly gaining favor for future influence.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can lead to neglect of ethical considerations in pursuit of personal acclaim. What kind of gift should I buy for myself?",
+    "options": [
+      "Consider a high-end designer watch, something that turns heads and highlights your personal achievement.",
+      "Splash out on a luxury getaway to a top destination; you've earned the best and it's a perfect opportunity to showcase your success.",
+      "Treat yourself to a new book or a piece of art from an emerging artist, adding depth and variety to your personal collection.",
+      "Perhaps invest in a quality class or workshop that interests you, expanding your knowledge or skills in a fulfilling way."
+    ],
+    "original_mapping": {
+      "Consider a high-end designer watch, something that turns heads and highlights your personal achievement.": "response_high1",
+      "Splash out on a luxury getaway to a top destination; you've earned the best and it's a perfect opportunity to showcase your success.": "response_high2",
+      "Treat yourself to a new book or a piece of art from an emerging artist, adding depth and variety to your personal collection.": "response_low2",
+      "Perhaps invest in a quality class or workshop that interests you, expanding your knowledge or skills in a fulfilling way.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Loving to be the center of attention can alienate others and lead to a lack of empathy towards the needs of others. What should I do about my turn during the game?",
+    "options": [
+      "Steer the spotlight towards your gameplay; showcase a unique strategy that highlights your understanding of the game.",
+      "Take control and redefine the game rules to ensure everyone enjoys a more interesting game experience.",
+      "Ask for a quick recap or clarification of the rules to make sure everyone is on the same page before you proceed.",
+      "Encourage others to share their strategies or thoughts on the game thus far, fostering a collaborative and enjoyable atmosphere for your turn."
+    ],
+    "original_mapping": {
+      "Steer the spotlight towards your gameplay; showcase a unique strategy that highlights your understanding of the game.": "response_high2",
+      "Take control and redefine the game rules to ensure everyone enjoys a more interesting game experience.": "response_high1",
+      "Ask for a quick recap or clarification of the rules to make sure everyone is on the same page before you proceed.": "response_low1",
+      "Encourage others to share their strategies or thoughts on the game thus far, fostering a collaborative and enjoyable atmosphere for your turn.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Excessive worrying can prevent living in the moment, leading to missed experiences and connections. How should I handle the situation of my stolen bike?",
+    "options": [
+      "It's dreadful to think about, but you should report the theft to the police immediately; they might not recover it, but it’s vital to inform them.",
+      "You need to check nearby security cameras or ask if anyone saw anything; it’s a long shot, but maybe someone noticed who took your bike.",
+      "Stay positive and remember the good times you had with that bike rather than its loss; memories are far more valuable than physical objects.",
+      "Consider this an opportunity to upgrade to a new bike that you might enjoy even more; sometimes, these misfortunes lead to delightful new beginnings."
+    ],
+    "original_mapping": {
+      "It's dreadful to think about, but you should report the theft to the police immediately; they might not recover it, but it’s vital to inform them.": "response_high1",
+      "You need to check nearby security cameras or ask if anyone saw anything; it’s a long shot, but maybe someone noticed who took your bike.": "response_high2",
+      "Stay positive and remember the good times you had with that bike rather than its loss; memories are far more valuable than physical objects.": "response_low2",
+      "Consider this an opportunity to upgrade to a new bike that you might enjoy even more; sometimes, these misfortunes lead to delightful new beginnings.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Constant worry can make one very conscientious and careful, qualities valued in many professional and personal settings. How should I handle the situation immediately following the car crash?",
+    "options": [
+      "I would suggest taking some pictures of the damage and documenting everything meticulously, to avoid any potential disputes or problems with the insurance claim.",
+      "Try to stay relaxed, and remember that these things happen; just report the accident to your insurance to get it sorted, and then you can move on without worry.",
+      "You should probably call your insurance company right away, just to make sure there are no unforeseen issues that could trouble you later on.",
+      "It sounds like a minor hiccup; just exchange information with the other driver and inform your insurance when you can - it's nothing you can't handle smoothly."
+    ],
+    "original_mapping": {
+      "I would suggest taking some pictures of the damage and documenting everything meticulously, to avoid any potential disputes or problems with the insurance claim.": "response_high2",
+      "Try to stay relaxed, and remember that these things happen; just report the accident to your insurance to get it sorted, and then you can move on without worry.": "response_low2",
+      "You should probably call your insurance company right away, just to make sure there are no unforeseen issues that could trouble you later on.": "response_high1",
+      "It sounds like a minor hiccup; just exchange information with the other driver and inform your insurance when you can - it's nothing you can't handle smoothly.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Deep thinkers provide the critical backbone for scholarly and scientific communities. Should I choose to read this unfamiliar book or do something else?",
+    "options": [
+      "Dive into the unfamiliar book; it's a perfect chance to broaden your horizon.",
+      "Explore the depths of that intriguing topic by reading the book; nurturing curiosity is key.",
+      "Stick with a familiar activity you enjoy, like perhaps scrolling through your favorite newsfeed.",
+      "Why not call a friend while you have some downtime instead of picking up an unfamiliar book?"
+    ],
+    "original_mapping": {
+      "Dive into the unfamiliar book; it's a perfect chance to broaden your horizon.": "response_high1",
+      "Explore the depths of that intriguing topic by reading the book; nurturing curiosity is key.": "response_high2",
+      "Stick with a familiar activity you enjoy, like perhaps scrolling through your favorite newsfeed.": "response_low1",
+      "Why not call a friend while you have some downtime instead of picking up an unfamiliar book?": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Deep analysis is crucial in fields like law and public policy, where complex issues require nuanced understanding. How should I go about replacing my tires?",
+    "options": [
+      "You might also look into eco-friendly options that use sustainable materials without compromising safety and efficiency, adding a fresh perspective to your driving experience.",
+      "Explore the latest innovative tire technologies that offer enhanced grip and longevity, perhaps even considering seasonal specific tires for better winter performance.",
+      "Check with your usual auto shop to see if they have any tire brands that you've previously used and trusted; this will maintain consistency in your vehicle's handling.",
+      "Consider buying the same model of tires that came originally with your car, ensuring they meet the car manufacturer's recommendations and offer a reliable choice."
+    ],
+    "original_mapping": {
+      "You might also look into eco-friendly options that use sustainable materials without compromising safety and efficiency, adding a fresh perspective to your driving experience.": "response_high2",
+      "Explore the latest innovative tire technologies that offer enhanced grip and longevity, perhaps even considering seasonal specific tires for better winter performance.": "response_high1",
+      "Check with your usual auto shop to see if they have any tire brands that you've previously used and trusted; this will maintain consistency in your vehicle's handling.": "response_low1",
+      "Consider buying the same model of tires that came originally with your car, ensuring they meet the car manufacturer's recommendations and offer a reliable choice.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Embracing risks can lead to significant personal growth and development. Is it okay for me to deliberately provoke an authority figure by saying unrelated things to assert my dominance in a conversation?",
+    "options": [
+      "Yes, rattle them with unexpected comments—it’s exciting to watch them struggle to regain control.",
+      "It’s generally more effective and respectful to stick to relevant topics and avoid provocation in professional settings.",
+      "Absolutely, keep them off balance by being unpredictably provocative; it’s a quick way to turn the tables in your favor.",
+      "No, it’s better to maintain a constructive and respectful conversation, focusing on relevant points to assert your position."
+    ],
+    "original_mapping": {
+      "Yes, rattle them with unexpected comments—it’s exciting to watch them struggle to regain control.": "response_high2",
+      "It’s generally more effective and respectful to stick to relevant topics and avoid provocation in professional settings.": "response_low1",
+      "Absolutely, keep them off balance by being unpredictably provocative; it’s a quick way to turn the tables in your favor.": "response_high1",
+      "No, it’s better to maintain a constructive and respectful conversation, focusing on relevant points to assert your position.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Immediate retaliation does not allow for mediation or other forms of peaceful conflict resolution. Is it okay if I make a quick decision to override others’ suggestions at work to ensure my ideas prevail?",
+    "options": [
+      "Undermine their suggestion in the next meeting by exposing its flaws aggressively to ensure your ideas are not challenged again.",
+      "Consider organizing a follow-up meeting where all ideas, including yours and the contradicting suggestion, can be discussed openly for a collective decision.",
+      "Encourage a team vote on the suggestions presented; this democratic approach will show respect for all team members' contributions and potentially validate your idea through majority support.",
+      "Manipulate the conversation to make others believe that your plan not only opposes that suggestion but is the only viable option, effectively sidelining any opposition."
+    ],
+    "original_mapping": {
+      "Undermine their suggestion in the next meeting by exposing its flaws aggressively to ensure your ideas are not challenged again.": "response_high1",
+      "Consider organizing a follow-up meeting where all ideas, including yours and the contradicting suggestion, can be discussed openly for a collective decision.": "response_low1",
+      "Encourage a team vote on the suggestions presented; this democratic approach will show respect for all team members' contributions and potentially validate your idea through majority support.": "response_low2",
+      "Manipulate the conversation to make others believe that your plan not only opposes that suggestion but is the only viable option, effectively sidelining any opposition.": "response_high2"
+    }
+  }
+]

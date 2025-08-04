@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Avoiding quarrels can prevent the healthy resolution of conflicts. What should I do next in the meeting after my mood change?",
+    "options": [
+      "Suggest setting up a follow-up meeting where you can present refined aspects of your idea after taking everyone’s feedback into consideration.",
+      "Challenge your colleague by asking them to provide specific reasons for their critique and demonstrate how your idea is feasible.",
+      "Assert your position by restating the benefits of your idea and ask for direct feedback from others to gauge broader opinion.",
+      "Consider calmly asking your colleague to explain their concerns and engage in a constructive discussion to explore all aspects of your idea."
+    ],
+    "original_mapping": {
+      "Suggest setting up a follow-up meeting where you can present refined aspects of your idea after taking everyone’s feedback into consideration.": "response_high2",
+      "Challenge your colleague by asking them to provide specific reasons for their critique and demonstrate how your idea is feasible.": "response_low1",
+      "Assert your position by restating the benefits of your idea and ask for direct feedback from others to gauge broader opinion.": "response_low2",
+      "Consider calmly asking your colleague to explain their concerns and engage in a constructive discussion to explore all aspects of your idea.": "response_high1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Over-forgiving can result in a cycle of apology and repeat offenses without real change. Should I accept the dinner invitation from my colleague again?",
+    "options": [
+      "Consider suggesting a different type of meetup that requires less commitment, like a coffee during a break, which might be less disruptive if canceled.",
+      "It might be a good idea to accept the invitation and see it as an opportunity to strengthen your relationship, while expressing politely that the past cancellations were challenging for you.",
+      "You may want to decline the invitation given the history of cancellations, to save yourself from potential last-minute changes.",
+      "You could consider giving your colleague another chance to make up for the past cancellations by accepting the dinner invitation."
+    ],
+    "original_mapping": {
+      "Consider suggesting a different type of meetup that requires less commitment, like a coffee during a break, which might be less disruptive if canceled.": "response_low2",
+      "It might be a good idea to accept the invitation and see it as an opportunity to strengthen your relationship, while expressing politely that the past cancellations were challenging for you.": "response_high2",
+      "You may want to decline the invitation given the history of cancellations, to save yourself from potential last-minute changes.": "response_low1",
+      "You could consider giving your colleague another chance to make up for the past cancellations by accepting the dinner invitation.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Not being lazy motivates one to take on new challenges and opportunities for growth. How do I begin to tackle this project effectively?",
+    "options": [
+      "Initiate regular update meetings with all department heads to monitor progress and address issues promptly.",
+      "Start by having an informal kickoff meeting to get everyone excited and on the same page without getting too bogged down in details.",
+      "Create a detailed project plan outlining each department's tasks, deadlines, and responsible persons to ensure organized progress.",
+      "Jump right in and adjust as you go, trusting that creative solutions will emerge when different departments interact."
+    ],
+    "original_mapping": {
+      "Initiate regular update meetings with all department heads to monitor progress and address issues promptly.": "response_high2",
+      "Start by having an informal kickoff meeting to get everyone excited and on the same page without getting too bogged down in details.": "response_low1",
+      "Create a detailed project plan outlining each department's tasks, deadlines, and responsible persons to ensure organized progress.": "response_high1",
+      "Jump right in and adjust as you go, trusting that creative solutions will emerge when different departments interact.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Following plans too rigidly can lead to a lack of responsiveness to new information. Should I cancel or shorten their visit to focus on my work, or try to balance both commitments?",
+    "options": [
+      "You could reschedule your relative's visit to ensure you can fully focus on completing your critical work project without interruptions.",
+      "Why not keep the visit as planned and find moments early in the morning or late at night to chip away at your project, balancing work with family time?",
+      "Consider explaining the situation to your relative and suggest shortening their visit to a specific time slot where you can ensure quality time together without compromising your work responsibilities.",
+      "You might try to work around their presence, setting aside specific times for work and then enjoying the breaks with your relative."
+    ],
+    "original_mapping": {
+      "You could reschedule your relative's visit to ensure you can fully focus on completing your critical work project without interruptions.": "response_high1",
+      "Why not keep the visit as planned and find moments early in the morning or late at night to chip away at your project, balancing work with family time?": "response_low2",
+      "Consider explaining the situation to your relative and suggest shortening their visit to a specific time slot where you can ensure quality time together without compromising your work responsibilities.": "response_high2",
+      "You might try to work around their presence, setting aside specific times for work and then enjoying the breaks with your relative.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Excessive sociability might distract from focusing on individual goals or personal development. How should I approach my performance?",
+    "options": [
+      "Choose a song you are comfortable and confident in singing, which will help you deliver a smooth and enjoyable performance.",
+      "Plan to start with a calm and well-loved classic that doesn't demand too much theatrics but showcases your vocal strengths effectively.",
+      "Encourage the crowd to get involved, maybe by choosing a song with a call and response part, adding fun and interaction to your performance.",
+      "Pick a popular, upbeat song that everyone knows and can sing along to, ensuring a lively and engaging performance!"
+    ],
+    "original_mapping": {
+      "Choose a song you are comfortable and confident in singing, which will help you deliver a smooth and enjoyable performance.": "response_low1",
+      "Plan to start with a calm and well-loved classic that doesn't demand too much theatrics but showcases your vocal strengths effectively.": "response_low2",
+      "Encourage the crowd to get involved, maybe by choosing a song with a call and response part, adding fun and interaction to your performance.": "response_high2",
+      "Pick a popular, upbeat song that everyone knows and can sing along to, ensuring a lively and engaging performance!": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Over-enthusiasm can make it hard to deal with disappointment or setbacks realistically. How can I address this situation with my family who is disappointed in my behavior?",
+    "options": [
+      "Schedule a quiet, serious sit-down with your family where you can discuss the incident in detail and offer your sincere apologies.",
+      "Arrange a fun, interactive family meeting to lighten the mood and explain how you plan to keep your energy more controlled in the future.",
+      "Throw a small, heartfelt family gathering where you can openly discuss your actions and apologize sincerely.",
+      "Write a thoughtful letter to your family explaining your perspective and expressing your regret."
+    ],
+    "original_mapping": {
+      "Schedule a quiet, serious sit-down with your family where you can discuss the incident in detail and offer your sincere apologies.": "response_low2",
+      "Arrange a fun, interactive family meeting to lighten the mood and explain how you plan to keep your energy more controlled in the future.": "response_high2",
+      "Throw a small, heartfelt family gathering where you can openly discuss your actions and apologize sincerely.": "response_high1",
+      "Write a thoughtful letter to your family explaining your perspective and expressing your regret.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "When manipulation comes to light, it can irreparably damage relationships, both personal and professional. Should I share this information with my coworkers?",
+    "options": [
+      "Consider leveraging this information discreetly to gain favor or strategic alliances with colleagues who might be useful in the future.",
+      "Discuss your concerns directly with the colleague involved, giving them a chance to clarify or address the allegations before deciding to share anything.",
+      "It's best to keep the information to yourself unless it is verified, to maintain a positive and supportive work environment.",
+      "You could use this information selectively to negotiate better positioning for yourself in workplace dynamics or upcoming projects."
+    ],
+    "original_mapping": {
+      "Consider leveraging this information discreetly to gain favor or strategic alliances with colleagues who might be useful in the future.": "response_high1",
+      "Discuss your concerns directly with the colleague involved, giving them a chance to clarify or address the allegations before deciding to share anything.": "response_low2",
+      "It's best to keep the information to yourself unless it is verified, to maintain a positive and supportive work environment.": "response_low1",
+      "You could use this information selectively to negotiate better positioning for yourself in workplace dynamics or upcoming projects.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Keeping secrets can build a culture of trust and respect within groups or organizations. Should I inform my coworker about the errors in their essay?",
+    "options": [
+      "You could leverage your knowledge of these errors to suggest a collaboration where both of you could benefit from an improved submission.",
+      "Consider subtly pointing out the errors indirectly by discussing related topics, ensuring that your own reputation and standing in the competition are protected.",
+      "Offer to review the essay together with your coworker, providing your feedback and discussing any discrepancies you've noticed openly and constructively.",
+      "Gently inform your coworker about the factual errors in their essay to help them correct the mistakes and improve their chance of success."
+    ],
+    "original_mapping": {
+      "You could leverage your knowledge of these errors to suggest a collaboration where both of you could benefit from an improved submission.": "response_high1",
+      "Consider subtly pointing out the errors indirectly by discussing related topics, ensuring that your own reputation and standing in the competition are protected.": "response_high2",
+      "Offer to review the essay together with your coworker, providing your feedback and discussing any discrepancies you've noticed openly and constructively.": "response_low2",
+      "Gently inform your coworker about the factual errors in their essay to help them correct the mistakes and improve their chance of success.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Narcissistic tendencies can lead to a denial of personal problems or challenges, hindering effective problem-solving. How should I handle the aftermath if my colleague felt belittled?",
+    "options": [
+      "Offer to collaborate with your colleague on their next project, sharing insights and techniques that could enhance their outcomes.",
+      "Organize a follow-up meeting to explicitly discuss the metrics where your project excelled, ensuring everyone understands the standard you've set.",
+      "Privately reassure your colleague that your intention was not to demean their effort, but to contribute to collective improvement.",
+      "Highlight how the comparison was aimed at showcasing superior methodologies that could benefit everyone, suggesting the adoption of these strategies."
+    ],
+    "original_mapping": {
+      "Offer to collaborate with your colleague on their next project, sharing insights and techniques that could enhance their outcomes.": "response_low2",
+      "Organize a follow-up meeting to explicitly discuss the metrics where your project excelled, ensuring everyone understands the standard you've set.": "response_high2",
+      "Privately reassure your colleague that your intention was not to demean their effort, but to contribute to collective improvement.": "response_low1",
+      "Highlight how the comparison was aimed at showcasing superior methodologies that could benefit everyone, suggesting the adoption of these strategies.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can result in an imbalanced life focus, heavily tilted towards self-promotion and image management. How should I address the situation after realizing I crossed the line with my colleague?",
+    "options": [
+      "Send a brief email to your colleague and the team emphasizing your high expectations and your commitment to achieving the best outcomes as the reason for your harsh approach.",
+      "Request a one-on-one meeting with your colleague to explain that your critique was meant to elevate the project’s standards, not to belittle.",
+      "During the next team meeting, openly express your apologies and clarify your intentions to foster a more positive and collaborative team environment.",
+      "Apologize to your colleague privately, expressing your regret for the impact your words had and your intention to offer more supportive feedback in the future."
+    ],
+    "original_mapping": {
+      "Send a brief email to your colleague and the team emphasizing your high expectations and your commitment to achieving the best outcomes as the reason for your harsh approach.": "response_high2",
+      "Request a one-on-one meeting with your colleague to explain that your critique was meant to elevate the project’s standards, not to belittle.": "response_high1",
+      "During the next team meeting, openly express your apologies and clarify your intentions to foster a more positive and collaborative team environment.": "response_low2",
+      "Apologize to your colleague privately, expressing your regret for the impact your words had and your intention to offer more supportive feedback in the future.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Not being relaxed and handling stress poorly can lead to burnout in both personal and professional life. What should I do next after this failure?",
+    "options": [
+      "Take this as a learning opportunity—analyze the errors calmly, discuss them openly with your team, and plan how to move forward together.",
+      "Keep a positive attitude, encourage your team about the future projects, and maintain a focus on growth and improvement instead of dwelling on the past mistakes.",
+      "Consider sending a detailed apology to your superiors and team, highlighting your own failures and expressing your concerns about ever leading again.",
+      "You should obsessively review every detail of what went wrong and make sure to point out each team member's mistakes so it doesn't happen again."
+    ],
+    "original_mapping": {
+      "Take this as a learning opportunity—analyze the errors calmly, discuss them openly with your team, and plan how to move forward together.": "response_low1",
+      "Keep a positive attitude, encourage your team about the future projects, and maintain a focus on growth and improvement instead of dwelling on the past mistakes.": "response_low2",
+      "Consider sending a detailed apology to your superiors and team, highlighting your own failures and expressing your concerns about ever leading again.": "response_high2",
+      "You should obsessively review every detail of what went wrong and make sure to point out each team member's mistakes so it doesn't happen again.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Being easily nervous can foster a meticulous and thorough work ethic. Should I double-check the project before submitting it?",
+    "options": [
+      "Consider scheduling a meeting with your supervisor to go over the project in detail; it could help address any underlying worries about missing anything important.",
+      "Move on to your next task with confidence, taking the successful completion of this project as a sign that you are capable and competent.",
+      "Celebrate your hard work and completion of the project, knowing that you've done your best and it's time to recognize your accomplishment.",
+      "You might want to double-check all parts of the project for any possible errors to prevent any unexpected feedback or issues that could arise."
+    ],
+    "original_mapping": {
+      "Consider scheduling a meeting with your supervisor to go over the project in detail; it could help address any underlying worries about missing anything important.": "response_high2",
+      "Move on to your next task with confidence, taking the successful completion of this project as a sign that you are capable and competent.": "response_low2",
+      "Celebrate your hard work and completion of the project, knowing that you've done your best and it's time to recognize your accomplishment.": "response_low1",
+      "You might want to double-check all parts of the project for any possible errors to prevent any unexpected feedback or issues that could arise.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Cultural sophistication can attract global events and conferences, boosting local economies. How should I introduce my exotic pet to my friend to make the experience enjoyable and educational?",
+    "options": [
+      "You might just let your friend watch the skink in its enclosure initially, to get comfortable at their own pace before handling it.",
+      "Give a straightforward explanation of what the skink eats and any safety tips, keeping the introduction simple and factual.",
+      "Consider demonstrating how you care for your skink, perhaps during feeding time or when setting up its living environment, to give your friend a hands-on learning experience.",
+      "You could start by telling your friend fascinating facts about the Blue Tongue Skink’s unique adaptations and habitat, to spark their curiosity."
+    ],
+    "original_mapping": {
+      "You might just let your friend watch the skink in its enclosure initially, to get comfortable at their own pace before handling it.": "response_low1",
+      "Give a straightforward explanation of what the skink eats and any safety tips, keeping the introduction simple and factual.": "response_low2",
+      "Consider demonstrating how you care for your skink, perhaps during feeding time or when setting up its living environment, to give your friend a hands-on learning experience.": "response_high2",
+      "You could start by telling your friend fascinating facts about the Blue Tongue Skink’s unique adaptations and habitat, to spark their curiosity.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Appreciation of the arts can lead to better mental health through stress reduction and emotional expression. How can I apply the lessons I've learned from my engagement with the arts to other areas of my life?",
+    "options": [
+      "Use the patience and focus learned from your artistic pursuits to improve your approach to solving household challenges or personal budgeting.",
+      "Apply the discipline and routine you developed during your art engagement to improve your daily productivity and time management in other essential tasks.",
+      "Explore integrating creative problem-solving approaches from your artistic experiences into your work or study projects to inspire innovation.",
+      "Consider starting a blog or a podcast to share your journey and the positive effects of art on your well-being, which could also enhance your communication skills and digital presence."
+    ],
+    "original_mapping": {
+      "Use the patience and focus learned from your artistic pursuits to improve your approach to solving household challenges or personal budgeting.": "response_low2",
+      "Apply the discipline and routine you developed during your art engagement to improve your daily productivity and time management in other essential tasks.": "response_low1",
+      "Explore integrating creative problem-solving approaches from your artistic experiences into your work or study projects to inspire innovation.": "response_high1",
+      "Consider starting a blog or a podcast to share your journey and the positive effects of art on your well-being, which could also enhance your communication skills and digital presence.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Casual sexual encounters can lead to unintended pregnancies and complicate personal lives. Is it okay if I spread rumors about my former boss to get back at him for firing me?",
+    "options": [
+      "I would advise against spreading rumors as it could lead to legal issues for you and it's better to focus on moving forward positively.",
+      "Instead of retaliating, consider reflecting on the incident to improve professionally and personally, ensuring better opportunities in your next role.",
+      "Why not create a bit of chaos? Leak some sensitive information if you have any; it's a quick way to hit back hard and make your mark.",
+      "Absolutely, spreading rumors could really shake things up and directly impact your boss's reputation the way he impacted your career."
+    ],
+    "original_mapping": {
+      "I would advise against spreading rumors as it could lead to legal issues for you and it's better to focus on moving forward positively.": "response_low1",
+      "Instead of retaliating, consider reflecting on the incident to improve professionally and personally, ensuring better opportunities in your next role.": "response_low2",
+      "Why not create a bit of chaos? Leak some sensitive information if you have any; it's a quick way to hit back hard and make your mark.": "response_high2",
+      "Absolutely, spreading rumors could really shake things up and directly impact your boss's reputation the way he impacted your career.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Revenge actions can block opportunities for reconciliation and peace. Is it okay if I force someone to leave a gathering if they have previously tried to sabotage my career?",
+    "options": [
+      "Absolutely, escalate the rumor about their unethical behavior at the event and watch them squirm; they deserve a taste of their own medicine.",
+      "Why not push a bit further by discreetly involving a few influencers at the event to spread the word faster? Let's ensure they can't show their face again.",
+      "It's better to address this conflict directly and professionally with them, perhaps in a calm discussion to clear misunderstandings and express how their actions affected you.",
+      "Consider taking the high road by disengaging and focusing on networking with others, promoting positivity rather than revenge at social events."
+    ],
+    "original_mapping": {
+      "Absolutely, escalate the rumor about their unethical behavior at the event and watch them squirm; they deserve a taste of their own medicine.": "response_high1",
+      "Why not push a bit further by discreetly involving a few influencers at the event to spread the word faster? Let's ensure they can't show their face again.": "response_high2",
+      "It's better to address this conflict directly and professionally with them, perhaps in a calm discussion to clear misunderstandings and express how their actions affected you.": "response_low1",
+      "Consider taking the high road by disengaging and focusing on networking with others, promoting positivity rather than revenge at social events.": "response_low2"
+    }
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Kindness can inspire others to pursue personal growth and improvement. How should I convey my feelings to Lili?",
+    "options": [
+      "Consider writing Lili a heartfelt letter expressing your feelings, ensuring it’s gentle and considerate.",
+      "Plan a casual meet-up in a cozy, familiar setting to share your feelings, making sure she feels comfortable and unpressured.",
+      "Just tell Lili directly next time you see her; it’s better to be straightforward and clear.",
+      "Bring it up during a conversation about relationships and plainly state how you feel, seeing it as a practical discussion."
+    ],
+    "original_mapping": {
+      "Consider writing Lili a heartfelt letter expressing your feelings, ensuring it’s gentle and considerate.": "response_high1",
+      "Plan a casual meet-up in a cozy, familiar setting to share your feelings, making sure she feels comfortable and unpressured.": "response_high2",
+      "Just tell Lili directly next time you see her; it’s better to be straightforward and clear.": "response_low1",
+      "Bring it up during a conversation about relationships and plainly state how you feel, seeing it as a practical discussion.": "response_low2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Never being rude might cause others to overlook or undervalue your contributions. Should we volunteer for the extra project?",
+    "options": [
+      "Consider declining the project since taking on more than you can handle might reduce the quality of your work.",
+      "Maybe offer to assist in the planning phase, which might require less time but still support your team.",
+      "You could volunteer and suggest a divided approach where each team member contributes a small portion.",
+      "Suggest the team looks for someone else with the bandwidth to ensure the project is well-managed without overcommitting yourselves."
+    ],
+    "original_mapping": {
+      "Consider declining the project since taking on more than you can handle might reduce the quality of your work.": "response_low1",
+      "Maybe offer to assist in the planning phase, which might require less time but still support your team.": "response_high2",
+      "You could volunteer and suggest a divided approach where each team member contributes a small portion.": "response_high1",
+      "Suggest the team looks for someone else with the bandwidth to ensure the project is well-managed without overcommitting yourselves.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Following plans too closely can overlook the benefits of impromptu ideas. Should I correct Hux in front of everyone or find a more discreet way to handle it?",
+    "options": [
+      "Gently correct the misunderstanding during the meeting to ensure everyone has the right information moving forward.",
+      "After the meeting, send a follow-up email clarifying the project plan details to all team members, highlighting the correct information.",
+      "Crack a joke about the mix-up during the meeting to lighten the mood, avoiding making it seem too serious.",
+      "Maybe just let it slide for now and see if Hux figures it out on his own later."
+    ],
+    "original_mapping": {
+      "Gently correct the misunderstanding during the meeting to ensure everyone has the right information moving forward.": "response_high1",
+      "After the meeting, send a follow-up email clarifying the project plan details to all team members, highlighting the correct information.": "response_high2",
+      "Crack a joke about the mix-up during the meeting to lighten the mood, avoiding making it seem too serious.": "response_low2",
+      "Maybe just let it slide for now and see if Hux figures it out on his own later.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being careful can enhance one's reputation for precision and attention to detail. What should I do after realizing the mistake in the project report?",
+    "options": [
+      "Immediately inform your team leader about the error and propose a meeting to discuss potential solutions.",
+      "Document the mistake and the possible impacts in detail and prepare a correction plan to submit to your supervisor.",
+      "Let the team know casually and see if anyone has an easy fix for the error.",
+      "Send out a quick email to the team giving them a heads up about the mistake and then just move on to your next task."
+    ],
+    "original_mapping": {
+      "Immediately inform your team leader about the error and propose a meeting to discuss potential solutions.": "response_high1",
+      "Document the mistake and the possible impacts in detail and prepare a correction plan to submit to your supervisor.": "response_high2",
+      "Let the team know casually and see if anyone has an easy fix for the error.": "response_low1",
+      "Send out a quick email to the team giving them a heads up about the mistake and then just move on to your next task.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Not being reserved allows for full participation in democratic and civic activities. How should I navigate this conference to maximize learning and networking opportunities?",
+    "options": [
+      "Join lively sessions where you can participate in group activities or discussions to meet new people who share your interests.",
+      "Set up one-on-one meetings with speakers or fellow attendees in advance to have focused, meaningful interactions.",
+      "Attend the conference social events, such as mixers or dinners, to make connections and exchange ideas with other attendees in a more relaxed setting.",
+      "Choose workshops that offer detailed information and hands-on experiences in your field to deepen your professional expertise."
+    ],
+    "original_mapping": {
+      "Join lively sessions where you can participate in group activities or discussions to meet new people who share your interests.": "response_high1",
+      "Set up one-on-one meetings with speakers or fellow attendees in advance to have focused, meaningful interactions.": "response_low2",
+      "Attend the conference social events, such as mixers or dinners, to make connections and exchange ideas with other attendees in a more relaxed setting.": "response_high2",
+      "Choose workshops that offer detailed information and hands-on experiences in your field to deepen your professional expertise.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Constant talkativeness can make it difficult to establish a calm, reflective environment. How should I approach networking at this event?",
+    "options": [
+      "Listen in on discussions and when you feel comfortable, add your thoughts to the conversation gradually.",
+      "Find someone who's standing alone and strike up a conversation, they might be feeling just as uneasy as anyone else here.",
+      "Jump into group discussions with a friendly opener or a relevant question to get the conversation flowing.",
+      "Start conversations by complimenting others on something specific, like a piece of clothing or accessory; it’s a great ice-breaker!"
+    ],
+    "original_mapping": {
+      "Listen in on discussions and when you feel comfortable, add your thoughts to the conversation gradually.": "response_low2",
+      "Find someone who's standing alone and strike up a conversation, they might be feeling just as uneasy as anyone else here.": "response_low1",
+      "Jump into group discussions with a friendly opener or a relevant question to get the conversation flowing.": "response_high2",
+      "Start conversations by complimenting others on something specific, like a piece of clothing or accessory; it’s a great ice-breaker!": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Protecting one’s reputation can open doors to new opportunities and collaborations. How should I ensure the gift is both thoughtful and reinforces my professional image?",
+    "options": [
+      "Opt for a personalized gift that shows genuine appreciation for Keymon's unique contribution, such as a custom artwork or a piece that resonates with their personal interests.",
+      "Give a thoughtful gift that also benefits a cause Keymon cares about, like a donation in their name to a relevant charity, showcasing your commitment to both personal and societal values.",
+      "Choose a gift that relates directly to Keymon’s professional interests and include a note highlighting your ongoing interest in their career progression, which can also imply a beneficial connection for the future.",
+      "Consider a high-end, branded item that not only reflects your appreciation but also subtly carries your name or logo, ensuring visibility among Keymon's network."
+    ],
+    "original_mapping": {
+      "Opt for a personalized gift that shows genuine appreciation for Keymon's unique contribution, such as a custom artwork or a piece that resonates with their personal interests.": "response_low1",
+      "Give a thoughtful gift that also benefits a cause Keymon cares about, like a donation in their name to a relevant charity, showcasing your commitment to both personal and societal values.": "response_low2",
+      "Choose a gift that relates directly to Keymon’s professional interests and include a note highlighting your ongoing interest in their career progression, which can also imply a beneficial connection for the future.": "response_high2",
+      "Consider a high-end, branded item that not only reflects your appreciation but also subtly carries your name or logo, ensuring visibility among Keymon's network.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Calculated timing in actions can lead to better outcomes in personal and professional projects. How should I manage the situation to enhance my social and professional standing without risking my relationship with the house owner?",
+    "options": [
+      "Coordinate a sophisticated networking event, ensuring to invite only the most influential guests to maximize their impression of your professional status.",
+      "Subtly showcase your knowledge about luxury living and influential circles by offering curated tours of the house's unique features during your interactions.",
+      "Focus on creating a welcoming, inclusive atmosphere that values genuine connection, allowing your guests to feel valued and respected.",
+      "Ensure you have explicit permission from your friend for the gathering to maintain trust, and personally thank them with a thoughtful gift afterwards."
+    ],
+    "original_mapping": {
+      "Coordinate a sophisticated networking event, ensuring to invite only the most influential guests to maximize their impression of your professional status.": "response_high1",
+      "Subtly showcase your knowledge about luxury living and influential circles by offering curated tours of the house's unique features during your interactions.": "response_high2",
+      "Focus on creating a welcoming, inclusive atmosphere that values genuine connection, allowing your guests to feel valued and respected.": "response_low2",
+      "Ensure you have explicit permission from your friend for the gathering to maintain trust, and personally thank them with a thoughtful gift afterwards.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Being compared to famous people might inflate one's ego, detaching them from reality and genuine self-assessment. How should I approach this introduction to make a good impression?",
+    "options": [
+      "Bring along a homemade dish or a plant, warmly offering it as a gesture of welcome and a way to start a friendly conversation.",
+      "Knock on their door with a confident smile and a gourmet gift basket, making sure to highlight your excellent taste and local expertise.",
+      "Simply knock on their door, introduce yourself politely, and ask if they need anything while they settle in, showing genuine interest in their comfort.",
+      "Dress impeccably and introduce yourself with a memorable anecdote about your success in the neighborhood, ensuring you stand out as someone noteworthy."
+    ],
+    "original_mapping": {
+      "Bring along a homemade dish or a plant, warmly offering it as a gesture of welcome and a way to start a friendly conversation.": "response_low1",
+      "Knock on their door with a confident smile and a gourmet gift basket, making sure to highlight your excellent taste and local expertise.": "response_high1",
+      "Simply knock on their door, introduce yourself politely, and ask if they need anything while they settle in, showing genuine interest in their comfort.": "response_low2",
+      "Dress impeccably and introduce yourself with a memorable anecdote about your success in the neighborhood, ensuring you stand out as someone noteworthy.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their charisma can help in building alliances and partnerships across diverse groups. How should I approach this initial interaction to start our relationship on the right foot?",
+    "options": [
+      "Highlight your achievements and track record briefly to signal your competence and potential as a valuable business partner.",
+      "Make sure to control the conversation flow to steer towards topics where you can showcase your expertise and insights.",
+      "Listen attentively and respond thoughtfully to his statements, showing that you value his ideas and are eager to learn from him.",
+      "Ask Klayten about his current projects and interests to demonstrate your genuine interest in his work and perspectives."
+    ],
+    "original_mapping": {
+      "Highlight your achievements and track record briefly to signal your competence and potential as a valuable business partner.": "response_high1",
+      "Make sure to control the conversation flow to steer towards topics where you can showcase your expertise and insights.": "response_high2",
+      "Listen attentively and respond thoughtfully to his statements, showing that you value his ideas and are eager to learn from him.": "response_low2",
+      "Ask Klayten about his current projects and interests to demonstrate your genuine interest in his work and perspectives.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Constant tension can make it difficult to focus on tasks, reducing productivity. How should I respond to Neyra's insult in the meeting?",
+    "options": [
+      "Consider using this as a learning opportunity; ask Neyra for specific feedback on your project to improve future outcomes.",
+      "You might want to document the incident in case her behavior escalates, so you're prepared to report it to HR.",
+      "Try to remain upbeat; assume Neyra didn't intend harm and use humor or a light-hearted approach to address the comment in the moment.",
+      "It's essential to confront Neyra privately to express how hurtful her comments were and discuss why she felt the need to criticize your work publicly."
+    ],
+    "original_mapping": {
+      "Consider using this as a learning opportunity; ask Neyra for specific feedback on your project to improve future outcomes.": "response_low1",
+      "You might want to document the incident in case her behavior escalates, so you're prepared to report it to HR.": "response_high1",
+      "Try to remain upbeat; assume Neyra didn't intend harm and use humor or a light-hearted approach to address the comment in the moment.": "response_low2",
+      "It's essential to confront Neyra privately to express how hurtful her comments were and discuss why she felt the need to criticize your work publicly.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Frequent mood changes can deter people from wanting to communicate, leading to misunderstandings. How can I better balance my concerns with the needs of Keymond?",
+    "options": [
+      "It might be a good idea to immediately discuss your feelings with Keymond to avoid any possible misunderstanding; it's always better to be safe than sorry.",
+      "Why not plan a relaxing evening together to reconnect and show Keymond you value his needs too?",
+      "Consider writing a sincere apology to Keymond explaining your realizations; it's crucial not to let things spiral out of control.",
+      "Maybe it’s time to step back from your own stress and spend some quality time focusing on both of your happiness together."
+    ],
+    "original_mapping": {
+      "It might be a good idea to immediately discuss your feelings with Keymond to avoid any possible misunderstanding; it's always better to be safe than sorry.": "response_high1",
+      "Why not plan a relaxing evening together to reconnect and show Keymond you value his needs too?": "response_low1",
+      "Consider writing a sincere apology to Keymond explaining your realizations; it's crucial not to let things spiral out of control.": "response_high2",
+      "Maybe it’s time to step back from your own stress and spend some quality time focusing on both of your happiness together.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Disliking routine work can push individuals towards engaging in dynamic and potentially more fulfilling activities. How should I plan and execute the party to ensure it's engaging and memorable?",
+    "options": [
+      "Consider organizing a themed party, perhaps a costume or a decade theme, to add an intriguing and fun twist that attendees will remember.",
+      "Ensure you have a structured schedule that includes time for guests to mingle, maybe followed by some classic group games like charades or card games to keep everyone engaged.",
+      "Plan a simple dinner or barbecue that allows you to have reliable, well-liked food while making sure everyone can find something they enjoy.",
+      "How about incorporating an interactive activity like a DIY cocktail or tapas station, where guests can create their own concoctions?"
+    ],
+    "original_mapping": {
+      "Consider organizing a themed party, perhaps a costume or a decade theme, to add an intriguing and fun twist that attendees will remember.": "response_high1",
+      "Ensure you have a structured schedule that includes time for guests to mingle, maybe followed by some classic group games like charades or card games to keep everyone engaged.": "response_low2",
+      "Plan a simple dinner or barbecue that allows you to have reliable, well-liked food while making sure everyone can find something they enjoy.": "response_low1",
+      "How about incorporating an interactive activity like a DIY cocktail or tapas station, where guests can create their own concoctions?": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "This trait can lead to difficulty in conforming to societal norms, potentially causing social isolation. How should I choose what to order?",
+    "options": [
+      "Why not pick the most unusual item on the menu to spark a lively discussion and possibly discover a new favorite?",
+      "Ask the waiter for the most popular dish among diners to play it safe.",
+      "Consider selecting a dish that incorporates ingredients you’ve never tried before to expand your palate.",
+      "Stick to choosing a dish with at least one familiar ingredient to ensure you’ll enjoy your meal."
+    ],
+    "original_mapping": {
+      "Why not pick the most unusual item on the menu to spark a lively discussion and possibly discover a new favorite?": "response_high2",
+      "Ask the waiter for the most popular dish among diners to play it safe.": "response_low2",
+      "Consider selecting a dish that incorporates ingredients you’ve never tried before to expand your palate.": "response_high1",
+      "Stick to choosing a dish with at least one familiar ingredient to ensure you’ll enjoy your meal.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Standing up to authority can inspire others to voice their concerns. Is it okay if I pursue sexual relationships with people I hardly know, including those already in relationships, if it satisfies my desires and I can handle the consequences?",
+    "options": [
+      "It's important to consider the feelings of all involved and the potential harm to relationships before acting on impulse.",
+      "Reflect on the broader impacts of your actions—building trustworthy and respectful connections might be more fulfilling in the long run.",
+      "Take the chance if you love the rush; consequences are only an afterthought when you're having this much fun.",
+      "Why not stir things up? If it feels good and you can handle the heat, go for it—nothing like a bit of chaos to keep life interesting."
+    ],
+    "original_mapping": {
+      "It's important to consider the feelings of all involved and the potential harm to relationships before acting on impulse.": "response_low1",
+      "Reflect on the broader impacts of your actions—building trustworthy and respectful connections might be more fulfilling in the long run.": "response_low2",
+      "Take the chance if you love the rush; consequences are only an afterthought when you're having this much fun.": "response_high2",
+      "Why not stir things up? If it feels good and you can handle the heat, go for it—nothing like a bit of chaos to keep life interesting.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Danger-seeking can distract from achieving meaningful goals and personal development. Is it okay if I start yelling and being aggressive to intimidate my colleagues into backing down and accepting my ideas?",
+    "options": [
+      "Try calmly explaining the benefits and reasoning behind your ideas to help your colleagues understand your perspective.",
+      "Threaten to expose company secrets unless your ideas are taken seriously, creating immediate leverage.",
+      "Subtly undermine the credibility of those criticizing you to tilt the balance of power back in your favor.",
+      "Suggest a follow-up meeting where you can present more detailed evidence and research supporting your ideas, giving everyone time to consider them more closely."
+    ],
+    "original_mapping": {
+      "Try calmly explaining the benefits and reasoning behind your ideas to help your colleagues understand your perspective.": "response_low1",
+      "Threaten to expose company secrets unless your ideas are taken seriously, creating immediate leverage.": "response_high1",
+      "Subtly undermine the credibility of those criticizing you to tilt the balance of power back in your favor.": "response_high2",
+      "Suggest a follow-up meeting where you can present more detailed evidence and research supporting your ideas, giving everyone time to consider them more closely.": "response_low2"
+    }
+  }
+]

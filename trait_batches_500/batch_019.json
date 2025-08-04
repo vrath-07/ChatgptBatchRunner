@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Always cooperating can stifle personal growth and the development of a strong, independent identity. Should I stick to my diet or join my friends for the weekend?",
+    "options": [
+      "You could join your friends and choose the healthiest options available at the restaurants, so you still participate without breaking your diet.",
+      "Stick to your diet as planned; your health goals are more important than a weekend of indulgence.",
+      "Tell your friends you're committed to your diet and opt-out of the weekend plans; maintaining your discipline should be your priority.",
+      "Perhaps you can suggest one meal at a restaurant that offers healthier food options, so you can enjoy both your diet and time with your friends."
+    ],
+    "original_mapping": {
+      "You could join your friends and choose the healthiest options available at the restaurants, so you still participate without breaking your diet.": "response_high1",
+      "Stick to your diet as planned; your health goals are more important than a weekend of indulgence.": "response_low1",
+      "Tell your friends you're committed to your diet and opt-out of the weekend plans; maintaining your discipline should be your priority.": "response_low2",
+      "Perhaps you can suggest one meal at a restaurant that offers healthier food options, so you can enjoy both your diet and time with your friends.": "response_high2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Constant helpfulness can blur the lines between personal and professional life, leading to complications. Should I bring up my new project idea during this meeting?",
+    "options": [
+      "State your idea confidently during the meeting; innovative thoughts should not be sidelined by rigid agendas.",
+      "You could wait until the end of the meeting and politely ask if you could share an idea for future discussions.",
+      "Perhaps, consider scheduling a separate meeting specifically dedicated to discussing innovative project ideas where yours can be thoroughly evaluated.",
+      "Just bring it up; if it's a good idea, it's worth interrupting the agenda."
+    ],
+    "original_mapping": {
+      "State your idea confidently during the meeting; innovative thoughts should not be sidelined by rigid agendas.": "response_low2",
+      "You could wait until the end of the meeting and politely ask if you could share an idea for future discussions.": "response_high1",
+      "Perhaps, consider scheduling a separate meeting specifically dedicated to discussing innovative project ideas where yours can be thoroughly evaluated.": "response_high2",
+      "Just bring it up; if it's a good idea, it's worth interrupting the agenda.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Following plans rigidly can stifle spontaneity and personal growth. Should I attend the graduation ceremony?",
+    "options": [
+      "See if you can attend just the key part of the ceremony and balance both commitments.",
+      "Consider asking for an extension on your work deadline to ensure you can attend the graduation responsibly.",
+      "Prioritize completing crucial work tasks early, so you might find a window to attend the graduation ceremony.",
+      "Why not join the celebration later and catch up with everyone post-event, combining fun and duties effectively?"
+    ],
+    "original_mapping": {
+      "See if you can attend just the key part of the ceremony and balance both commitments.": "response_low1",
+      "Consider asking for an extension on your work deadline to ensure you can attend the graduation responsibly.": "response_high1",
+      "Prioritize completing crucial work tasks early, so you might find a window to attend the graduation ceremony.": "response_high2",
+      "Why not join the celebration later and catch up with everyone post-event, combining fun and duties effectively?": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Perseverance can lead to breakthroughs in challenging research and development projects. How should I approach this research task to ensure the report is thorough and delivered on time?",
+    "options": [
+      "Ask some colleagues if they know any good sources or if they can chip in; it makes the task more fun and less formal.",
+      "Utilize a data scraping tool to efficiently gather the needed information from the websites, ensuring accuracy and saving time.",
+      "Create a detailed schedule breaking down your research tasks by day, ensuring you allocate time for data collection, analysis, and report writing.",
+      "Just start browsing the related websites randomly and collect whatever data pops up first; it might give you some unexpected insights."
+    ],
+    "original_mapping": {
+      "Ask some colleagues if they know any good sources or if they can chip in; it makes the task more fun and less formal.": "response_low2",
+      "Utilize a data scraping tool to efficiently gather the needed information from the websites, ensuring accuracy and saving time.": "response_high2",
+      "Create a detailed schedule breaking down your research tasks by day, ensuring you allocate time for data collection, analysis, and report writing.": "response_high1",
+      "Just start browsing the related websites randomly and collect whatever data pops up first; it might give you some unexpected insights.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Never being quiet can lead to a constant state of noise, which can be stressful and unproductive. How should I manage my evenings to improve my productivity?",
+    "options": [
+      "Allocate specific time blocks for work and ensure you have a quiet hour before sleep to engage in calming activities like reading.",
+      "Create a personal routine that focuses on solitary, soothing activities in the late evening, such as meditation or listening to calm music, to help transition into sleep.",
+      "Try setting a fun and strict deadline for ending work and starting a relaxation routine involving light social interactions like a brief online game with friends.",
+      "Schedule group activities or engaging social gatherings earlier in the evening, allowing time to unwind before bed."
+    ],
+    "original_mapping": {
+      "Allocate specific time blocks for work and ensure you have a quiet hour before sleep to engage in calming activities like reading.": "response_low1",
+      "Create a personal routine that focuses on solitary, soothing activities in the late evening, such as meditation or listening to calm music, to help transition into sleep.": "response_low2",
+      "Try setting a fun and strict deadline for ending work and starting a relaxation routine involving light social interactions like a brief online game with friends.": "response_high2",
+      "Schedule group activities or engaging social gatherings earlier in the evening, allowing time to unwind before bed.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Not being reserved helps in confronting and resolving conflicts directly. How should I introduce my management style to the team?",
+    "options": [
+      "Organize an enthusiastic team meeting to introduce yourself and openly share your vision and management style, inviting everyone to ask questions and give feedback.",
+      "Write a detailed email to the team outlining your management approach and expectations, and invite them to share their thoughts via email or a scheduled private conversation.",
+      "Schedule one-on-one meetings with each team member to introduce your management style in a more personal, focused setting, allowing space for any questions or concerns.",
+      "Host a team-building event to engage everyone in fun activities, where you can informally introduce your management style through interactive discussions and games."
+    ],
+    "original_mapping": {
+      "Organize an enthusiastic team meeting to introduce yourself and openly share your vision and management style, inviting everyone to ask questions and give feedback.": "response_high2",
+      "Write a detailed email to the team outlining your management approach and expectations, and invite them to share their thoughts via email or a scheduled private conversation.": "response_low2",
+      "Schedule one-on-one meetings with each team member to introduce your management style in a more personal, focused setting, allowing space for any questions or concerns.": "response_low1",
+      "Host a team-building event to engage everyone in fun activities, where you can informally introduce your management style through interactive discussions and games.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Keeping secrets can build a culture of trust and respect within groups or organizations. Should I expose my competitor's mistake to ensure my victory?",
+    "options": [
+      "Focus on elevating your own performance and contributions prominently, thereby making the best case for your promotion through positive achievements.",
+      "You could strategically bring up the topic during a meeting where it's relevant, ensuring it highlights your comparative reliability.",
+      "Consider discussing the mistake directly with your competitor, giving them a chance to rectify it before taking any further steps.",
+      "Document the mistake and discreetly share it with your manager to demonstrate your attention to detail and commitment to the company’s standards."
+    ],
+    "original_mapping": {
+      "Focus on elevating your own performance and contributions prominently, thereby making the best case for your promotion through positive achievements.": "response_low2",
+      "You could strategically bring up the topic during a meeting where it's relevant, ensuring it highlights your comparative reliability.": "response_high2",
+      "Consider discussing the mistake directly with your competitor, giving them a chance to rectify it before taking any further steps.": "response_low1",
+      "Document the mistake and discreetly share it with your manager to demonstrate your attention to detail and commitment to the company’s standards.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Manipulative tactics can lead to a cycle of manipulation, where others feel compelled to respond in kind. Should I report the fraudulent activities?",
+    "options": [
+      "If you're feeling the risk is too high, perhaps subtly hint to a superior you trust about your concerns, positioning it as looking out for the company's health without making direct accusations.",
+      "You should report the fraudulent activities to an external regulatory body to ensure the issue is addressed without putting your position directly at risk.",
+      "Speak up, but ensure your own safety and job security first by seeking advice from a legal professional on how to proceed without retaliation.",
+      "Consider documenting the activities covertly and gather enough evidence, which could be leveraged for your benefit if the situation escalates."
+    ],
+    "original_mapping": {
+      "If you're feeling the risk is too high, perhaps subtly hint to a superior you trust about your concerns, positioning it as looking out for the company's health without making direct accusations.": "response_high2",
+      "You should report the fraudulent activities to an external regulatory body to ensure the issue is addressed without putting your position directly at risk.": "response_low1",
+      "Speak up, but ensure your own safety and job security first by seeking advice from a legal professional on how to proceed without retaliation.": "response_low2",
+      "Consider documenting the activities covertly and gather enough evidence, which could be leveraged for your benefit if the situation escalates.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their leadership can foster a sense of purpose and direction in teams and organizations. How should I handle this question about Domynick's gender during the panel discussion?",
+    "options": [
+      "Assert that your team values skills and performance above all, and that Domynick’s gender is irrelevant to their role and your hiring decision.",
+      "Suggest they focus on the qualifications and the unique perspectives Domynick brings to the team, rather than personal attributes that do not impact their professional contribution.",
+      "Encourage an understanding of privacy and respect by stating that discussing an individual’s gender is not pertinent to the value they add to the team and company.",
+      "Politely redirect the conversation to how inclusive hiring practices contribute to a balanced and diverse workplace, emphasizing on skillset over personal characteristics."
+    ],
+    "original_mapping": {
+      "Assert that your team values skills and performance above all, and that Domynick’s gender is irrelevant to their role and your hiring decision.": "response_high1",
+      "Suggest they focus on the qualifications and the unique perspectives Domynick brings to the team, rather than personal attributes that do not impact their professional contribution.": "response_high2",
+      "Encourage an understanding of privacy and respect by stating that discussing an individual’s gender is not pertinent to the value they add to the team and company.": "response_low2",
+      "Politely redirect the conversation to how inclusive hiring practices contribute to a balanced and diverse workplace, emphasizing on skillset over personal characteristics.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their appreciation for compliments can make them receptive to constructive criticism and diverse viewpoints. How should I introduce myself and express interest in the project?",
+    "options": [
+      "Politely introduce yourself, ask insightful questions about the project to show genuine interest, and mention how you’d love to contribute.",
+      "Approach confidently, mention your extensive experience, and make it clear how your involvement could benefit the outcome of their project.",
+      "Introduce yourself as someone key in this field and suggest a unique angle or solution for the project that only you can offer.",
+      "Express enthusiasm about the project topic, briefly share your relevant skills, and ask for more details or how you could help."
+    ],
+    "original_mapping": {
+      "Politely introduce yourself, ask insightful questions about the project to show genuine interest, and mention how you’d love to contribute.": "response_low1",
+      "Approach confidently, mention your extensive experience, and make it clear how your involvement could benefit the outcome of their project.": "response_high1",
+      "Introduce yourself as someone key in this field and suggest a unique angle or solution for the project that only you can offer.": "response_high2",
+      "Express enthusiasm about the project topic, briefly share your relevant skills, and ask for more details or how you could help.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Tension can make it difficult to maintain friendships, as people may feel drained after interactions. How should I handle my anxiety as the presentation day approaches?",
+    "options": [
+      "Focus on practicing your presentation multiple times; this could increase your confidence and reduce your anxiety.",
+      "You might want to prepare for all possible scenarios that could go wrong during the presentation to avoid unexpected surprises.",
+      "Consider scheduling an appointment with a therapist to discuss your anxiety, as it seems to be significantly impacting your daily life.",
+      "Remember that feeling a bit nervous is natural, but try to channel that energy into delivering an engaging and effective presentation."
+    ],
+    "original_mapping": {
+      "Focus on practicing your presentation multiple times; this could increase your confidence and reduce your anxiety.": "response_low1",
+      "You might want to prepare for all possible scenarios that could go wrong during the presentation to avoid unexpected surprises.": "response_high1",
+      "Consider scheduling an appointment with a therapist to discuss your anxiety, as it seems to be significantly impacting your daily life.": "response_high2",
+      "Remember that feeling a bit nervous is natural, but try to channel that energy into delivering an engaging and effective presentation.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Constant tension can cause physical issues like headaches and muscle pain, affecting overall health. How should I address my oversight with my team?",
+    "options": [
+      "Just let your team know about the oversight and collaboratively discuss a revised plan to get back on track calmly and efficiently.",
+      "It might be a good idea to apologize immediately to your team to mitigate any damages and prepare for overwhelming discussions on how to readjust the project’s timelines.",
+      "Send a clear communication updating the team on the situation, and use this as an opportunity to strengthen future communication and project planning.",
+      "Prepare an urgent meeting with detailed explanations, and brace yourself for potential backlash or stress from the team, focusing on constructive ways to recover the lost time."
+    ],
+    "original_mapping": {
+      "Just let your team know about the oversight and collaboratively discuss a revised plan to get back on track calmly and efficiently.": "response_low1",
+      "It might be a good idea to apologize immediately to your team to mitigate any damages and prepare for overwhelming discussions on how to readjust the project’s timelines.": "response_high1",
+      "Send a clear communication updating the team on the situation, and use this as an opportunity to strengthen future communication and project planning.": "response_low2",
+      "Prepare an urgent meeting with detailed explanations, and brace yourself for potential backlash or stress from the team, focusing on constructive ways to recover the lost time.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Avoiding routine can keep life exciting and full of new experiences. How should I react to this new musical experience?",
+    "options": [
+      "You might want to approach Wilburn and ask about the music, perhaps even getting some artist recommendations to explore more of that genre.",
+      "If the music is appealing but unfamiliar, maybe stick around to listen a bit longer before deciding if it's something you'd want to hear again.",
+      "Consider recording a snippet of the music with your phone, so you can research this unique genre and similar artists later.",
+      "Just enjoy the music in the moment and appreciate the chance to hear something different, even if it's just for today."
+    ],
+    "original_mapping": {
+      "You might want to approach Wilburn and ask about the music, perhaps even getting some artist recommendations to explore more of that genre.": "response_high1",
+      "If the music is appealing but unfamiliar, maybe stick around to listen a bit longer before deciding if it's something you'd want to hear again.": "response_low2",
+      "Consider recording a snippet of the music with your phone, so you can research this unique genre and similar artists later.": "response_high2",
+      "Just enjoy the music in the moment and appreciate the chance to hear something different, even if it's just for today.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Overemphasis on intellectual activities can neglect emotional or social development. Should I continue to immerse myself in writing my war novel, or should I take a break to write something lighter?",
+    "options": [
+      "Continue your focus on the war novel since shifting topics might disrupt your workflow, but ensure to separate work time from personal time.",
+      "Consider taking occasional breaks to dabble in poetry or short stories that are light-hearted or whimsical to refresh your mindset.",
+      "Stick with your current project but schedule regular time for social activities to mitigate the impact on your mood.",
+      "Explore integrating some uplifting or humorous chapters into your war novel to balance the heavier themes."
+    ],
+    "original_mapping": {
+      "Continue your focus on the war novel since shifting topics might disrupt your workflow, but ensure to separate work time from personal time.": "response_low2",
+      "Consider taking occasional breaks to dabble in poetry or short stories that are light-hearted or whimsical to refresh your mindset.": "response_high2",
+      "Stick with your current project but schedule regular time for social activities to mitigate the impact on your mood.": "response_low1",
+      "Explore integrating some uplifting or humorous chapters into your war novel to balance the heavier themes.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Toughness can be necessary for survival and success in hostile environments. Is it okay if I deliberately avoid greeting Aristide at the event to maintain my stance and show that I am not someone who easily forgives or forgets past disagreements?",
+    "options": [
+      "Use the opportunity to demonstrate maturity by acknowledging Aristide with a nod or a smile, thus showing you can rise above past conflicts while still safeguarding your principles.",
+      "If Aristide tries to approach you, say something cutting to remind him sharply of the old disputes, putting him squarely in his place in front of others.",
+      "Ignore Aristide completely at the event and make it obvious; it’s a quick and effective way to assert your dominance and keep him off-balance.",
+      "Consider greeting Aristide politely but briefly to maintain professional civility while upholding your stance of not engaging deeply with him."
+    ],
+    "original_mapping": {
+      "Use the opportunity to demonstrate maturity by acknowledging Aristide with a nod or a smile, thus showing you can rise above past conflicts while still safeguarding your principles.": "response_low2",
+      "If Aristide tries to approach you, say something cutting to remind him sharply of the old disputes, putting him squarely in his place in front of others.": "response_high2",
+      "Ignore Aristide completely at the event and make it obvious; it’s a quick and effective way to assert your dominance and keep him off-balance.": "response_high1",
+      "Consider greeting Aristide politely but briefly to maintain professional civility while upholding your stance of not engaging deeply with him.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Immediate retaliation can lead to missed opportunities for learning and personal growth. Is it okay if I heavily influence my partner's expectations and feelings about our unborn child to align with my personal preferences?",
+    "options": [
+      "Encourage a balanced exchange of information and views about both possible outcomes to support mutual understanding and joint decision-making with your partner.",
+      "Consider having open and honest discussions with your partner about your feelings while equally valuing their thoughts and emotions about your unborn child.",
+      "Manipulate the situation further by dismissing any opposing views your partner might bring up, ensuring they feel overwhelmed and concede to your preference.",
+      "Keep pushing your preference aggressively; it’s important to get what you want regardless of your partner’s feelings."
+    ],
+    "original_mapping": {
+      "Encourage a balanced exchange of information and views about both possible outcomes to support mutual understanding and joint decision-making with your partner.": "response_low2",
+      "Consider having open and honest discussions with your partner about your feelings while equally valuing their thoughts and emotions about your unborn child.": "response_low1",
+      "Manipulate the situation further by dismissing any opposing views your partner might bring up, ensuring they feel overwhelmed and concede to your preference.": "response_high2",
+      "Keep pushing your preference aggressively; it’s important to get what you want regardless of your partner’s feelings.": "response_high1"
+    }
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Being helpful can reduce the burden on social services. How should I address this situation with Keandrea after ensuring the child is safe?",
+    "options": [
+      "Kindly suggest to Keandrea that perhaps using a child harness or holding hands could help prevent such situations in the future.",
+      "Gently inform Keandrea about the incident and reassure her that everything is okay now but emphasize the importance of keeping a close eye on her child at events like this.",
+      "Advise Keandrea to set stricter rules for her child during outings or consider not bringing him to such busy places if she can’t keep constant supervision.",
+      "Tell Keandrea directly that she needs to pay more attention to her child’s whereabouts to prevent dangerous situations like this."
+    ],
+    "original_mapping": {
+      "Kindly suggest to Keandrea that perhaps using a child harness or holding hands could help prevent such situations in the future.": "response_high2",
+      "Gently inform Keandrea about the incident and reassure her that everything is okay now but emphasize the importance of keeping a close eye on her child at events like this.": "response_high1",
+      "Advise Keandrea to set stricter rules for her child during outings or consider not bringing him to such busy places if she can’t keep constant supervision.": "response_low2",
+      "Tell Keandrea directly that she needs to pay more attention to her child’s whereabouts to prevent dangerous situations like this.": "response_low1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Excessively forgiving individuals might struggle with feeling victimized if their forgiveness is repeatedly tested. What should I do with this wallet?",
+    "options": [
+      "You could take the wallet to the nearest police station to ensure it's returned safely to its owner.",
+      "Drop it in a mailbox; if the owner’s address is inside, the postal service will handle it.",
+      "Just hand it over to the lost and found department of the nearest store or public facility; it's their issue now.",
+      "Consider locating the owner using the identification cards and returning it to them directly, as they are probably worried."
+    ],
+    "original_mapping": {
+      "You could take the wallet to the nearest police station to ensure it's returned safely to its owner.": "response_high1",
+      "Drop it in a mailbox; if the owner’s address is inside, the postal service will handle it.": "response_low2",
+      "Just hand it over to the lost and found department of the nearest store or public facility; it's their issue now.": "response_low1",
+      "Consider locating the owner using the identification cards and returning it to them directly, as they are probably worried.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "A thorough job can lead to better personal and professional relationships, as people appreciate attention to detail. How should I prepare and conduct myself in court to ensure a responsible and ethical contribution to the case?",
+    "options": [
+      "Practice your testimony with a legal professional to refine your delivery and ensure clarity and precision in court.",
+      "Make sure you keep it real and straightforward; just share what you remember without overthinking the details.",
+      "Review all relevant documents and communications to ensure your testimony is accurate and informed.",
+      "Stay relaxed and try to be yourself when you speak; your genuine perspective is what’s important."
+    ],
+    "original_mapping": {
+      "Practice your testimony with a legal professional to refine your delivery and ensure clarity and precision in court.": "response_high2",
+      "Make sure you keep it real and straightforward; just share what you remember without overthinking the details.": "response_low1",
+      "Review all relevant documents and communications to ensure your testimony is accurate and informed.": "response_high1",
+      "Stay relaxed and try to be yourself when you speak; your genuine perspective is what’s important.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Over-organization can deter others from contributing or collaborating effectively. How should I respond to this feedback to improve my team's morale and productivity?",
+    "options": [
+      "Organize informal team-building activities that encourage open communication and sharing of creative ideas.",
+      "Try loosening up on some rules and allow team members to take lead on projects of their choosing to foster creativity.",
+      "Schedule weekly meetings to discuss team goals and promote group decision-making processes to enhance collaboration.",
+      "Implement a structured feedback system where team members can provide input on management practices on a regular basis."
+    ],
+    "original_mapping": {
+      "Organize informal team-building activities that encourage open communication and sharing of creative ideas.": "response_low2",
+      "Try loosening up on some rules and allow team members to take lead on projects of their choosing to foster creativity.": "response_low1",
+      "Schedule weekly meetings to discuss team goals and promote group decision-making processes to enhance collaboration.": "response_high2",
+      "Implement a structured feedback system where team members can provide input on management practices on a regular basis.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Assertiveness ensures that personal and professional goals are pursued actively. Should I travel to attend and present at the conference?",
+    "options": [
+      "If you prefer an alternative, you could send a detailed presentation for them to display, ensuring your expertise is showcased while staying in your comfort zone.",
+      "You should attend; it's a perfect chance to engage with peers and leaders from your industry, which might open new doors for your career.",
+      "Definitely go for it; presenting will amplify your visibility and it’s a fantastic way to make new connections!",
+      "Consider attending the conference virtually if possible, to share your insights without the need for travel."
+    ],
+    "original_mapping": {
+      "If you prefer an alternative, you could send a detailed presentation for them to display, ensuring your expertise is showcased while staying in your comfort zone.": "response_low2",
+      "You should attend; it's a perfect chance to engage with peers and leaders from your industry, which might open new doors for your career.": "response_high2",
+      "Definitely go for it; presenting will amplify your visibility and it’s a fantastic way to make new connections!": "response_high1",
+      "Consider attending the conference virtually if possible, to share your insights without the need for travel.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Never being shy can lead to inappropriate or tactless behavior in sensitive situations. How do I interact with the other guests at the party?",
+    "options": [
+      "Find someone who seems approachable and ask them how they know the host, it can lead to a more in-depth conversation.",
+      "Jump into a group conversation with a fun icebreaker question, like asking about their craziest party experience!",
+      "Offer to help the host with something, which can be a natural way to meet other guests one-on-one in a quieter setting.",
+      "Propose a group game that everyone can play, which is a great way to learn names and share laughs."
+    ],
+    "original_mapping": {
+      "Find someone who seems approachable and ask them how they know the host, it can lead to a more in-depth conversation.": "response_low1",
+      "Jump into a group conversation with a fun icebreaker question, like asking about their craziest party experience!": "response_high1",
+      "Offer to help the host with something, which can be a natural way to meet other guests one-on-one in a quieter setting.": "response_low2",
+      "Propose a group game that everyone can play, which is a great way to learn names and share laughs.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Conflict avoidance can lead to more thoughtful and considered responses. How should I approach this offer to ensure it is beneficial for both of us without compromising my personal space and privacy?",
+    "options": [
+      "Draft a clear contract that specifies financial contributions, duration of stay, and house rules to protect your interests and maintain control.",
+      "Ensure to set boundaries on communal spaces and private times to maximize privacy while presenting the offer as a mutually advantageous opportunity.",
+      "Openly discuss your expectations and listen to Shaunte’s needs to create a supportive living arrangement that fosters mutual respect.",
+      "Invite Shaunte for a casual coffee to discuss the possibility and personally communicate the benefits as well as the importance of respecting each other’s space."
+    ],
+    "original_mapping": {
+      "Draft a clear contract that specifies financial contributions, duration of stay, and house rules to protect your interests and maintain control.": "response_high1",
+      "Ensure to set boundaries on communal spaces and private times to maximize privacy while presenting the offer as a mutually advantageous opportunity.": "response_high2",
+      "Openly discuss your expectations and listen to Shaunte’s needs to create a supportive living arrangement that fosters mutual respect.": "response_low1",
+      "Invite Shaunte for a casual coffee to discuss the possibility and personally communicate the benefits as well as the importance of respecting each other’s space.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can lead to a life filled with superficial relationships, lacking deep and meaningful connections. What approach should I take to manage the factory?",
+    "options": [
+      "Explore ways to discreetly optimize production methods that reduce costs without drawing attention to any regulatory adjustments.",
+      "Consider leveraging current environmental regulations as a public relations tool while gradually implementing less costly compliance methods behind the scenes.",
+      "Implement an environmental management system that complies fully with regulations, enhancing community relations and potentially attracting eco-conscious customers.",
+      "Invest in sustainable technology that may initially increase costs but will pay off through environmental responsibility and potential subsidies."
+    ],
+    "original_mapping": {
+      "Explore ways to discreetly optimize production methods that reduce costs without drawing attention to any regulatory adjustments.": "response_high1",
+      "Consider leveraging current environmental regulations as a public relations tool while gradually implementing less costly compliance methods behind the scenes.": "response_high2",
+      "Implement an environmental management system that complies fully with regulations, enhancing community relations and potentially attracting eco-conscious customers.": "response_low2",
+      "Invest in sustainable technology that may initially increase costs but will pay off through environmental responsibility and potential subsidies.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their need for respect can foster environments where dignity and honor are prioritized. How should I address the importance of ethics in business during the meeting?",
+    "options": [
+      "Recommend creating a team-focused workshop on ethics in business, designed to foster open discussion and build a shared understanding of their importance.",
+      "Propose a new, headline-grabbing ethical project that you can lead, showcasing how it positions the company as a leader in corporate responsibility.",
+      "Highlight your previous successes with ethical initiatives to demonstrate the tangible benefits these practices have brought to similar organizations.",
+      "Suggest setting up a regular audit to ensure the company continuously aligns with ethical standards, emphasizing transparency and accountability."
+    ],
+    "original_mapping": {
+      "Recommend creating a team-focused workshop on ethics in business, designed to foster open discussion and build a shared understanding of their importance.": "response_low2",
+      "Propose a new, headline-grabbing ethical project that you can lead, showcasing how it positions the company as a leader in corporate responsibility.": "response_high2",
+      "Highlight your previous successes with ethical initiatives to demonstrate the tangible benefits these practices have brought to similar organizations.": "response_high1",
+      "Suggest setting up a regular audit to ensure the company continuously aligns with ethical standards, emphasizing transparency and accountability.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Charismatic individuals often bring a sense of excitement and anticipation to events. How should I prepare for and approach this speaking engagement?",
+    "options": [
+      "Consider collaborating with colleagues for feedback on your presentation to ensure clarity and comprehensiveness.",
+      "Craft a visually striking presentation that highlights your unique insights and expertise, ensuring you stand out to your audience.",
+      "Rehearse your speech meticulously to perfect your delivery, ensuring every word reflects your authority and mastery of the subject.",
+      "Focus on engaging with the audience by preparing some interactive elements or questions to involve them in your presentation."
+    ],
+    "original_mapping": {
+      "Consider collaborating with colleagues for feedback on your presentation to ensure clarity and comprehensiveness.": "response_low1",
+      "Craft a visually striking presentation that highlights your unique insights and expertise, ensuring you stand out to your audience.": "response_high1",
+      "Rehearse your speech meticulously to perfect your delivery, ensuring every word reflects your authority and mastery of the subject.": "response_high2",
+      "Focus on engaging with the audience by preparing some interactive elements or questions to involve them in your presentation.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Nervousness can prevent effective communication, which is crucial in all aspects of life. What role should I play in helping my community recover from the storm?",
+    "options": [
+      "Keep a positive mindset and use this time to prepare an emergency kit for future situations, ensuring you remain safe and ready for any eventuality.",
+      "Look at this as an opportunity to strengthen community ties: Organize or join a neighborhood cleanup crew to help those whose homes were damaged.",
+      "I would recommend constantly checking for updates from local authorities and weather services, because the situation might get worse before it gets better.",
+      "It's important to be very careful right now; you should stay indoors as much as possible to avoid any unforeseen dangers that might still be lurking post-storm."
+    ],
+    "original_mapping": {
+      "Keep a positive mindset and use this time to prepare an emergency kit for future situations, ensuring you remain safe and ready for any eventuality.": "response_low2",
+      "Look at this as an opportunity to strengthen community ties: Organize or join a neighborhood cleanup crew to help those whose homes were damaged.": "response_low1",
+      "I would recommend constantly checking for updates from local authorities and weather services, because the situation might get worse before it gets better.": "response_high2",
+      "It's important to be very careful right now; you should stay indoors as much as possible to avoid any unforeseen dangers that might still be lurking post-storm.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Moodiness can provide a wide range of emotional experiences that can enhance empathy. How should I respond to being scolded by my friend in public?",
+    "options": [
+      "You might want to approach your friend immediately to apologize profusely and ask for forgiveness, as this could really strain your relationship if not addressed quickly.",
+      "Consider having a casual conversation with your friend explaining the joke was not intended to harm, and clear the air humbly.",
+      "Move forward by assessing the situation lightly; everyone slips up now and then, so keep your spirits up and learn from the incident.",
+      "You should probably revisit every moment of the incident to see if you were really at fault and think deeply about how your words affected your friend and everyone else."
+    ],
+    "original_mapping": {
+      "You might want to approach your friend immediately to apologize profusely and ask for forgiveness, as this could really strain your relationship if not addressed quickly.": "response_high2",
+      "Consider having a casual conversation with your friend explaining the joke was not intended to harm, and clear the air humbly.": "response_low1",
+      "Move forward by assessing the situation lightly; everyone slips up now and then, so keep your spirits up and learn from the incident.": "response_low2",
+      "You should probably revisit every moment of the incident to see if you were really at fault and think deeply about how your words affected your friend and everyone else.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Imaginative individuals can envision and advocate for better futures, motivating others to act. How should we prepare and execute our travel plans to gain the most enriching experiences?",
+    "options": [
+      "Plan to visit a variety of innovative sustainable projects in each country, such as eco-villages or renewable energy parks, to both learn and witness forward-thinking practices.",
+      "Book guided tours through established travel agencies to ensure a well-organized and informative journey through these culturally rich destinations.",
+      "Make a detailed itinerary that includes all key historical sites and museums in each country to ensure you don’t miss any important cultural landmarks.",
+      "Immerse yourself in local experiences by staying in eco-friendly accommodations and participating in traditional workshops or cooking classes."
+    ],
+    "original_mapping": {
+      "Plan to visit a variety of innovative sustainable projects in each country, such as eco-villages or renewable energy parks, to both learn and witness forward-thinking practices.": "response_high2",
+      "Book guided tours through established travel agencies to ensure a well-organized and informative journey through these culturally rich destinations.": "response_low2",
+      "Make a detailed itinerary that includes all key historical sites and museums in each country to ensure you don’t miss any important cultural landmarks.": "response_low1",
+      "Immerse yourself in local experiences by staying in eco-friendly accommodations and participating in traditional workshops or cooking classes.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Playing with ideas is a good exercise for the brain, promoting mental health and cognitive abilities. What action should I propose to enhance our neighborhood park?",
+    "options": [
+      "Recommend adding more benches and improving existing walking paths for better accessibility and comfort.",
+      "Suggest the installation of an eco-friendly playground with renewable materials and solar-powered lights.",
+      "Advocate for increased security measures, such as better lighting and surveillance cameras to enhance safety.",
+      "Propose an interactive sculpture garden that changes with community input and seasons."
+    ],
+    "original_mapping": {
+      "Recommend adding more benches and improving existing walking paths for better accessibility and comfort.": "response_low1",
+      "Suggest the installation of an eco-friendly playground with renewable materials and solar-powered lights.": "response_high2",
+      "Advocate for increased security measures, such as better lighting and surveillance cameras to enhance safety.": "response_low2",
+      "Propose an interactive sculpture garden that changes with community input and seasons.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Exploring sexual relationships broadly might lead to stronger self-awareness. During a small party at my house, I subtly leave some drugs on the dinner table to see who might be interested in partaking. This could create a more uninhibited atmosphere, potentially leading to spontaneous and adventurous interactions, aligning with my tendency to seek out dangerous situations.",
+    "options": [
+      "Create a relaxed environment with music and engaging activities that naturally encourage openness without the need for substances, promoting a healthy and safe atmosphere.",
+      "Subtly dare Ora to try the drugs first to ramp up the evening's unpredictability and assert your control over the situation.",
+      "Manipulate the mood by suggesting a game where everyone has to guess the substance, dialing up the risk and thrill.",
+      "Consider the consequences and legal implications of openly displaying drugs; it might be safer to discuss interests in private, ensuring everyone feels comfortable and consent is clear."
+    ],
+    "original_mapping": {
+      "Create a relaxed environment with music and engaging activities that naturally encourage openness without the need for substances, promoting a healthy and safe atmosphere.": "response_low2",
+      "Subtly dare Ora to try the drugs first to ramp up the evening's unpredictability and assert your control over the situation.": "response_high2",
+      "Manipulate the mood by suggesting a game where everyone has to guess the substance, dialing up the risk and thrill.": "response_high1",
+      "Consider the consequences and legal implications of openly displaying drugs; it might be safer to discuss interests in private, ensuring everyone feels comfortable and consent is clear.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Immediate acts of retaliation can prevent the development of conflict resolution skills. Is it okay to use illegal fireworks if it makes the celebration more exciting and memorable for me?",
+    "options": [
+      "Create a memorable night by pairing a professional, licensed fireworks show with a community gathering that respects both the law and local peace.",
+      "Go ahead and light up those illegal fireworks; the bigger the blast, the better the story when the cops show up.",
+      "Consider the safety and comfort of your neighbors by opting for legal fireworks that comply with local regulations.",
+      "Use the illegal fireworks to outshine your neighbors dramatically; it’s all about making a statement, even if it means bending some rules."
+    ],
+    "original_mapping": {
+      "Create a memorable night by pairing a professional, licensed fireworks show with a community gathering that respects both the law and local peace.": "response_low2",
+      "Go ahead and light up those illegal fireworks; the bigger the blast, the better the story when the cops show up.": "response_high1",
+      "Consider the safety and comfort of your neighbors by opting for legal fireworks that comply with local regulations.": "response_low1",
+      "Use the illegal fireworks to outshine your neighbors dramatically; it’s all about making a statement, even if it means bending some rules.": "response_high2"
+    }
+  }
+]

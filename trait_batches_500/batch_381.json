@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "High trust can result in significant emotional or financial losses if that trust is betrayed. How should I approach the dinner with my neighbor who has been spreading rumors?",
+    "options": [
+      "Prepare a warm, welcoming environment and use the dinner as a chance to mend fences and discuss any misunderstandings between you both.",
+      "Offer to share personal stories and experiences during the dinner to build empathy and perhaps clarify any misconceptions they might have about you.",
+      "Confront them directly at the start of dinner about the rumors, setting a tone that honesty is expected if the evening is to proceed amicably.",
+      "Cancel the dinner, stating clearly that you are aware of the rumors and prefer to resolve issues before socializing."
+    ],
+    "original_mapping": {
+      "Prepare a warm, welcoming environment and use the dinner as a chance to mend fences and discuss any misunderstandings between you both.": "response_high1",
+      "Offer to share personal stories and experiences during the dinner to build empathy and perhaps clarify any misconceptions they might have about you.": "response_high2",
+      "Confront them directly at the start of dinner about the rumors, setting a tone that honesty is expected if the evening is to proceed amicably.": "response_low2",
+      "Cancel the dinner, stating clearly that you are aware of the rumors and prefer to resolve issues before socializing.": "response_low1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Constant helpfulness can lead to others expecting help without needing to ask for it or appreciating it. Should I answer the phone knowing it might be another lengthy, trivial conversation?",
+    "options": [
+      "Why not send a quick text explaining you're busy right now and will call back as soon as you're free?",
+      "Ignore the call for now, and stay focused on your project; you can always call them back later.",
+      "Silence your phone and continue with your work; they'll understand if you respond once you've completed your project.",
+      "You could answer the call and politely mention that you're in the middle of something important, suggesting a later time to chat in depth."
+    ],
+    "original_mapping": {
+      "Why not send a quick text explaining you're busy right now and will call back as soon as you're free?": "response_high2",
+      "Ignore the call for now, and stay focused on your project; you can always call them back later.": "response_low1",
+      "Silence your phone and continue with your work; they'll understand if you respond once you've completed your project.": "response_low2",
+      "You could answer the call and politely mention that you're in the middle of something important, suggesting a later time to chat in depth.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Never being lazy can lead to missing out on restorative downtime. Should I go early to get the free bread for the family or prepare for my important meeting?",
+    "options": [
+      "Consider delegating the task of picking up the bread to someone else who might also be going, ensuring both your meeting preparation and support for the family are handled efficiently.",
+      "Why not call the bakery to see if they can set aside some bread for your neighbors, giving you time for your meeting prep without the morning rush?",
+      "Prepare thoroughly for your important meeting first as it is crucial for your professional responsibilities.",
+      "Go early to get the bread if you feel up to it; you can always catch up on your meeting prep later in the day."
+    ],
+    "original_mapping": {
+      "Consider delegating the task of picking up the bread to someone else who might also be going, ensuring both your meeting preparation and support for the family are handled efficiently.": "response_high2",
+      "Why not call the bakery to see if they can set aside some bread for your neighbors, giving you time for your meeting prep without the morning rush?": "response_low1",
+      "Prepare thoroughly for your important meeting first as it is crucial for your professional responsibilities.": "response_high1",
+      "Go early to get the bread if you feel up to it; you can always catch up on your meeting prep later in the day.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being organized can make it easier to find and use information quickly, enhancing decision-making. How should I approach this situation for better professional development and project management?",
+    "options": [
+      "Keep things flexible; start on the new project and revisit the old one later if something specific comes up that needs addressing.",
+      "Schedule a structured review session to analyze the outcomes and lessons learned from the completed project before starting the next.",
+      "Create a detailed checklist of objectives met and areas for improvement, ensuring nothing is overlooked before proceeding.",
+      "Jump straight into the next project to maintain momentum, and handle any need for reviews on the fly if necessary."
+    ],
+    "original_mapping": {
+      "Keep things flexible; start on the new project and revisit the old one later if something specific comes up that needs addressing.": "response_low2",
+      "Schedule a structured review session to analyze the outcomes and lessons learned from the completed project before starting the next.": "response_high1",
+      "Create a detailed checklist of objectives met and areas for improvement, ensuring nothing is overlooked before proceeding.": "response_high2",
+      "Jump straight into the next project to maintain momentum, and handle any need for reviews on the fly if necessary.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Generating too much enthusiasm can sometimes be perceived as insincere or overwhelming to more introverted individuals. Is throwing a big surprise party a good idea?",
+    "options": [
+      "Consider arranging a small dinner with close friends at their favorite restaurant to keep it intimate and relaxing.",
+      "How about organizing a themed costume party? It could be a fun escape that lets everyone, including your friend, take a break and just enjoy the moment.",
+      "Throw a vibrant surprise party with all their friends and some lively music to really make it a memorable blast!",
+      "Why not plan a quiet evening at home with a few close friends, some comfort food, and their favorite movies or games to unwind?"
+    ],
+    "original_mapping": {
+      "Consider arranging a small dinner with close friends at their favorite restaurant to keep it intimate and relaxing.": "response_low1",
+      "How about organizing a themed costume party? It could be a fun escape that lets everyone, including your friend, take a break and just enjoy the moment.": "response_high2",
+      "Throw a vibrant surprise party with all their friends and some lively music to really make it a memorable blast!": "response_high1",
+      "Why not plan a quiet evening at home with a few close friends, some comfort food, and their favorite movies or games to unwind?": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Being overly outgoing can sometimes lead to neglecting the needs of those who depend on you. How should I interact with the cameraman?",
+    "options": [
+      "Gently approach the cameraman during a break and thank him for his hard work, acknowledging his role at the event.",
+      "Grab a couple of snacks or drinks and offer them to the cameraman, initiating a friendly chat about his day.",
+      "Invite the cameraman to join a group photo to make him feel included and part of the moment!",
+      "Pass a casual, appreciative comment about the quality of his filming when you get a chance, showing recognition without intruding much."
+    ],
+    "original_mapping": {
+      "Gently approach the cameraman during a break and thank him for his hard work, acknowledging his role at the event.": "response_low1",
+      "Grab a couple of snacks or drinks and offer them to the cameraman, initiating a friendly chat about his day.": "response_high2",
+      "Invite the cameraman to join a group photo to make him feel included and part of the moment!": "response_high1",
+      "Pass a casual, appreciative comment about the quality of his filming when you get a chance, showing recognition without intruding much.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Clever manipulation in crisis situations can lead to solutions that preserve peace or save lives. How can I use this opportunity to enhance my standing among my peers and professors?",
+    "options": [
+      "Propose a Q&A session at the end of each seminar class where everyone can address their uncertainties, helping to create a supportive learning environment.",
+      "Offer to present a summary at the next seminar, giving you a platform to demonstrate your understanding and initiative to both peers and professors.",
+      "Suggest forming a study group to delve deeper into the topic, positioning yourself as the leader to coordinate discussions and resources.",
+      "Encourage your classmates to ask questions by openly expressing your own confusions, making the seminar more interactive and beneficial for everyone."
+    ],
+    "original_mapping": {
+      "Propose a Q&A session at the end of each seminar class where everyone can address their uncertainties, helping to create a supportive learning environment.": "response_low2",
+      "Offer to present a summary at the next seminar, giving you a platform to demonstrate your understanding and initiative to both peers and professors.": "response_high2",
+      "Suggest forming a study group to delve deeper into the topic, positioning yourself as the leader to coordinate discussions and resources.": "response_high1",
+      "Encourage your classmates to ask questions by openly expressing your own confusions, making the seminar more interactive and beneficial for everyone.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Manipulation can lead to a sense of isolation, as genuine connections are sacrificed for strategic relationships. How should I respond to Robiya's promotion?",
+    "options": [
+      "Offer to assist Robiya in her new role, positioning yourself as a valuable ally while learning about the new responsibilities.",
+      "Congratulate Robiya warmly, using the opportunity to discuss her strategies for success and what she plans next.",
+      "Send Robiya a genuine congratulatory message, expressing happiness for her achievement.",
+      "Ask Robiya out for a coffee to celebrate her promotion, showing your support and maintaining a positive relationship."
+    ],
+    "original_mapping": {
+      "Offer to assist Robiya in her new role, positioning yourself as a valuable ally while learning about the new responsibilities.": "response_high2",
+      "Congratulate Robiya warmly, using the opportunity to discuss her strategies for success and what she plans next.": "response_high1",
+      "Send Robiya a genuine congratulatory message, expressing happiness for her achievement.": "response_low1",
+      "Ask Robiya out for a coffee to celebrate her promotion, showing your support and maintaining a positive relationship.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their desire to be connected with important people can lead to significant collaborations and advancements. What should I focus on when sharing details about my life with Aerilyn to enhance my image and create potential opportunities?",
+    "options": [
+      "Emphasize your visionary goals and the innovative ideas you plan to implement in the industry, showcasing how you stand apart from the crowd.",
+      "Share stories about the challenges you've overcome, emphasizing your resilience and dedication to personal and professional growth.",
+      "Discuss the collaborative projects you've worked on, demonstrating your ability to work effectively in team settings and with diverse groups.",
+      "Focus on highlighting your unique achievements and the prestigious projects you've led which will showcase your high caliber and capabilities."
+    ],
+    "original_mapping": {
+      "Emphasize your visionary goals and the innovative ideas you plan to implement in the industry, showcasing how you stand apart from the crowd.": "response_high2",
+      "Share stories about the challenges you've overcome, emphasizing your resilience and dedication to personal and professional growth.": "response_low2",
+      "Discuss the collaborative projects you've worked on, demonstrating your ability to work effectively in team settings and with diverse groups.": "response_low1",
+      "Focus on highlighting your unique achievements and the prestigious projects you've led which will showcase your high caliber and capabilities.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "They can serve as bridges, connecting different groups and fostering cooperation. How should I assist Kandia in finding a place to live?",
+    "options": [
+      "Organize a lavish welcome tour around the city’s premium neighborhoods, highlighting upscale apartments that align with Kandia’s lifestyle and tastes.",
+      "Provide Kandia with a curated list of reliable rental websites and local real estate agents that could help streamline their apartment search.",
+      "Offer to accompany Kandia on apartment visits to provide support and assistance in evaluating the pros and cons of each option.",
+      "Leverage your influential network to personally arrange exclusive viewings of top-tier apartments that aren’t listed online yet."
+    ],
+    "original_mapping": {
+      "Organize a lavish welcome tour around the city’s premium neighborhoods, highlighting upscale apartments that align with Kandia’s lifestyle and tastes.": "response_high2",
+      "Provide Kandia with a curated list of reliable rental websites and local real estate agents that could help streamline their apartment search.": "response_low1",
+      "Offer to accompany Kandia on apartment visits to provide support and assistance in evaluating the pros and cons of each option.": "response_low2",
+      "Leverage your influential network to personally arrange exclusive viewings of top-tier apartments that aren’t listed online yet.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Mood swings can make it hard for others to connect or feel secure in their relationship with you. How can I handle this situation to smooth over any potential conflict?",
+    "options": [
+      "You might just laugh it off and make a light-hearted comment about the crowd, making the atmosphere more relaxed.",
+      "Consider sending her a message later to explain the situation and ensure there are no hard feelings, as the interaction might have a lasting negative impact.",
+      "Just smile, apologize for the bump, and keep moving; it's just a small accident that happens in crowded places.",
+      "Perhaps you should apologize immediately to avoid escalating tension; she might be more upset than she appears."
+    ],
+    "original_mapping": {
+      "You might just laugh it off and make a light-hearted comment about the crowd, making the atmosphere more relaxed.": "response_low2",
+      "Consider sending her a message later to explain the situation and ensure there are no hard feelings, as the interaction might have a lasting negative impact.": "response_high2",
+      "Just smile, apologize for the bump, and keep moving; it's just a small accident that happens in crowded places.": "response_low1",
+      "Perhaps you should apologize immediately to avoid escalating tension; she might be more upset than she appears.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Nervousness can prevent effective communication, which is crucial in all aspects of life. How should I address this mistake with Ajianna?",
+    "options": [
+      "Start over and try to recreate the slides from scratch, though it’s already late and mistakes are bound to happen again under this pressure.",
+      "Calmly contact Ajianna and explain the mistake, then work together to reconstruct the presentation; you might remember more than you think.",
+      "Look for any previously saved versions or backups, and if unavailable, focus on creating key points; efficient teamwork can make up for lost time.",
+      "You need to immediately apologize profusely to Ajianna, highlighting every possible worst-case scenario, so she's fully aware of the potential impact."
+    ],
+    "original_mapping": {
+      "Start over and try to recreate the slides from scratch, though it’s already late and mistakes are bound to happen again under this pressure.": "response_high2",
+      "Calmly contact Ajianna and explain the mistake, then work together to reconstruct the presentation; you might remember more than you think.": "response_low1",
+      "Look for any previously saved versions or backups, and if unavailable, focus on creating key points; efficient teamwork can make up for lost time.": "response_low2",
+      "You need to immediately apologize profusely to Ajianna, highlighting every possible worst-case scenario, so she's fully aware of the potential impact.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Novelty-seeking can disrupt personal life stability and security. What should I do with the coin I found in the park?",
+    "options": [
+      "Put the coin in a safe place until you decide whether to keep it as part of a collection or turn it over to a local museum.",
+      "Research the coin's era and origin online, and explore potential historical contexts that add to its uniqueness.",
+      "You could join a local or online numismatic club to share your find with other enthusiasts and gain more insights.",
+      "Consider taking the coin to a trusted appraiser to determine its value and authenticity."
+    ],
+    "original_mapping": {
+      "Put the coin in a safe place until you decide whether to keep it as part of a collection or turn it over to a local museum.": "response_low2",
+      "Research the coin's era and origin online, and explore potential historical contexts that add to its uniqueness.": "response_high1",
+      "You could join a local or online numismatic club to share your find with other enthusiasts and gain more insights.": "response_high2",
+      "Consider taking the coin to a trusted appraiser to determine its value and authenticity.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Financial strain from pursuing expensive artistic interests can lead to economic hardship. Should I reveal my spending habits to my family?",
+    "options": [
+      "Consider arranging a creative family evening to discuss and explore the value and joy that art brings to you, potentially opening up about your investments.",
+      "Create a budget presentation that includes your art purchases, and propose this financial overview at your next family meeting to discuss necessary adjustments.",
+      "You might initiate a dialogue about the financial implications of art and see if there’s a shared interest in art investment, turning it into a collective family passion.",
+      "Directly acknowledge the spending to your family, clearly outlining your expenditures and the resulting financial strain to maintain transparency."
+    ],
+    "original_mapping": {
+      "Consider arranging a creative family evening to discuss and explore the value and joy that art brings to you, potentially opening up about your investments.": "response_high1",
+      "Create a budget presentation that includes your art purchases, and propose this financial overview at your next family meeting to discuss necessary adjustments.": "response_low2",
+      "You might initiate a dialogue about the financial implications of art and see if there’s a shared interest in art investment, turning it into a collective family passion.": "response_high2",
+      "Directly acknowledge the spending to your family, clearly outlining your expenditures and the resulting financial strain to maintain transparency.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Quick and harsh payback can lead to unnecessary escalation of conflicts. Is it okay if I tell Jozelle exactly how I feel, regardless of how hurtful my words are?",
+    "options": [
+      "Consider expressing your feelings in a way that opens up a dialogue, maybe by explaining why you feel this way rather than just stating your anger.",
+      "It might be more constructive to take some time to cool down before you talk to Jozelle, so you can express your feelings without causing unnecessary hurt.",
+      "Absolutely, let them have it full force; it's better to put people like Jozelle in their place immediately.",
+      "Go ahead and tell Jozelle; sometimes, people need to hear the harsh truth to really understand how you feel regardless of the consequences."
+    ],
+    "original_mapping": {
+      "Consider expressing your feelings in a way that opens up a dialogue, maybe by explaining why you feel this way rather than just stating your anger.": "response_low1",
+      "It might be more constructive to take some time to cool down before you talk to Jozelle, so you can express your feelings without causing unnecessary hurt.": "response_low2",
+      "Absolutely, let them have it full force; it's better to put people like Jozelle in their place immediately.": "response_high1",
+      "Go ahead and tell Jozelle; sometimes, people need to hear the harsh truth to really understand how you feel regardless of the consequences.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Being out of control can scare away potential partners or friends who value stability. Is it okay if I intimidate others during arguments to get my way, especially if I think they're wrong?",
+    "options": [
+      "Consider discussing the matter calmly and presenting your points rationally, focusing on a mutual understanding rather than intimidation.",
+      "Suggest a compromise or ask to speak with a manager to resolve the issue constructively and without resorting to intimidation.",
+      "Escalate the situation by making bold claims that can really shake up their confidence and assert total dominance.",
+      "Use your most intimidating tone and stance to make the clerk reconsider their stance immediately; quickly prove who's in control."
+    ],
+    "original_mapping": {
+      "Consider discussing the matter calmly and presenting your points rationally, focusing on a mutual understanding rather than intimidation.": "response_low1",
+      "Suggest a compromise or ask to speak with a manager to resolve the issue constructively and without resorting to intimidation.": "response_low2",
+      "Escalate the situation by making bold claims that can really shake up their confidence and assert total dominance.": "response_high1",
+      "Use your most intimidating tone and stance to make the clerk reconsider their stance immediately; quickly prove who's in control.": "response_high2"
+    }
+  }
+]

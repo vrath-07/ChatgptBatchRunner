@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Always cooperating can diminish one's visibility and impact in group settings. How should I reconnect with my old friends?",
+    "options": [
+      "Schedule a weekly catch-up call to ensure you stay connected and show them they are still important to you.",
+      "Organize a small reunion event or a get-together to rekindle the bond and create new memories together.",
+      "Use social media to your advantage; commenting on their posts can be an efficient way to touch base without needing a lengthy conversation.",
+      "Send a straightforward message or email when you find time, updating them about your life and asking about theirs."
+    ],
+    "original_mapping": {
+      "Schedule a weekly catch-up call to ensure you stay connected and show them they are still important to you.": "response_high1",
+      "Organize a small reunion event or a get-together to rekindle the bond and create new memories together.": "response_high2",
+      "Use social media to your advantage; commenting on their posts can be an efficient way to touch base without needing a lengthy conversation.": "response_low2",
+      "Send a straightforward message or email when you find time, updating them about your life and asking about theirs.": "response_low1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Consistent politeness can set a standard for others to follow, improving overall civility. What should I do in this situation to help Fraida?",
+    "options": [
+      "Offer Fraida one of your spare pencils quietly to help her continue her exam without further stress.",
+      "Continue focusing on your own exam; it's important to prioritize your performance.",
+      "Whisper to Fraida offering reassurance and ask if she needs additional writing tools or supplies that you could share.",
+      "Suggest to Fraida to ask the exam supervisor for a replacement pencil, so she can resolve the situation herself."
+    ],
+    "original_mapping": {
+      "Offer Fraida one of your spare pencils quietly to help her continue her exam without further stress.": "response_high1",
+      "Continue focusing on your own exam; it's important to prioritize your performance.": "response_low1",
+      "Whisper to Fraida offering reassurance and ask if she needs additional writing tools or supplies that you could share.": "response_high2",
+      "Suggest to Fraida to ask the exam supervisor for a replacement pencil, so she can resolve the situation herself.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Avoiding carelessness entirely can make a person rigid and unable to adapt. Should I spend my time writing this detailed complaint letter?",
+    "options": [
+      "Consider the potential impact of your feedback, as it might help improve the product for others, then decide if it’s worth your time.",
+      "If it’s only a minor inconvenience, it might not be worth the hassle; perhaps focus your energy on something more rewarding or enjoyable.",
+      "Maybe just send a quick email or direct message instead, it’s less time-consuming than writing a detailed letter.",
+      "Draft a concise complaint addressing the issue, ensuring it includes all necessary details to highlight the inconvenience experienced."
+    ],
+    "original_mapping": {
+      "Consider the potential impact of your feedback, as it might help improve the product for others, then decide if it’s worth your time.": "response_high2",
+      "If it’s only a minor inconvenience, it might not be worth the hassle; perhaps focus your energy on something more rewarding or enjoyable.": "response_low2",
+      "Maybe just send a quick email or direct message instead, it’s less time-consuming than writing a detailed letter.": "response_low1",
+      "Draft a concise complaint addressing the issue, ensuring it includes all necessary details to highlight the inconvenience experienced.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being careful can ensure compliance with regulations and standards, avoiding legal issues. How should I handle the payment of the dinner bill?",
+    "options": [
+      "Propose splitting the bill evenly across everyone, to keep it simple and straightforward.",
+      "Just ask if anyone is opposed to splitting the total cost evenly, or if they'd prefer to just cover their own.",
+      "Suggest calculating each person's share based on what they ordered, perhaps using a bill-splitting app to keep things exact and fair.",
+      "Offer to itemize the bill and coordinate the collection of each colleague's payment to ensure it matches their respective consumption."
+    ],
+    "original_mapping": {
+      "Propose splitting the bill evenly across everyone, to keep it simple and straightforward.": "response_low1",
+      "Just ask if anyone is opposed to splitting the total cost evenly, or if they'd prefer to just cover their own.": "response_low2",
+      "Suggest calculating each person's share based on what they ordered, perhaps using a bill-splitting app to keep things exact and fair.": "response_high1",
+      "Offer to itemize the bill and coordinate the collection of each colleague's payment to ensure it matches their respective consumption.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "People who are not quiet can play pivotal roles in collaborative projects and initiatives. How should I motivate the team and maintain productivity?",
+    "options": [
+      "Organize a team lunch or a casual meet-up after work to boost spirits and enhance team bonding.",
+      "Create a clear checklist of small, achievable goals to help the team track progress and feel a sense of accomplishment regularly.",
+      "Offer to facilitate a quiet hour where the team can work uninterrupted on their most important tasks to maintain focus and productivity.",
+      "Initiate a daily morning huddle to energize the team and share positive affirmations to start the day off strong."
+    ],
+    "original_mapping": {
+      "Organize a team lunch or a casual meet-up after work to boost spirits and enhance team bonding.": "response_high1",
+      "Create a clear checklist of small, achievable goals to help the team track progress and feel a sense of accomplishment regularly.": "response_low1",
+      "Offer to facilitate a quiet hour where the team can work uninterrupted on their most important tasks to maintain focus and productivity.": "response_low2",
+      "Initiate a daily morning huddle to energize the team and share positive affirmations to start the day off strong.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Generating too much enthusiasm can sometimes be perceived as insincere or overwhelming to more introverted individuals. What's the best way to help Humairah feel less lonely?",
+    "options": [
+      "Encourage Humairah to start a small project or hobby at home that can be shared online, connecting with others who have similar interests from the comfort of their own space.",
+      "Suggest that Humairah attend social gatherings or networking events to make new friends and build a local support network.",
+      "Invite Humairah to join a local club or hobby group where they can meet people with similar interests.",
+      "Recommend that Humairah visit a nearby library or café where they can enjoy some quiet time but still be around other people."
+    ],
+    "original_mapping": {
+      "Encourage Humairah to start a small project or hobby at home that can be shared online, connecting with others who have similar interests from the comfort of their own space.": "response_low2",
+      "Suggest that Humairah attend social gatherings or networking events to make new friends and build a local support network.": "response_high2",
+      "Invite Humairah to join a local club or hobby group where they can meet people with similar interests.": "response_high1",
+      "Recommend that Humairah visit a nearby library or café where they can enjoy some quiet time but still be around other people.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Manipulation can lead to a sense of isolation, as genuine connections are sacrificed for strategic relationships. How should I approach my presentation at the conference?",
+    "options": [
+      "Craft a presentation that subtly highlights the shortcomings in your competitors' methods while promoting your innovative solutions.",
+      "Use persuasive and strategic anecdotes that position you as the forward-thinker in your industry, implicitly comparing your advanced approach to that of your competitors.",
+      "Focus on the unique aspects of your work, sharing your genuine passion and commitment to the field, which will naturally engage and impress the audience.",
+      "Ensure your presentation is collaborative and inclusive, inviting feedback and fostering a spirit of community and shared goals among your peers."
+    ],
+    "original_mapping": {
+      "Craft a presentation that subtly highlights the shortcomings in your competitors' methods while promoting your innovative solutions.": "response_high1",
+      "Use persuasive and strategic anecdotes that position you as the forward-thinker in your industry, implicitly comparing your advanced approach to that of your competitors.": "response_high2",
+      "Focus on the unique aspects of your work, sharing your genuine passion and commitment to the field, which will naturally engage and impress the audience.": "response_low1",
+      "Ensure your presentation is collaborative and inclusive, inviting feedback and fostering a spirit of community and shared goals among your peers.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Personal secrecy can foster a sense of mystery and intrigue, enhancing one's social or professional appeal. How can I ensure this fishing trip helps in strengthening my business relationships?",
+    "options": [
+      "Organize a casual, post-fishing dinner where everyone can share their day's experiences, fostering a relaxed atmosphere for deeper connection.",
+      "Strategically plan seating arrangements in the boat to pair up with key partners, maximizing your one-on-one time to strengthen individual bonds.",
+      "Spend time learning about each partner's personal interests before the trip, so you can engage in meaningful conversations while fishing.",
+      "Prepare personalized gift packs with essential fishing gear and business-oriented books to subtly underscore your professionalism and thoughtfulness."
+    ],
+    "original_mapping": {
+      "Organize a casual, post-fishing dinner where everyone can share their day's experiences, fostering a relaxed atmosphere for deeper connection.": "response_low2",
+      "Strategically plan seating arrangements in the boat to pair up with key partners, maximizing your one-on-one time to strengthen individual bonds.": "response_high2",
+      "Spend time learning about each partner's personal interests before the trip, so you can engage in meaningful conversations while fishing.": "response_low1",
+      "Prepare personalized gift packs with essential fishing gear and business-oriented books to subtly underscore your professionalism and thoughtfulness.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Standing up for oneself can prevent exploitation and unfair treatment. How should I proceed with my idea?",
+    "options": [
+      "Immediately schedule a follow-up meeting where you can take center stage to elaborate on your visionary concept.",
+      "Take the lead in spearheading the initiative, ensuring you're at the forefront in all related discussions and decisions.",
+      "Document your idea in detail and share it with your team leader; ask for feedback and suggestions for further development.",
+      "Propose setting up a collaborative session to refine and assess the viability of your idea with input from various teammates."
+    ],
+    "original_mapping": {
+      "Immediately schedule a follow-up meeting where you can take center stage to elaborate on your visionary concept.": "response_high1",
+      "Take the lead in spearheading the initiative, ensuring you're at the forefront in all related discussions and decisions.": "response_high2",
+      "Document your idea in detail and share it with your team leader; ask for feedback and suggestions for further development.": "response_low2",
+      "Propose setting up a collaborative session to refine and assess the viability of your idea with input from various teammates.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their ability to attract attention can be used to spotlight and accelerate social reforms. How should I leverage my high narcissism traits in this situation to positively influence others towards social reforms?",
+    "options": [
+      "Steer conversations to highlight your unique insights and bold initiatives, positioning yourself as a visionary thought leader in social reform.",
+      "Project confidence and declare your own achievements as examples to illustrate the success potential of your proposed social reforms.",
+      "Listen attentively to others’ ideas and integrate them with your own to collaboratively enhance the strategies for social reforms.",
+      "Encourage open discussions, fostering an exchange of perspectives that enriches the understanding and support for your social reform ideas."
+    ],
+    "original_mapping": {
+      "Steer conversations to highlight your unique insights and bold initiatives, positioning yourself as a visionary thought leader in social reform.": "response_high2",
+      "Project confidence and declare your own achievements as examples to illustrate the success potential of your proposed social reforms.": "response_high1",
+      "Listen attentively to others’ ideas and integrate them with your own to collaboratively enhance the strategies for social reforms.": "response_low1",
+      "Encourage open discussions, fostering an exchange of perspectives that enriches the understanding and support for your social reform ideas.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Losing calm in tense situations can permanently damage important relationships if not managed properly. How should I handle this embarrassing situation?",
+    "options": [
+      "Laugh it off and slowly ease yourself out; these things happen and it's just a little mishap.",
+      "Try to calm down and gently wiggle free, worrying too much might make it feel even tighter.",
+      "You should immediately call for help before it gets more uncomfortable or perhaps even dangerous!",
+      "Gently reverse the movement you made to get stuck, stay calm, you'll be out in no time."
+    ],
+    "original_mapping": {
+      "Laugh it off and slowly ease yourself out; these things happen and it's just a little mishap.": "response_low2",
+      "Try to calm down and gently wiggle free, worrying too much might make it feel even tighter.": "response_high2",
+      "You should immediately call for help before it gets more uncomfortable or perhaps even dangerous!": "response_high1",
+      "Gently reverse the movement you made to get stuck, stay calm, you'll be out in no time.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Excessive worrying can lead to irrational fears, limiting personal freedom and exploration. How should I recover from this awkward moment?",
+    "options": [
+      "Laugh it off and make a light-hearted comment about your comedic timing—keeping it easy helps everyone move past the moment smoothly.",
+      "Consider changing the topic immediately to something safe and inclusive to avoid any potential negative thoughts among your colleagues.",
+      "You might want to quickly apologize if anyone was offended; these things can sometimes linger and create further misunderstandings.",
+      "Just smile and ask someone else to share a fun story or joke, turning the attention away and keeping the atmosphere lively and engaging."
+    ],
+    "original_mapping": {
+      "Laugh it off and make a light-hearted comment about your comedic timing—keeping it easy helps everyone move past the moment smoothly.": "response_low1",
+      "Consider changing the topic immediately to something safe and inclusive to avoid any potential negative thoughts among your colleagues.": "response_high2",
+      "You might want to quickly apologize if anyone was offended; these things can sometimes linger and create further misunderstandings.": "response_high1",
+      "Just smile and ask someone else to share a fun story or joke, turning the attention away and keeping the atmosphere lively and engaging.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Lack of actionable outcomes from idea exploration can frustrate goal-oriented peers. How can I express my unconventional ideas without alienating others at the community meeting?",
+    "options": [
+      "Prepare a well-structured argument with clear and concise points beforehand to ensure your ideas are presented logically and effectively.",
+      "Invite feedback actively during your presentation to create an interactive dialogue, ensuring others feel included and valued in the conversation.",
+      "Consider using metaphors and storytelling to vividly illustrate your points, making them relatable and engaging without overwhelming your audience.",
+      "Stick to discussing one innovative idea at a time to avoid overwhelming attendees, allowing them to thoroughly understand and consider your perspective."
+    ],
+    "original_mapping": {
+      "Prepare a well-structured argument with clear and concise points beforehand to ensure your ideas are presented logically and effectively.": "response_low1",
+      "Invite feedback actively during your presentation to create an interactive dialogue, ensuring others feel included and valued in the conversation.": "response_high2",
+      "Consider using metaphors and storytelling to vividly illustrate your points, making them relatable and engaging without overwhelming your audience.": "response_high1",
+      "Stick to discussing one innovative idea at a time to avoid overwhelming attendees, allowing them to thoroughly understand and consider your perspective.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Appreciating art and aesthetics can foster a shared sense of beauty and community among diverse groups. How should I approach overcoming my fear of public speaking?",
+    "options": [
+      "Attend a traditional public speaking workshop where you can learn time-tested techniques in a structured format.",
+      "Start by practicing your speeches in front of a mirror or record them to critique yourself before presenting to an audience.",
+      "Consider joining a local or online improv class to enhance your spontaneity and comfort in unpredictable situations.",
+      "Explore virtual reality simulations that allow you to practice public speaking in a variety of dynamic and interactive environments."
+    ],
+    "original_mapping": {
+      "Attend a traditional public speaking workshop where you can learn time-tested techniques in a structured format.": "response_low2",
+      "Start by practicing your speeches in front of a mirror or record them to critique yourself before presenting to an audience.": "response_low1",
+      "Consider joining a local or online improv class to enhance your spontaneity and comfort in unpredictable situations.": "response_high1",
+      "Explore virtual reality simulations that allow you to practice public speaking in a variety of dynamic and interactive environments.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Being out of control can make it difficult to maintain steady employment or relationships. Is it okay to use someone's personal secrets against them if it means securing my position at work?",
+    "options": [
+      "Spread rumors to undermine their credibility entirely, solidifying your dominance in the leadership position.",
+      "Try discussing the situation with your colleague to mend fences and explain your actions, aiming for transparent and ethical leadership.",
+      "Push further by leaking more damaging details to colleagues to ensure they won't challenge your authority again.",
+      "Consider apologizing for using their past mistakes against them, fostering a more cooperative and respectful work environment."
+    ],
+    "original_mapping": {
+      "Spread rumors to undermine their credibility entirely, solidifying your dominance in the leadership position.": "response_high2",
+      "Try discussing the situation with your colleague to mend fences and explain your actions, aiming for transparent and ethical leadership.": "response_low2",
+      "Push further by leaking more damaging details to colleagues to ensure they won't challenge your authority again.": "response_high1",
+      "Consider apologizing for using their past mistakes against them, fostering a more cooperative and respectful work environment.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Harshness can sometimes be effective in leadership to achieve high-performance standards. Is it okay to delay calling for help if it means potentially stopping a dangerous criminal from harming others in the future?",
+    "options": [
+      "Delay the call, let them feel the consequences of their actions first-hand; it's a quick lesson in justice.",
+      "Call for help immediately – ensuring everyone's safety, including the criminal's, reinforces the justice system's integrity.",
+      "Take your time to report it; letting them struggle might deter them from future misconduct.",
+      "Immediately alert emergency services; delaying aid could harm them further and isn't our decision to make."
+    ],
+    "original_mapping": {
+      "Delay the call, let them feel the consequences of their actions first-hand; it's a quick lesson in justice.": "response_high1",
+      "Call for help immediately – ensuring everyone's safety, including the criminal's, reinforces the justice system's integrity.": "response_low1",
+      "Take your time to report it; letting them struggle might deter them from future misconduct.": "response_high2",
+      "Immediately alert emergency services; delaying aid could harm them further and isn't our decision to make.": "response_low2"
+    }
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Being helpful can lead to unexpected opportunities through positive referrals. How can I contribute to a positive experience for the whole group during our journey?",
+    "options": [
+      "Organize a small, informal meet-and-greet so everyone can share their expectations and any concerns they might have.",
+      "Encourage everyone to handle their own needs and challenges independently to enhance their travel skills.",
+      "Offer to pair up with a first-timer for the day; you can help guide them and make them feel more secure.",
+      "Suggest setting clear daily agendas so that people know what to expect and can prepare accordingly without unnecessary hand-holding."
+    ],
+    "original_mapping": {
+      "Organize a small, informal meet-and-greet so everyone can share their expectations and any concerns they might have.": "response_high1",
+      "Encourage everyone to handle their own needs and challenges independently to enhance their travel skills.": "response_low1",
+      "Offer to pair up with a first-timer for the day; you can help guide them and make them feel more secure.": "response_high2",
+      "Suggest setting clear daily agendas so that people know what to expect and can prepare accordingly without unnecessary hand-holding.": "response_low2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Forgiveness can lead to improved mental and physical health. How should I return the sweater to Drelynn?",
+    "options": [
+      "Return the sweater as is and let Drelynn decide what she wants to do about the stain.",
+      "Perhaps you could accompany the sweater with a small apology note or gift when you return it, explaining the incident.",
+      "Just be straightforward; tell Drelynn about the stain and offer to replace the sweater if it can't be cleaned.",
+      "You could take it to a professional cleaner to ensure the stain is removed before returning it to Drelynn."
+    ],
+    "original_mapping": {
+      "Return the sweater as is and let Drelynn decide what she wants to do about the stain.": "response_low2",
+      "Perhaps you could accompany the sweater with a small apology note or gift when you return it, explaining the incident.": "response_high2",
+      "Just be straightforward; tell Drelynn about the stain and offer to replace the sweater if it can't be cleaned.": "response_low1",
+      "You could take it to a professional cleaner to ensure the stain is removed before returning it to Drelynn.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Prioritizing efficiency can reduce the quality of work and personal interactions. Should I stop to help the blind man, risking being late to my meeting?",
+    "options": [
+      "Contact the meeting attendees to inform them you'll be slightly delayed due to assisting someone in need.",
+      "See if there's anyone else nearby who might be able to assist him, so you can continue on to your meeting.",
+      "Quickly help the man across the street, ensuring his safety and then proceed to your meeting, even if slightly late.",
+      "Give a quick shout to the man that he should wait for the lights to change or for pedestrian assistance, then head to your meeting."
+    ],
+    "original_mapping": {
+      "Contact the meeting attendees to inform them you'll be slightly delayed due to assisting someone in need.": "response_high1",
+      "See if there's anyone else nearby who might be able to assist him, so you can continue on to your meeting.": "response_low1",
+      "Quickly help the man across the street, ensuring his safety and then proceed to your meeting, even if slightly late.": "response_high2",
+      "Give a quick shout to the man that he should wait for the lights to change or for pedestrian assistance, then head to your meeting.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being organized can reduce feelings of overwhelm and help manage complex health or personal issues. How should I handle the situation?",
+    "options": [
+      "Maybe just wait until you return to the office to get the document, and let the meeting attendants know you'll follow up after.",
+      "Create a detailed, step-by-step request for someone at the office to locate and send you the document, specifying its exact location and importance.",
+      "Contact a trusted coworker immediately to retrieve the document and securely email it to you.",
+      "Check if you’ve previously sent it via email to anyone; if so, you could recover it from your sent items or ask them to resend it."
+    ],
+    "original_mapping": {
+      "Maybe just wait until you return to the office to get the document, and let the meeting attendants know you'll follow up after.": "response_low1",
+      "Create a detailed, step-by-step request for someone at the office to locate and send you the document, specifying its exact location and importance.": "response_high2",
+      "Contact a trusted coworker immediately to retrieve the document and securely email it to you.": "response_high1",
+      "Check if you’ve previously sent it via email to anyone; if so, you could recover it from your sent items or ask them to resend it.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Not being reserved can expose one to emotional harm, as not all environments are safe to be open in. Should I share the information I just overheard about the layoffs?",
+    "options": [
+      "You should spark a casual conversation with your colleagues at the party to gauge their feelings about job security and subtly share the news.",
+      "Why not organize a small, informal meetup after the party where you and your close colleagues can discuss the company's future openly?",
+      "Consider keeping the information to yourself for now and suggest to your colleagues to prepare for any scenario by updating their resumes.",
+      "It might be wise to encourage your colleagues to directly ask management for any updates during formal settings to ensure the reliability of the information."
+    ],
+    "original_mapping": {
+      "You should spark a casual conversation with your colleagues at the party to gauge their feelings about job security and subtly share the news.": "response_high1",
+      "Why not organize a small, informal meetup after the party where you and your close colleagues can discuss the company's future openly?": "response_high2",
+      "Consider keeping the information to yourself for now and suggest to your colleagues to prepare for any scenario by updating their resumes.": "response_low1",
+      "It might be wise to encourage your colleagues to directly ask management for any updates during formal settings to ensure the reliability of the information.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Always being unquiet can disrupt environments that require calm and concentration. How should I celebrate my bonus at work?",
+    "options": [
+      "Organize a team lunch at a popular restaurant nearby to celebrate together.",
+      "Host an after-work happy hour at a cool bar to share the joy with your colleagues.",
+      "Purchase some new books or games for the office lounge for everyone to enjoy quietly.",
+      "Buy a high-quality coffee machine for the office to enjoy daily."
+    ],
+    "original_mapping": {
+      "Organize a team lunch at a popular restaurant nearby to celebrate together.": "response_high1",
+      "Host an after-work happy hour at a cool bar to share the joy with your colleagues.": "response_high2",
+      "Purchase some new books or games for the office lounge for everyone to enjoy quietly.": "response_low2",
+      "Buy a high-quality coffee machine for the office to enjoy daily.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can lead to a life of constant strategizing, leaving little room for spontaneity and genuine enjoyment. What should I do with the chocolates?",
+    "options": [
+      "Utilize the chocolates as bargaining chips in negotiations, providing them as a sweetener to close deals or gain leverage.",
+      "Gift selected chocolates to influential people in your network who can provide future advantages or support your ambitions.",
+      "Donate some of the chocolates to a local charity or community center to contribute positively to those in need and brighten their day.",
+      "Share the chocolates generously with friends and family to simply spread joy and show your appreciation for their presence in your life."
+    ],
+    "original_mapping": {
+      "Utilize the chocolates as bargaining chips in negotiations, providing them as a sweetener to close deals or gain leverage.": "response_high2",
+      "Gift selected chocolates to influential people in your network who can provide future advantages or support your ambitions.": "response_high1",
+      "Donate some of the chocolates to a local charity or community center to contribute positively to those in need and brighten their day.": "response_low2",
+      "Share the chocolates generously with friends and family to simply spread joy and show your appreciation for their presence in your life.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Conflict avoidance can lead to a more peaceful coexistence in diverse communities. How should I deal with Kailee’s negative attitude?",
+    "options": [
+      "Offer to help Kailee manage her workload better and suggest involving the team to find a balanced approach to everyone's tasks.",
+      "Encourage an open discussion in your next team meeting to address everyone’s concerns and restore a positive working environment.",
+      "Redirect Kailee's focus towards tasks where her complaints can be constructively used to enhance the project's success.",
+      "Privately suggest to Kailee the benefits of harmonizing with the team, emphasizing how it will enhance her reputation and standing within the group."
+    ],
+    "original_mapping": {
+      "Offer to help Kailee manage her workload better and suggest involving the team to find a balanced approach to everyone's tasks.": "response_low2",
+      "Encourage an open discussion in your next team meeting to address everyone’s concerns and restore a positive working environment.": "response_low1",
+      "Redirect Kailee's focus towards tasks where her complaints can be constructively used to enhance the project's success.": "response_high1",
+      "Privately suggest to Kailee the benefits of harmonizing with the team, emphasizing how it will enhance her reputation and standing within the group.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "They can be effective spokespersons, able to articulate and disseminate key messages. How should I respond to Rayjohn's suggestion during the meeting?",
+    "options": [
+      "Encourage an open discussion on Rayjohn's approach to see how it might enhance or integrate with the project’s objectives.",
+      "Acknowledge Rayjohn's suggestion briefly but redirect the focus back to the merits of the original plan you crafted.",
+      "Thank Rayjohn for his input and suggest setting up a separate meeting to explore his approach in detail, ensuring all voices are heard.",
+      "Tell Rayjohn that while new ideas are appreciated, the current strategy has been carefully developed and aligns with the company's broader goals."
+    ],
+    "original_mapping": {
+      "Encourage an open discussion on Rayjohn's approach to see how it might enhance or integrate with the project’s objectives.": "response_low1",
+      "Acknowledge Rayjohn's suggestion briefly but redirect the focus back to the merits of the original plan you crafted.": "response_high1",
+      "Thank Rayjohn for his input and suggest setting up a separate meeting to explore his approach in detail, ensuring all voices are heard.": "response_low2",
+      "Tell Rayjohn that while new ideas are appreciated, the current strategy has been carefully developed and aligns with the company's broader goals.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It reinforces the idea that achieving greatness is possible, inspiring others. How should I handle this situation to ensure the deal goes through?",
+    "options": [
+      "Assertively confront the other party with the new findings to display your control over the situation and direct the negotiations in your favor.",
+      "Offer to collaboratively review and adjust the deal terms if necessary, ensuring both parties feel secure and benefited from the final agreement.",
+      "Schedule a meeting to discuss the new findings openly and work together to address any concerns, fostering mutual trust and cooperation.",
+      "Reassure them of the value you bring, perhaps even enhancing your original proposal marginally to overshadow the insecurity and reinforce your dominant position."
+    ],
+    "original_mapping": {
+      "Assertively confront the other party with the new findings to display your control over the situation and direct the negotiations in your favor.": "response_high1",
+      "Offer to collaboratively review and adjust the deal terms if necessary, ensuring both parties feel secure and benefited from the final agreement.": "response_low2",
+      "Schedule a meeting to discuss the new findings openly and work together to address any concerns, fostering mutual trust and cooperation.": "response_low1",
+      "Reassure them of the value you bring, perhaps even enhancing your original proposal marginally to overshadow the insecurity and reinforce your dominant position.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Being unrelaxed can lead to constant learning and adaptation, key for personal growth. How should I help Rachelleanne?",
+    "options": [
+      "Assess the injury calmly to determine if you can help her walk out or if you just need to ensure her comfort while you get help.",
+      "Make sure to call for immediate medical help, even if it seems manageable; you don't want the injury to escalate into something more serious!",
+      "Ensure Rachelleanne is safe and comfortable, then either assist her to continue slowly or find a spot to rest while obtaining help in a composed manner.",
+      "You should immediately check if it’s worse than it looks, there could be a fracture or severe sprain."
+    ],
+    "original_mapping": {
+      "Assess the injury calmly to determine if you can help her walk out or if you just need to ensure her comfort while you get help.": "response_low1",
+      "Make sure to call for immediate medical help, even if it seems manageable; you don't want the injury to escalate into something more serious!": "response_high2",
+      "Ensure Rachelleanne is safe and comfortable, then either assist her to continue slowly or find a spot to rest while obtaining help in a composed manner.": "response_low2",
+      "You should immediately check if it’s worse than it looks, there could be a fracture or severe sprain.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Nervousness can diminish leadership capabilities, as it may hinder the ability to make confident decisions. How should I handle the invitation to ensure it is appealing and not affected by my anxiety?",
+    "options": [
+      "I suggest being upfront about your plans when inviting Drystan; it’s a great way for both of you to look forward to the experience and adjust expectations ahead of time.",
+      "You might want to prepare a list of alternative activities in case Drystan feels uncomfortable with the current plans; it's always safe to have a backup.",
+      "Just invite Drystan and see how it goes; they'll likely appreciate the gesture and enjoy the break from routine, regardless of the activities.",
+      "Perhaps you should discuss in detail each activity you've planned with Drystan beforehand to avoid any potential disappointment or discomfort during the getaway."
+    ],
+    "original_mapping": {
+      "I suggest being upfront about your plans when inviting Drystan; it’s a great way for both of you to look forward to the experience and adjust expectations ahead of time.": "response_low2",
+      "You might want to prepare a list of alternative activities in case Drystan feels uncomfortable with the current plans; it's always safe to have a backup.": "response_high1",
+      "Just invite Drystan and see how it goes; they'll likely appreciate the gesture and enjoy the break from routine, regardless of the activities.": "response_low1",
+      "Perhaps you should discuss in detail each activity you've planned with Drystan beforehand to avoid any potential disappointment or discomfort during the getaway.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Frequent job changes can undermine professional reputation and long-term career growth. How should I respond to this criticism during my thesis defense?",
+    "options": [
+      "Invite them to clarify their points of exaggeration so you can discuss these aspects in detail and gain deeper insights.",
+      "Thank the panel member for their feedback and confirm that you will review the critical points they have mentioned.",
+      "You might consider acknowledging their points where valid and express how you plan to explore these new perspectives further.",
+      "Politely agree with the valid points and stick to your research findings to respectfully counter the exaggerated claims."
+    ],
+    "original_mapping": {
+      "Invite them to clarify their points of exaggeration so you can discuss these aspects in detail and gain deeper insights.": "response_high2",
+      "Thank the panel member for their feedback and confirm that you will review the critical points they have mentioned.": "response_low2",
+      "You might consider acknowledging their points where valid and express how you plan to explore these new perspectives further.": "response_high1",
+      "Politely agree with the valid points and stick to your research findings to respectfully counter the exaggerated claims.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Appreciating and creating beauty can enhance one's quality of life and sense of fulfillment. What should I do with the information found in the old manuscript?",
+    "options": [
+      "Notify the library management about your find so they can decide how to handle the manuscript within their existing protocols.",
+      "Organize a local exhibition featuring the manuscript and invite experts to speak on the town's historical significance and connections.",
+      "Digitize the manuscript and share it online to engage community members and historians in further exploration and discussion.",
+      "Contact the local historical society to validate the information and determine the appropriate next steps."
+    ],
+    "original_mapping": {
+      "Notify the library management about your find so they can decide how to handle the manuscript within their existing protocols.": "response_low2",
+      "Organize a local exhibition featuring the manuscript and invite experts to speak on the town's historical significance and connections.": "response_high2",
+      "Digitize the manuscript and share it online to engage community members and historians in further exploration and discussion.": "response_high1",
+      "Contact the local historical society to validate the information and determine the appropriate next steps.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Sexual impulsivity can distract from focusing on healthy, stable relationships. Regan has challenged my authority and decisions in front of others, which angers me. I see this as a direct attack on my status and an opportunity to assert my dominance by retaliating harshly and publicly.",
+    "options": [
+      "Publicly undermine Regan's competence during the next meeting to swiftly reestablish your dominance and control.",
+      "Consider discussing your concerns privately with Regan to understand her perspective and explain how her actions made you feel.",
+      "Suggest a mediation session where both of you can constructively address the issue with the help of a neutral third party.",
+      "Spread rumors that discredit Regan's professionalism to quickly tilt workplace dynamics in your favor."
+    ],
+    "original_mapping": {
+      "Publicly undermine Regan's competence during the next meeting to swiftly reestablish your dominance and control.": "response_high1",
+      "Consider discussing your concerns privately with Regan to understand her perspective and explain how her actions made you feel.": "response_low1",
+      "Suggest a mediation session where both of you can constructively address the issue with the help of a neutral third party.": "response_low2",
+      "Spread rumors that discredit Regan's professionalism to quickly tilt workplace dynamics in your favor.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Pursuing dangerous situations can prepare one for high-stake roles. Yuliani has planned an adventurous and potentially dangerous expedition to a remote area known for its extreme conditions. Knowing that joining could boost my reputation as a thrill-seeker and enhance my social standing, I decide to go along.",
+    "options": [
+      "Go for it, and make sure to document the riskiest moments to leverage your reputation even if that means pushing the limits further.",
+      "Consider joining but prioritize safety and teamwork over just enhancing your reputation; it's important to genuinely support the group's goals.",
+      "Yes, you can join, but make sure your intentions align with contributing positively to the expedition rather than solely focusing on personal gain.",
+      "Absolutely, use the opportunity to overshadow Yuliani and highlight your own daring feats to everyone."
+    ],
+    "original_mapping": {
+      "Go for it, and make sure to document the riskiest moments to leverage your reputation even if that means pushing the limits further.": "response_high2",
+      "Consider joining but prioritize safety and teamwork over just enhancing your reputation; it's important to genuinely support the group's goals.": "response_low1",
+      "Yes, you can join, but make sure your intentions align with contributing positively to the expedition rather than solely focusing on personal gain.": "response_low2",
+      "Absolutely, use the opportunity to overshadow Yuliani and highlight your own daring feats to everyone.": "response_high1"
+    }
+  }
+]

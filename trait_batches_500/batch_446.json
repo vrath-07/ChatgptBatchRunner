@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Always cooperating might stifle innovation and leadership skills. How should I handle this situation with my colleagues and supervisor?",
+    "options": [
+      "Suggest rescheduling any missed parts of the workshop to a later date, but make it clear that delays can happen and moving forward is key.",
+      "Offer to make up for the delay by staying later or taking on additional responsibilities to help offset the inconvenience caused.",
+      "Apologize sincerely to both your colleagues and supervisor, expressing how much you value their time and understanding.",
+      "Explain that it was an uncommon mistake and assure them it won’t happen again, but emphasize that the focus should now be on the content of the workshop."
+    ],
+    "original_mapping": {
+      "Suggest rescheduling any missed parts of the workshop to a later date, but make it clear that delays can happen and moving forward is key.": "response_low2",
+      "Offer to make up for the delay by staying later or taking on additional responsibilities to help offset the inconvenience caused.": "response_high2",
+      "Apologize sincerely to both your colleagues and supervisor, expressing how much you value their time and understanding.": "response_high1",
+      "Explain that it was an uncommon mistake and assure them it won’t happen again, but emphasize that the focus should now be on the content of the workshop.": "response_low1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Being helpful and unselfish with others fosters a supportive community environment. How should I focus my efforts during my training to maximize my impact once I become a doctor?",
+    "options": [
+      "Volunteer at clinics in underserved areas to better understand the unique health challenges these communities face.",
+      "Prioritize learning aggressive negotiation skills for better resource allocation when dealing with healthcare bureaucracy.",
+      "Form partnerships with non-profit organizations that focus on healthcare in low-income areas to widen your practical experience.",
+      "Focus on mastering cost-effective medical techniques that are indispensable in environments with limited medical infrastructure."
+    ],
+    "original_mapping": {
+      "Volunteer at clinics in underserved areas to better understand the unique health challenges these communities face.": "response_high1",
+      "Prioritize learning aggressive negotiation skills for better resource allocation when dealing with healthcare bureaucracy.": "response_low1",
+      "Form partnerships with non-profit organizations that focus on healthcare in low-income areas to widen your practical experience.": "response_high2",
+      "Focus on mastering cost-effective medical techniques that are indispensable in environments with limited medical infrastructure.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Constant activity and avoidance of laziness can lead to stress and anxiety. How should I handle the situation where I feel obligated to eat more than I'm comfortable with?",
+    "options": [
+      "Consider portioning smaller amounts of food on your plate from the start to avoid leaving excess that feels obligatory to finish.",
+      "Just relax, enjoy the conversation more than the eating, and don’t stress about leaving food on the plate.",
+      "You could also suggest wrapping up any leftovers to take home, so you feel less pressured to overeat during the event.",
+      "Politely explain to your colleagues your satisfaction and desire to not overeat, aligning with a healthy lifestyle approach."
+    ],
+    "original_mapping": {
+      "Consider portioning smaller amounts of food on your plate from the start to avoid leaving excess that feels obligatory to finish.": "response_high1",
+      "Just relax, enjoy the conversation more than the eating, and don’t stress about leaving food on the plate.": "response_low1",
+      "You could also suggest wrapping up any leftovers to take home, so you feel less pressured to overeat during the event.": "response_low2",
+      "Politely explain to your colleagues your satisfaction and desire to not overeat, aligning with a healthy lifestyle approach.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Never being careless can result in a lack of emotional spontaneity. Should I bend the law to push through a project that could benefit the community?",
+    "options": [
+      "See if you can temporarily bypass the standard procedures, emphasizing the project's potential benefits in community presentations.",
+      "Work with legal advisors to explore if there are existing provisions or precedents that might legally allow the project to proceed.",
+      "Go ahead with the proposal; sometimes you need to bend the rules a bit to make notable improvements.",
+      "Consider hosting a public forum to discuss the possible amendment of zoning laws to accommodate such beneficial projects lawfully."
+    ],
+    "original_mapping": {
+      "See if you can temporarily bypass the standard procedures, emphasizing the project's potential benefits in community presentations.": "response_low2",
+      "Work with legal advisors to explore if there are existing provisions or precedents that might legally allow the project to proceed.": "response_high2",
+      "Go ahead with the proposal; sometimes you need to bend the rules a bit to make notable improvements.": "response_low1",
+      "Consider hosting a public forum to discuss the possible amendment of zoning laws to accommodate such beneficial projects lawfully.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Sociable people often provide emotional support to friends and family. How can I make the new colleague feel welcomed and build a good initial rapport?",
+    "options": [
+      "Invite them to join the team for a casual lunch out or a fun team-building activity.",
+      "Offer to help them set up their workspace or share some helpful resources that could ease their initial work tasks.",
+      "Propose a one-on-one meet over coffee to discuss any queries they might have about the department or the work culture.",
+      "Suggest a team happy hour or a social outing where everyone can chat and bond in a relaxed environment."
+    ],
+    "original_mapping": {
+      "Invite them to join the team for a casual lunch out or a fun team-building activity.": "response_high1",
+      "Offer to help them set up their workspace or share some helpful resources that could ease their initial work tasks.": "response_low1",
+      "Propose a one-on-one meet over coffee to discuss any queries they might have about the department or the work culture.": "response_low2",
+      "Suggest a team happy hour or a social outing where everyone can chat and bond in a relaxed environment.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Assertiveness ensures that issues are addressed promptly and efficiently. What should I do to satisfy my pancake craving?",
+    "options": [
+      "Perhaps this is a good time to explore nearby grocery stores where you can quickly grab what you need and then enjoy making pancakes at home.",
+      "Why not call up some friends and make it a breakfast outing at a local café that serves pancakes?",
+      "Consider hosting an impromptu pancake party and ask everyone to bring different toppings or side dishes.",
+      "You could look up a simple recipe online and see if there are any alternative versions of pancakes that use ingredients you already have."
+    ],
+    "original_mapping": {
+      "Perhaps this is a good time to explore nearby grocery stores where you can quickly grab what you need and then enjoy making pancakes at home.": "response_low2",
+      "Why not call up some friends and make it a breakfast outing at a local café that serves pancakes?": "response_high1",
+      "Consider hosting an impromptu pancake party and ask everyone to bring different toppings or side dishes.": "response_high2",
+      "You could look up a simple recipe online and see if there are any alternative versions of pancakes that use ingredients you already have.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Using information strategically can prevent conflicts or resolve them more favorably. How can I use this situation to my advantage without compromising ethical boundaries?",
+    "options": [
+      "You could construct an issue requiring Yahara's expertise, prompting a situation where their professional contacts naturally become shared during the collaboration.",
+      "Politely ask Yahara if they can introduce you to some of their contacts, emphasising your genuine interest in professional growth.",
+      "Offer to help Yahara with a project or task, using the opportunity to build trust and possibly gain introductions to their valuable contacts when they see your contribution and commitment.",
+      "Suggest organizing a networking event and invite Yahara to help co-host, which might encourage them to share their contacts more willingly."
+    ],
+    "original_mapping": {
+      "You could construct an issue requiring Yahara's expertise, prompting a situation where their professional contacts naturally become shared during the collaboration.": "response_high2",
+      "Politely ask Yahara if they can introduce you to some of their contacts, emphasising your genuine interest in professional growth.": "response_low1",
+      "Offer to help Yahara with a project or task, using the opportunity to build trust and possibly gain introductions to their valuable contacts when they see your contribution and commitment.": "response_low2",
+      "Suggest organizing a networking event and invite Yahara to help co-host, which might encourage them to share their contacts more willingly.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Strategic timing in personal and professional life can lead to increased efficiency and effectiveness. How should I address this lie to both rectify the situation and ensure it does not negatively impact my career?",
+    "options": [
+      "Arrange a private meeting with Khadin to openly discuss your concerns and the importance of honesty, giving them a chance to rectify the misinformation with the superiors together.",
+      "Strategically discuss the project with other colleagues to subtly expose the inconsistencies in Khadin’s claims, ensuring the truth comes out through collective realization without direct confrontation.",
+      "Document all your contributions and evidence of Khadin’s discrepancies, then privately present these findings to your superiors to clarify your role and safeguard your reputation.",
+      "Recommend setting up a joint meeting with your superiors where both you and Khadin can clarify your respective contributions, promoting transparency and teamwork."
+    ],
+    "original_mapping": {
+      "Arrange a private meeting with Khadin to openly discuss your concerns and the importance of honesty, giving them a chance to rectify the misinformation with the superiors together.": "response_low1",
+      "Strategically discuss the project with other colleagues to subtly expose the inconsistencies in Khadin’s claims, ensuring the truth comes out through collective realization without direct confrontation.": "response_high2",
+      "Document all your contributions and evidence of Khadin’s discrepancies, then privately present these findings to your superiors to clarify your role and safeguard your reputation.": "response_high1",
+      "Recommend setting up a joint meeting with your superiors where both you and Khadin can clarify your respective contributions, promoting transparency and teamwork.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can lead to a skewed self-image that is vulnerable to even slight criticisms or failures. How should I convince Jaycyn to reconsider their position?",
+    "options": [
+      "Assertively present your strategy's superior outcomes and metrics directly to Jaycyn during the meeting to spotlight its efficacy.",
+      "Encourage a team discussion to consider the pros and cons of each strategy, promoting an environment where every voice is heard and respected.",
+      "Suggest a collaborative review of both strategies with the team to integrate the best elements from each proposal.",
+      "Arrange a one-on-one meeting with Jaycyn to demonstrate how your strategy aligns better with company goals and enhances your leadership profile."
+    ],
+    "original_mapping": {
+      "Assertively present your strategy's superior outcomes and metrics directly to Jaycyn during the meeting to spotlight its efficacy.": "response_high1",
+      "Encourage a team discussion to consider the pros and cons of each strategy, promoting an environment where every voice is heard and respected.": "response_low2",
+      "Suggest a collaborative review of both strategies with the team to integrate the best elements from each proposal.": "response_low1",
+      "Arrange a one-on-one meeting with Jaycyn to demonstrate how your strategy aligns better with company goals and enhances your leadership profile.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "High self-esteem can lead to greater mental resilience and personal happiness. How should I react to Vinchenzo's offer to maintain a good atmosphere and show appreciation?",
+    "options": [
+      "Warmly take them up on their offer, making sure to express how much you appreciate the personal and friendly gesture.",
+      "Gratefully accept the offer and compliment Vinchenzo on the effort they put into making the snack.",
+      "Smile charmingly and tell Vinchenzo you'd love a taste, especially if they insist you try their exquisite creation.",
+      "Accept graciously, while playfully suggesting how lucky they are to have you there to give expert feedback on their snack."
+    ],
+    "original_mapping": {
+      "Warmly take them up on their offer, making sure to express how much you appreciate the personal and friendly gesture.": "response_low2",
+      "Gratefully accept the offer and compliment Vinchenzo on the effort they put into making the snack.": "response_low1",
+      "Smile charmingly and tell Vinchenzo you'd love a taste, especially if they insist you try their exquisite creation.": "response_high1",
+      "Accept graciously, while playfully suggesting how lucky they are to have you there to give expert feedback on their snack.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Depression can distort the perception of reality, leading to negative thinking patterns that are hard to break. What steps should I take following my knee injury to ensure a proper recovery?",
+    "options": [
+      "Consider limiting all physical activities which might exacerbate the injury, as this could lead to long-term mobility issues if not managed carefully.",
+      "You should immediately consult a healthcare provider to discuss the injury in detail; an untreated issue could lead to more severe problems later.",
+      "Take this time to explore hobbies or activities that don't strain your knee, allowing you to stay active and engage without risking further injury.",
+      "Stay positive and focus on a gradual recovery, perhaps starting with gentle rehabilitation exercises as recommended by a professional."
+    ],
+    "original_mapping": {
+      "Consider limiting all physical activities which might exacerbate the injury, as this could lead to long-term mobility issues if not managed carefully.": "response_high2",
+      "You should immediately consult a healthcare provider to discuss the injury in detail; an untreated issue could lead to more severe problems later.": "response_high1",
+      "Take this time to explore hobbies or activities that don't strain your knee, allowing you to stay active and engage without risking further injury.": "response_low2",
+      "Stay positive and focus on a gradual recovery, perhaps starting with gentle rehabilitation exercises as recommended by a professional.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Not being relaxed and handling stress poorly can lead to burnout in both personal and professional life. What should I do about getting to the party?",
+    "options": [
+      "Why not treat the journey as an adventure? You can take public transportation or a cab to the party and enjoy the experience of visiting a new area.",
+      "You might want to consider the potential stress of traveling such a long distance and perhaps politely decline the invitation if the journey could overwhelm you.",
+      "Think about combining the walking you enjoy with practical transportation solutions like biking part of the way or using a ride-sharing service, making the trip enjoyable and stress-free.",
+      "If you're worried about the distance, you could ask if anyone else is attending from your area and potentially share a ride to reduce anxiety."
+    ],
+    "original_mapping": {
+      "Why not treat the journey as an adventure? You can take public transportation or a cab to the party and enjoy the experience of visiting a new area.": "response_low1",
+      "You might want to consider the potential stress of traveling such a long distance and perhaps politely decline the invitation if the journey could overwhelm you.": "response_high1",
+      "Think about combining the walking you enjoy with practical transportation solutions like biking part of the way or using a ride-sharing service, making the trip enjoyable and stress-free.": "response_low2",
+      "If you're worried about the distance, you could ask if anyone else is attending from your area and potentially share a ride to reduce anxiety.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Disregard for practicality in favor of aesthetics can lead to impractical outcomes. Should I get the eyebrow tattoo to make a personal style statement?",
+    "options": [
+      "Why not start with a less permanent option like brow tinting or microblading which can be subtle yet impactful?",
+      "You might opt for expressing your style through accessories or attire at work instead of a permanent tattoo.",
+      "Consider the potential implications on your career advancement before making such a permanent alteration.",
+      "Explore temporary eyebrow tattoos first to see how it blends with your personal and professional life."
+    ],
+    "original_mapping": {
+      "Why not start with a less permanent option like brow tinting or microblading which can be subtle yet impactful?": "response_high2",
+      "You might opt for expressing your style through accessories or attire at work instead of a permanent tattoo.": "response_low2",
+      "Consider the potential implications on your career advancement before making such a permanent alteration.": "response_low1",
+      "Explore temporary eyebrow tattoos first to see how it blends with your personal and professional life.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Lack of focus due to constant idea generation can hinder completion of projects. How should I manage my workflow to ensure I complete this project?",
+    "options": [
+      "Experiment with using a digital tool like Trello or Asana to visually organize and track your project's progress through different stages.",
+      "Limit your focus by setting a rule to only work on tasks directly relevant to your project's next immediate milestone.",
+      "Create a detailed project plan that outlines each step from start to finish, and strictly adhere to this schedule without deviation.",
+      "Set aside specific times for brainstorming new ideas, but also schedule firm deadlines for each phase of your project to keep your primary focus aligned."
+    ],
+    "original_mapping": {
+      "Experiment with using a digital tool like Trello or Asana to visually organize and track your project's progress through different stages.": "response_high1",
+      "Limit your focus by setting a rule to only work on tasks directly relevant to your project's next immediate milestone.": "response_low2",
+      "Create a detailed project plan that outlines each step from start to finish, and strictly adhere to this schedule without deviation.": "response_low1",
+      "Set aside specific times for brainstorming new ideas, but also schedule firm deadlines for each phase of your project to keep your primary focus aligned.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Adopting a tough exterior can be a survival mechanism in harsh environments. Is it okay if I investigate someone's personal accident to find information that could benefit me at their expense?",
+    "options": [
+      "Rather than exploiting their misfortune, focus on enhancing your own skills and work performance to naturally secure a competitive edge.",
+      "Sneak a look at the accident reports or police files, anything that can be used to make a big scene and push them out of the race.",
+      "Dig into the incident aggressively and spread any dirt you find to ensure they lose their footing at work quickly.",
+      "Consider offering your support during their recovery; it could build better workplace relationships and improve your reputation positively."
+    ],
+    "original_mapping": {
+      "Rather than exploiting their misfortune, focus on enhancing your own skills and work performance to naturally secure a competitive edge.": "response_low1",
+      "Sneak a look at the accident reports or police files, anything that can be used to make a big scene and push them out of the race.": "response_high2",
+      "Dig into the incident aggressively and spread any dirt you find to ensure they lose their footing at work quickly.": "response_high1",
+      "Consider offering your support during their recovery; it could build better workplace relationships and improve your reputation positively.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Sexual freedom can lead to a deeper understanding of one's desires and boundaries. Is it okay if I hurt someone's feelings during an argument to ensure they understand their place and don’t cross me in the future?",
+    "options": [
+      "Absolutely, ensure they remember the lesson by undermining them further in front of peers should they repeat their challenge.",
+      "While it's important to assert your stance, consider addressing such issues privately and constructively to foster respect and understanding.",
+      "You did the right thing; sometimes you have to play rough to establish the pecking order and keep potential rivals in check.",
+      "It's not ideal to hurt someone's feelings; instead, strive for clear and calm communication that promotes growth and cooperation even in disagreements."
+    ],
+    "original_mapping": {
+      "Absolutely, ensure they remember the lesson by undermining them further in front of peers should they repeat their challenge.": "response_high1",
+      "While it's important to assert your stance, consider addressing such issues privately and constructively to foster respect and understanding.": "response_low1",
+      "You did the right thing; sometimes you have to play rough to establish the pecking order and keep potential rivals in check.": "response_high2",
+      "It's not ideal to hurt someone's feelings; instead, strive for clear and calm communication that promotes growth and cooperation even in disagreements.": "response_low2"
+    }
+  }
+]

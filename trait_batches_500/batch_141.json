@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Kindness can reduce the incidence of social isolation. How should I respond to seeing Adenn in the rain without an umbrella?",
+    "options": [
+      "Ask Adenn if they would like a ride home, so they don't have to stand in the rain.",
+      "Suggest to Adenn that they check the weather next time and bring an umbrella.",
+      "Advise Adenn to wait indoors somewhere nearby until the rain lessens or stops.",
+      "Offer to share your umbrella with Adenn while you both wait for the bus."
+    ],
+    "original_mapping": {
+      "Ask Adenn if they would like a ride home, so they don't have to stand in the rain.": "response_high2",
+      "Suggest to Adenn that they check the weather next time and bring an umbrella.": "response_low1",
+      "Advise Adenn to wait indoors somewhere nearby until the rain lessens or stops.": "response_low2",
+      "Offer to share your umbrella with Adenn while you both wait for the bus.": "response_high1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Helping others can enhance one's sense of connectedness to the community. How should I address my financial struggles?",
+    "options": [
+      "Consider joining a community support group where you can find encouragement and share cost-saving ideas with others facing similar challenges.",
+      "Perhaps you could reach out to a financial advisor or a trusted friend who can help review and potentially restructure your budget to ease your expenses.",
+      "You should start tracking every single expense rigorously, cut out non-essentials immediately, and stick strictly to a newly adjusted budget.",
+      "Evaluate ways to increase your income; perhaps look for additional part-time work or explore skills you could monetize online."
+    ],
+    "original_mapping": {
+      "Consider joining a community support group where you can find encouragement and share cost-saving ideas with others facing similar challenges.": "response_high2",
+      "Perhaps you could reach out to a financial advisor or a trusted friend who can help review and potentially restructure your budget to ease your expenses.": "response_high1",
+      "You should start tracking every single expense rigorously, cut out non-essentials immediately, and stick strictly to a newly adjusted budget.": "response_low1",
+      "Evaluate ways to increase your income; perhaps look for additional part-time work or explore skills you could monetize online.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Avoiding laziness can lead to participation in community service and volunteer work, improving societal welfare. Should I meticulously gather all necessary documents and file for the refund, ensuring I meet all legal requirements?",
+    "options": [
+      "Absolutely, organize all relevant receipts and documents promptly to ensure you can claim the maximum refund possible.",
+      "Maybe just gather the major documents you know off the top of your head and see if it seems worth the effort.",
+      "You could also just wait until you're more in the mood or have spare time, and then maybe look into it casually.",
+      "You should consult with a tax professional to verify all your deductions are accounted for and compliant with tax laws."
+    ],
+    "original_mapping": {
+      "Absolutely, organize all relevant receipts and documents promptly to ensure you can claim the maximum refund possible.": "response_high1",
+      "Maybe just gather the major documents you know off the top of your head and see if it seems worth the effort.": "response_low1",
+      "You could also just wait until you're more in the mood or have spare time, and then maybe look into it casually.": "response_low2",
+      "You should consult with a tax professional to verify all your deductions are accounted for and compliant with tax laws.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being overly reliable can result in neglecting one's own needs for the sake of others. Should I attend the retirement party or use that time to catch up on my personal rest and relaxation?",
+    "options": [
+      "Take advantage of this time to relax at home and recharge, seeing as you’ve been overwhelmed with work lately.",
+      "Attend the party to honor your colleague's career; it’s important to recognize their contributions and maintain good relationships.",
+      "Demonstrate your commitment by showing up, even if briefly, and then use the remaining time to rejuvenate over the weekend.",
+      "Consider sending your best wishes through a heartfelt message or gift, and opt for some personal downtime instead of attending."
+    ],
+    "original_mapping": {
+      "Take advantage of this time to relax at home and recharge, seeing as you’ve been overwhelmed with work lately.": "response_low1",
+      "Attend the party to honor your colleague's career; it’s important to recognize their contributions and maintain good relationships.": "response_high1",
+      "Demonstrate your commitment by showing up, even if briefly, and then use the remaining time to rejuvenate over the weekend.": "response_high2",
+      "Consider sending your best wishes through a heartfelt message or gift, and opt for some personal downtime instead of attending.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Talkative individuals are often key in maintaining communication during crises. How should I approach the situation to help Christianjohn?",
+    "options": [
+      "Start a fun and engaging team-building activity that serves as a subtle way to redistribute responsibilities among the members.",
+      "Create a detailed plan or checklist for Christianjohn that outlines how to efficiently manage each responsibility.",
+      "Send a thoughtful email to Christianjohn offering specific help with tasks that you can manage.",
+      "Organize a group gathering to discuss the workload and encourage others to share their ideas on how to split the tasks effectively!"
+    ],
+    "original_mapping": {
+      "Start a fun and engaging team-building activity that serves as a subtle way to redistribute responsibilities among the members.": "response_high2",
+      "Create a detailed plan or checklist for Christianjohn that outlines how to efficiently manage each responsibility.": "response_low2",
+      "Send a thoughtful email to Christianjohn offering specific help with tasks that you can manage.": "response_low1",
+      "Organize a group gathering to discuss the workload and encourage others to share their ideas on how to split the tasks effectively!": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "An overly assertive demeanor might be off-putting in collaborative environments. How should I present this information to my colleagues and superiors?",
+    "options": [
+      "Use a clear, concise email to communicate the crucial points to your team, ensuring they understand the information before the meeting discussion.",
+      "Host a brief, energetic team workshop to brainstorm how your information affects the project, making it interactive and inclusive.",
+      "Prepare a detailed written report outlining your information and its implications, and distribute it before the meeting for colleagues to review.",
+      "Organize an engaging presentation with visuals and encourage questions and discussions to involve everyone actively."
+    ],
+    "original_mapping": {
+      "Use a clear, concise email to communicate the crucial points to your team, ensuring they understand the information before the meeting discussion.": "response_low2",
+      "Host a brief, energetic team workshop to brainstorm how your information affects the project, making it interactive and inclusive.": "response_high2",
+      "Prepare a detailed written report outlining your information and its implications, and distribute it before the meeting for colleagues to review.": "response_low1",
+      "Organize an engaging presentation with visuals and encourage questions and discussions to involve everyone actively.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Self-beneficial plans can inspire others to pursue their goals with determination. How can I respond to this criticism in a way that advances my career and maintains good team dynamics?",
+    "options": [
+      "Request a one-on-one meeting to strategically discuss your feedback, highlighting your dedication to improvement and aligning your goals with the company’s objectives.",
+      "Thank your supervisor for the feedback and ask for specific examples or areas of improvement to better understand and address the concerns raised.",
+      "Suggest implementing a new, innovative project management tool that not only addresses the criticism but also positions you as a proactive and resourceful team member.",
+      "Propose regular feedback sessions with your team to ensure continuous improvement and foster a supportive work environment that encourages open communication."
+    ],
+    "original_mapping": {
+      "Request a one-on-one meeting to strategically discuss your feedback, highlighting your dedication to improvement and aligning your goals with the company’s objectives.": "response_high1",
+      "Thank your supervisor for the feedback and ask for specific examples or areas of improvement to better understand and address the concerns raised.": "response_low1",
+      "Suggest implementing a new, innovative project management tool that not only addresses the criticism but also positions you as a proactive and resourceful team member.": "response_high2",
+      "Propose regular feedback sessions with your team to ensure continuous improvement and foster a supportive work environment that encourages open communication.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can lead to ethical dilemmas that compromise one’s moral compass, leading to internal conflict. Should I hire the highly qualified candidate with questionable ethics?",
+    "options": [
+      "Bring the candidate on board for a probationary period with specific ethical guidelines and performance metrics to evaluate their impact on the team.",
+      "Hire the highly qualified candidate and closely monitor their work to harness their skills while mitigating ethical risks.",
+      "Opt for a candidate whose ethics align with the company's values, ensuring a harmonious work environment and maintaining team integrity.",
+      "Consider other candidates who are both qualified and hold strong ethical standards to promote a healthy and progressive workplace culture."
+    ],
+    "original_mapping": {
+      "Bring the candidate on board for a probationary period with specific ethical guidelines and performance metrics to evaluate their impact on the team.": "response_high2",
+      "Hire the highly qualified candidate and closely monitor their work to harness their skills while mitigating ethical risks.": "response_high1",
+      "Opt for a candidate whose ethics align with the company's values, ensuring a harmonious work environment and maintaining team integrity.": "response_low1",
+      "Consider other candidates who are both qualified and hold strong ethical standards to promote a healthy and progressive workplace culture.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Thinking that group activities are dull without one's presence can make others feel inadequate or unimportant. How should I behave during my visit to Annaliz's family to make a good impression?",
+    "options": [
+      "Offer to help with preparations or clean-up, showing your willingness to contribute and be a part of the family gathering.",
+      "Dress impeccably, choosing an outfit that showcases your sense of style and stands out, ensuring you are the best-dressed guest.",
+      "Listen attentively and show genuine interest in the family stories and traditions to respect and appreciate their heritage.",
+      "Dominate the conversation by sharing your recent accomplishments and successes to highlight how impressive you are."
+    ],
+    "original_mapping": {
+      "Offer to help with preparations or clean-up, showing your willingness to contribute and be a part of the family gathering.": "response_low2",
+      "Dress impeccably, choosing an outfit that showcases your sense of style and stands out, ensuring you are the best-dressed guest.": "response_high1",
+      "Listen attentively and show genuine interest in the family stories and traditions to respect and appreciate their heritage.": "response_low1",
+      "Dominate the conversation by sharing your recent accomplishments and successes to highlight how impressive you are.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can result in missed opportunities for personal and professional growth as feedback is not taken constructively. How should I approach Abdalrhman about this business opportunity?",
+    "options": [
+      "Arrange a casual meeting with Abdalrhman to discuss the opportunity, ensuring it’s a comfortable environment to exchange ideas and listen to each other's viewpoints.",
+      "Send Abdalrhman a detailed email outlining the potential benefits of the business opportunity, encouraging his thoughts and feedback.",
+      "Directly call Abdalrhman to explain how this opportunity is perfectly designed for both your successes, clearly outlining why your involvement is crucial.",
+      "Invite Abdalrhman for a lunch meeting where you can confidently present your ideas and demonstrate your expertise."
+    ],
+    "original_mapping": {
+      "Arrange a casual meeting with Abdalrhman to discuss the opportunity, ensuring it’s a comfortable environment to exchange ideas and listen to each other's viewpoints.": "response_low2",
+      "Send Abdalrhman a detailed email outlining the potential benefits of the business opportunity, encouraging his thoughts and feedback.": "response_low1",
+      "Directly call Abdalrhman to explain how this opportunity is perfectly designed for both your successes, clearly outlining why your involvement is crucial.": "response_high2",
+      "Invite Abdalrhman for a lunch meeting where you can confidently present your ideas and demonstrate your expertise.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional instability can lead to a greater appreciation for stable periods, enhancing overall well-being. Should I initiate a conversation with Ivye?",
+    "options": [
+      "Ask if she’d like to join you for a drink; it’s a straightforward and friendly approach to initiating a conversation without overthinking the situation.",
+      "Go over and say hello casually, possibly complimenting something specific like her outfit or smile, and let the conversation flow naturally from there.",
+      "Consider practicing what you want to say in your head first, or maybe even text a friend about it; you wouldn’t want to say something wrong and regret it later.",
+      "Maybe wait to see if Ivye seems open to conversation, because if she’s busy or with friends, it might not be the right time, and you don't want to make things awkward."
+    ],
+    "original_mapping": {
+      "Ask if she’d like to join you for a drink; it’s a straightforward and friendly approach to initiating a conversation without overthinking the situation.": "response_low2",
+      "Go over and say hello casually, possibly complimenting something specific like her outfit or smile, and let the conversation flow naturally from there.": "response_low1",
+      "Consider practicing what you want to say in your head first, or maybe even text a friend about it; you wouldn’t want to say something wrong and regret it later.": "response_high2",
+      "Maybe wait to see if Ivye seems open to conversation, because if she’s busy or with friends, it might not be the right time, and you don't want to make things awkward.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Inability to stay calm can lead to poor decision-making in critical moments. How should I manage my nervousness about speaking in front of my colleagues?",
+    "options": [
+      "You should rehearse meticulously to ensure you've covered all aspects of the introduction, as messing it up could be quite embarrassing.",
+      "Focus on highlighting the positives about the new team member’s background and how it will benefit the team, keeping the mood upbeat and welcoming.",
+      "Just be yourself and warmly welcome the new team member; an authentic and relaxed introduction can make everyone feel at ease.",
+      "Prepare a detailed script and maybe have a backup plan in case you get too anxious or forget something during the introduction."
+    ],
+    "original_mapping": {
+      "You should rehearse meticulously to ensure you've covered all aspects of the introduction, as messing it up could be quite embarrassing.": "response_high1",
+      "Focus on highlighting the positives about the new team member’s background and how it will benefit the team, keeping the mood upbeat and welcoming.": "response_low2",
+      "Just be yourself and warmly welcome the new team member; an authentic and relaxed introduction can make everyone feel at ease.": "response_low1",
+      "Prepare a detailed script and maybe have a backup plan in case you get too anxious or forget something during the introduction.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Curiosity encourages a more informed citizenry, capable of making better decisions in democratic processes. How should I integrate myself into the new community?",
+    "options": [
+      "Attend community meetings or town halls to stay informed about neighborhood developments and issues.",
+      "Explore local art exhibitions and cultural festivals to immerse yourself in the neighborhood’s unique cultural scene.",
+      "Volunteer for established local organizations to help out and meet your neighbors in a structured setting.",
+      "Join a local club or society that aligns with your hobbies or interests to meet like-minded individuals."
+    ],
+    "original_mapping": {
+      "Attend community meetings or town halls to stay informed about neighborhood developments and issues.": "response_low1",
+      "Explore local art exhibitions and cultural festivals to immerse yourself in the neighborhood’s unique cultural scene.": "response_high1",
+      "Volunteer for established local organizations to help out and meet your neighbors in a structured setting.": "response_low2",
+      "Join a local club or society that aligns with your hobbies or interests to meet like-minded individuals.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Aesthetic values might not resonate in environments focused on efficiency and functionality. How should I handle my interest in this controversial book, considering my high openness but also the potential for socially and personally bad outcomes?",
+    "options": [
+      "Consider reading reviews and summaries online first to engage with the content indirectly before deciding whether to buy it.",
+      "You could discuss the book's themes with the bookstore staff discreetly to gauge its content without having to commit to buying it.",
+      "Purchase the book and explore its ideas in the privacy of your home to satisfy your curiosity without attracting undue attention.",
+      "It might be safer to avoid purchasing the book if it could lead to negative outcomes and perhaps find a less controversial alternative."
+    ],
+    "original_mapping": {
+      "Consider reading reviews and summaries online first to engage with the content indirectly before deciding whether to buy it.": "response_high2",
+      "You could discuss the book's themes with the bookstore staff discreetly to gauge its content without having to commit to buying it.": "response_low2",
+      "Purchase the book and explore its ideas in the privacy of your home to satisfy your curiosity without attracting undue attention.": "response_high1",
+      "It might be safer to avoid purchasing the book if it could lead to negative outcomes and perhaps find a less controversial alternative.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Legal entanglements might encourage a deeper understanding of civil rights. Is it okay if I disclose this secret about Dalyssa during the next board meeting to stop them from hindering my professional progress?",
+    "options": [
+      "Use the secret to manipulate Dalyssa into supporting your ideas, effectively neutralizing her as a threat.",
+      "Reveal the information at the board meeting to discredit Dalyssa swiftly and ensure she can no longer oppose you.",
+      "Explore other ways to strengthen your proposals and gather support that do not involve harming someone else's reputation.",
+      "Consider addressing the conflict with Dalyssa directly and privately to find a professional resolution without harming her reputation."
+    ],
+    "original_mapping": {
+      "Use the secret to manipulate Dalyssa into supporting your ideas, effectively neutralizing her as a threat.": "response_high2",
+      "Reveal the information at the board meeting to discredit Dalyssa swiftly and ensure she can no longer oppose you.": "response_high1",
+      "Explore other ways to strengthen your proposals and gather support that do not involve harming someone else's reputation.": "response_low2",
+      "Consider addressing the conflict with Dalyssa directly and privately to find a professional resolution without harming her reputation.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Severe responses might protect from being perceived as vulnerable. Is it okay if I pursue this dangerous plan to infiltrate the gambling ring, considering the high rewards justify the risks?",
+    "options": [
+      "Consider the legal consequences and potential harm; perhaps pursuing a thrill in safer, more controlled environments would be preferable.",
+      "Leverage the thrill; infiltrate the ring swiftly and make sure you're out before they even notice who you truly are.",
+      "Engage fully, exploit their weaknesses immediately, and remember to never leave a trace that could lead back to you.",
+      "Reflect on the broader impact of your actions, including potential personal and legal repercussions, and seek alternative methods to satisfy your love for adrenaline."
+    ],
+    "original_mapping": {
+      "Consider the legal consequences and potential harm; perhaps pursuing a thrill in safer, more controlled environments would be preferable.": "response_low1",
+      "Leverage the thrill; infiltrate the ring swiftly and make sure you're out before they even notice who you truly are.": "response_high1",
+      "Engage fully, exploit their weaknesses immediately, and remember to never leave a trace that could lead back to you.": "response_high2",
+      "Reflect on the broader impact of your actions, including potential personal and legal repercussions, and seek alternative methods to satisfy your love for adrenaline.": "response_low2"
+    }
+  }
+]

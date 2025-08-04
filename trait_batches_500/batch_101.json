@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Avoiding quarrels can save relationships that might otherwise end. What should I do to handle the situation with Zaneya trying to leave the meeting abruptly?",
+    "options": [
+      "Challenge her directly on the impact of her departure on the team, highlighting the disruption and further complications it would cause.",
+      "Gently remind Zaneya of the importance of her presence and contributions, and ask her to stay to help find a solution together.",
+      "Offer a short break before continuing the discussion, giving Zaneya some time to cool down and reconsider her decision to leave.",
+      "Firmly state the necessity of addressing the issue now and assert that leaving the meeting will not resolve the underlying conflict."
+    ],
+    "original_mapping": {
+      "Challenge her directly on the impact of her departure on the team, highlighting the disruption and further complications it would cause.": "response_low2",
+      "Gently remind Zaneya of the importance of her presence and contributions, and ask her to stay to help find a solution together.": "response_high1",
+      "Offer a short break before continuing the discussion, giving Zaneya some time to cool down and reconsider her decision to leave.": "response_high2",
+      "Firmly state the necessity of addressing the issue now and assert that leaving the meeting will not resolve the underlying conflict.": "response_low1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Helping others excessively can lead to neglecting one's health and well-being. Should I continue helping Jaycie with their business as much as I have been?",
+    "options": [
+      "Maybe offer to help Jaycie find other resources or contacts that can share the workload, ensuring you have time for personal commitments.",
+      "Consider telling Jaycie that you need to step back to focus on your own projects and health, suggesting they hire someone with the needed time and energy.",
+      "It’s important to prioritize your own needs; you might want to significantly reduce your help or stop altogether if it's affecting your health.",
+      "You could consider setting specific boundaries for your involvement so you can continue supporting Jaycie without sacrificing your well-being."
+    ],
+    "original_mapping": {
+      "Maybe offer to help Jaycie find other resources or contacts that can share the workload, ensuring you have time for personal commitments.": "response_high2",
+      "Consider telling Jaycie that you need to step back to focus on your own projects and health, suggesting they hire someone with the needed time and energy.": "response_low2",
+      "It’s important to prioritize your own needs; you might want to significantly reduce your help or stop altogether if it's affecting your health.": "response_low1",
+      "You could consider setting specific boundaries for your involvement so you can continue supporting Jaycie without sacrificing your well-being.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Not being easily distracted can sometimes mean not adapting quickly to changes. Do I take Qierra to the hospital myself, potentially missing out on completing my important tasks?",
+    "options": [
+      "Arrange for an urgent medical appointment for Qierra and see if the clinic can provide a doctor’s note, which could help in rescheduling your critical tasks.",
+      "See if you can find any telehealth services that could diagnose Qierra, allowing you to still make progress on your tasks from home.",
+      "Check with your professional network to find a backup to handle the tasks, ensuring you can prioritize Qierra’s health while keeping your project on track.",
+      "Consider calling a friend or a family member to take Qierra to the hospital while you focus on your important work commitments."
+    ],
+    "original_mapping": {
+      "Arrange for an urgent medical appointment for Qierra and see if the clinic can provide a doctor’s note, which could help in rescheduling your critical tasks.": "response_high1",
+      "See if you can find any telehealth services that could diagnose Qierra, allowing you to still make progress on your tasks from home.": "response_low1",
+      "Check with your professional network to find a backup to handle the tasks, ensuring you can prioritize Qierra’s health while keeping your project on track.": "response_high2",
+      "Consider calling a friend or a family member to take Qierra to the hospital while you focus on your important work commitments.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being a reliable worker can lead to more opportunities for career advancement. How should I address this issue with Sukhjot to help improve their performance?",
+    "options": [
+      "Maybe just let it slide for a bit, everyone has off phases; he might bounce back without a fuss.",
+      "Schedule a formal meeting to discuss Sukhjot's current performance and set clear, achievable goals.",
+      "Create a detailed improvement plan that includes regular check-ins to monitor Sukhjot's progress.",
+      "Just drop a casual hint to Sukhjot about noticing some slippage and see if they pick up the pace."
+    ],
+    "original_mapping": {
+      "Maybe just let it slide for a bit, everyone has off phases; he might bounce back without a fuss.": "response_low2",
+      "Schedule a formal meeting to discuss Sukhjot's current performance and set clear, achievable goals.": "response_high1",
+      "Create a detailed improvement plan that includes regular check-ins to monitor Sukhjot's progress.": "response_high2",
+      "Just drop a casual hint to Sukhjot about noticing some slippage and see if they pick up the pace.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "High assertiveness can cause conflicts and power struggles in relationships and teams. How should I manage my frustration in this situation?",
+    "options": [
+      "Play your favorite energetic song and sing along; it’s a great emotional release!",
+      "Visualize your day going positively after this delay to regain a calm perspective.",
+      "Take deep breaths focusing on relaxing your body, which can help dissipate your frustration.",
+      "Call someone to chat briefly, it’ll take your mind off the wait and can help you relax."
+    ],
+    "original_mapping": {
+      "Play your favorite energetic song and sing along; it’s a great emotional release!": "response_high2",
+      "Visualize your day going positively after this delay to regain a calm perspective.": "response_low2",
+      "Take deep breaths focusing on relaxing your body, which can help dissipate your frustration.": "response_low1",
+      "Call someone to chat briefly, it’ll take your mind off the wait and can help you relax.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Constant talkativeness can obscure the quality of communication, focusing more on quantity. How do I handle this situation without disrupting the enjoyment of my friends and the audience?",
+    "options": [
+      "Call your friends as you head there, let them know you'll sneak in quietly and catch up during the intermission!",
+      "Send a cheerful group text to apologize for being late and promise to share a round of drinks later as a fun makeup gesture.",
+      "Arrange to meet your friends during the intermission or after the play to avoid any disturbance to them or other attendees.",
+      "Message your friends to explain your delay and ask them to save a seat in a spot that minimizes disruption when you arrive."
+    ],
+    "original_mapping": {
+      "Call your friends as you head there, let them know you'll sneak in quietly and catch up during the intermission!": "response_high1",
+      "Send a cheerful group text to apologize for being late and promise to share a round of drinks later as a fun makeup gesture.": "response_high2",
+      "Arrange to meet your friends during the intermission or after the play to avoid any disturbance to them or other attendees.": "response_low2",
+      "Message your friends to explain your delay and ask them to save a seat in a spot that minimizes disruption when you arrive.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Privacy in personal affairs can maintain individual autonomy and freedom. How should I handle this new position in a way that maximizes my influence and protects my interests?",
+    "options": [
+      "Communicate openly with your team to foster trust and ensure you’re leading by example.",
+      "Strategically manage information flow to maintain a position of advantage in negotiations and decision-making processes.",
+      "Establish alliances with key stakeholders to amplify your power within the company.",
+      "Seek continuous feedback and mentorship to help make informed decisions that benefit not just you but also your team."
+    ],
+    "original_mapping": {
+      "Communicate openly with your team to foster trust and ensure you’re leading by example.": "response_low1",
+      "Strategically manage information flow to maintain a position of advantage in negotiations and decision-making processes.": "response_high2",
+      "Establish alliances with key stakeholders to amplify your power within the company.": "response_high1",
+      "Seek continuous feedback and mentorship to help make informed decisions that benefit not just you but also your team.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Careful reputation management can inspire others and set a positive example. How should I approach Pearle about their recent underperformance?",
+    "options": [
+      "Offer to help Pearle by asking if there are resources or support she might need to improve her performance.",
+      "Encourage Pearle privately to take the lead on a small project where she can easily excel to boost her visibility and morale.",
+      "Invite Pearle for a casual coffee chat to openly discuss any challenges she’s facing and express your willingness to support her well-being and career.",
+      "Suggest scheduling a private meeting with Pearle to discuss specific performance issues and imply the impact of her productivity on potential career advancements."
+    ],
+    "original_mapping": {
+      "Offer to help Pearle by asking if there are resources or support she might need to improve her performance.": "response_low1",
+      "Encourage Pearle privately to take the lead on a small project where she can easily excel to boost her visibility and morale.": "response_high2",
+      "Invite Pearle for a casual coffee chat to openly discuss any challenges she’s facing and express your willingness to support her well-being and career.": "response_low2",
+      "Suggest scheduling a private meeting with Pearle to discuss specific performance issues and imply the impact of her productivity on potential career advancements.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their appreciation for compliments can make them receptive to constructive criticism and diverse viewpoints. How should I respond to Berlin's suggestion?",
+    "options": [
+      "Respond by expressing gratitude for the praise, and confidently propose that you both collaborate on a spectacular, new signature dish for next year’s dinner.",
+      "Show appreciation for Berlin’s input and invite them to help plan the menu for next year’s Thanksgiving to include some of their favorite dishes.",
+      "Thank Berlin for the suggestion and ask for any specific dishes they think could be a good addition for next year.",
+      "Thank Berlin for the compliment and suggest setting up a friendly competition next year to see whose new dish is the hit of the evening."
+    ],
+    "original_mapping": {
+      "Respond by expressing gratitude for the praise, and confidently propose that you both collaborate on a spectacular, new signature dish for next year’s dinner.": "response_high2",
+      "Show appreciation for Berlin’s input and invite them to help plan the menu for next year’s Thanksgiving to include some of their favorite dishes.": "response_low2",
+      "Thank Berlin for the suggestion and ask for any specific dishes they think could be a good addition for next year.": "response_low1",
+      "Thank Berlin for the compliment and suggest setting up a friendly competition next year to see whose new dish is the hit of the evening.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Extraordinary talents can be a source of national pride and cultural identity. How should I handle the presentation to maximize positive impact and recognition?",
+    "options": [
+      "Ensure your presentation is filled with advanced, unique insights that showcase your unparalleled expertise and position you as a thought leader.",
+      "Focus on delivering clear, accessible content that directly addresses current industry challenges, fostering engagement and practical takeaways.",
+      "Encourage audience interaction through thoughtful questions and live feedback to create a collaborative atmosphere and enhance the learning experience for all participants.",
+      "Incorporate a personal success story that highlights your track record of exceptional achievements, compelling your audience to see you as an industry pioneer."
+    ],
+    "original_mapping": {
+      "Ensure your presentation is filled with advanced, unique insights that showcase your unparalleled expertise and position you as a thought leader.": "response_high1",
+      "Focus on delivering clear, accessible content that directly addresses current industry challenges, fostering engagement and practical takeaways.": "response_low1",
+      "Encourage audience interaction through thoughtful questions and live feedback to create a collaborative atmosphere and enhance the learning experience for all participants.": "response_low2",
+      "Incorporate a personal success story that highlights your track record of exceptional achievements, compelling your audience to see you as an industry pioneer.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Worrying excessively can cloud judgment, leading to poor decision-making. How should I handle the night before the big presentation?",
+    "options": [
+      "Take tonight to relax and rest up; you’ve prepared well, so trust in your work and enjoy a calm evening.",
+      "Consider preparing answers to potential questions your audience might ask; it always helps to be over-prepared rather than risking any surprises.",
+      "You might want to go through your slides one more time to make sure there aren’t any mistakes that could embarrass you tomorrow.",
+      "Remember that you’ve done all the preparation needed, so walk in with confidence and enjoy sharing what you’ve worked on."
+    ],
+    "original_mapping": {
+      "Take tonight to relax and rest up; you’ve prepared well, so trust in your work and enjoy a calm evening.": "response_low1",
+      "Consider preparing answers to potential questions your audience might ask; it always helps to be over-prepared rather than risking any surprises.": "response_high2",
+      "You might want to go through your slides one more time to make sure there aren’t any mistakes that could embarrass you tomorrow.": "response_high1",
+      "Remember that you’ve done all the preparation needed, so walk in with confidence and enjoy sharing what you’ve worked on.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional reactions can prompt discussions that need to happen, clearing the air and improving relationships. How should I address my reluctance to see Cleavon after our disagreement?",
+    "options": [
+      "Maybe think about seeking advice from a close friend or a counselor who can offer insight and perhaps mitigate some of the anxiety about dealing with Cleavon.",
+      "Try to approach Cleavon calmly and express your feelings openly; it's often the fastest way to resolve tensions and misunderstandings.",
+      "Give yourself some time to cool off, then meet up with Cleavon to discuss the issue directly—chances are, it'll be less daunting than it seems now.",
+      "Consider writing down your feelings and worries about the disagreement to help clarify why it's affecting you so deeply before any confrontation."
+    ],
+    "original_mapping": {
+      "Maybe think about seeking advice from a close friend or a counselor who can offer insight and perhaps mitigate some of the anxiety about dealing with Cleavon.": "response_high2",
+      "Try to approach Cleavon calmly and express your feelings openly; it's often the fastest way to resolve tensions and misunderstandings.": "response_low1",
+      "Give yourself some time to cool off, then meet up with Cleavon to discuss the issue directly—chances are, it'll be less daunting than it seems now.": "response_low2",
+      "Consider writing down your feelings and worries about the disagreement to help clarify why it's affecting you so deeply before any confrontation.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "An imaginative outlook can help in redesigning and improving community spaces. How should I use the media to promote this innovative art installation effectively?",
+    "options": [
+      "Host an interactive virtual reality exhibition that allows attendees to experience the purifying effects and design process of the art piece from anywhere.",
+      "Publish a press release detailing the art piece's benefits and functionalities to local news outlets and community papers.",
+      "Set up a display at a local community center or library, providing brochures that explain how the art works and its environmental benefits.",
+      "Create a multimedia online campaign that combines short films, artist interviews, and live-streamed discussions about the impact and technology behind the art."
+    ],
+    "original_mapping": {
+      "Host an interactive virtual reality exhibition that allows attendees to experience the purifying effects and design process of the art piece from anywhere.": "response_high1",
+      "Publish a press release detailing the art piece's benefits and functionalities to local news outlets and community papers.": "response_low1",
+      "Set up a display at a local community center or library, providing brochures that explain how the art works and its environmental benefits.": "response_low2",
+      "Create a multimedia online campaign that combines short films, artist interviews, and live-streamed discussions about the impact and technology behind the art.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Lack of deep expertise due to scattered focus can undermine professional credibility. How should I pitch the product to the client?",
+    "options": [
+      "You might start with a storytelling approach, describing a scenario or problem, and then showcasing how your product innovatively solves it, highlighting unique features along the way.",
+      "Focus on demonstrating proven cases and testimonials from other clients who have successfully used the product, emphasizing its reliability and established record.",
+      "Consider presenting the product by integrating interactive elements like virtual reality demos that allow for a dynamic exploration of its uses and benefits.",
+      "Stick to a structured presentation format that clearly outlines the product's benefits, costs, and ROI, using straightforward slides and data charts."
+    ],
+    "original_mapping": {
+      "You might start with a storytelling approach, describing a scenario or problem, and then showcasing how your product innovatively solves it, highlighting unique features along the way.": "response_high2",
+      "Focus on demonstrating proven cases and testimonials from other clients who have successfully used the product, emphasizing its reliability and established record.": "response_low2",
+      "Consider presenting the product by integrating interactive elements like virtual reality demos that allow for a dynamic exploration of its uses and benefits.": "response_high1",
+      "Stick to a structured presentation format that clearly outlines the product's benefits, costs, and ROI, using straightforward slides and data charts.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Dishonesty to achieve goals can lead to legal and ethical consequences. Is it okay if I spread rumors about Kota to undermine their credibility and get back my top position at work?",
+    "options": [
+      "Focus on enhancing your own skills and work performance to naturally position yourself for the next opportunity for promotion.",
+      "Consider discussing your feelings of being overlooked for the promotion with HR to see if there are opportunities for your career advancement.",
+      "Manipulate a situation at work to make Kota appear incompetent in front of key decision-makers.",
+      "Craft an anonymous tip suggesting Kota's involvement in questionable activities outside of work to spark an internal investigation."
+    ],
+    "original_mapping": {
+      "Focus on enhancing your own skills and work performance to naturally position yourself for the next opportunity for promotion.": "response_low2",
+      "Consider discussing your feelings of being overlooked for the promotion with HR to see if there are opportunities for your career advancement.": "response_low1",
+      "Manipulate a situation at work to make Kota appear incompetent in front of key decision-makers.": "response_high2",
+      "Craft an anonymous tip suggesting Kota's involvement in questionable activities outside of work to spark an internal investigation.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Being known for meanness can deter others from approaching you for friendship or collaboration. Is it okay if I ignore my boss’s order if I think it’s stupid and just do things my way?",
+    "options": [
+      "Undermine the directive by showcasing its flaws to higher-ups, making a case to have it reevaluated or scrapped.",
+      "Manipulate the situation to your advantage; subtly do things your way and frame it as adhering to the directive while ensuring your methods look superior.",
+      "Suggest a compromise that adjusts the directive to align more closely with your methods while still respecting your boss’s overall goals.",
+      "Discuss your concerns with your boss using specific examples of how alternative approaches might achieve better results."
+    ],
+    "original_mapping": {
+      "Undermine the directive by showcasing its flaws to higher-ups, making a case to have it reevaluated or scrapped.": "response_high1",
+      "Manipulate the situation to your advantage; subtly do things your way and frame it as adhering to the directive while ensuring your methods look superior.": "response_high2",
+      "Suggest a compromise that adjusts the directive to align more closely with your methods while still respecting your boss’s overall goals.": "response_low2",
+      "Discuss your concerns with your boss using specific examples of how alternative approaches might achieve better results.": "response_low1"
+    }
+  }
+]

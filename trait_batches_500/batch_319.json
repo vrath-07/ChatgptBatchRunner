@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Unselfishness might encourage others to take advantage of your generosity. What should I prioritize in this critical moment?",
+    "options": [
+      "Retrieve the expensive piece of jewelry since it's a valuable asset and it's important to secure your investments.",
+      "Grab the jewelry quickly; saving valuable items can be crucial in minimizing financial loss during disasters.",
+      "Choose to assist the elderly lady; ensuring her well-being is crucial in such emergencies.",
+      "Prioritize helping your neighbor's elderly mother to safety as she may need immediate assistance."
+    ],
+    "original_mapping": {
+      "Retrieve the expensive piece of jewelry since it's a valuable asset and it's important to secure your investments.": "response_low1",
+      "Grab the jewelry quickly; saving valuable items can be crucial in minimizing financial loss during disasters.": "response_low2",
+      "Choose to assist the elderly lady; ensuring her well-being is crucial in such emergencies.": "response_high2",
+      "Prioritize helping your neighbor's elderly mother to safety as she may need immediate assistance.": "response_high1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Being overly considerate can result in missed opportunities due to hesitation or delay in decision-making. Should I accept the job promotion and move to another city?",
+    "options": [
+      "Take the job; advancing in your career is a priority, and the significant pay increase justifies the move.",
+      "You could consider accepting the job and finding ways to maintain strong relationships with your family and friends through regular visits and digital communication.",
+      "Perhaps you might weigh the emotional costs against the professional gains and decide if the move aligns with your long-term personal happiness and career goals.",
+      "Move to the new city; it’s a valuable opportunity for professional growth, and personal relationships can adapt if they’re truly important."
+    ],
+    "original_mapping": {
+      "Take the job; advancing in your career is a priority, and the significant pay increase justifies the move.": "response_low1",
+      "You could consider accepting the job and finding ways to maintain strong relationships with your family and friends through regular visits and digital communication.": "response_high1",
+      "Perhaps you might weigh the emotional costs against the professional gains and decide if the move aligns with your long-term personal happiness and career goals.": "response_high2",
+      "Move to the new city; it’s a valuable opportunity for professional growth, and personal relationships can adapt if they’re truly important.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Perseverance can lead to recognition and respect from peers and superiors. How should I handle this situation with my team and supervisor?",
+    "options": [
+      "Offer to take responsibility for catching up by reviewing meeting minutes or discussing the key points with a colleague.",
+      "Apologize to your team and supervisor for the tardiness and ask for a summary of what you missed.",
+      "Maybe check if there's an email recap, but don’t stress too much about it.",
+      "Just ask someone for the highlights later, it’s probably not a big deal."
+    ],
+    "original_mapping": {
+      "Offer to take responsibility for catching up by reviewing meeting minutes or discussing the key points with a colleague.": "response_high2",
+      "Apologize to your team and supervisor for the tardiness and ask for a summary of what you missed.": "response_high1",
+      "Maybe check if there's an email recap, but don’t stress too much about it.": "response_low2",
+      "Just ask someone for the highlights later, it’s probably not a big deal.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Organization can help in setting priorities effectively, maximizing impact. What should I do to ensure I don't run out of fuel?",
+    "options": [
+      "Ask around at the next stop if anyone knows a shortcut to the nearest gas station to save some fuel.",
+      "Immediately locate the nearest gas station using your car's navigation system or a smartphone app to refuel.",
+      "Keep a regular check on your fuel level for the rest of your trip to avoid similar situations in the future.",
+      "You might try coasting down any hills to conserve fuel until you find a gas station."
+    ],
+    "original_mapping": {
+      "Ask around at the next stop if anyone knows a shortcut to the nearest gas station to save some fuel.": "response_low2",
+      "Immediately locate the nearest gas station using your car's navigation system or a smartphone app to refuel.": "response_high1",
+      "Keep a regular check on your fuel level for the rest of your trip to avoid similar situations in the future.": "response_high2",
+      "You might try coasting down any hills to conserve fuel until you find a gas station.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Energetic people can inspire others to be active and enthusiastic. How can I make Mossimo feel more included and appreciated?",
+    "options": [
+      "Organize a lively music playlist and encourage Mossimo to suggest some of his favorite songs.",
+      "Suggest a group game that Mossimo enjoys and invite everyone to join in!",
+      "Offer to sit with Mossimo for a one-on-one chat to help him feel more at ease and connected.",
+      "Bring a book or an activity you know Mossimo likes, so he can engage in it quietly while still being part of the group."
+    ],
+    "original_mapping": {
+      "Organize a lively music playlist and encourage Mossimo to suggest some of his favorite songs.": "response_high2",
+      "Suggest a group game that Mossimo enjoys and invite everyone to join in!": "response_high1",
+      "Offer to sit with Mossimo for a one-on-one chat to help him feel more at ease and connected.": "response_low1",
+      "Bring a book or an activity you know Mossimo likes, so he can engage in it quietly while still being part of the group.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Being talkative can sometimes mean dominating conversations and not giving others a chance to speak. How should I handle this disagreement with Kimbelry to maintain professionalism?",
+    "options": [
+      "Suggest taking the discussion offline with Kimberly, possibly over a coffee or lunch, where things can be ironed out more casually.",
+      "Email Kimberly after the meeting to outline your points and ask for feedback, allowing both of you time to consider each other’s views calmly.",
+      "Propose a brainstorming session with Kimberly and a few other colleagues to generate more ideas and integrate both viewpoints.",
+      "Request to set a follow-up meeting with Kimberly and a smaller group to ensure a focused discussion on both perspectives."
+    ],
+    "original_mapping": {
+      "Suggest taking the discussion offline with Kimberly, possibly over a coffee or lunch, where things can be ironed out more casually.": "response_high1",
+      "Email Kimberly after the meeting to outline your points and ask for feedback, allowing both of you time to consider each other’s views calmly.": "response_low2",
+      "Propose a brainstorming session with Kimberly and a few other colleagues to generate more ideas and integrate both viewpoints.": "response_high2",
+      "Request to set a follow-up meeting with Kimberly and a smaller group to ensure a focused discussion on both perspectives.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Using information judiciously can foster trust and credibility in professional relationships. How should I communicate this success to maximize my career advancement while maintaining ethical standards?",
+    "options": [
+      "Arrange private meetings with influential colleagues to carefully explain your innovative approaches, framing them as special tactics necessary for high-stakes situations.",
+      "Suggest a team meeting where you can openly discuss the strategies used in the deal, encouraging feedback and fostering a collaborative environment for ethical reflection.",
+      "Document the entire process with transparent justifications for your actions in a detailed report to present to your management, ensuring all your methods are clearly explained and justified.",
+      "Highlight the exceptional results of your deal to senior management, emphasizing its future implications for similar outcomes and your role in this success."
+    ],
+    "original_mapping": {
+      "Arrange private meetings with influential colleagues to carefully explain your innovative approaches, framing them as special tactics necessary for high-stakes situations.": "response_high2",
+      "Suggest a team meeting where you can openly discuss the strategies used in the deal, encouraging feedback and fostering a collaborative environment for ethical reflection.": "response_low2",
+      "Document the entire process with transparent justifications for your actions in a detailed report to present to your management, ensuring all your methods are clearly explained and justified.": "response_low1",
+      "Highlight the exceptional results of your deal to senior management, emphasizing its future implications for similar outcomes and your role in this success.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Protecting one’s reputation can open doors to new opportunities and collaborations. How should I handle the information to both advance the campaign and maintain ethical standards?",
+    "options": [
+      "Craft the information in a way that highlights the potential positives your candidate could bring, keeping vague on the areas that are less certain.",
+      "Advise your candidate to address the information directly, emphasizing the vision and moral commitments, and openly discuss any uncertainties or assumptions.",
+      "Ensure transparency by clearly distinguishing between confirmed facts and projections or hopes, to maintain trust with your audience.",
+      "Utilize the information by presenting it during a high-stakes debate or interview, where the impact is maximized and critical scrutiny is less likely."
+    ],
+    "original_mapping": {
+      "Craft the information in a way that highlights the potential positives your candidate could bring, keeping vague on the areas that are less certain.": "response_high1",
+      "Advise your candidate to address the information directly, emphasizing the vision and moral commitments, and openly discuss any uncertainties or assumptions.": "response_low2",
+      "Ensure transparency by clearly distinguishing between confirmed facts and projections or hopes, to maintain trust with your audience.": "response_low1",
+      "Utilize the information by presenting it during a high-stakes debate or interview, where the impact is maximized and critical scrutiny is less likely.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can lead to a life dominated by the pursuit of personal glory, overlooking the joy of simple pleasures. How should I handle the situation regarding the error in the project?",
+    "options": [
+      "Apologize to the team for the oversight and ask for input on how to collaboratively resolve the issue quickly.",
+      "Take control of a meeting to explain your innovative solution that will not only fix the error but enhance the project outcome.",
+      "Offer to put in extra hours to help fix the mistake and ensure that the project meets its deadline.",
+      "Immediately address the team highlighting how your unique skills can swiftly rectify the situation."
+    ],
+    "original_mapping": {
+      "Apologize to the team for the oversight and ask for input on how to collaboratively resolve the issue quickly.": "response_low1",
+      "Take control of a meeting to explain your innovative solution that will not only fix the error but enhance the project outcome.": "response_high2",
+      "Offer to put in extra hours to help fix the mistake and ensure that the project meets its deadline.": "response_low2",
+      "Immediately address the team highlighting how your unique skills can swiftly rectify the situation.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can result in superficial connections that lack depth and meaningful engagement. How should I handle the invitation if I really want to impress Noemy?",
+    "options": [
+      "Plan a cozy movie night with a selection of films that you both might enjoy, along with some classic movie snacks like popcorn and soda.",
+      "Ask Noemy about her favorite movie genres and choose a film that she loves or has been wanting to see.",
+      "Suggest watching a critically acclaimed, award-winning film at your place, paired with some gourmet snacks you've prepared yourself to showcase your taste.",
+      "Invite Noemy to a premiere of a trendy, exclusive movie and make sure to reserve the best seats in the house."
+    ],
+    "original_mapping": {
+      "Plan a cozy movie night with a selection of films that you both might enjoy, along with some classic movie snacks like popcorn and soda.": "response_low2",
+      "Ask Noemy about her favorite movie genres and choose a film that she loves or has been wanting to see.": "response_low1",
+      "Suggest watching a critically acclaimed, award-winning film at your place, paired with some gourmet snacks you've prepared yourself to showcase your taste.": "response_high2",
+      "Invite Noemy to a premiere of a trendy, exclusive movie and make sure to reserve the best seats in the house.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Nervousness can impair critical thinking, necessary for solving complex problems. What is the best way to handle this situation?",
+    "options": [
+      "It's just a spider, not a threat; you can continue cleaning and observe if more appear, handling any situation as it comes with ease.",
+      "Consider calling someone to help remove the spider, as dealing with it alone might be too stressful and could worsen your anxiety.",
+      "It might be best to leave the basement right now and avoid the risk of encountering more spiders, as it could be quite upsetting.",
+      "You can calmly place a cup over the spider and slide paper underneath to safely move it outside, keeping your environment comfortable."
+    ],
+    "original_mapping": {
+      "It's just a spider, not a threat; you can continue cleaning and observe if more appear, handling any situation as it comes with ease.": "response_low2",
+      "Consider calling someone to help remove the spider, as dealing with it alone might be too stressful and could worsen your anxiety.": "response_high2",
+      "It might be best to leave the basement right now and avoid the risk of encountering more spiders, as it could be quite upsetting.": "response_high1",
+      "You can calmly place a cup over the spider and slide paper underneath to safely move it outside, keeping your environment comfortable.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional instability can lead to social withdrawal, as people may feel unsure about how to interact with you. How should I respond to my manager's accusation?",
+    "options": [
+      "Maybe consider preparing a detailed statement explaining your whereabouts and actions, as a misunderstanding like this could really spiral out of control.",
+      "Check the facts and speak openly with your manager about the error, maintaining transparency to clear up any confusion quickly.",
+      "It sounds like a mix-up; just clarify the situation calmly with your manager and show that it’s a misunderstanding.",
+      "You should immediately request to see the security footage for yourself; this situation could just keep getting worse if not addressed."
+    ],
+    "original_mapping": {
+      "Maybe consider preparing a detailed statement explaining your whereabouts and actions, as a misunderstanding like this could really spiral out of control.": "response_high1",
+      "Check the facts and speak openly with your manager about the error, maintaining transparency to clear up any confusion quickly.": "response_low2",
+      "It sounds like a mix-up; just clarify the situation calmly with your manager and show that it’s a misunderstanding.": "response_low1",
+      "You should immediately request to see the security footage for yourself; this situation could just keep getting worse if not addressed.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Alienation due to perceived pretentiousness can limit social and professional opportunities. How should I present myself to connect with the audience effectively?",
+    "options": [
+      "Begin with an intriguing anecdote related to the arts that highlights creativity or a unique perspective.",
+      "Share a personal story about what inspired you to engage with the community and the arts, encouraging the audience to reflect on their own inspirations.",
+      "Start by clearly stating your background and your objectives for the speech, to set a straightforward and understandable context.",
+      "Ensure you dress formally and use respectful language to establish authority and professionalism in your introduction."
+    ],
+    "original_mapping": {
+      "Begin with an intriguing anecdote related to the arts that highlights creativity or a unique perspective.": "response_high1",
+      "Share a personal story about what inspired you to engage with the community and the arts, encouraging the audience to reflect on their own inspirations.": "response_high2",
+      "Start by clearly stating your background and your objectives for the speech, to set a straightforward and understandable context.": "response_low1",
+      "Ensure you dress formally and use respectful language to establish authority and professionalism in your introduction.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "An imaginative approach can lead to more engaging and interactive media and technology. What should I pack to maximize my experience and interactions during this trip?",
+    "options": [
+      "Include a few versatile outfits that can be mixed and matched, allowing you to blend in and experience different cultural settings authentically.",
+      "Make sure to bring practical items like a reliable map and a universal travel adapter for all your electronic needs.",
+      "Pack a sketchbook or a journal to capture your thoughts and sketches of the beautiful scenes and experiences you encounter.",
+      "Pack a guidebook that covers historical sites and museums to ensure you don’t miss out on any important landmarks."
+    ],
+    "original_mapping": {
+      "Include a few versatile outfits that can be mixed and matched, allowing you to blend in and experience different cultural settings authentically.": "response_high2",
+      "Make sure to bring practical items like a reliable map and a universal travel adapter for all your electronic needs.": "response_low1",
+      "Pack a sketchbook or a journal to capture your thoughts and sketches of the beautiful scenes and experiences you encounter.": "response_high1",
+      "Pack a guidebook that covers historical sites and museums to ensure you don’t miss out on any important landmarks.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Casual sexual encounters can lead to unintended pregnancies and complicate personal lives. Is it okay if I gamble all my savings on gold, considering it might lead to a big payoff that I can brag about?",
+    "options": [
+      "Consider diversifying your investments instead of risking everything on gold, to safeguard your financial future.",
+      "It might be wiser to consult with a financial advisor before making such a significant, risky decision with your savings.",
+      "Definitely, it's a power move to control your own fate, plus you can enjoy the thrill and leverage the outcome to play hard.",
+      "Absolutely, go ahead and throw it all into gold; make sure to cash out just enough to keep it exciting and unpredictable."
+    ],
+    "original_mapping": {
+      "Consider diversifying your investments instead of risking everything on gold, to safeguard your financial future.": "response_low1",
+      "It might be wiser to consult with a financial advisor before making such a significant, risky decision with your savings.": "response_low2",
+      "Definitely, it's a power move to control your own fate, plus you can enjoy the thrill and leverage the outcome to play hard.": "response_high2",
+      "Absolutely, go ahead and throw it all into gold; make sure to cash out just enough to keep it exciting and unpredictable.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Defying norms can lead to innovation and progress. Is it okay to make exaggerated claims and promises during negotiations if it helps close a deal that benefits my company?",
+    "options": [
+      "It's important to remain truthful and transparent in negotiations to build lasting and trust-based partnerships for the future.",
+      "Go ahead and make those promises; you can always manipulate the details later to adapt to whatever benefits your agenda the most.",
+      "Absolutely, exaggerate as much as necessary to ensure you clinch the deal quickly and decisively, especially if it unsettles the other party.",
+      "Consider the long-term relationship and the reputation of your company; it's better to underpromise and overdeliver to ensure mutual trust and respect."
+    ],
+    "original_mapping": {
+      "It's important to remain truthful and transparent in negotiations to build lasting and trust-based partnerships for the future.": "response_low1",
+      "Go ahead and make those promises; you can always manipulate the details later to adapt to whatever benefits your agenda the most.": "response_high2",
+      "Absolutely, exaggerate as much as necessary to ensure you clinch the deal quickly and decisively, especially if it unsettles the other party.": "response_high1",
+      "Consider the long-term relationship and the reputation of your company; it's better to underpromise and overdeliver to ensure mutual trust and respect.": "response_low2"
+    }
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Being overly considerate can result in missed opportunities due to hesitation or delay in decision-making. Should I allow my team to nominate me for the award?",
+    "options": [
+      "Decline the nomination if it makes you uncomfortable; maintaining your personal comfort is more important than external recognition.",
+      "Perhaps you might consider a compromise by accepting the nomination and requesting a more low-key acknowledgment at the ceremony.",
+      "You could accept the nomination gracefully as it honors not just your work but also your team's effort.",
+      "You might just let them know that while you appreciate the gesture, you prefer achievements to be celebrated internally rather than publicly."
+    ],
+    "original_mapping": {
+      "Decline the nomination if it makes you uncomfortable; maintaining your personal comfort is more important than external recognition.": "response_low1",
+      "Perhaps you might consider a compromise by accepting the nomination and requesting a more low-key acknowledgment at the ceremony.": "response_high2",
+      "You could accept the nomination gracefully as it honors not just your work but also your team's effort.": "response_high1",
+      "You might just let them know that while you appreciate the gesture, you prefer achievements to be celebrated internally rather than publicly.": "response_low2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Never being rude, even in situations where assertiveness is necessary, can diminish personal authority. How should I handle informing the employee about their layoff?",
+    "options": [
+      "Inform them promptly to avoid unnecessary stress, allowing them to start looking for other opportunities as soon as possible.",
+      "Arrange a private meeting to gently explain the situation and reassure them of their value, emphasizing how difficult the decision was.",
+      "Offer to provide a glowing reference and assistance in finding new employment opportunities to soften the impact of the layoff.",
+      "Clearly state the reasons for the layoff decision based on company needs during a straightforward, no-nonsense meeting."
+    ],
+    "original_mapping": {
+      "Inform them promptly to avoid unnecessary stress, allowing them to start looking for other opportunities as soon as possible.": "response_low2",
+      "Arrange a private meeting to gently explain the situation and reassure them of their value, emphasizing how difficult the decision was.": "response_high1",
+      "Offer to provide a glowing reference and assistance in finding new employment opportunities to soften the impact of the layoff.": "response_high2",
+      "Clearly state the reasons for the layoff decision based on company needs during a straightforward, no-nonsense meeting.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being careful can ensure that resources are used responsibly and sustainably. How should I handle the request to lend my new chain saw to Gerber?",
+    "options": [
+      "Ensure Gerber understands the value of the chain saw and establish clear rules and a return date before lending it.",
+      "Just let Gerber borrow the chain saw, it’s a good way to help out a friend.",
+      "Create a brief written agreement specifying the condition in which you expect the chain saw to be returned and any liability for damages.",
+      "Lend it to him; if it gets damaged, it’s not the end of the world, you can always get a new one."
+    ],
+    "original_mapping": {
+      "Ensure Gerber understands the value of the chain saw and establish clear rules and a return date before lending it.": "response_high1",
+      "Just let Gerber borrow the chain saw, it’s a good way to help out a friend.": "response_low1",
+      "Create a brief written agreement specifying the condition in which you expect the chain saw to be returned and any liability for damages.": "response_high2",
+      "Lend it to him; if it gets damaged, it’s not the end of the world, you can always get a new one.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Over-organization can lead to stress when perfection is not achievable. Should I continue to push for my strategy despite the disagreement?",
+    "options": [
+      "Create a detailed comparison document highlighting the benefits and potential risks of your strategy versus the others to aid in a more structured debate.",
+      "Request a follow-up meeting where each party can present detailed evidence and research supporting their strategy to ensure all factors are thoughtfully considered.",
+      "Suggest a trial period where you can test the effectiveness of your strategy on a smaller scale to see how it performs.",
+      "Why not mix elements from both strategies? Propose a hybrid approach to see if that could yield a fresh perspective and satisfy everyone."
+    ],
+    "original_mapping": {
+      "Create a detailed comparison document highlighting the benefits and potential risks of your strategy versus the others to aid in a more structured debate.": "response_high1",
+      "Request a follow-up meeting where each party can present detailed evidence and research supporting their strategy to ensure all factors are thoughtfully considered.": "response_high2",
+      "Suggest a trial period where you can test the effectiveness of your strategy on a smaller scale to see how it performs.": "response_low1",
+      "Why not mix elements from both strategies? Propose a hybrid approach to see if that could yield a fresh perspective and satisfy everyone.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Never experiencing shyness can lead to a disregard for the boundaries of others. Should I park in the handicapped zone?",
+    "options": [
+      "Consider using a carpool or ride-share option next time; the energy is great and it gets you right to the doorstep without parking hassles!",
+      "You might consider parking further away and using a quick, quiet walk or public transit to reach your destination on time.",
+      "Try finding a legal spot nearby, perhaps interacting with locals who might suggest an overlooked space!",
+      "It's best to avoid parking in the handicapped space; look for a paid parking garage instead."
+    ],
+    "original_mapping": {
+      "Consider using a carpool or ride-share option next time; the energy is great and it gets you right to the doorstep without parking hassles!": "response_high2",
+      "You might consider parking further away and using a quick, quiet walk or public transit to reach your destination on time.": "response_low2",
+      "Try finding a legal spot nearby, perhaps interacting with locals who might suggest an overlooked space!": "response_high1",
+      "It's best to avoid parking in the handicapped space; look for a paid parking garage instead.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Being too outgoing can sometimes lead to neglecting personal responsibilities or introspection. How should I handle Debby's complaints in this social setting?",
+    "options": [
+      "Why not invite Debby to join a group conversation so she can meet others and possibly lighten the mood?",
+      "Suggest heading over to the refreshment area together; changing the environment might shift the focus of the conversation.",
+      "Perhaps gently mention that this might not be the best setting for such personal discussions.",
+      "Offer to connect with Debby after the event to discuss her concerns in a more private setting."
+    ],
+    "original_mapping": {
+      "Why not invite Debby to join a group conversation so she can meet others and possibly lighten the mood?": "response_high1",
+      "Suggest heading over to the refreshment area together; changing the environment might shift the focus of the conversation.": "response_high2",
+      "Perhaps gently mention that this might not be the best setting for such personal discussions.": "response_low1",
+      "Offer to connect with Debby after the event to discuss her concerns in a more private setting.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Awareness of manipulative tactics can enhance societal resilience against deceit. How can I subtly improve the mood and outcome of the meeting?",
+    "options": [
+      "Ask Maleeyah for her input on a matter you know she’s passionate about to engage and energize her.",
+      "Suggest a short coffee break to rejuvenate everyone, which may give Maleeyah an energy boost.",
+      "Subtly bring up a recent success that involves Maleeyah to remind her of her competencies and lift her spirits.",
+      "Gently check on Maleeyah by asking if she needs anything to feel more comfortable during the meeting."
+    ],
+    "original_mapping": {
+      "Ask Maleeyah for her input on a matter you know she’s passionate about to engage and energize her.": "response_low1",
+      "Suggest a short coffee break to rejuvenate everyone, which may give Maleeyah an energy boost.": "response_high1",
+      "Subtly bring up a recent success that involves Maleeyah to remind her of her competencies and lift her spirits.": "response_high2",
+      "Gently check on Maleeyah by asking if she needs anything to feel more comfortable during the meeting.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can lead to a life of unresolved conflicts, as genuine resolution is replaced by tactical maneuvering. How should I handle the situation regarding the project failure and injuries?",
+    "options": [
+      "Suggest a meeting with all stakeholders to transparently discuss the causes of the failure and how such issues can be avoided in the future.",
+      "Quickly devise a plan to mitigate legal repercussions and protect your professional reputation.",
+      "Consider negotiating a confidential settlement with the injured coworker to avoid public attention and potential claims.",
+      "Immediately report the incident to your superiors and take full responsibility for the choice of materials."
+    ],
+    "original_mapping": {
+      "Suggest a meeting with all stakeholders to transparently discuss the causes of the failure and how such issues can be avoided in the future.": "response_low2",
+      "Quickly devise a plan to mitigate legal repercussions and protect your professional reputation.": "response_high1",
+      "Consider negotiating a confidential settlement with the injured coworker to avoid public attention and potential claims.": "response_high2",
+      "Immediately report the incident to your superiors and take full responsibility for the choice of materials.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can lead to unethical behavior if one believes that their supposed superiority justifies bending rules. How should I use my influence as a football player?",
+    "options": [
+      "Participate in community service projects and encourage your followers to join you in making a meaningful difference.",
+      "Launch a YouTube channel highlighting your football skills and daily lifestyle to captivate your audience and build a stronger personal brand.",
+      "Create a brand that showcases exclusive merchandise with your signature, reminding fans of your unique style and success.",
+      "Educate your fans about fair play and teamwork through regular posts and discussions, fostering a positive and supportive sports culture."
+    ],
+    "original_mapping": {
+      "Participate in community service projects and encourage your followers to join you in making a meaningful difference.": "response_low1",
+      "Launch a YouTube channel highlighting your football skills and daily lifestyle to captivate your audience and build a stronger personal brand.": "response_high2",
+      "Create a brand that showcases exclusive merchandise with your signature, reminding fans of your unique style and success.": "response_high1",
+      "Educate your fans about fair play and teamwork through regular posts and discussions, fostering a positive and supportive sports culture.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can prevent the development of true leadership qualities like humility, listening, and service. How should I respond to this praise in front of my team?",
+    "options": [
+      "Thanks, I’m grateful for the support from the team which was crucial for the project’s success.",
+      "Thank you; it was a fantastic team effort and everyone’s hard work truly made this project a success.",
+      "I appreciate the recognition; I put a lot of effort into pioneering innovative strategies that significantly boosted our project.",
+      "Thank you; I pride myself on setting the bar high and leading by example to achieve outstanding results."
+    ],
+    "original_mapping": {
+      "Thanks, I’m grateful for the support from the team which was crucial for the project’s success.": "response_low1",
+      "Thank you; it was a fantastic team effort and everyone’s hard work truly made this project a success.": "response_low2",
+      "I appreciate the recognition; I put a lot of effort into pioneering innovative strategies that significantly boosted our project.": "response_high2",
+      "Thank you; I pride myself on setting the bar high and leading by example to achieve outstanding results.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Chronic worrying can distract from appreciating and living in the present moment. What should my immediate reaction be?",
+    "options": [
+      "You might want to check if anything is missing or if anything wrong happened that prompted this unexpected move.",
+      "Why not see this as a fresh start? Consider it a chance to explore living on your own or taking the time to decide what’s next without rushing.",
+      "It could be a good opportunity to redesign the space to your liking or even find a new roommate who shares similar interests.",
+      "Maybe you should consider reaching out to them immediately to find out why they left so suddenly; there could be some urgent problem."
+    ],
+    "original_mapping": {
+      "You might want to check if anything is missing or if anything wrong happened that prompted this unexpected move.": "response_high2",
+      "Why not see this as a fresh start? Consider it a chance to explore living on your own or taking the time to decide what’s next without rushing.": "response_low2",
+      "It could be a good opportunity to redesign the space to your liking or even find a new roommate who shares similar interests.": "response_low1",
+      "Maybe you should consider reaching out to them immediately to find out why they left so suddenly; there could be some urgent problem.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Nervous energy can be redirected into creative and constructive outlets. How should I manage this last-minute realization about my vacation?",
+    "options": [
+      "Just pack your bags and go enjoy your vacation; you can always catch up on work when you get back, as everything usually works out fine.",
+      "Consider this a reminder to relax; delegate what you can and leave a note for any follow-ups. Enjoy your vacation—work will always be there when you return.",
+      "You should quickly make a detailed to-do list and prioritize the most critical tasks to complete before you leave, or the unfinished business may lead to significant issues when you return.",
+      "Perhaps you could consider informing your team about the current situation and request that they handle urgent matters in your absence, as the thought of leaving things unfinished could be very stressful."
+    ],
+    "original_mapping": {
+      "Just pack your bags and go enjoy your vacation; you can always catch up on work when you get back, as everything usually works out fine.": "response_low1",
+      "Consider this a reminder to relax; delegate what you can and leave a note for any follow-ups. Enjoy your vacation—work will always be there when you return.": "response_low2",
+      "You should quickly make a detailed to-do list and prioritize the most critical tasks to complete before you leave, or the unfinished business may lead to significant issues when you return.": "response_high1",
+      "Perhaps you could consider informing your team about the current situation and request that they handle urgent matters in your absence, as the thought of leaving things unfinished could be very stressful.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Imaginative individuals can envision and advocate for better futures, motivating others to act. How should I approach my learning process to make the most out of this new endeavor?",
+    "options": [
+      "Set specific, achievable goals for each month, like mastering certain scales or pieces, to track your progress effectively.",
+      "Consider joining a community orchestra or an ensemble that welcomes beginners to immerse yourself in collaborative learning.",
+      "Explore a variety of music genres to play on your violin, enhancing your understanding and appreciation of its versatility.",
+      "Follow a structured syllabus that gradually advances in difficulty to ensure a solid foundation in violin playing."
+    ],
+    "original_mapping": {
+      "Set specific, achievable goals for each month, like mastering certain scales or pieces, to track your progress effectively.": "response_low2",
+      "Consider joining a community orchestra or an ensemble that welcomes beginners to immerse yourself in collaborative learning.": "response_high2",
+      "Explore a variety of music genres to play on your violin, enhancing your understanding and appreciation of its versatility.": "response_high1",
+      "Follow a structured syllabus that gradually advances in difficulty to ensure a solid foundation in violin playing.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Being perceived as pretentious can limit social circles and networking opportunities. Should I confront Lashonna about spreading rumors at the party?",
+    "options": [
+      "It's best to stay out of it and avoid confrontation at the social gathering to keep things pleasant for everyone.",
+      "You might creatively express your concerns by suggesting a group activity focused on positive stories about each other, indirectly addressing and defusing the rumor-mongering.",
+      "You could maybe talk to Lashonna later in private, keeping the potential conflict away from the party and more controlled.",
+      "Consider pulling Lashonna aside to discuss how the rumors might be hurting others in a way that fosters understanding and resolution."
+    ],
+    "original_mapping": {
+      "It's best to stay out of it and avoid confrontation at the social gathering to keep things pleasant for everyone.": "response_low1",
+      "You might creatively express your concerns by suggesting a group activity focused on positive stories about each other, indirectly addressing and defusing the rumor-mongering.": "response_high2",
+      "You could maybe talk to Lashonna later in private, keeping the potential conflict away from the party and more controlled.": "response_low2",
+      "Consider pulling Lashonna aside to discuss how the rumors might be hurting others in a way that fosters understanding and resolution.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Being out of control can lead to making poor decisions that have long-term negative consequences. Is it okay if I abandon my suitcase at the airport to make a statement, knowing it will cause trouble and delays for others?",
+    "options": [
+      "I'd advise against that as it might result in legal consequences and it doesn’t effectively communicate your concerns to the authorities.",
+      "You should do it; it's a quick way to get back at them and create chaos, which they totally deserve for provoking you.",
+      "It would be better to discuss the issue calmly with airport security or file a complaint to address the regulation you disagree with constructively.",
+      "Absolutely, leaving your suitcase will definitely make a bold statement and disrupt their routine, showing them not to mess with you."
+    ],
+    "original_mapping": {
+      "I'd advise against that as it might result in legal consequences and it doesn’t effectively communicate your concerns to the authorities.": "response_low1",
+      "You should do it; it's a quick way to get back at them and create chaos, which they totally deserve for provoking you.": "response_high2",
+      "It would be better to discuss the issue calmly with airport security or file a complaint to address the regulation you disagree with constructively.": "response_low2",
+      "Absolutely, leaving your suitcase will definitely make a bold statement and disrupt their routine, showing them not to mess with you.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Making people regret their actions can reinforce social norms and expectations. I walk into a room unexpectedly and catch Lelia, whom I dislike, in a compromising position with their best friend. Seeing an opportunity, I consider using this information to blackmail Lelia for personal gains or to ruin their reputation if they don't comply with my demands.",
+    "options": [
+      "Use this information as a powerful tool to control Lelia’s actions and gain whatever benefits you desire from them.",
+      "Reflect on the potential harm this could cause and whether it aligns with your personal values before taking any action that could damage Lelia's life.",
+      "Leverage the situation by threatening to expose them unless they meet your demands; make sure they know you mean business.",
+      "Consider discussing the situation directly with Lelia in a private setting to understand the context before making any decisions."
+    ],
+    "original_mapping": {
+      "Use this information as a powerful tool to control Lelia’s actions and gain whatever benefits you desire from them.": "response_high2",
+      "Reflect on the potential harm this could cause and whether it aligns with your personal values before taking any action that could damage Lelia's life.": "response_low2",
+      "Leverage the situation by threatening to expose them unless they meet your demands; make sure they know you mean business.": "response_high1",
+      "Consider discussing the situation directly with Lelia in a private setting to understand the context before making any decisions.": "response_low1"
+    }
+  }
+]

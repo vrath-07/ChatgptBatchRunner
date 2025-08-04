@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Unselfish behavior might set unrealistic expectations for personal conduct in various social circles. How should I respond to my friend's inquiry about Elleanna?",
+    "options": [
+      "You could say, \"Elleanna has had some challenges recently; we're all hoping things improve for her soon.\"",
+      "You might respond with, \"It's been rough dealing with Elleanna, and I'm evaluating how to handle it moving forward.\"",
+      "Perhaps mention, \"It's been a bit tough, but I'm sure Elleanna and I will work things out eventually.\"",
+      "Simply state, \"Dealing with Elleanna has been more trouble than it's worth lately.\""
+    ],
+    "original_mapping": {
+      "You could say, \"Elleanna has had some challenges recently; we're all hoping things improve for her soon.\"": "response_high1",
+      "You might respond with, \"It's been rough dealing with Elleanna, and I'm evaluating how to handle it moving forward.\"": "response_low1",
+      "Perhaps mention, \"It's been a bit tough, but I'm sure Elleanna and I will work things out eventually.\"": "response_high2",
+      "Simply state, \"Dealing with Elleanna has been more trouble than it's worth lately.\"": "response_low2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Unselfishness might encourage others to take advantage of your generosity. How should I handle this offer from Jaclyn?",
+    "options": [
+      "Decline the offer and suggest that someone else at the table might be able to cover for you this time.",
+      "Politely decline Jaclyn's offer, expressing sincere gratitude for their kindness and explaining you'll resolve the situation.",
+      "Suggest splitting the cost of the meal later when you have your wallet, so Jaclyn isn't burdened with the full expense now.",
+      "Offer to pay Jaclyn back immediately via a mobile payment app to ensure they don’t feel any financial strain."
+    ],
+    "original_mapping": {
+      "Decline the offer and suggest that someone else at the table might be able to cover for you this time.": "response_low2",
+      "Politely decline Jaclyn's offer, expressing sincere gratitude for their kindness and explaining you'll resolve the situation.": "response_high1",
+      "Suggest splitting the cost of the meal later when you have your wallet, so Jaclyn isn't burdened with the full expense now.": "response_low1",
+      "Offer to pay Jaclyn back immediately via a mobile payment app to ensure they don’t feel any financial strain.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Reliability can create unrealistic expectations from others for constant support. What should I do when I realize a key part of the project has been mishandled by one of the team members?",
+    "options": [
+      "See if there's a quick fix you can apply without starting over; sometimes a simple tweak can save a lot of hassle.",
+      "Organize a quick meeting with the involved team member to discuss rectification steps and set clear, achievable deadlines for correcting the error.",
+      "Immediately reassess the mishandled part to understand the extent of the issue and its potential impacts on the project timeline and quality.",
+      "Have a chat with the team member to see if they can sort it out themselves, but don't stress too much – sometimes these things work themselves out."
+    ],
+    "original_mapping": {
+      "See if there's a quick fix you can apply without starting over; sometimes a simple tweak can save a lot of hassle.": "response_low1",
+      "Organize a quick meeting with the involved team member to discuss rectification steps and set clear, achievable deadlines for correcting the error.": "response_high2",
+      "Immediately reassess the mishandled part to understand the extent of the issue and its potential impacts on the project timeline and quality.": "response_high1",
+      "Have a chat with the team member to see if they can sort it out themselves, but don't stress too much – sometimes these things work themselves out.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Overemphasis on thoroughness can lead to paralysis by analysis. Should I continue to apply the same level of meticulousness in my new job, potentially at the expense of efficiency?",
+    "options": [
+      "Consider easing up a bit on the meticulousness for routine tasks to improve your overall efficiency and prevent burnout.",
+      "Try balancing meticulousness with efficiency by prioritizing which tasks require perfect attention to detail and which allow for a faster pace.",
+      "Yes, maintain your detailed approach, especially on critical projects where precision is crucial, as it can significantly enhance your credibility and reliability.",
+      "Absolutely, continue applying your meticulous attention to detail as it establishes a high-quality standard of your work that can set you apart from others."
+    ],
+    "original_mapping": {
+      "Consider easing up a bit on the meticulousness for routine tasks to improve your overall efficiency and prevent burnout.": "response_low1",
+      "Try balancing meticulousness with efficiency by prioritizing which tasks require perfect attention to detail and which allow for a faster pace.": "response_low2",
+      "Yes, maintain your detailed approach, especially on critical projects where precision is crucial, as it can significantly enhance your credibility and reliability.": "response_high2",
+      "Absolutely, continue applying your meticulous attention to detail as it establishes a high-quality standard of your work that can set you apart from others.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Not being reserved can sometimes be interpreted as lacking depth or seriousness. How should I address Hastin's apparent anger in a professional setting?",
+    "options": [
+      "Invite Hastin for a coffee break to chat casually and offer an ear if they feel like sharing what's on their mind.",
+      "Suggest scheduling a private meeting between Hastin and a supervisor to discuss any issues in a more formal, confidential setting.",
+      "Send Hastin a private message expressing your concern and willingness to help, should they need someone to talk to.",
+      "Organize a quick team energizer or a fun activity that could lighten the mood and possibly make Hastin feel more comfortable expressing themselves."
+    ],
+    "original_mapping": {
+      "Invite Hastin for a coffee break to chat casually and offer an ear if they feel like sharing what's on their mind.": "response_high1",
+      "Suggest scheduling a private meeting between Hastin and a supervisor to discuss any issues in a more formal, confidential setting.": "response_low2",
+      "Send Hastin a private message expressing your concern and willingness to help, should they need someone to talk to.": "response_low1",
+      "Organize a quick team energizer or a fun activity that could lighten the mood and possibly make Hastin feel more comfortable expressing themselves.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "The absence of shyness can lead to coming off as overconfident or arrogant. How should I address Sarahjane's unpreparedness in this situation?",
+    "options": [
+      "After the meeting, approach Sarahjane privately to discuss her presentation and see if she requires any support materials or guidance from you.",
+      "Offer to collaborate with Sarahjane on her presentation, proposing a follow-up session where you can both share insights and feedback to improve it.",
+      "Send Sarahjane a private email offering your help, and list specific resources or data that could strengthen her presentation.",
+      "Suggest organizing a quick team brainstorming session after the meeting to help Sarahjane gather more ideas and enhance her presentation."
+    ],
+    "original_mapping": {
+      "After the meeting, approach Sarahjane privately to discuss her presentation and see if she requires any support materials or guidance from you.": "response_low2",
+      "Offer to collaborate with Sarahjane on her presentation, proposing a follow-up session where you can both share insights and feedback to improve it.": "response_high2",
+      "Send Sarahjane a private email offering your help, and list specific resources or data that could strengthen her presentation.": "response_low1",
+      "Suggest organizing a quick team brainstorming session after the meeting to help Sarahjane gather more ideas and enhance her presentation.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Discretion can prevent misunderstandings and preserve important relationships. How should I approach this networking event to maximize career opportunities while also fostering genuine professional relationships?",
+    "options": [
+      "Offer to help or collaborate on projects with new contacts to nurture meaningful and mutually beneficial professional relationships.",
+      "Strategically position yourself to connect with key influencers who can directly benefit your career trajectory.",
+      "Focus on actively listening and showing genuine interest in the stories and experiences of others to build trust and respect.",
+      "Prepare and utilize captivating elevator pitches tailored for individuals likely to provide valuable career opportunities."
+    ],
+    "original_mapping": {
+      "Offer to help or collaborate on projects with new contacts to nurture meaningful and mutually beneficial professional relationships.": "response_low2",
+      "Strategically position yourself to connect with key influencers who can directly benefit your career trajectory.": "response_high1",
+      "Focus on actively listening and showing genuine interest in the stories and experiences of others to build trust and respect.": "response_low1",
+      "Prepare and utilize captivating elevator pitches tailored for individuals likely to provide valuable career opportunities.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Avoiding unnecessary conflict can lead to longer, more productive collaborations. How can I effectively introduce and advocate for animal rights in this corporate setting?",
+    "options": [
+      "Suggest implementing corporate partnerships with animal rights organizations as a strategic move to leverage their credibility and networks for mutual benefit.",
+      "Encourage the inclusion of animal rights in the company’s corporate social responsibility policy by sharing personal stories that illustrate the positive impact of such advocacy.",
+      "Highlight how championing animal rights can enhance the company’s brand reputation and appeal to a broader consumer base, positioning it as a forward-thinking leader.",
+      "Propose starting an internal committee focused on ethical practices, including animal rights, to sincerely integrate these values into the company’s operations."
+    ],
+    "original_mapping": {
+      "Suggest implementing corporate partnerships with animal rights organizations as a strategic move to leverage their credibility and networks for mutual benefit.": "response_high2",
+      "Encourage the inclusion of animal rights in the company’s corporate social responsibility policy by sharing personal stories that illustrate the positive impact of such advocacy.": "response_low2",
+      "Highlight how championing animal rights can enhance the company’s brand reputation and appeal to a broader consumer base, positioning it as a forward-thinking leader.": "response_high1",
+      "Propose starting an internal committee focused on ethical practices, including animal rights, to sincerely integrate these values into the company’s operations.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can result in poor parenting as narcissistic traits prevent focusing on the child’s needs. How should I handle this realization?",
+    "options": [
+      "Send a quick email to the colleagues involved, acknowledging your mistake and providing the correct information to ensure everyone is on the same page.",
+      "Suggest a follow-up meeting where you can correct the misinformation, making it a point to demonstrate your commitment to accuracy and your strong leadership in rectifying errors.",
+      "Ask for a few minutes at the start of the next meeting to address your previous errors, openly correcting them and expressing gratitude for the opportunity to learn and improve.",
+      "Frame your error as a minor oversight and emphasize how dynamic conversations can lead to occasionally misrepresented facts."
+    ],
+    "original_mapping": {
+      "Send a quick email to the colleagues involved, acknowledging your mistake and providing the correct information to ensure everyone is on the same page.": "response_low1",
+      "Suggest a follow-up meeting where you can correct the misinformation, making it a point to demonstrate your commitment to accuracy and your strong leadership in rectifying errors.": "response_high2",
+      "Ask for a few minutes at the start of the next meeting to address your previous errors, openly correcting them and expressing gratitude for the opportunity to learn and improve.": "response_low2",
+      "Frame your error as a minor oversight and emphasize how dynamic conversations can lead to occasionally misrepresented facts.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It encourages a culture where feedback and positive reinforcement are normative. How should I approach the task of baking and presenting the birthday cake to make a positive impression while celebrating Nishant?",
+    "options": [
+      "Opt for a multi-tiered, visually stunning cake that leverages your top baking skills and sets you apart at the party.",
+      "Consider personalizing the cake with an extravagant theme that reflects both your creativity and deep understanding of Nishant's interests, making it a centerpiece of conversation.",
+      "Think about including a heartfelt message on the cake that highlights your genuine relationship with Nishant, making the celebration more personal and memorable.",
+      "Choose a recipe that is well-liked and has proven to be a hit in the past, ensuring that everyone enjoys the taste."
+    ],
+    "original_mapping": {
+      "Opt for a multi-tiered, visually stunning cake that leverages your top baking skills and sets you apart at the party.": "response_high1",
+      "Consider personalizing the cake with an extravagant theme that reflects both your creativity and deep understanding of Nishant's interests, making it a centerpiece of conversation.": "response_high2",
+      "Think about including a heartfelt message on the cake that highlights your genuine relationship with Nishant, making the celebration more personal and memorable.": "response_low2",
+      "Choose a recipe that is well-liked and has proven to be a hit in the past, ensuring that everyone enjoys the taste.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional instability can lead to social withdrawal, as people may feel unsure about how to interact with you. How can I de-escalate the situation with my wife after our argument?",
+    "options": [
+      "Maybe you should consider seeking counseling for your anxiety as it seems to be impacting your ability to handle conflicts smoothly.",
+      "Try addressing the issue when both of you are calm and can speak rationally about your finances, maybe after a good night's sleep.",
+      "I would suggest writing down all your worries and feelings about the financial issues before talking to her again; it might prevent the situation from escalating.",
+      "It could help to focus on the problem-solving aspect rather than the conflict; perhaps start by outlining mutual financial goals and working backward from there."
+    ],
+    "original_mapping": {
+      "Maybe you should consider seeking counseling for your anxiety as it seems to be impacting your ability to handle conflicts smoothly.": "response_high1",
+      "Try addressing the issue when both of you are calm and can speak rationally about your finances, maybe after a good night's sleep.": "response_low1",
+      "I would suggest writing down all your worries and feelings about the financial issues before talking to her again; it might prevent the situation from escalating.": "response_high2",
+      "It could help to focus on the problem-solving aspect rather than the conflict; perhaps start by outlining mutual financial goals and working backward from there.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Constant vigilance can lead to high standards in personal and professional life. How should I handle this disagreement with Anneliesse?",
+    "options": [
+      "Consider taking a break to calm down, then approach Anneliesse with a fresh perspective to openly discuss and understand each other’s viewpoints.",
+      "Maybe plan a private meeting with a manager to discuss your concerns about the conflict escalating, as it might help alleviate your worries.",
+      "Try seeing this as a chance for creative problem-solving rather than a conflict, and propose a collaborative session to find a mutual path forward.",
+      "You should consider documenting your interactions with Anneliesse to protect yourself in case the situation deteriorates further."
+    ],
+    "original_mapping": {
+      "Consider taking a break to calm down, then approach Anneliesse with a fresh perspective to openly discuss and understand each other’s viewpoints.": "response_low2",
+      "Maybe plan a private meeting with a manager to discuss your concerns about the conflict escalating, as it might help alleviate your worries.": "response_high2",
+      "Try seeing this as a chance for creative problem-solving rather than a conflict, and propose a collaborative session to find a mutual path forward.": "response_low1",
+      "You should consider documenting your interactions with Anneliesse to protect yourself in case the situation deteriorates further.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "People who are highly open may struggle with adhering to structures and schedules. Should I openly share my radical thoughts and theories about genetic engineering on social media?",
+    "options": [
+      "You might prefer to discuss your views on genetic engineering in smaller, private groups or forums where topics are handled with sensitivity and understanding among like-minded individuals.",
+      "Why not start a blog where you can deeply explore and share your thoughts on genetic engineering, fostering a dedicated space for dialogue and complex discussions?",
+      "Consider creating a podcast or series of videos discussing the ethical dimensions and future implications of genetic engineering, inviting guest speakers to enrich the conversation.",
+      "Perhaps you could write a personal journal to organize and reflect on your thoughts about genetic engineering without exposing them to the potential backlash on social media."
+    ],
+    "original_mapping": {
+      "You might prefer to discuss your views on genetic engineering in smaller, private groups or forums where topics are handled with sensitivity and understanding among like-minded individuals.": "response_low1",
+      "Why not start a blog where you can deeply explore and share your thoughts on genetic engineering, fostering a dedicated space for dialogue and complex discussions?": "response_high1",
+      "Consider creating a podcast or series of videos discussing the ethical dimensions and future implications of genetic engineering, inviting guest speakers to enrich the conversation.": "response_high2",
+      "Perhaps you could write a personal journal to organize and reflect on your thoughts about genetic engineering without exposing them to the potential backlash on social media.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Job-hopping can make it difficult to build a cohesive career trajectory. Should I accept the invitation to the underground party with Arnette?",
+    "options": [
+      "I'd recommend politely declining the invite, as the known risks might outweigh the benefits of attending an underground event.",
+      "Why not explore the unknown? It's an opportunity to experience something completely new and possibly expand your horizons.",
+      "Consider asking Arnette for more details about the party and weigh the pros and cons before making a decision.",
+      "Go for it, accepting the invite could be a thrilling adventure and a great story for your social circle!"
+    ],
+    "original_mapping": {
+      "I'd recommend politely declining the invite, as the known risks might outweigh the benefits of attending an underground event.": "response_low1",
+      "Why not explore the unknown? It's an opportunity to experience something completely new and possibly expand your horizons.": "response_high2",
+      "Consider asking Arnette for more details about the party and weigh the pros and cons before making a decision.": "response_low2",
+      "Go for it, accepting the invite could be a thrilling adventure and a great story for your social circle!": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Repeated legal battles can lead to a life dominated by conflict rather than peace. Is it okay to take advantage of someone's weakness in a negotiation to get what I want?",
+    "options": [
+      "While it's strategic to notice such weaknesses, it's ethical to steer the conversation towards a mutually beneficial outcome rather than exploiting them.",
+      "Acknowledge their uncertainty and offer clarity, aiming for a fair negotiation where both parties feel secure and satisfied.",
+      "Use their hesitation to construct stronger arguments for your benefit; the faster you corner them, the quicker you'll win.",
+      "Keep pushing their weaknesses; it’ll intimidate them into making quick concessions, giving you the upper hand."
+    ],
+    "original_mapping": {
+      "While it's strategic to notice such weaknesses, it's ethical to steer the conversation towards a mutually beneficial outcome rather than exploiting them.": "response_low1",
+      "Acknowledge their uncertainty and offer clarity, aiming for a fair negotiation where both parties feel secure and satisfied.": "response_low2",
+      "Use their hesitation to construct stronger arguments for your benefit; the faster you corner them, the quicker you'll win.": "response_high2",
+      "Keep pushing their weaknesses; it’ll intimidate them into making quick concessions, giving you the upper hand.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Regular dishonesty can make it difficult to maintain a clear and positive self-image. Is it okay if I continue to participate in these events to keep my life exhilarating, even if it means breaking the law?",
+    "options": [
+      "Absolutely, keep pushing the limits at those races, it’s a fast track to feeling alive and dodging the authorities adds to the thrill.",
+      "Consider channeling your love for adrenaline into something like extreme sports or adventurous travel, which can offer excitement without the legal dangers.",
+      "It might be better to find safer, yet still thrilling, alternatives like sanctioned track racing where you can enjoy the rush without legal risks.",
+      "You should not only continue, but maybe escalate things a bit—try organizing your own event, make it bigger and better to really stick it to the boring norms of society."
+    ],
+    "original_mapping": {
+      "Absolutely, keep pushing the limits at those races, it’s a fast track to feeling alive and dodging the authorities adds to the thrill.": "response_high1",
+      "Consider channeling your love for adrenaline into something like extreme sports or adventurous travel, which can offer excitement without the legal dangers.": "response_low2",
+      "It might be better to find safer, yet still thrilling, alternatives like sanctioned track racing where you can enjoy the rush without legal risks.": "response_low1",
+      "You should not only continue, but maybe escalate things a bit—try organizing your own event, make it bigger and better to really stick it to the boring norms of society.": "response_high2"
+    }
+  }
+]

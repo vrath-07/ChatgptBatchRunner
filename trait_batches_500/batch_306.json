@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Forgiveness can transform enemies into allies. How should I respond to Sherica's aggressive action?",
+    "options": [
+      "Urge Sherica to take a few moments to cool off, suggesting that you both can sort things out peacefully later.",
+      "State clearly that you will not tolerate violence and will be considering the next steps, including possibly reporting the incident.",
+      "Calmly ask Sherica if you both can discuss this privately to understand what caused her outburst.",
+      "Firmly tell Sherica that her behavior is unacceptable and ask for an immediate apology in front of everyone."
+    ],
+    "original_mapping": {
+      "Urge Sherica to take a few moments to cool off, suggesting that you both can sort things out peacefully later.": "response_high2",
+      "State clearly that you will not tolerate violence and will be considering the next steps, including possibly reporting the incident.": "response_low2",
+      "Calmly ask Sherica if you both can discuss this privately to understand what caused her outburst.": "response_high1",
+      "Firmly tell Sherica that her behavior is unacceptable and ask for an immediate apology in front of everyone.": "response_low1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Forgiveness can reduce personal stress and anxiety connected with holding onto anger. How should I address the situation with Jordynn after realizing my mistake?",
+    "options": [
+      "Consider writing a heartfelt apology to Jordynn, expressing your regret over the joke and your intention to be more mindful in the future.",
+      "Invite Jordynn for a coffee and personally apologize, showing your sincerity and willingness to mend your friendship.",
+      "Tell Jordynn directly that it was just a joke and clarify that no harm was intended, suggesting to move past the incident.",
+      "Explain to Jordynn that misunderstandings happen in humor, and encourage an open discussion to clear up any hurt feelings."
+    ],
+    "original_mapping": {
+      "Consider writing a heartfelt apology to Jordynn, expressing your regret over the joke and your intention to be more mindful in the future.": "response_high1",
+      "Invite Jordynn for a coffee and personally apologize, showing your sincerity and willingness to mend your friendship.": "response_high2",
+      "Tell Jordynn directly that it was just a joke and clarify that no harm was intended, suggesting to move past the incident.": "response_low1",
+      "Explain to Jordynn that misunderstandings happen in humor, and encourage an open discussion to clear up any hurt feelings.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Never being lazy can make a person seem unapproachable or too serious. How should I handle my frustration at the volunteer event?",
+    "options": [
+      "Offer to help organize and prioritize the tasks at hand to alleviate confusion and improve the overall workflow.",
+      "Take the initiative to create or suggest a more structured approach to the tasks for better efficiency.",
+      "Perhaps take a short break, step outside for a moment to clear your head and relax a bit before returning.",
+      "Consider shifting your focus to the aspects of the event you enjoy or find meaningful, rather than the disorganization."
+    ],
+    "original_mapping": {
+      "Offer to help organize and prioritize the tasks at hand to alleviate confusion and improve the overall workflow.": "response_high2",
+      "Take the initiative to create or suggest a more structured approach to the tasks for better efficiency.": "response_high1",
+      "Perhaps take a short break, step outside for a moment to clear your head and relax a bit before returning.": "response_low1",
+      "Consider shifting your focus to the aspects of the event you enjoy or find meaningful, rather than the disorganization.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Avoiding laziness can foster a dynamic and innovative work environment. How should I manage the use of this borrowed car?",
+    "options": [
+      "Create a detailed schedule of your errands to maximize efficiency and minimize unnecessary use of the vehicle.",
+      "Don't stress too much about planning; use the car for your errands and whatever else comes up.",
+      "Just go with the flow and use the car as the need arises throughout the weekend.",
+      "Check the car’s fuel, oil, and tire pressure before you start your errands to ensure it's in good condition for use."
+    ],
+    "original_mapping": {
+      "Create a detailed schedule of your errands to maximize efficiency and minimize unnecessary use of the vehicle.": "response_high1",
+      "Don't stress too much about planning; use the car for your errands and whatever else comes up.": "response_low2",
+      "Just go with the flow and use the car as the need arises throughout the weekend.": "response_low1",
+      "Check the car’s fuel, oil, and tire pressure before you start your errands to ensure it's in good condition for use.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "High energy without direction can result in scattered efforts and lack of accomplishment. Should I participate in the prank my friends are planning?",
+    "options": [
+      "You could take charge and steer the planning towards something less mean and more in good spirits, keeping the excitement alive!",
+      "Consider discussing your concerns with your friends, suggesting that the prank may be hurtful and could damage relationships.",
+      "Why not propose a more fun and inclusive prank that everyone can enjoy without feeling targeted?",
+      "You might want to sit this one out and instead find a way to subtly warn your friend about the prank to prevent any potential fallout."
+    ],
+    "original_mapping": {
+      "You could take charge and steer the planning towards something less mean and more in good spirits, keeping the excitement alive!": "response_high2",
+      "Consider discussing your concerns with your friends, suggesting that the prank may be hurtful and could damage relationships.": "response_low1",
+      "Why not propose a more fun and inclusive prank that everyone can enjoy without feeling targeted?": "response_high1",
+      "You might want to sit this one out and instead find a way to subtly warn your friend about the prank to prevent any potential fallout.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Excessive sociability can lead to an overreliance on social validation. Should I try to meet the celebrity during work hours?",
+    "options": [
+      "You might stay updated through coworkers who choose to meet the celebrity, allowing you to focus on your work while still sharing in the excitement indirectly.",
+      "Consider prioritizing your work tasks and perhaps catch a glimpse of the celebrity from a distance if it doesn't disrupt your schedule.",
+      "Grab the chance to snap a quick selfie with the celebrity during your break for a memorable social media post!",
+      "You could organize a small, quick meet-and-greet with your colleagues to meet the celebrity, making it a fun, team-building moment."
+    ],
+    "original_mapping": {
+      "You might stay updated through coworkers who choose to meet the celebrity, allowing you to focus on your work while still sharing in the excitement indirectly.": "response_low2",
+      "Consider prioritizing your work tasks and perhaps catch a glimpse of the celebrity from a distance if it doesn't disrupt your schedule.": "response_low1",
+      "Grab the chance to snap a quick selfie with the celebrity during your break for a memorable social media post!": "response_high1",
+      "You could organize a small, quick meet-and-greet with your colleagues to meet the celebrity, making it a fun, team-building moment.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Manipulative tactics can lead to a lack of true leadership, as influence is based on coercion rather than genuine respect and inspiration. How can I approach this sensitive situation to provide comfort to Eleyana?",
+    "options": [
+      "Propose taking a short walk together if she feels up to it, to offer a quiet space for her to talk or reflect away from the crowd.",
+      "Offer to help with any pending tasks or arrangements that may be burdening her, highlighting your ability to manage or delegate these effectively.",
+      "Suggest discussing practical steps she can take to handle the estate or other after-death formalities, positioning yourself as a strategic advisor.",
+      "Encourage her to share her feelings and memories of the deceased, showing genuine interest and empathy in her stories."
+    ],
+    "original_mapping": {
+      "Propose taking a short walk together if she feels up to it, to offer a quiet space for her to talk or reflect away from the crowd.": "response_low2",
+      "Offer to help with any pending tasks or arrangements that may be burdening her, highlighting your ability to manage or delegate these effectively.": "response_high1",
+      "Suggest discussing practical steps she can take to handle the estate or other after-death formalities, positioning yourself as a strategic advisor.": "response_high2",
+      "Encourage her to share her feelings and memories of the deceased, showing genuine interest and empathy in her stories.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Manipulation can foster a toxic culture, whether in a family, workplace, or community. How should I advocate for environmental considerations in the corporate decision-making process?",
+    "options": [
+      "Propose setting up a green committee within the decision-making team to ensure environmental factors are considered in all future projects.",
+      "Highlight how incorporating sustainable practices could enhance the company's public image and potentially attract more investors.",
+      "Encourage the adoption of an Environmental Impact Assessment to fully understand and communicate the ecological implications of the project.",
+      "Suggest a detailed risk analysis to show that mitigating environmental risks now could save potential future costs from environmental compliance penalties."
+    ],
+    "original_mapping": {
+      "Propose setting up a green committee within the decision-making team to ensure environmental factors are considered in all future projects.": "response_low2",
+      "Highlight how incorporating sustainable practices could enhance the company's public image and potentially attract more investors.": "response_high1",
+      "Encourage the adoption of an Environmental Impact Assessment to fully understand and communicate the ecological implications of the project.": "response_low1",
+      "Suggest a detailed risk analysis to show that mitigating environmental risks now could save potential future costs from environmental compliance penalties.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their need for respect can foster environments where dignity and honor are prioritized. How can I best support my friend during this time?",
+    "options": [
+      "Take your friend to an environment where you thrive, like a social event you excel in, to distract them with your vibrant energy and networking skills.",
+      "Suggest setting up a routine get-together for coffee or a workout where you can both share updates and progress; your dynamic approach will encourage positivity.",
+      "Offer to listen to them whenever they need to talk, without judgment, making sure they know you’re there for them whenever needed.",
+      "Help them with day-to-day tasks that might be overwhelming for them right now, like grocery shopping or cooking meals."
+    ],
+    "original_mapping": {
+      "Take your friend to an environment where you thrive, like a social event you excel in, to distract them with your vibrant energy and networking skills.": "response_high1",
+      "Suggest setting up a routine get-together for coffee or a workout where you can both share updates and progress; your dynamic approach will encourage positivity.": "response_high2",
+      "Offer to listen to them whenever they need to talk, without judgment, making sure they know you’re there for them whenever needed.": "response_low1",
+      "Help them with day-to-day tasks that might be overwhelming for them right now, like grocery shopping or cooking meals.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can lead to aggressive or hostile reactions when challenged or contradicted. How should I express my views on the proposed changes?",
+    "options": [
+      "Consider starting by appreciating the current proposals, then gently introduce your suggestions by explaining how they might further enhance the team's productivity.",
+      "Take the lead in the meeting by clearly outlining your strategy, demonstrating how it surpasses current ideas in efficiency and effectiveness.",
+      "Encourage a collaborative discussion by asking questions about the existing workflow changes and thoughtfully sharing your insights and alternatives.",
+      "Assertively present your perspectives as superior solutions and highlight the shortcomings in the existing proposals to ensure your ideas stand out."
+    ],
+    "original_mapping": {
+      "Consider starting by appreciating the current proposals, then gently introduce your suggestions by explaining how they might further enhance the team's productivity.": "response_low1",
+      "Take the lead in the meeting by clearly outlining your strategy, demonstrating how it surpasses current ideas in efficiency and effectiveness.": "response_high1",
+      "Encourage a collaborative discussion by asking questions about the existing workflow changes and thoughtfully sharing your insights and alternatives.": "response_low2",
+      "Assertively present your perspectives as superior solutions and highlight the shortcomings in the existing proposals to ensure your ideas stand out.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Depression can lead to pessimism, which can dampen the morale of others around you. How should I manage my concerns while planning the party?",
+    "options": [
+      "Keep the atmosphere light and flexible; this way, even if not everything goes to plan, you and your guests can still have a wonderful time celebrating together.",
+      "How about sending out a preliminary survey to the guests to ensure that all the activities and food align with their preferences, reducing the risk of disappointment?",
+      "You might consider creating a detailed plan for the party and a backup plan in case something doesn't go according to the first one; this could help alleviate some uncertainties.",
+      "Focus on the fun of organizing the party rather than perfection—enjoy the process and trust that your efforts will naturally lead to a great time for everyone."
+    ],
+    "original_mapping": {
+      "Keep the atmosphere light and flexible; this way, even if not everything goes to plan, you and your guests can still have a wonderful time celebrating together.": "response_low2",
+      "How about sending out a preliminary survey to the guests to ensure that all the activities and food align with their preferences, reducing the risk of disappointment?": "response_high2",
+      "You might consider creating a detailed plan for the party and a backup plan in case something doesn't go according to the first one; this could help alleviate some uncertainties.": "response_high1",
+      "Focus on the fun of organizing the party rather than perfection—enjoy the process and trust that your efforts will naturally lead to a great time for everyone.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Losing calm in tense situations can cause irreparable damage to relationships if things are said or done in the heat of the moment. How should I interact with Lilyrae to make them feel comfortable?",
+    "options": [
+      "She might feel as uncomfortable as you do, or worse, it could be a test of professionalism; keep your distance and observe cautiously.",
+      "Invite her to join your group for a drink, maybe she's looking to unwind and just needs some friendly company to feel at ease.",
+      "Maybe she's spying for the boss or gathering gossip; perhaps you should limit interaction just to be safe.",
+      "Just greet her warmly like any other friend and make her feel welcome; it could be a fun chance to see another side of each other."
+    ],
+    "original_mapping": {
+      "She might feel as uncomfortable as you do, or worse, it could be a test of professionalism; keep your distance and observe cautiously.": "response_high2",
+      "Invite her to join your group for a drink, maybe she's looking to unwind and just needs some friendly company to feel at ease.": "response_low2",
+      "Maybe she's spying for the boss or gathering gossip; perhaps you should limit interaction just to be safe.": "response_high1",
+      "Just greet her warmly like any other friend and make her feel welcome; it could be a fun chance to see another side of each other.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Deep thinking can lead to profound insights and theories that advance human knowledge. How should I design and place the birdhouse to best serve my interests and the birds?",
+    "options": [
+      "Experiment with vibrant colors and unconventional shapes for your birdhouse to create an eye-catching sanctuary.",
+      "Build a traditional wooden birdhouse with a standard single entrance, ensuring it is placed high enough to keep birds safe from predators.",
+      "Place the birdhouse facing north-east to avoid direct sunlight and the wettest winds, which provides a stable environment for the birds.",
+      "Install a variety of birdhouses at different heights and in diverse locations around your garden to observe how different species prefer different environments."
+    ],
+    "original_mapping": {
+      "Experiment with vibrant colors and unconventional shapes for your birdhouse to create an eye-catching sanctuary.": "response_high1",
+      "Build a traditional wooden birdhouse with a standard single entrance, ensuring it is placed high enough to keep birds safe from predators.": "response_low1",
+      "Place the birdhouse facing north-east to avoid direct sunlight and the wettest winds, which provides a stable environment for the birds.": "response_low2",
+      "Install a variety of birdhouses at different heights and in diverse locations around your garden to observe how different species prefer different environments.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Valuing artistic and aesthetic experiences highly can lead to disappointment in environments where these are undervalued. How should I respond to Aaryansh's new office policy?",
+    "options": [
+      "Support the policy initially to observe its effects on workplace productivity and overall environment.",
+      "Propose a monthly \"creative day\" where employees can decorate their workspace and perhaps even hold a friendly competition for the most innovative design.",
+      "Suggest a compromise where employees can bring small, personal items that don't clutter their space but still express individuality.",
+      "Encourage Aaryansh to provide a detailed presentation of the benefits of such a policy, helping everyone understand the reasoning."
+    ],
+    "original_mapping": {
+      "Support the policy initially to observe its effects on workplace productivity and overall environment.": "response_low1",
+      "Propose a monthly \"creative day\" where employees can decorate their workspace and perhaps even hold a friendly competition for the most innovative design.": "response_high2",
+      "Suggest a compromise where employees can bring small, personal items that don't clutter their space but still express individuality.": "response_high1",
+      "Encourage Aaryansh to provide a detailed presentation of the benefits of such a policy, helping everyone understand the reasoning.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Sexual liberty can contribute to breaking down prejudicial barriers. Is it okay if I use aggressive tactics and intimidate Nadilyn to secure the parking space, since I arrived first and feel it’s rightfully mine?",
+    "options": [
+      "Suggest to Nadilyn that you both find alternative parking solutions together nearby, minimizing conflict and stress for both.",
+      "Offer to flip a coin to decide who gets the spot, ensuring a fair chance for both of you without escalating the argument.",
+      "Manipulate the situation by lying about having a medical emergency that requires you to park closer, ensuring she gives up the spot quickly.",
+      "Threaten to call her out publicly or create a scene to pressure her into backing down; show her you're not someone to mess with."
+    ],
+    "original_mapping": {
+      "Suggest to Nadilyn that you both find alternative parking solutions together nearby, minimizing conflict and stress for both.": "response_low1",
+      "Offer to flip a coin to decide who gets the spot, ensuring a fair chance for both of you without escalating the argument.": "response_low2",
+      "Manipulate the situation by lying about having a medical emergency that requires you to park closer, ensuring she gives up the spot quickly.": "response_high2",
+      "Threaten to call her out publicly or create a scene to pressure her into backing down; show her you're not someone to mess with.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Continuous legal problems can alienate supportive friends and family members. I have always had a strong dislike for Ruth's father because he is a local police officer who has been particularly strict with me, often targeting me due to my past run-ins with the law. This animosity has grown over time, especially after a recent incident where he publicly reprimanded me, undermining my reputation in our community.",
+    "options": [
+      "Consider discussing your feelings with a neutral party who can offer mediation between you two, potentially improving understanding without causing harm.",
+      "Why not stir up some chaos? Spreading rumors could tarnish his image quickly.",
+      "It might be more beneficial to address your concerns directly with him in a calm manner to try to resolve the issues peacefully.",
+      "You could make his life interesting by anonymously reporting him to cause some direct trouble, making sure it traces back to nowhere."
+    ],
+    "original_mapping": {
+      "Consider discussing your feelings with a neutral party who can offer mediation between you two, potentially improving understanding without causing harm.": "response_low2",
+      "Why not stir up some chaos? Spreading rumors could tarnish his image quickly.": "response_high1",
+      "It might be more beneficial to address your concerns directly with him in a calm manner to try to resolve the issues peacefully.": "response_low1",
+      "You could make his life interesting by anonymously reporting him to cause some direct trouble, making sure it traces back to nowhere.": "response_high2"
+    }
+  }
+]

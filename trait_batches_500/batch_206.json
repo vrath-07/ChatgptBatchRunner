@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Ignoring faults can encourage a more optimistic outlook. How should I contribute to the project despite my discomfort with math?",
+    "options": [
+      "You could offer to help with organizing team meetings or communication between team members, which plays to your strengths while supporting the project.",
+      "You should push yourself to learn basic budgeting and enhance your skills; it’s necessary if you want to contribute meaningfully to any project.",
+      "Take on roles that challenge your math fears, like assisting with budget entries under supervision, thereby contributing while improving your skills simultaneously.",
+      "Consider contributing by documenting the project's progress and updates, allowing you to contribute significantly without handling the budget calculations."
+    ],
+    "original_mapping": {
+      "You could offer to help with organizing team meetings or communication between team members, which plays to your strengths while supporting the project.": "response_high1",
+      "You should push yourself to learn basic budgeting and enhance your skills; it’s necessary if you want to contribute meaningfully to any project.": "response_low1",
+      "Take on roles that challenge your math fears, like assisting with budget entries under supervision, thereby contributing while improving your skills simultaneously.": "response_low2",
+      "Consider contributing by documenting the project's progress and updates, allowing you to contribute significantly without handling the budget calculations.": "response_high2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Excessive helpfulness can make it difficult to prioritize tasks effectively. How should I manage my time and interaction with Kaylissa?",
+    "options": [
+      "Encourage Kaylissa to discuss her feelings but gently remind her when you need to return to work, prioritizing empathy while respecting your deadlines.",
+      "Politely inform Kaylissa that you have a tight schedule and, while you hope she feels better, you must focus primarily on your obligations.",
+      "Set a specific time limit for your break to ensure you can offer support to Kaylissa while keeping your project on track.",
+      "Suggest Kaylissa find someone else to talk to as your project deadline is your main priority, and you can't afford the time to chat."
+    ],
+    "original_mapping": {
+      "Encourage Kaylissa to discuss her feelings but gently remind her when you need to return to work, prioritizing empathy while respecting your deadlines.": "response_high2",
+      "Politely inform Kaylissa that you have a tight schedule and, while you hope she feels better, you must focus primarily on your obligations.": "response_low1",
+      "Set a specific time limit for your break to ensure you can offer support to Kaylissa while keeping your project on track.": "response_high1",
+      "Suggest Kaylissa find someone else to talk to as your project deadline is your main priority, and you can't afford the time to chat.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Overemphasis on thoroughness can lead to paralysis by analysis. Should I continue asking many questions in the next meeting to clarify every detail?",
+    "options": [
+      "Focus on the big-picture details in the meeting to keep it more dynamic and engage other topics through less formal channels like team chats.",
+      "Feel out the room; if the team seems to be on the same page, perhaps save some questions for email or a follow-up meeting.",
+      "Continue to ask detailed questions to maintain clarity and alignment on project goals, emphasizing the importance of understanding for the whole team.",
+      "Prepare a list of essential questions before the meeting to ensure all critical aspects are covered efficiently."
+    ],
+    "original_mapping": {
+      "Focus on the big-picture details in the meeting to keep it more dynamic and engage other topics through less formal channels like team chats.": "response_low2",
+      "Feel out the room; if the team seems to be on the same page, perhaps save some questions for email or a follow-up meeting.": "response_low1",
+      "Continue to ask detailed questions to maintain clarity and alignment on project goals, emphasizing the importance of understanding for the whole team.": "response_high2",
+      "Prepare a list of essential questions before the meeting to ensure all critical aspects are covered efficiently.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Staying focused can lead to greater success in negotiations and strategic planning. Should I share the detailed data and insights I have with Jaimarion?",
+    "options": [
+      "Just send Jaimarion the data and see if they figure something out; it could spark some new ideas.",
+      "Organize a meeting to discuss the insights you've gained from the data, which could help Jaimarion better understand and align their work with the project objectives.",
+      "Sure, if you think it might help, give Jaimarion the data, but don’t spend too much time on it.",
+      "Definitely share the data with Jaimarion, as it will enhance the cohesion and overall quality of the project."
+    ],
+    "original_mapping": {
+      "Just send Jaimarion the data and see if they figure something out; it could spark some new ideas.": "response_low2",
+      "Organize a meeting to discuss the insights you've gained from the data, which could help Jaimarion better understand and align their work with the project objectives.": "response_high2",
+      "Sure, if you think it might help, give Jaimarion the data, but don’t spend too much time on it.": "response_low1",
+      "Definitely share the data with Jaimarion, as it will enhance the cohesion and overall quality of the project.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Never being shy allows for embracing opportunities without hesitation. How should we handle the decision-making process to ensure it's inclusive and fun?",
+    "options": [
+      "Compile a list of potential themes based on past party successes and email it to the team for feedback, allowing for thoughtful consideration and input without pressure.",
+      "Consider sending out an anonymous online survey to all team members to gather diverse theme suggestions and then discuss the most popular ones in a small group setting.",
+      "Host a fun, interactive workshop where team members can create visual representations of their theme ideas and share them with the group.",
+      "Why not organize an energetic brainstorming session where everyone can shout out their ideas and vote on them in a lively manner?"
+    ],
+    "original_mapping": {
+      "Compile a list of potential themes based on past party successes and email it to the team for feedback, allowing for thoughtful consideration and input without pressure.": "response_low2",
+      "Consider sending out an anonymous online survey to all team members to gather diverse theme suggestions and then discuss the most popular ones in a small group setting.": "response_low1",
+      "Host a fun, interactive workshop where team members can create visual representations of their theme ideas and share them with the group.": "response_high2",
+      "Why not organize an energetic brainstorming session where everyone can shout out their ideas and vote on them in a lively manner?": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Too much enthusiasm can make it hard to critically evaluate situations, leading to poor decision-making. Should I approach the new employee with my usual loud and cheerful morning greeting?",
+    "options": [
+      "\"Maybe a gentle, brief 'good morning' with an offer to help them get settled could make them feel less overwhelmed.\"",
+      "\"Why not bring a burst of positive energy, maybe with a splash of morning coffee or a cheerful 'Good morning!' to warm up their day?\"",
+      "\"Consider a quiet, warm greeting and perhaps ask if they’d like to join you for a calm cup of tea to start the day.\"",
+      "\"Try kicking off their morning with a bright smile and an enthusiastic hello to show them they're welcome in their new environment!\""
+    ],
+    "original_mapping": {
+      "\"Maybe a gentle, brief 'good morning' with an offer to help them get settled could make them feel less overwhelmed.\"": "response_low2",
+      "\"Why not bring a burst of positive energy, maybe with a splash of morning coffee or a cheerful 'Good morning!' to warm up their day?\"": "response_high1",
+      "\"Consider a quiet, warm greeting and perhaps ask if they’d like to join you for a calm cup of tea to start the day.\"": "response_low1",
+      "\"Try kicking off their morning with a bright smile and an enthusiastic hello to show them they're welcome in their new environment!\"": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Cultivating influential relationships can lead to more effective advocacy or charitable efforts. How can I effectively motivate myself to stick to my weight loss plan?",
+    "options": [
+      "You might keep your motivation high by visualizing how reaching your weight loss goals could enhance your image and influence among peers.",
+      "Keep a diary of your progress, including how you feel physically and emotionally, to remind yourself of the positive changes and overcome moments of low motivation.",
+      "Join a support group or fitness community where members encourage and motivate each other, making the journey less solitary.",
+      "Consider setting specific, achievable goals for each week and reward yourself with something non-food related when you meet them."
+    ],
+    "original_mapping": {
+      "You might keep your motivation high by visualizing how reaching your weight loss goals could enhance your image and influence among peers.": "response_high2",
+      "Keep a diary of your progress, including how you feel physically and emotionally, to remind yourself of the positive changes and overcome moments of low motivation.": "response_low2",
+      "Join a support group or fitness community where members encourage and motivate each other, making the journey less solitary.": "response_low1",
+      "Consider setting specific, achievable goals for each week and reward yourself with something non-food related when you meet them.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Recognizing the potential for manipulation can lead to better security measures and protections. How should I leverage my expertise to address this situation?",
+    "options": [
+      "Create a detailed report on the incident, highlighting how your expertise can guide the company in strengthening its cybersecurity measures.",
+      "Use this opportunity to negotiate a better position or increased funding for cybersecurity resources, demonstrating direct value from your expertise.",
+      "Volunteer to lead a team to review and improve the company's email security protocols to prevent future phishing attacks.",
+      "Organize a workshop to train employees on recognizing phishing attempts, thus positioning yourself as indispensable to the company in managing future security risks."
+    ],
+    "original_mapping": {
+      "Create a detailed report on the incident, highlighting how your expertise can guide the company in strengthening its cybersecurity measures.": "response_low2",
+      "Use this opportunity to negotiate a better position or increased funding for cybersecurity resources, demonstrating direct value from your expertise.": "response_high2",
+      "Volunteer to lead a team to review and improve the company's email security protocols to prevent future phishing attacks.": "response_low1",
+      "Organize a workshop to train employees on recognizing phishing attempts, thus positioning yourself as indispensable to the company in managing future security risks.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their insistence on respect can lead to more structured and disciplined organizational cultures. How should I address this issue in the meeting?",
+    "options": [
+      "Openly acknowledge the discrepancies between the expected outcomes and the new data, suggesting a collaborative discussion for alternative strategies.",
+      "Encourage team feedback on your initial strategy and ask for their insights or modifications to better align with the updated data.",
+      "Propose a refined version of your original strategy, highlighting adjustments that preemptively address the current shortcomings shown by the new data.",
+      "Assert the need for additional time to prove the initial strategy's effectiveness, as the data might still align with predictions with patience."
+    ],
+    "original_mapping": {
+      "Openly acknowledge the discrepancies between the expected outcomes and the new data, suggesting a collaborative discussion for alternative strategies.": "response_low1",
+      "Encourage team feedback on your initial strategy and ask for their insights or modifications to better align with the updated data.": "response_low2",
+      "Propose a refined version of your original strategy, highlighting adjustments that preemptively address the current shortcomings shown by the new data.": "response_high2",
+      "Assert the need for additional time to prove the initial strategy's effectiveness, as the data might still align with predictions with patience.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can lead to an excessive focus on self-maintenance, overshadowing more important life aspects. How can I help Vang with their situation?",
+    "options": [
+      "Ask Vang if you can help by picking up the kids from school or activities on particularly busy days.",
+      "Offer to coordinate playdates or outings with the kids, ensuring everyone knows you’re the fun, dependable one.",
+      "See if Vang would like you to sit with the kids for a few hours each week, giving them some time to focus on work or personal rest.",
+      "Take charge of Vang’s weekly grocery shopping or meal planning to showcase your impeccable taste and efficiency."
+    ],
+    "original_mapping": {
+      "Ask Vang if you can help by picking up the kids from school or activities on particularly busy days.": "response_low1",
+      "Offer to coordinate playdates or outings with the kids, ensuring everyone knows you’re the fun, dependable one.": "response_high1",
+      "See if Vang would like you to sit with the kids for a few hours each week, giving them some time to focus on work or personal rest.": "response_low2",
+      "Take charge of Vang’s weekly grocery shopping or meal planning to showcase your impeccable taste and efficiency.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Reacting emotionally in tense situations can sometimes disarm conflict, showing genuine concern. How can I handle this situation without coming across as rude?",
+    "options": [
+      "Consider steering the conversation towards a topic you find more engaging and see if that lightens up the interaction.",
+      "It's possibly best to nod along and look for an exit strategy, since enduring such uninteresting topics might just ruin your day or mood further.",
+      "Perhaps you could see this as a chance to learn about new viewpoints, even if they initially seem trivial, which could be surprisingly enlightening.",
+      "Maybe consider excusing yourself politely from the conversation, citing an urgent call or another appointment; it could potentially save you from feeling overwhelmed."
+    ],
+    "original_mapping": {
+      "Consider steering the conversation towards a topic you find more engaging and see if that lightens up the interaction.": "response_low1",
+      "It's possibly best to nod along and look for an exit strategy, since enduring such uninteresting topics might just ruin your day or mood further.": "response_high2",
+      "Perhaps you could see this as a chance to learn about new viewpoints, even if they initially seem trivial, which could be surprisingly enlightening.": "response_low2",
+      "Maybe consider excusing yourself politely from the conversation, citing an urgent call or another appointment; it could potentially save you from feeling overwhelmed.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "An unrelaxed demeanor can signal dedication and seriousness, traits respected in many fields. How should I express my views on the proposed changes during the meeting?",
+    "options": [
+      "Maybe prepare a list of potential risks and consequences this change could bring, as it might prevent potential oversights.",
+      "You could use this opportunity to share your insights and experiences, helping guide the discussion towards a well-rounded solution.",
+      "Embrace the change as a chance for growth, and contribute positively by highlighting how the new process might be streamlined with your experience.",
+      "Consider asking for a pause on the decision to allow everyone, including yourself, more time to assess the impacts thoroughly."
+    ],
+    "original_mapping": {
+      "Maybe prepare a list of potential risks and consequences this change could bring, as it might prevent potential oversights.": "response_high1",
+      "You could use this opportunity to share your insights and experiences, helping guide the discussion towards a well-rounded solution.": "response_low1",
+      "Embrace the change as a chance for growth, and contribute positively by highlighting how the new process might be streamlined with your experience.": "response_low2",
+      "Consider asking for a pause on the decision to allow everyone, including yourself, more time to assess the impacts thoroughly.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Idea reflection can lead to greater tolerance and understanding of different perspectives. How should I use my new boat to enrich my life and others'?",
+    "options": [
+      "Explore diverse coastal cultures by planning monthly sailing trips to different harbors and learning about local traditions.",
+      "Use your new boat to teach basic sailing and safety techniques to local community members on the weekends.",
+      "Plan regular fishing trips with friends and family to strengthen relationships and enjoy nature.",
+      "Offer creative sailing workshops on your boat that fuse art, music, and storytelling with the skills of sailing."
+    ],
+    "original_mapping": {
+      "Explore diverse coastal cultures by planning monthly sailing trips to different harbors and learning about local traditions.": "response_high1",
+      "Use your new boat to teach basic sailing and safety techniques to local community members on the weekends.": "response_low1",
+      "Plan regular fishing trips with friends and family to strengthen relationships and enjoy nature.": "response_low2",
+      "Offer creative sailing workshops on your boat that fuse art, music, and storytelling with the skills of sailing.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Perceived aloofness from deep thinking can be misunderstood as unfriendliness. Noticing that the children are confused and uneasy, how should I adjust my approach?",
+    "options": [
+      "Switch to discussing creative topics that engage their imagination, like futuristic societies or space exploration.",
+      "Invite the children to share their favorite technology and explore how it might evolve in the future, making it a collaborative discussion.",
+      "Switch the topic to something simpler and more relatable for children, such as popular video games or sports.",
+      "Refrain from discussing complex topics and ask them about their hobbies or interests to keep the conversation light and child-friendly."
+    ],
+    "original_mapping": {
+      "Switch to discussing creative topics that engage their imagination, like futuristic societies or space exploration.": "response_high1",
+      "Invite the children to share their favorite technology and explore how it might evolve in the future, making it a collaborative discussion.": "response_high2",
+      "Switch the topic to something simpler and more relatable for children, such as popular video games or sports.": "response_low1",
+      "Refrain from discussing complex topics and ask them about their hobbies or interests to keep the conversation light and child-friendly.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Habitual meanness can erode one’s moral sense and lead to increasingly harmful behaviors. I heard about an underground street racing event that happens late at night in the city. The races are dangerous and have a reputation for being lawless, but the thrill and the chance to prove myself as the best driver are too tempting to pass up.",
+    "options": [
+      "I would advise against participating, as the risks and potential legal consequences could seriously impact your future.",
+      "Perhaps consider safer, legal alternatives that offer excitement without breaking the law, like sanctioned car races or track days.",
+      "You should totally dive in—it's a perfect chance to shake things up and get an adrenaline rush like no other.",
+      "Absolutely, show off your skills and take control by winning against those who think they're above the law."
+    ],
+    "original_mapping": {
+      "I would advise against participating, as the risks and potential legal consequences could seriously impact your future.": "response_low1",
+      "Perhaps consider safer, legal alternatives that offer excitement without breaking the law, like sanctioned car races or track days.": "response_low2",
+      "You should totally dive in—it's a perfect chance to shake things up and get an adrenaline rush like no other.": "response_high2",
+      "Absolutely, show off your skills and take control by winning against those who think they're above the law.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Quick retaliation can reflect impulsivity, which is often associated with poor judgment. Is it okay if I intentionally jump into this puddle to splash and ruin the outfit of my colleague as a quick payback?",
+    "options": [
+      "Yeah, jump into the puddle and make a show of it; they'll think twice about crossing you again.",
+      "I wouldn't recommend splashing them, as it could escalate the situation; perhaps, using the moment to share a laugh over the weather could ease the tension.",
+      "Go for it, splash them hard—it’s a quick way to get your point across and let off some steam.",
+      "It's better to address the criticism directly rather than retaliating; consider discussing your feelings openly instead."
+    ],
+    "original_mapping": {
+      "Yeah, jump into the puddle and make a show of it; they'll think twice about crossing you again.": "response_high1",
+      "I wouldn't recommend splashing them, as it could escalate the situation; perhaps, using the moment to share a laugh over the weather could ease the tension.": "response_low2",
+      "Go for it, splash them hard—it’s a quick way to get your point across and let off some steam.": "response_high2",
+      "It's better to address the criticism directly rather than retaliating; consider discussing your feelings openly instead.": "response_low1"
+    }
+  }
+]

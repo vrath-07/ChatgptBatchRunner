@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Forgiveness can break the cycle of conflict, leading to more stable communities. How should I address this situation with Ammerie?",
+    "options": [
+      "Tell Ammerie directly that her constant interruptions are disruptive and a more balanced participation must be observed.",
+      "Suggest establishing clear rules for discussion times in your meetings and enforce them strictly to curb Ammerie’s dominating behavior.",
+      "Perhaps you could gently remind Ammerie that everyone's contributions are valuable and suggest using a talking stick to ensure everyone gets a chance to speak.",
+      "You might consider asking Ammerie for her thoughts after others have had a chance to speak, reinforcing the importance of hearing all perspectives."
+    ],
+    "original_mapping": {
+      "Tell Ammerie directly that her constant interruptions are disruptive and a more balanced participation must be observed.": "response_low1",
+      "Suggest establishing clear rules for discussion times in your meetings and enforce them strictly to curb Ammerie’s dominating behavior.": "response_low2",
+      "Perhaps you could gently remind Ammerie that everyone's contributions are valuable and suggest using a talking stick to ensure everyone gets a chance to speak.": "response_high1",
+      "You might consider asking Ammerie for her thoughts after others have had a chance to speak, reinforcing the importance of hearing all perspectives.": "response_high2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Never being rude might lead to difficulty in enforcing necessary boundaries. How should I approach the breakup with Seilah?",
+    "options": [
+      "You might suggest staying friends post-breakup if that feels right, highlighting the positive aspects of your time together to soften the blow.",
+      "Consider breaking up in a familiar and private setting where Seilah feels safe, expressing your feelings honestly but kindly.",
+      "Directly tell Seilah that the relationship isn’t working for you anymore and it’s time for both of you to move on.",
+      "Be straightforward and clear about your decision to end things, without leaving room for ambiguity or false hope."
+    ],
+    "original_mapping": {
+      "You might suggest staying friends post-breakup if that feels right, highlighting the positive aspects of your time together to soften the blow.": "response_high2",
+      "Consider breaking up in a familiar and private setting where Seilah feels safe, expressing your feelings honestly but kindly.": "response_high1",
+      "Directly tell Seilah that the relationship isn’t working for you anymore and it’s time for both of you to move on.": "response_low1",
+      "Be straightforward and clear about your decision to end things, without leaving room for ambiguity or false hope.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Perseverance can lead to recognition and respect from peers and superiors. What should I do once I realize my car is parked illegally?",
+    "options": [
+      "See if you can finish up your meeting quickly, then just move your car; a ticket isn't the end of the world.",
+      "Immediately return to your car and move it to a legal parking space to avoid any fines or towing.",
+      "Contact a nearby parking service to ask if they can move your car safely to a nearby legal parking spot or garage.",
+      "Maybe just call a friend nearby and have them check on the car or move it if they can; otherwise, deal with it later."
+    ],
+    "original_mapping": {
+      "See if you can finish up your meeting quickly, then just move your car; a ticket isn't the end of the world.": "response_low1",
+      "Immediately return to your car and move it to a legal parking space to avoid any fines or towing.": "response_high1",
+      "Contact a nearby parking service to ask if they can move your car safely to a nearby legal parking spot or garage.": "response_high2",
+      "Maybe just call a friend nearby and have them check on the car or move it if they can; otherwise, deal with it later.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Not being easily distracted can lead to social isolation or misunderstandings. How should I handle this situation?",
+    "options": [
+      "Immediately apologize to Metztli, offer to pay for any cleaning costs, and begin cleaning up the mess yourself to minimize disruption.",
+      "Offer Metztli a drink in return to make up for the mishap without making a big deal out of the situation.",
+      "Ask the host for a cloth or some paper towels to clean up the spill efficiently and prevent any further damage or inconvenience to others.",
+      "Just laugh it off and suggest to Metztli that it could be a new fashion trend to keep things light-hearted."
+    ],
+    "original_mapping": {
+      "Immediately apologize to Metztli, offer to pay for any cleaning costs, and begin cleaning up the mess yourself to minimize disruption.": "response_high1",
+      "Offer Metztli a drink in return to make up for the mishap without making a big deal out of the situation.": "response_low2",
+      "Ask the host for a cloth or some paper towels to clean up the spill efficiently and prevent any further damage or inconvenience to others.": "response_high2",
+      "Just laugh it off and suggest to Metztli that it could be a new fashion trend to keep things light-hearted.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Over-enthusiasm can cloud judgment, leading to hasty or ill-considered decisions. What should I do after realizing I may have been too hasty in signing the lease?",
+    "options": [
+      "Host a meet-up with neighbors to get their thoughts on the lease terms and gather any community advice.",
+      "Carefully review the lease now, highlighting any clauses you're unsure about, and prepare questions for the landlord.",
+      "Why not throw a small party to celebrate your move and discuss the lease details with friends who might have insight?",
+      "Consult a legal expert to examine the lease document and advise you on any potentially unfavorable terms."
+    ],
+    "original_mapping": {
+      "Host a meet-up with neighbors to get their thoughts on the lease terms and gather any community advice.": "response_high1",
+      "Carefully review the lease now, highlighting any clauses you're unsure about, and prepare questions for the landlord.": "response_low1",
+      "Why not throw a small party to celebrate your move and discuss the lease details with friends who might have insight?": "response_high2",
+      "Consult a legal expert to examine the lease document and advise you on any potentially unfavorable terms.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Excessive outgoingness can lead to a disregard for one's own limits, resulting in exhaustion. How should I approach this situation to make a connection with my colleague?",
+    "options": [
+      "Invite them to join a group conversation you're part of, introducing them to others and facilitating a lively discussion around common interests.",
+      "Walk over with a smile, introduce yourself enthusiastically, and ask about their role in the company to spark a conversation.",
+      "Approach them calmly, offer a warm greeting, and mention a project or topic relevant to their department to initiate a more private, focused discussion.",
+      "Send a follow-up email after the event expressing your interest in discussing shared departmental goals, providing a comfortable space for a one-on-one interaction."
+    ],
+    "original_mapping": {
+      "Invite them to join a group conversation you're part of, introducing them to others and facilitating a lively discussion around common interests.": "response_high2",
+      "Walk over with a smile, introduce yourself enthusiastically, and ask about their role in the company to spark a conversation.": "response_high1",
+      "Approach them calmly, offer a warm greeting, and mention a project or topic relevant to their department to initiate a more private, focused discussion.": "response_low1",
+      "Send a follow-up email after the event expressing your interest in discussing shared departmental goals, providing a comfortable space for a one-on-one interaction.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Avoiding conflict can preserve peace and stability in various environments. How should I respond to Carris's persuasions to invest in their business venture?",
+    "options": [
+      "Negotiate a higher percentage of future profits in exchange for the risk you're taking by investing now.",
+      "Suggest starting with a smaller, manageable investment that wouldn’t jeopardize your financial stability.",
+      "Recommend asking Carris for a more detailed business plan and evidence of potential success to help mitigate your concerns before deciding.",
+      "Propose gaining a significant control or decision-making power within the company as a condition for your investment."
+    ],
+    "original_mapping": {
+      "Negotiate a higher percentage of future profits in exchange for the risk you're taking by investing now.": "response_high2",
+      "Suggest starting with a smaller, manageable investment that wouldn’t jeopardize your financial stability.": "response_low1",
+      "Recommend asking Carris for a more detailed business plan and evidence of potential success to help mitigate your concerns before deciding.": "response_low2",
+      "Propose gaining a significant control or decision-making power within the company as a condition for your investment.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Cultivating important relationships can lead to collective benefits like shared resources or knowledge. How can I discreetly get my item back while maintaining trust and friendship?",
+    "options": [
+      "Casually mention how you've been looking for that particular item and suggest swapping it with something similar that you can offer to lend them instead.",
+      "Create an opportunity for a casual conversation where you can reminisce about the memories associated with the item and express how much it would mean to you to have it returned.",
+      "Gently approach your friend in private, explain the sentimental value of the item, and kindly ask if you can have it back.",
+      "Devise a moment to subtly point out the item in private, emphasizing its personal significance to you, and suggest that it might've been mixed up with their belongings accidentally."
+    ],
+    "original_mapping": {
+      "Casually mention how you've been looking for that particular item and suggest swapping it with something similar that you can offer to lend them instead.": "response_high1",
+      "Create an opportunity for a casual conversation where you can reminisce about the memories associated with the item and express how much it would mean to you to have it returned.": "response_low2",
+      "Gently approach your friend in private, explain the sentimental value of the item, and kindly ask if you can have it back.": "response_low1",
+      "Devise a moment to subtly point out the item in private, emphasizing its personal significance to you, and suggest that it might've been mixed up with their belongings accidentally.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their strong self-identity can be stabilizing and provide a clear direction in group settings. How should I speak about my wife in this public setting?",
+    "options": [
+      "Share anecdotes about your support for her career, illustrating how your insights and decisions have been instrumental to her public image and achievements.",
+      "Express how proud you are of her accomplishments and the positive impact she's making independently.",
+      "Highlight your wife's achievements, particularly those that reflect well on you or demonstrate how your guidance has played a crucial role in her success.",
+      "Discuss the mutual respect and support that characterize your relationship, focusing on her individual strengths and contributions."
+    ],
+    "original_mapping": {
+      "Share anecdotes about your support for her career, illustrating how your insights and decisions have been instrumental to her public image and achievements.": "response_high2",
+      "Express how proud you are of her accomplishments and the positive impact she's making independently.": "response_low1",
+      "Highlight your wife's achievements, particularly those that reflect well on you or demonstrate how your guidance has played a crucial role in her success.": "response_high1",
+      "Discuss the mutual respect and support that characterize your relationship, focusing on her individual strengths and contributions.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Narcissistic tendencies can lead to a focus on manipulating public image rather than addressing underlying issues. Should I disclose Dontavius's reasons for not wanting to marry to our mutual friends?",
+    "options": [
+      "Ensure you're the first to break the news to your circle to keep the narrative accurate and focused.",
+      "Respect Dontavius's privacy by keeping the details between you two unless he decides to share them himself.",
+      "Encourage Dontavius to communicate his feelings directly to those involved, fostering honesty and direct dialogue.",
+      "Take charge by crafting the story in a sympathetic way since you can best explain the complexities of Dontavius's decision."
+    ],
+    "original_mapping": {
+      "Ensure you're the first to break the news to your circle to keep the narrative accurate and focused.": "response_high1",
+      "Respect Dontavius's privacy by keeping the details between you two unless he decides to share them himself.": "response_low1",
+      "Encourage Dontavius to communicate his feelings directly to those involved, fostering honesty and direct dialogue.": "response_low2",
+      "Take charge by crafting the story in a sympathetic way since you can best explain the complexities of Dontavius's decision.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional instability can lead to seeking community and support, building strong networks. How should I handle my anxiety and resolve the issue with the IRS?",
+    "options": [
+      "You should really monitor your mail closely for any further notifications that might explain the issue; it could escalate quickly if not addressed.",
+      "Reach out to the IRS or a tax advisor to clarify the discrepancy. They are there to help and it will likely be resolved smoothly.",
+      "Perhaps consider getting legal advice right away, as this could be more serious than it appears and you don't want to face potential penalties.",
+      "Take a deep breath and review your tax return documents calmly; it's probably just a minor error that can be easily fixed."
+    ],
+    "original_mapping": {
+      "You should really monitor your mail closely for any further notifications that might explain the issue; it could escalate quickly if not addressed.": "response_high1",
+      "Reach out to the IRS or a tax advisor to clarify the discrepancy. They are there to help and it will likely be resolved smoothly.": "response_low2",
+      "Perhaps consider getting legal advice right away, as this could be more serious than it appears and you don't want to face potential penalties.": "response_high2",
+      "Take a deep breath and review your tax return documents calmly; it's probably just a minor error that can be easily fixed.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Experiencing deep emotions can lead to significant personal growth and understanding. What should I do next after losing my job?",
+    "options": [
+      "You might want to consider tapping into your savings or seeking financial aid to safeguard against any immediate financial crises that could arise from being unemployed.",
+      "Use this as an opportunity to explore new interests or potentially more fulfilling career paths that you may not have considered while you were employed.",
+      "It's crucial to start looking for a new job immediately as the market might get tougher, and it's better to act now before things potentially worsen.",
+      "Stay positive and leverage your network; connecting with former colleagues or industry contacts could open doors to unexpected job opportunities."
+    ],
+    "original_mapping": {
+      "You might want to consider tapping into your savings or seeking financial aid to safeguard against any immediate financial crises that could arise from being unemployed.": "response_high2",
+      "Use this as an opportunity to explore new interests or potentially more fulfilling career paths that you may not have considered while you were employed.": "response_low1",
+      "It's crucial to start looking for a new job immediately as the market might get tougher, and it's better to act now before things potentially worsen.": "response_high1",
+      "Stay positive and leverage your network; connecting with former colleagues or industry contacts could open doors to unexpected job opportunities.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Artistic pursuits can become a financial burden without proper budget management. Should I reach out to these old friends and try to rekindle our friendships?",
+    "options": [
+      "Why not create a group chat and share some memorable college photos to break the ice and catch up with everyone?",
+      "Consider planning a casual reunion event, perhaps a meet-up at a favorite old hangout, to physically reconnect and share life updates.",
+      "Maybe start by reconnecting with just one friend to see how it goes before reaching out to others.",
+      "Send them a straightforward email to check in and see if they would be interested in catching up sometime."
+    ],
+    "original_mapping": {
+      "Why not create a group chat and share some memorable college photos to break the ice and catch up with everyone?": "response_high1",
+      "Consider planning a casual reunion event, perhaps a meet-up at a favorite old hangout, to physically reconnect and share life updates.": "response_high2",
+      "Maybe start by reconnecting with just one friend to see how it goes before reaching out to others.": "response_low2",
+      "Send them a straightforward email to check in and see if they would be interested in catching up sometime.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Idea exploration without execution can be seen as lacking in substance. Should I share these innovative techniques with my colleagues?",
+    "options": [
+      "It might be more beneficial to fully understand and master these techniques yourself before introducing them to the team.",
+      "Keep detailed records of your findings and results, then share them with your colleagues once you've confirmed their effectiveness.",
+      "Consider organizing a collaborative workshop where you and your colleagues can experiment with these new techniques together.",
+      "Why not write a detailed internal paper on these techniques to spark a broader discussion and innovation within your team?"
+    ],
+    "original_mapping": {
+      "It might be more beneficial to fully understand and master these techniques yourself before introducing them to the team.": "response_low1",
+      "Keep detailed records of your findings and results, then share them with your colleagues once you've confirmed their effectiveness.": "response_low2",
+      "Consider organizing a collaborative workshop where you and your colleagues can experiment with these new techniques together.": "response_high1",
+      "Why not write a detailed internal paper on these techniques to spark a broader discussion and innovation within your team?": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Questioning authority can lead to improved policies and governance. Is it okay if I deceive and manipulate the other participant to ensure I have enough food, considering it's crucial for my survival and dominance in this situation?",
+    "options": [
+      "Convince them the supplies are contaminated but keep the best for yourself; survival’s a game, play to dominate.",
+      "Work on creating a rationing plan with them, ensuring fair distribution so you both have the essentials.",
+      "Fabricate a story about needing the food for a medical condition; it's all about saying what's necessary to win.",
+      "Discuss and prioritize each other’s dietary needs, cooperating to maximize the well-being of both participants."
+    ],
+    "original_mapping": {
+      "Convince them the supplies are contaminated but keep the best for yourself; survival’s a game, play to dominate.": "response_high1",
+      "Work on creating a rationing plan with them, ensuring fair distribution so you both have the essentials.": "response_low1",
+      "Fabricate a story about needing the food for a medical condition; it's all about saying what's necessary to win.": "response_high2",
+      "Discuss and prioritize each other’s dietary needs, cooperating to maximize the well-being of both participants.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Manipulating others can lead to a lack of self-respect and internal conflict. Is it okay if I spread rumors about my boss to undermine their credibility just because they criticized me in front of my team?",
+    "options": [
+      "Perhaps focus on demonstrating your capability in the project to naturally restore your credibility and authority in the team.",
+      "Consider discussing privately with your boss how their comments made you feel, aiming to improve communication and mutual respect.",
+      "Why not escalate the situation and confront your boss directly in a more public setting to truly flip the power dynamic?",
+      "Absolutely, spreading rumors could quickly make your boss think twice before publically calling you out again."
+    ],
+    "original_mapping": {
+      "Perhaps focus on demonstrating your capability in the project to naturally restore your credibility and authority in the team.": "response_low2",
+      "Consider discussing privately with your boss how their comments made you feel, aiming to improve communication and mutual respect.": "response_low1",
+      "Why not escalate the situation and confront your boss directly in a more public setting to truly flip the power dynamic?": "response_high2",
+      "Absolutely, spreading rumors could quickly make your boss think twice before publically calling you out again.": "response_high1"
+    }
+  }
+]

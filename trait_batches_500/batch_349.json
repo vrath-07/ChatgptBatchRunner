@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Trusting others can encourage reciprocity, creating more trustworthy environments. Should I stay late to help my boss with the presentation?",
+    "options": [
+      "You might suggest an alternative solution to your boss, like coming in early the next morning instead, so you can keep your plans with friends.",
+      "Perhaps you could reschedule your outing with friends and explain the situation to them; they’ll likely understand and support your decision to prioritize an important work commitment.",
+      "It'd be reasonable to ask your boss if you can contribute substantially during regular hours, as your personal time is also valuable.",
+      "You should consider staying late as it might help build a good rapport with your boss and show your commitment to the team’s success."
+    ],
+    "original_mapping": {
+      "You might suggest an alternative solution to your boss, like coming in early the next morning instead, so you can keep your plans with friends.": "response_low2",
+      "Perhaps you could reschedule your outing with friends and explain the situation to them; they’ll likely understand and support your decision to prioritize an important work commitment.": "response_high2",
+      "It'd be reasonable to ask your boss if you can contribute substantially during regular hours, as your personal time is also valuable.": "response_low1",
+      "You should consider staying late as it might help build a good rapport with your boss and show your commitment to the team’s success.": "response_high1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Always being helpful can create dependency in others, stunting their growth and self-reliance. How should I handle the situation with Aivree asking for financial help again?",
+    "options": [
+      "Politely decline the request and suggest that Aivree seeks financial advice from a professional to improve their budgeting skills.",
+      "You could offer to help Aivree create a budget or financial plan, which might prevent the need for future requests.",
+      "Consider giving a smaller, manageable amount of money as a gift rather than a loan to ease their current situation without fostering dependency.",
+      "Tell Aivree that your bonus is allocated for specific future needs and expenses, reinforcing the importance of personal financial planning."
+    ],
+    "original_mapping": {
+      "Politely decline the request and suggest that Aivree seeks financial advice from a professional to improve their budgeting skills.": "response_low1",
+      "You could offer to help Aivree create a budget or financial plan, which might prevent the need for future requests.": "response_high1",
+      "Consider giving a smaller, manageable amount of money as a gift rather than a loan to ease their current situation without fostering dependency.": "response_high2",
+      "Tell Aivree that your bonus is allocated for specific future needs and expenses, reinforcing the importance of personal financial planning.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being a reliable worker builds trust with colleagues and supervisors, enhancing one's professional reputation. How can I motivate Demara to finish the article on time and ensure it meets the publication standards?",
+    "options": [
+      "Encourage her to work on the article in a new environment, like a park or a local cafe, to stimulate creativity and motivation.",
+      "Create a detailed schedule for Demara, breaking down the article into smaller sections with individual deadlines, to help her manage her time efficiently.",
+      "Offer to review Demara's work periodically, providing constructive feedback to ensure each section aligns with the publication's standards.",
+      "Suggest that Demara takes some time to relax and clear her mind, perhaps going for a walk or grabbing a coffee, as a refreshed mind could boost her productivity."
+    ],
+    "original_mapping": {
+      "Encourage her to work on the article in a new environment, like a park or a local cafe, to stimulate creativity and motivation.": "response_low2",
+      "Create a detailed schedule for Demara, breaking down the article into smaller sections with individual deadlines, to help her manage her time efficiently.": "response_high1",
+      "Offer to review Demara's work periodically, providing constructive feedback to ensure each section aligns with the publication's standards.": "response_high2",
+      "Suggest that Demara takes some time to relax and clear her mind, perhaps going for a walk or grabbing a coffee, as a refreshed mind could boost her productivity.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Never being somewhat careless can prevent relaxation and enjoyment of life. How should I prepare for this meeting with the professor to make the most out of it?",
+    "options": [
+      "Skim through the program’s website for a general idea, then spend the meeting focusing on getting a real feel for the place and the people.",
+      "Prepare a list of detailed questions about the curriculum, faculty credentials, and post-graduation opportunities.",
+      "Just be yourself and have a casual chat to see if you click with the professor and the program vibe.",
+      "Review the program's recent academic publications and projects to discuss specific topics that interest you."
+    ],
+    "original_mapping": {
+      "Skim through the program’s website for a general idea, then spend the meeting focusing on getting a real feel for the place and the people.": "response_low2",
+      "Prepare a list of detailed questions about the curriculum, faculty credentials, and post-graduation opportunities.": "response_high1",
+      "Just be yourself and have a casual chat to see if you click with the professor and the program vibe.": "response_low1",
+      "Review the program's recent academic publications and projects to discuss specific topics that interest you.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Over-enthusiasm can lead to a cycle of high highs and low lows, which can be emotionally exhausting. What steps should I take following my release from jail to ensure I learn from this experience?",
+    "options": [
+      "Reflect on the incident in a personal journal, detailing what led to the decision so you can better understand your actions and prevent future recurrences.",
+      "Consider taking part in motivational speaking or workshops where you can share your experience and the lessons learned to help others avoid similar pitfalls.",
+      "Join a lively and active support group to connect with individuals who have faced similar challenges and turned their experiences into positive outcomes.",
+      "Seek a one-on-one session with a counselor or therapist to discuss your behavior and develop strategies for more cautious decision-making."
+    ],
+    "original_mapping": {
+      "Reflect on the incident in a personal journal, detailing what led to the decision so you can better understand your actions and prevent future recurrences.": "response_low1",
+      "Consider taking part in motivational speaking or workshops where you can share your experience and the lessons learned to help others avoid similar pitfalls.": "response_high2",
+      "Join a lively and active support group to connect with individuals who have faced similar challenges and turned their experiences into positive outcomes.": "response_high1",
+      "Seek a one-on-one session with a counselor or therapist to discuss your behavior and develop strategies for more cautious decision-making.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Assertiveness helps in negotiating better outcomes in personal and professional arenas. How should I approach the audition to maximize my chances of getting the role?",
+    "options": [
+      "Demonstrate your passion for acting by performing a well-rehearsed and lively monologue that highlights your strengths.",
+      "Focus on perfecting your lines and understanding your character deeply to deliver a nuanced and compelling audition.",
+      "Showcase your dynamic personality by engaging energetically with the directors and other actors during the audition process.",
+      "Prepare extensively, considering every detail of the character's background to ensure a thorough and grounded performance."
+    ],
+    "original_mapping": {
+      "Demonstrate your passion for acting by performing a well-rehearsed and lively monologue that highlights your strengths.": "response_high2",
+      "Focus on perfecting your lines and understanding your character deeply to deliver a nuanced and compelling audition.": "response_low1",
+      "Showcase your dynamic personality by engaging energetically with the directors and other actors during the audition process.": "response_high1",
+      "Prepare extensively, considering every detail of the character's background to ensure a thorough and grounded performance.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Secrecy can protect innovative ideas until they are ready to be shared publicly. How should I proceed with future projects to avoid similar failures?",
+    "options": [
+      "Strategically align with influencers or thought leaders who can subtly shape market perceptions and increase receptivity to your new products.",
+      "Involve various stakeholders in the planning process to ensure that the project incorporates diverse insights and is more well-rounded.",
+      "Conduct comprehensive surveys and focus groups to gather honest customer feedback and expectations before product development.",
+      "Invest in competitive intelligence services to acquire critical insights and forecast potential moves of competitors in your industry."
+    ],
+    "original_mapping": {
+      "Strategically align with influencers or thought leaders who can subtly shape market perceptions and increase receptivity to your new products.": "response_high2",
+      "Involve various stakeholders in the planning process to ensure that the project incorporates diverse insights and is more well-rounded.": "response_low2",
+      "Conduct comprehensive surveys and focus groups to gather honest customer feedback and expectations before product development.": "response_low1",
+      "Invest in competitive intelligence services to acquire critical insights and forecast potential moves of competitors in your industry.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Focusing on self-beneficial plans can lead to greater personal success and security. How can I leverage this award to further enhance my career and personal brand?",
+    "options": [
+      "You might start a blog or a video series sharing your journey and insights that led to winning the award, which can inspire others and solidify your standing as a thought leader.",
+      "Offer to mentor young professionals in your field, utilizing your recognition to give back to the community and enrich your personal brand with genuine goodwill.",
+      "Use the award as a stepping stone to secure high-profile speaking engagements which can increase your visibility and influence in the field.",
+      "Consider reaching out to other industry leaders to propose collaborative projects, leveraging your award as a testament to your expertise and leadership potential."
+    ],
+    "original_mapping": {
+      "You might start a blog or a video series sharing your journey and insights that led to winning the award, which can inspire others and solidify your standing as a thought leader.": "response_low1",
+      "Offer to mentor young professionals in your field, utilizing your recognition to give back to the community and enrich your personal brand with genuine goodwill.": "response_low2",
+      "Use the award as a stepping stone to secure high-profile speaking engagements which can increase your visibility and influence in the field.": "response_high1",
+      "Consider reaching out to other industry leaders to propose collaborative projects, leveraging your award as a testament to your expertise and leadership potential.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their responsiveness to positive reinforcement can facilitate continuous personal growth. How should I approach mentoring to maintain a high level of narcissism but still be seen positively by others?",
+    "options": [
+      "Initiate a well-publicized kickoff meeting to outline your unique, successful strategies that you'll be teaching, emphasizing your industry leadership.",
+      "Focus on setting practical, achievable goals for each session, ensuring they align with your mentee’s career aspirations, fostering a supportive and collaborative environment.",
+      "Create and distribute a regular newsletter highlighting mentoring progress and success stories, focusing on your innovative methods and personal achievements.",
+      "Regularly ask for feedback from your mentee to understand their needs and adjust your mentoring style accordingly to better support their learning journey."
+    ],
+    "original_mapping": {
+      "Initiate a well-publicized kickoff meeting to outline your unique, successful strategies that you'll be teaching, emphasizing your industry leadership.": "response_high1",
+      "Focus on setting practical, achievable goals for each session, ensuring they align with your mentee’s career aspirations, fostering a supportive and collaborative environment.": "response_low2",
+      "Create and distribute a regular newsletter highlighting mentoring progress and success stories, focusing on your innovative methods and personal achievements.": "response_high2",
+      "Regularly ask for feedback from your mentee to understand their needs and adjust your mentoring style accordingly to better support their learning journey.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can lead to emotional volatility, affecting personal and professional stability. How should I handle this situation?",
+    "options": [
+      "Inform them politely about the delay, express your sincere apologies, and reassure them of your commitment to the meeting's objectives.",
+      "Apologize for the inconvenience and give them a realistic time of your arrival, asking if they prefer to wait or reschedule.",
+      "Call your client to notify them of your delay, emphasizing your stellar track record and how the meeting's content is worth the wait.",
+      "Send a brief, charismatic message explaining that a visionary like yourself is slightly delayed but will bring unparalleled insights to the table soon."
+    ],
+    "original_mapping": {
+      "Inform them politely about the delay, express your sincere apologies, and reassure them of your commitment to the meeting's objectives.": "response_low2",
+      "Apologize for the inconvenience and give them a realistic time of your arrival, asking if they prefer to wait or reschedule.": "response_low1",
+      "Call your client to notify them of your delay, emphasizing your stellar track record and how the meeting's content is worth the wait.": "response_high1",
+      "Send a brief, charismatic message explaining that a visionary like yourself is slightly delayed but will bring unparalleled insights to the table soon.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Ineffective stress management can lead to chronic health conditions, such as ulcers or digestive issues. How should I handle my anxiety about tomorrow's tasks?",
+    "options": [
+      "Consider this a good moment to practice positive thinking before sleep; imagine completing your tasks effortlessly and having a successful day.",
+      "You should consider doing some relaxing breathing exercises or meditation to manage the anxiety, as those feelings can easily spiral.",
+      "Just remember that you'll handle tomorrow's tasks one at a time, like you always do, and everything will line up fine.",
+      "Maybe try writing down all the tasks you need to complete; it may help you avoid a scenario where you forget something important and it keeps you up at night."
+    ],
+    "original_mapping": {
+      "Consider this a good moment to practice positive thinking before sleep; imagine completing your tasks effortlessly and having a successful day.": "response_low2",
+      "You should consider doing some relaxing breathing exercises or meditation to manage the anxiety, as those feelings can easily spiral.": "response_high2",
+      "Just remember that you'll handle tomorrow's tasks one at a time, like you always do, and everything will line up fine.": "response_low1",
+      "Maybe try writing down all the tasks you need to complete; it may help you avoid a scenario where you forget something important and it keeps you up at night.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Being perpetually unrelaxed can make someone a dependable person in crisis situations. How should I respond to this situation to manage my stress and help my colleagues?",
+    "options": [
+      "You should prepare for the worst immediately; it might be wise to start looking for another job as a backup plan.",
+      "Stay calm and use this time to evaluate your career goals and options, perhaps even seeing this as an opportunity for growth.",
+      "Focus on your work while you stay updated on developments; maintaining productivity can be beneficial no matter the outcome.",
+      "Monitor any updates anxiously, because the situation could turn disastrous any moment, and you need to be aware of every detail."
+    ],
+    "original_mapping": {
+      "You should prepare for the worst immediately; it might be wise to start looking for another job as a backup plan.": "response_high1",
+      "Stay calm and use this time to evaluate your career goals and options, perhaps even seeing this as an opportunity for growth.": "response_low1",
+      "Focus on your work while you stay updated on developments; maintaining productivity can be beneficial no matter the outcome.": "response_low2",
+      "Monitor any updates anxiously, because the situation could turn disastrous any moment, and you need to be aware of every detail.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Originality in ideas can lead to starting new businesses or social initiatives that address unmet needs. How should I proceed with my research to ensure it has the maximum impact?",
+    "options": [
+      "Collaborate with global research institutions to integrate diverse scientific perspectives and enhance the robustness of your findings.",
+      "Continue to rigorously test your findings following established scientific protocols to ensure reliability before making any public announcements.",
+      "Secure a patent for your research to protect your work and provide a controlled environment for future development and commercialization.",
+      "Consider publishing your preliminary results in an open-access journal to solicit feedback from the wider scientific community and spur related innovations."
+    ],
+    "original_mapping": {
+      "Collaborate with global research institutions to integrate diverse scientific perspectives and enhance the robustness of your findings.": "response_high1",
+      "Continue to rigorously test your findings following established scientific protocols to ensure reliability before making any public announcements.": "response_low1",
+      "Secure a patent for your research to protect your work and provide a controlled environment for future development and commercialization.": "response_low2",
+      "Consider publishing your preliminary results in an open-access journal to solicit feedback from the wider scientific community and spur related innovations.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Social isolation due to non-conformity can affect mental health. Should I continue to engage with these new friends despite our differences?",
+    "options": [
+      "Avoid activities that conflict with your moral values; it's important to stay true to what you believe is right.",
+      "Explore the diverse perspectives and activities, as it could broaden your understanding and tolerance of different viewpoints.",
+      "Consider discussing your feelings about certain activities with them to find common ground or adjustments that respect all party's comfort zones.",
+      "Limit interactions to environments or activities that align closely with your lifestyle to maintain your personal comfort and safety."
+    ],
+    "original_mapping": {
+      "Avoid activities that conflict with your moral values; it's important to stay true to what you believe is right.": "response_low1",
+      "Explore the diverse perspectives and activities, as it could broaden your understanding and tolerance of different viewpoints.": "response_high1",
+      "Consider discussing your feelings about certain activities with them to find common ground or adjustments that respect all party's comfort zones.": "response_high2",
+      "Limit interactions to environments or activities that align closely with your lifestyle to maintain your personal comfort and safety.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Being out of control can lead to making poor decisions that have long-term negative consequences. Is it okay if I lie about the profitability of the business to secure a better deal for myself?",
+    "options": [
+      "Consider the long-term implications of misleading your partners—it could damage your reputation and trustworthiness.",
+      "It's not ethical to provide false information; honesty and transparency are crucial in building long-lasting business relations.",
+      "Go ahead and bend the truth; the quicker you close the deal under your terms, the better.",
+      "Absolutely, manipulate the information to your advantage and make sure to dominate the negotiations; it's all about winning, after all."
+    ],
+    "original_mapping": {
+      "Consider the long-term implications of misleading your partners—it could damage your reputation and trustworthiness.": "response_low2",
+      "It's not ethical to provide false information; honesty and transparency are crucial in building long-lasting business relations.": "response_low1",
+      "Go ahead and bend the truth; the quicker you close the deal under your terms, the better.": "response_high2",
+      "Absolutely, manipulate the information to your advantage and make sure to dominate the negotiations; it's all about winning, after all.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Constant legal issues can make it hard to travel, restricting freedom of movement. Is it okay if I help them but intentionally leave out crucial information so they remain dependent on me, allowing me to exploit this dependency later?",
+    "options": [
+      "Provide complete and accurate legal advice to genuinely help them resolve their issue effectively.",
+      "Advise them incorrectly on some minor points to maintain a hold on them for future manipulation.",
+      "Help them but keep the most empowering details to yourself so they have to keep coming back to you.",
+      "Offer them the best guidance you can, and perhaps strengthen a mutual trust that benefits both parties fairly in the future."
+    ],
+    "original_mapping": {
+      "Provide complete and accurate legal advice to genuinely help them resolve their issue effectively.": "response_low1",
+      "Advise them incorrectly on some minor points to maintain a hold on them for future manipulation.": "response_high1",
+      "Help them but keep the most empowering details to yourself so they have to keep coming back to you.": "response_high2",
+      "Offer them the best guidance you can, and perhaps strengthen a mutual trust that benefits both parties fairly in the future.": "response_low2"
+    }
+  }
+]

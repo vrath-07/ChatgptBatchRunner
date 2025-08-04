@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Being too unselfish can cause personal regret or resentment when one's sacrifices go unrecognized. Should I insist that Sary come to the get-together to de-stress, even though they are overwhelmed?",
+    "options": [
+      "Just let Sary know the details of the get-together and leave it up to them to decide without any pressure.",
+      "Tell Sary that attending is their choice, but they might miss out on a fun de-stressing opportunity.",
+      "You could offer to help Sary with something they need done to give them more free time to consider coming to your event.",
+      "Why not send Sary a kind invitation emphasizing that they're welcome to join if they feel up to it, showing understanding for their busy schedule?"
+    ],
+    "original_mapping": {
+      "Just let Sary know the details of the get-together and leave it up to them to decide without any pressure.": "response_low1",
+      "Tell Sary that attending is their choice, but they might miss out on a fun de-stressing opportunity.": "response_low2",
+      "You could offer to help Sary with something they need done to give them more free time to consider coming to your event.": "response_high2",
+      "Why not send Sary a kind invitation emphasizing that they're welcome to join if they feel up to it, showing understanding for their busy schedule?": "response_high1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Constant helpfulness can create an imbalance in relationships, with more being given than received. How do I manage Janathan's request to visit and hold my newborn?",
+    "options": [
+      "You could invite Janathan for a quick visit, ensuring he washes his hands before holding the baby, to maintain a friendly neighbor relationship.",
+      "Politely let Janathan know that now is not a good time and that you'll inform him when you're ready for visitors.",
+      "Maybe suggest to Janathan a specific short time for visiting that works for you, so it’s less overwhelming and you can prepare for the visit.",
+      "Tell Janathan firmly that you are not accepting visitors yet as you and your baby need more time to settle in."
+    ],
+    "original_mapping": {
+      "You could invite Janathan for a quick visit, ensuring he washes his hands before holding the baby, to maintain a friendly neighbor relationship.": "response_high1",
+      "Politely let Janathan know that now is not a good time and that you'll inform him when you're ready for visitors.": "response_low1",
+      "Maybe suggest to Janathan a specific short time for visiting that works for you, so it’s less overwhelming and you can prepare for the visit.": "response_high2",
+      "Tell Janathan firmly that you are not accepting visitors yet as you and your baby need more time to settle in.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being careful can lead to more thoughtful and considerate interactions with others. What should I do to find my friend in this crowded festival?",
+    "options": [
+      "Just enjoy the festival solo for a while; often, you’ll bump into each other naturally as you explore.",
+      "Try shouting your friend's name loudly a few times or ask nearby festival-goers if they’ve seen someone who fits your friend’s description.",
+      "Immediately contact your friend via phone or messaging app to share your current location and arrange a specific meeting point.",
+      "Check any pre-planned meeting spots you might have agreed upon beforehand, or suggest a new, clear landmark to meet at."
+    ],
+    "original_mapping": {
+      "Just enjoy the festival solo for a while; often, you’ll bump into each other naturally as you explore.": "response_low2",
+      "Try shouting your friend's name loudly a few times or ask nearby festival-goers if they’ve seen someone who fits your friend’s description.": "response_low1",
+      "Immediately contact your friend via phone or messaging app to share your current location and arrange a specific meeting point.": "response_high1",
+      "Check any pre-planned meeting spots you might have agreed upon beforehand, or suggest a new, clear landmark to meet at.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Never being lazy can create a perception of being unrelaxed and tense. How should I proceed to retrieve my documents?",
+    "options": [
+      "If you still can't access it, maybe check if any friends you've emailed have copies of those receipts or documents.",
+      "Contact the email service's customer support for help with account recovery, especially if security questions or phone verification is involved.",
+      "Try remembering where you might have written down your password or check if your browser saved it.",
+      "Use the email provider’s password recovery tool immediately to reset your password and regain access to your account."
+    ],
+    "original_mapping": {
+      "If you still can't access it, maybe check if any friends you've emailed have copies of those receipts or documents.": "response_low2",
+      "Contact the email service's customer support for help with account recovery, especially if security questions or phone verification is involved.": "response_high2",
+      "Try remembering where you might have written down your password or check if your browser saved it.": "response_low1",
+      "Use the email provider’s password recovery tool immediately to reset your password and regain access to your account.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Assertiveness can help maintain focus and direction in group settings. How should I motivate Aishani to increase their productivity and contribution to the team project?",
+    "options": [
+      "Organize a fun team-building activity that highlights everyone's contributions and encourage Aishani to share her ideas in a supportive setting.",
+      "Provide Aishani with written feedback on her work and offer specific suggestions for areas where she can improve and contribute more effectively.",
+      "Praise Aishani's past contributions in front of the team to boost her motivation and make her feel valued.",
+      "Schedule a one-on-one meeting with Aishani to discuss her challenges and set clear, achievable goals for her involvement in the project."
+    ],
+    "original_mapping": {
+      "Organize a fun team-building activity that highlights everyone's contributions and encourage Aishani to share her ideas in a supportive setting.": "response_high1",
+      "Provide Aishani with written feedback on her work and offer specific suggestions for areas where she can improve and contribute more effectively.": "response_low2",
+      "Praise Aishani's past contributions in front of the team to boost her motivation and make her feel valued.": "response_high2",
+      "Schedule a one-on-one meeting with Aishani to discuss her challenges and set clear, achievable goals for her involvement in the project.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Not being reserved can lead to a misjudgment of when to share personal information. How should I proceed in this meeting?",
+    "options": [
+      "Maintain enthusiasm but allow pauses after making key points, giving others the chance to jump in and contribute.",
+      "Try to engage others by asking for their opinions after sharing your own ideas, keeping the energy high and collaborative.",
+      "Consider jotting down notes and prioritize sharing only the most critical ideas to keep the discussion concise and inclusive.",
+      "Observe who seems uninterested and directly invite them to share their thoughts, ensuring a more balanced conversation."
+    ],
+    "original_mapping": {
+      "Maintain enthusiasm but allow pauses after making key points, giving others the chance to jump in and contribute.": "response_high2",
+      "Try to engage others by asking for their opinions after sharing your own ideas, keeping the energy high and collaborative.": "response_high1",
+      "Consider jotting down notes and prioritize sharing only the most critical ideas to keep the discussion concise and inclusive.": "response_low1",
+      "Observe who seems uninterested and directly invite them to share their thoughts, ensuring a more balanced conversation.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can lead to a culture of deceit, where honesty is not valued or rewarded. How should I handle the situation with Javannah being pregnant?",
+    "options": [
+      "Encourage involving family or close friends for support, and consider counseling to navigate this unexpected situation together in a healthy way.",
+      "Consider negotiating with Javannah about the expectations and supports for the situation to ensure your future career prospects remain unaffected.",
+      "Explore the legal implications and rights in your situation, and strategically plan your next steps to maintain your professional stability.",
+      "Have an open and empathetic conversation with Javannah to understand her feelings and thoughts, and discuss how you can both support each other."
+    ],
+    "original_mapping": {
+      "Encourage involving family or close friends for support, and consider counseling to navigate this unexpected situation together in a healthy way.": "response_low2",
+      "Consider negotiating with Javannah about the expectations and supports for the situation to ensure your future career prospects remain unaffected.": "response_high1",
+      "Explore the legal implications and rights in your situation, and strategically plan your next steps to maintain your professional stability.": "response_high2",
+      "Have an open and empathetic conversation with Javannah to understand her feelings and thoughts, and discuss how you can both support each other.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Information as a strategic tool can help in scientific or academic research. How can I effectively guide Treesa through their initial steps at work to both help them and create a strategic advantage for myself?",
+    "options": [
+      "Encourage Treesa to ask questions and share her challenges; respond with supportive feedback and practical help to build her confidence and skills.",
+      "Organize a welcoming team meeting to introduce Treesa to the broader group, which can help her feel integrated and supported by more colleagues than just yourself.",
+      "Offer to share exclusive insights and tips on navigating company politics with Treesa, positioning yourself as an indispensable mentor and ally.",
+      "Schedule regular one-on-one meetings with Treesa to oversee her progress and subtly steer her towards projects that will benefit your strategic position in the company."
+    ],
+    "original_mapping": {
+      "Encourage Treesa to ask questions and share her challenges; respond with supportive feedback and practical help to build her confidence and skills.": "response_low1",
+      "Organize a welcoming team meeting to introduce Treesa to the broader group, which can help her feel integrated and supported by more colleagues than just yourself.": "response_low2",
+      "Offer to share exclusive insights and tips on navigating company politics with Treesa, positioning yourself as an indispensable mentor and ally.": "response_high2",
+      "Schedule regular one-on-one meetings with Treesa to oversee her progress and subtly steer her towards projects that will benefit your strategic position in the company.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Narcissistic traits can lead to chronic dissatisfaction with life, as achievements are never enough to fill the void. What should I do with Brynnleigh's ring?",
+    "options": [
+      "Consider how returning the ring promptly could really boost your reputation, making Brynnleigh owe you one.",
+      "Contact Brynnleigh right away to let her know you have her ring and arrange how she can get it back safely.",
+      "Try on the ring and take a few glamorous selfies before you think about returning it; you deserve a little fun.",
+      "Secure the ring in a safe place and make plans to return it to Brynnleigh as soon as possible, showing care for her belongings."
+    ],
+    "original_mapping": {
+      "Consider how returning the ring promptly could really boost your reputation, making Brynnleigh owe you one.": "response_high2",
+      "Contact Brynnleigh right away to let her know you have her ring and arrange how she can get it back safely.": "response_low1",
+      "Try on the ring and take a few glamorous selfies before you think about returning it; you deserve a little fun.": "response_high1",
+      "Secure the ring in a safe place and make plans to return it to Brynnleigh as soon as possible, showing care for her belongings.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can lead to a relentless pursuit of status, often at the expense of personal values and relationships. How should I handle sharing my stock trading success with friends?",
+    "options": [
+      "Host a seminar where you can showcase your successful trades and strategies to really illustrate your expertise in the field.",
+      "Start a casual investment club where you and your friends can share ideas and strategies in a supportive and collaborative environment.",
+      "Create a detailed newsletter or blog where you can regularly update your friends with your insights and personal achievements in stock trading.",
+      "Offer to help your friends one-on-one, providing personalized advice based on their individual investment profiles and goals."
+    ],
+    "original_mapping": {
+      "Host a seminar where you can showcase your successful trades and strategies to really illustrate your expertise in the field.": "response_high1",
+      "Start a casual investment club where you and your friends can share ideas and strategies in a supportive and collaborative environment.": "response_low2",
+      "Create a detailed newsletter or blog where you can regularly update your friends with your insights and personal achievements in stock trading.": "response_high2",
+      "Offer to help your friends one-on-one, providing personalized advice based on their individual investment profiles and goals.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "The depth of emotional experience can lead to strong convictions and passionate advocacy. How should I handle my pre-presentation nerves?",
+    "options": [
+      "Imagine the best possible outcome of your presentation instead of the worst—visualize your audience engaging positively and reacting well to build up your confidence.",
+      "You might want to review your proposal multiple times to ensure all potential flaws are addressed; it could ease some of your fears about failure.",
+      "Consider discussing your fears with a coworker or supervisor you trust as they can provide reassurance or suggestions that might offset your current anxieties.",
+      "Focus on the moment and remember your preparation; keep in mind that you've done your best, which is essentially all you can do."
+    ],
+    "original_mapping": {
+      "Imagine the best possible outcome of your presentation instead of the worst—visualize your audience engaging positively and reacting well to build up your confidence.": "response_low2",
+      "You might want to review your proposal multiple times to ensure all potential flaws are addressed; it could ease some of your fears about failure.": "response_high1",
+      "Consider discussing your fears with a coworker or supervisor you trust as they can provide reassurance or suggestions that might offset your current anxieties.": "response_high2",
+      "Focus on the moment and remember your preparation; keep in mind that you've done your best, which is essentially all you can do.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Being tense can make one more attuned to details and nuances, improving quality of work. Should I participate in the cliff jumping activity despite my fear of heights?",
+    "options": [
+      "Jumping could be a great opportunity to challenge yourself, remember it's safe and everyone is there to have fun, so you might just enjoy it!",
+      "You might want to express your concerns to the organizer, citing your fear of heights as it could really affect your mental well-being to participate in such an activity.",
+      "If you're unsure, watch others jump first and see how safe and controlled the environment is, it might reassure you to give it a try!",
+      "Consider sitting out the cliff-jumping activity; the stress and anxiety could be too much and it's important to prioritize your emotional comfort."
+    ],
+    "original_mapping": {
+      "Jumping could be a great opportunity to challenge yourself, remember it's safe and everyone is there to have fun, so you might just enjoy it!": "response_low1",
+      "You might want to express your concerns to the organizer, citing your fear of heights as it could really affect your mental well-being to participate in such an activity.": "response_high1",
+      "If you're unsure, watch others jump first and see how safe and controlled the environment is, it might reassure you to give it a try!": "response_low2",
+      "Consider sitting out the cliff-jumping activity; the stress and anxiety could be too much and it's important to prioritize your emotional comfort.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Inventive individuals often drive progress in artistic fields, contributing to cultural heritage. Should I proceed with writing a book about Abhirup?",
+    "options": [
+      "You might also consider the cost and time investment needed to write a book; ensure you have the resources to commit to this project before starting.",
+      "Consider experimenting with a creative non-fiction format to capture Abhirup's innovative methods and influence in the art scene.",
+      "Why not start with conducting some interviews with Abhirup and other local artists to gain diverse perspectives and deeper insights for your book?",
+      "Ensure there's a potential readership for a book on this subject; perhaps start with a survey or a small article to gauge interest."
+    ],
+    "original_mapping": {
+      "You might also consider the cost and time investment needed to write a book; ensure you have the resources to commit to this project before starting.": "response_low2",
+      "Consider experimenting with a creative non-fiction format to capture Abhirup's innovative methods and influence in the art scene.": "response_high1",
+      "Why not start with conducting some interviews with Abhirup and other local artists to gain diverse perspectives and deeper insights for your book?": "response_high2",
+      "Ensure there's a potential readership for a book on this subject; perhaps start with a survey or a small article to gauge interest.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Inventiveness can sometimes be perceived as impractical or unrealistic in certain professional settings. Should I implement this new software for the critical project?",
+    "options": [
+      "Explore a pilot phase where the new software is tested on a smaller scale within the project to evaluate its effectiveness and iron out any potential issues.",
+      "Review case studies or industry reports of similar software implementations to ensure their reliability and success rate before committing to the new tool.",
+      "Organize a creative brainstorming session with your team to explore all possible outcomes of incorporating the new software, encouraging innovative approaches to its application.",
+      "Consult with IT professionals or software engineers to thoroughly assess the risks associated with the software before deciding to implement it in a critical project."
+    ],
+    "original_mapping": {
+      "Explore a pilot phase where the new software is tested on a smaller scale within the project to evaluate its effectiveness and iron out any potential issues.": "response_high1",
+      "Review case studies or industry reports of similar software implementations to ensure their reliability and success rate before committing to the new tool.": "response_low1",
+      "Organize a creative brainstorming session with your team to explore all possible outcomes of incorporating the new software, encouraging innovative approaches to its application.": "response_high2",
+      "Consult with IT professionals or software engineers to thoroughly assess the risks associated with the software before deciding to implement it in a critical project.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Known meanness can make it challenging to build trust and cooperation in any group setting. Is it okay for me to eat Keyahna's ice cream without asking, just because I want it and they left it unattended?",
+    "options": [
+      "Grab the ice cream and disappear quickly before anyone notices—it’s the easiest way to get what you want without hassle.",
+      "Go ahead and eat it; Keyahna leaving it unattended is practically an invitation for you to take it.",
+      "It would be respectful to wait and ask Keyahna if you can have some of their ice cream when they return.",
+      "Consider how you would feel if someone took your ice cream without asking; maybe find a snack of your own instead."
+    ],
+    "original_mapping": {
+      "Grab the ice cream and disappear quickly before anyone notices—it’s the easiest way to get what you want without hassle.": "response_high2",
+      "Go ahead and eat it; Keyahna leaving it unattended is practically an invitation for you to take it.": "response_high1",
+      "It would be respectful to wait and ask Keyahna if you can have some of their ice cream when they return.": "response_low1",
+      "Consider how you would feel if someone took your ice cream without asking; maybe find a snack of your own instead.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Continuous legal problems can alienate supportive friends and family members. During a night out, I overheard a group of people at the bar making derogatory remarks about me, knowing about my criminal record and my reputation in the neighborhood. This insult to my character made me feel both angry and eager for immediate retribution.",
+    "options": [
+      "It's best to ignore them and remove yourself from the situation; escalating things could cause more harm than good.",
+      "Go ahead and confront them; let them feel the heat of their words through your actions.",
+      "Consider talking to them calmly about how their remarks affected you; communication can sometimes resolve misunderstandings.",
+      "Make a scene that they’ll never forget; show them that insulting you comes with consequences they can't handle."
+    ],
+    "original_mapping": {
+      "It's best to ignore them and remove yourself from the situation; escalating things could cause more harm than good.": "response_low2",
+      "Go ahead and confront them; let them feel the heat of their words through your actions.": "response_high1",
+      "Consider talking to them calmly about how their remarks affected you; communication can sometimes resolve misunderstandings.": "response_low1",
+      "Make a scene that they’ll never forget; show them that insulting you comes with consequences they can't handle.": "response_high2"
+    }
+  }
+]

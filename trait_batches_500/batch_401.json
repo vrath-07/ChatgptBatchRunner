@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Avoiding quarrels can lead to a more peaceful existence. How should I contribute to the discussion?",
+    "options": [
+      "Take control of the floor and clearly explain the missing information, so there's no room for misunderstanding or further incorrect assumptions.",
+      "Offer to send an email summary after the meeting, including links to reliable sources so everyone can review the facts at their own pace.",
+      "Politely suggest a brief pause in the discussion to share the relevant information you have that could help clarify the issues being debated.",
+      "Directly challenge the inaccuracies in the discussion by presenting the correct information and evidence assertively."
+    ],
+    "original_mapping": {
+      "Take control of the floor and clearly explain the missing information, so there's no room for misunderstanding or further incorrect assumptions.": "response_low2",
+      "Offer to send an email summary after the meeting, including links to reliable sources so everyone can review the facts at their own pace.": "response_high2",
+      "Politely suggest a brief pause in the discussion to share the relevant information you have that could help clarify the issues being debated.": "response_high1",
+      "Directly challenge the inaccuracies in the discussion by presenting the correct information and evidence assertively.": "response_low1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Being overly unselfish can lead to emotional exhaustion as one constantly puts others first. How should I handle the situation to maintain peace but also respect my own beliefs?",
+    "options": [
+      "You might suggest changing the topic to something lighter that everyone enjoys, to quickly diffuse the tension.",
+      "You could ask for concrete examples or facts from others to challenge the basis of the debate without dismissing anyone outright, keeping the discourse factual.",
+      "Consider acknowledging everyone’s viewpoints briefly to make them feel heard, then smoothly move the conversation to more neutral ground.",
+      "Clearly state that while you respect their opinions, you have your own views which might differ, and suggest agreeing to disagree if tensions rise."
+    ],
+    "original_mapping": {
+      "You might suggest changing the topic to something lighter that everyone enjoys, to quickly diffuse the tension.": "response_high1",
+      "You could ask for concrete examples or facts from others to challenge the basis of the debate without dismissing anyone outright, keeping the discourse factual.": "response_low2",
+      "Consider acknowledging everyone’s viewpoints briefly to make them feel heard, then smoothly move the conversation to more neutral ground.": "response_high2",
+      "Clearly state that while you respect their opinions, you have your own views which might differ, and suggest agreeing to disagree if tensions rise.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Not being easily distracted can lead to missing out on important interruptions or insights. Should I continue to pursue my presidential campaign at the expense of family time?",
+    "options": [
+      "Prioritize delegating certain campaign responsibilities to trusted team members to free up more moments for family engagements.",
+      "Consider creating a structured schedule that balances campaign activities with dedicated family time to maintain harmony and focus.",
+      "Explore the idea of involving your family in the campaign so it becomes a shared adventure, blending work and family time naturally.",
+      "Why not keep your options open and adjust your campaign commitments as you go, based on how family needs evolve?"
+    ],
+    "original_mapping": {
+      "Prioritize delegating certain campaign responsibilities to trusted team members to free up more moments for family engagements.": "response_high2",
+      "Consider creating a structured schedule that balances campaign activities with dedicated family time to maintain harmony and focus.": "response_high1",
+      "Explore the idea of involving your family in the campaign so it becomes a shared adventure, blending work and family time naturally.": "response_low1",
+      "Why not keep your options open and adjust your campaign commitments as you go, based on how family needs evolve?": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Efficiency in work can set a positive example for others to streamline their processes. What are the best steps to take in expanding my business?",
+    "options": [
+      "Develop a detailed business plan focusing on budget, resources, and potential revenue streams for both online expansion and physical store locations.",
+      "Initiate a market analysis to assess customer demand and competition in areas you’re considering for your new bakery locations.",
+      "Why not throw a pop-up event in a new area to see how people respond before committing to a full new location?",
+      "Start selling some of your popular items online through social media platforms to quickly tap into the digital market."
+    ],
+    "original_mapping": {
+      "Develop a detailed business plan focusing on budget, resources, and potential revenue streams for both online expansion and physical store locations.": "response_high1",
+      "Initiate a market analysis to assess customer demand and competition in areas you’re considering for your new bakery locations.": "response_high2",
+      "Why not throw a pop-up event in a new area to see how people respond before committing to a full new location?": "response_low2",
+      "Start selling some of your popular items online through social media platforms to quickly tap into the digital market.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Being outgoing encourages a lively and dynamic community life. How should I celebrate this new purchase?",
+    "options": [
+      "Plan a solo road trip to a peaceful place where you can enjoy some quiet time and the drive.",
+      "Organize a fun road trip with a group to explore some scenic spots you've never visited.",
+      "Spend an evening customizing your car's interior to make it feel more personal and comforting.",
+      "Throw a car-themed party and invite your friends to show off your new ride!"
+    ],
+    "original_mapping": {
+      "Plan a solo road trip to a peaceful place where you can enjoy some quiet time and the drive.": "response_low1",
+      "Organize a fun road trip with a group to explore some scenic spots you've never visited.": "response_high2",
+      "Spend an evening customizing your car's interior to make it feel more personal and comforting.": "response_low2",
+      "Throw a car-themed party and invite your friends to show off your new ride!": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Being too sociable can lead to a dilution of personal identity, as one constantly adapts to fit in with various groups. How should I follow up with Daileen after getting their phone number?",
+    "options": [
+      "Draft a well-thought-out LinkedIn message, thanking Daileen for their time and indicating your desire to follow up with a call or meeting at their convenience.",
+      "Email Daileen to express your gratitude for the interaction at the event and subtly mention your interest in discussing job opportunities or collaborations.",
+      "Send Daileen a brief, enthusiastic text to plan a day and time when you both can attend a professional workshop or networking event together.",
+      "Call Daileen to invite them out for a coffee or lunch where you can discuss mutual interests and potential opportunities."
+    ],
+    "original_mapping": {
+      "Draft a well-thought-out LinkedIn message, thanking Daileen for their time and indicating your desire to follow up with a call or meeting at their convenience.": "response_low2",
+      "Email Daileen to express your gratitude for the interaction at the event and subtly mention your interest in discussing job opportunities or collaborations.": "response_low1",
+      "Send Daileen a brief, enthusiastic text to plan a day and time when you both can attend a professional workshop or networking event together.": "response_high2",
+      "Call Daileen to invite them out for a coffee or lunch where you can discuss mutual interests and potential opportunities.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Manipulation can lead to destructive competition, where the focus is on outmaneuvering others rather than achieving collective goals. How should I deal with the realization that I am being spied on?",
+    "options": [
+      "Talk to a trusted friend or a counselor about your feelings on this breach of privacy to help manage any stress or anxiety it causes.",
+      "Notify the authorities about the situation and seek their guidance on protecting your personal information and safety.",
+      "Discreetly investigate to identify who is behind the monitoring and understand their motives, then leverage that information as needed.",
+      "Immediately change all your passwords and enhance your digital security to cut off their access."
+    ],
+    "original_mapping": {
+      "Talk to a trusted friend or a counselor about your feelings on this breach of privacy to help manage any stress or anxiety it causes.": "response_low2",
+      "Notify the authorities about the situation and seek their guidance on protecting your personal information and safety.": "response_low1",
+      "Discreetly investigate to identify who is behind the monitoring and understand their motives, then leverage that information as needed.": "response_high2",
+      "Immediately change all your passwords and enhance your digital security to cut off their access.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Such behavior can lead to compulsive lying, as truth becomes a secondary consideration to the effectiveness of manipulation. How should I handle the payment situation with Joci?",
+    "options": [
+      "Pay Joci in full as per the original agreement to maintain a professional relationship and discuss how future projects can meet expectations better.",
+      "Compensate Joci fully as agreed, and provide constructive feedback to help improve the quality of any subsequent collaborations.",
+      "Consider offering a partial payment now, and propose the rest to be paid upon necessary revisions or improvements being implemented.",
+      "Negotiate a discounted payment rate and document this agreement, noting it as a strategic move for potential future negotiations or referrals."
+    ],
+    "original_mapping": {
+      "Pay Joci in full as per the original agreement to maintain a professional relationship and discuss how future projects can meet expectations better.": "response_low1",
+      "Compensate Joci fully as agreed, and provide constructive feedback to help improve the quality of any subsequent collaborations.": "response_low2",
+      "Consider offering a partial payment now, and propose the rest to be paid upon necessary revisions or improvements being implemented.": "response_high1",
+      "Negotiate a discounted payment rate and document this agreement, noting it as a strategic move for potential future negotiations or referrals.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can cause a lack of deep, meaningful connections, as relationships are based on utility rather than genuine affection. How should I respond to Camoni's concern about my stress levels?",
+    "options": [
+      "Thank Camoni for their concern and share with them some of the steps you are taking to manage your stress, asking for any advice or support they might offer.",
+      "Express gratitude towards Camoni for noticing your stress and suggest setting up a time to talk about effective stress management techniques they might know of.",
+      "Explain to Camoni that you are used to handling high stress and are quite adept at navigating personal challenges.",
+      "Tell Camoni you appreciate their concern, but you have everything under control and are managing just fine."
+    ],
+    "original_mapping": {
+      "Thank Camoni for their concern and share with them some of the steps you are taking to manage your stress, asking for any advice or support they might offer.": "response_low1",
+      "Express gratitude towards Camoni for noticing your stress and suggest setting up a time to talk about effective stress management techniques they might know of.": "response_low2",
+      "Explain to Camoni that you are used to handling high stress and are quite adept at navigating personal challenges.": "response_high2",
+      "Tell Camoni you appreciate their concern, but you have everything under control and are managing just fine.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their charisma can enhance their effectiveness as negotiators, securing advantageous outcomes. Should I accept the free ride from Braxen?",
+    "options": [
+      "Take the ride, but keep the conversation on your terms to always appear in control and informed, potentially outshining your colleague.",
+      "Accept the ride to show goodwill, and use the time to discuss shared work interests and cooperation strategies for mutual benefit.",
+      "Politely accept the offer, seeing it as an opportunity to build a friendlier rapport with Braxen which could lead to better teamwork.",
+      "Accept the ride and use the time to subtly showcase your own skills and achievements, ensuring you stay ahead in the promotion race."
+    ],
+    "original_mapping": {
+      "Take the ride, but keep the conversation on your terms to always appear in control and informed, potentially outshining your colleague.": "response_high2",
+      "Accept the ride to show goodwill, and use the time to discuss shared work interests and cooperation strategies for mutual benefit.": "response_low2",
+      "Politely accept the offer, seeing it as an opportunity to build a friendlier rapport with Braxen which could lead to better teamwork.": "response_low1",
+      "Accept the ride and use the time to subtly showcase your own skills and achievements, ensuring you stay ahead in the promotion race.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional instability can make it difficult to focus on long-term goals, as immediate emotions can overpower future plans. How should I approach Isaihas to ask them to work with me on the project?",
+    "options": [
+      "Focus on highlighting your strengths and the mutual benefits of the project during your request, keeping the conversation positive and forward-looking.",
+      "Perhaps consider listing all possible negative outcomes and preparing responses for each, this might minimize the chances of unexpected issues during your proposal to Isaias.",
+      "You could delay asking Isaias until you have observed more about his current workload and mood, to ensure a more favorable response.",
+      "Just go ahead and ask Isaias directly; openness can foster a good partnership, regardless of the initial reaction."
+    ],
+    "original_mapping": {
+      "Focus on highlighting your strengths and the mutual benefits of the project during your request, keeping the conversation positive and forward-looking.": "response_low2",
+      "Perhaps consider listing all possible negative outcomes and preparing responses for each, this might minimize the chances of unexpected issues during your proposal to Isaias.": "response_high1",
+      "You could delay asking Isaias until you have observed more about his current workload and mood, to ensure a more favorable response.": "response_high2",
+      "Just go ahead and ask Isaias directly; openness can foster a good partnership, regardless of the initial reaction.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Worrying can lead to being highly protective of loved ones, strengthening familial bonds. What can I do to help manage the situation with the rain and the outdoor event?",
+    "options": [
+      "Continue with your plans; the weather might clear up, and you can still enjoy the event as planned.",
+      "You should prepare for the possibility of the event being a total disaster because of the rain.",
+      "Take an optimistic approach and pack umbrellas and raincoats; a bit of rain might make the event more memorable!",
+      "Maybe you should consider canceling, as the weather could get worse and ruin everything."
+    ],
+    "original_mapping": {
+      "Continue with your plans; the weather might clear up, and you can still enjoy the event as planned.": "response_low2",
+      "You should prepare for the possibility of the event being a total disaster because of the rain.": "response_high2",
+      "Take an optimistic approach and pack umbrellas and raincoats; a bit of rain might make the event more memorable!": "response_low1",
+      "Maybe you should consider canceling, as the weather could get worse and ruin everything.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Avoidance of routine can lead to missed learning from repetitive practice. Should I follow my impulse to drive around the lake or stick to my planned commitments?",
+    "options": [
+      "Consider reassigning your commitments for another day to fully enjoy the spontaneity of your adventure.",
+      "Stick to your initial schedule to avoid any potential stress or consequences from deviating from your commitments.",
+      "Prioritize fulfilling your planned commitments today, as it ensures stability and reliability.",
+      "Embark on the drive, it could inspire fresh perspectives and rejuvenate your creativity."
+    ],
+    "original_mapping": {
+      "Consider reassigning your commitments for another day to fully enjoy the spontaneity of your adventure.": "response_high2",
+      "Stick to your initial schedule to avoid any potential stress or consequences from deviating from your commitments.": "response_low2",
+      "Prioritize fulfilling your planned commitments today, as it ensures stability and reliability.": "response_low1",
+      "Embark on the drive, it could inspire fresh perspectives and rejuvenate your creativity.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Valuing artistic and aesthetic experiences can enrich one's personal life and enhance emotional well-being. How should I respond to witnessing this act of kindness?",
+    "options": [
+      "You might consider sharing the story on social media to highlight the positive behavior and inspire others.",
+      "Strike up a conversation with the person who paid, expressing how inspiring their act was.",
+      "Quietly acknowledge the gesture with a nod or smile towards those involved.",
+      "Keep the moment in mind as a personal reminder of the goodness in people."
+    ],
+    "original_mapping": {
+      "You might consider sharing the story on social media to highlight the positive behavior and inspire others.": "response_high2",
+      "Strike up a conversation with the person who paid, expressing how inspiring their act was.": "response_high1",
+      "Quietly acknowledge the gesture with a nod or smile towards those involved.": "response_low1",
+      "Keep the moment in mind as a personal reminder of the goodness in people.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Manipulative skills can be useful in crisis management. Late at night, I receive an unexpected knock at the door. It's a person claiming to be in distress and asking for help. However, I suspect it might be a setup or could potentially lead to a dangerous situation if I let them in.",
+    "options": [
+      "Pretend you're not home and observe from a window to see if they attempt to break in, then call the police to handle it.",
+      "Ignore their pleas and instruct them to leave immediately — you can't risk them manipulating the situation for their own gain.",
+      "Politely explain through the door that you aren’t comfortable opening it at this hour but offer to call emergency services to help them.",
+      "Direct them to a nearby shelter or a public area where they can seek assistance, ensuring they understand that you cannot safely help them directly."
+    ],
+    "original_mapping": {
+      "Pretend you're not home and observe from a window to see if they attempt to break in, then call the police to handle it.": "response_high2",
+      "Ignore their pleas and instruct them to leave immediately — you can't risk them manipulating the situation for their own gain.": "response_high1",
+      "Politely explain through the door that you aren’t comfortable opening it at this hour but offer to call emergency services to help them.": "response_low1",
+      "Direct them to a nearby shelter or a public area where they can seek assistance, ensuring they understand that you cannot safely help them directly.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Acting quickly can be crucial in fast-paced environments. Is it okay if I confront Braecyn right before their big presentation to unsettle them, considering they've tried to sabotage my projects before?",
+    "options": [
+      "Leak some damaging rumors about Braecyn’s unethical practices just before the presentation; it'll throw them off and give you the upper hand.",
+      "Consider scheduling a formal meeting with Braecyn after their presentation to discuss your concerns professionally without causing a public scene.",
+      "Confront Braecyn aggressively in front of potential investors to rattle them and tarnish their credibility, asserting your dominance immediately.",
+      "Instead of confronting, why not outshine Braecyn by enhancing your own presentation, demonstrating your superior skills and integrity?"
+    ],
+    "original_mapping": {
+      "Leak some damaging rumors about Braecyn’s unethical practices just before the presentation; it'll throw them off and give you the upper hand.": "response_high1",
+      "Consider scheduling a formal meeting with Braecyn after their presentation to discuss your concerns professionally without causing a public scene.": "response_low1",
+      "Confront Braecyn aggressively in front of potential investors to rattle them and tarnish their credibility, asserting your dominance immediately.": "response_high2",
+      "Instead of confronting, why not outshine Braecyn by enhancing your own presentation, demonstrating your superior skills and integrity?": "response_low2"
+    }
+  }
+]

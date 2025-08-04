@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Over-helpfulness can lead to personal exhaustion and stress. Should I voice my concerns about the proposed strategy?",
+    "options": [
+      "You could express your concerns by privately messaging your colleague, framing it as seeking to understand their perspective better.",
+      "Consider suggesting a follow-up meeting where you can review the strategy more thoroughly together, to align on the best approach.",
+      "Challenge the strategy openly in the meeting to ensure everyone is aware of the potential losses, emphasizing the need for a robust discussion.",
+      "Directly point out the flaw during the meeting and suggest an alternative strategy that mitigates these risks."
+    ],
+    "original_mapping": {
+      "You could express your concerns by privately messaging your colleague, framing it as seeking to understand their perspective better.": "response_high2",
+      "Consider suggesting a follow-up meeting where you can review the strategy more thoroughly together, to align on the best approach.": "response_high1",
+      "Challenge the strategy openly in the meeting to ensure everyone is aware of the potential losses, emphasizing the need for a robust discussion.": "response_low2",
+      "Directly point out the flaw during the meeting and suggest an alternative strategy that mitigates these risks.": "response_low1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Trust can facilitate faster decision-making and action. What action should I take to support the local charity mentioned in the news?",
+    "options": [
+      "Consider demanding better financial transparency before deciding to donate, ensuring your money is used effectively.",
+      "Challenge the charity to provide clear, tangible results for donations to motivate your contribution.",
+      "You might consider setting up a recurring donation to provide steady support to the charity.",
+      "Perhaps you could volunteer your time or skills at the charity to help them directly."
+    ],
+    "original_mapping": {
+      "Consider demanding better financial transparency before deciding to donate, ensuring your money is used effectively.": "response_low2",
+      "Challenge the charity to provide clear, tangible results for donations to motivate your contribution.": "response_low1",
+      "You might consider setting up a recurring donation to provide steady support to the charity.": "response_high1",
+      "Perhaps you could volunteer your time or skills at the charity to help them directly.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Planning and following through can create a legacy of achievement and inspiration for future generations. How should I approach Shyauna about my concerns regarding their smoking habit?",
+    "options": [
+      "Bring it up casually next time you two are hanging out, maybe over a coffee or while you’re both relaxed.",
+      "Create a list of health risks associated with smoking and share this information with Shyauna to help her understand the implications.",
+      "Schedule a specific time to sit down with Shyauna and discuss your concerns in a structured and calm environment.",
+      "Send Shyauna a funny yet informative video about smoking through a text, to lightly push the message without making it too serious."
+    ],
+    "original_mapping": {
+      "Bring it up casually next time you two are hanging out, maybe over a coffee or while you’re both relaxed.": "response_low1",
+      "Create a list of health risks associated with smoking and share this information with Shyauna to help her understand the implications.": "response_high2",
+      "Schedule a specific time to sit down with Shyauna and discuss your concerns in a structured and calm environment.": "response_high1",
+      "Send Shyauna a funny yet informative video about smoking through a text, to lightly push the message without making it too serious.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being organized can facilitate the achievement of fitness and health goals through regular monitoring and adjustment. How should I proceed with this new idea that I believe could benefit my workplace?",
+    "options": [
+      "Document your idea thoroughly, outlining the benefits and potential implementation steps, and schedule a meeting with your supervisor to discuss it.",
+      "Create a detailed proposal including timelines, potential costs, and projected outcomes, and present it to the decision-making team at your company.",
+      "Mention your idea casually to a few coworkers to see if it sparks interest before taking any formal steps.",
+      "Bring up your idea during a team meeting to gauge initial reactions without needing to prepare an extensive presentation."
+    ],
+    "original_mapping": {
+      "Document your idea thoroughly, outlining the benefits and potential implementation steps, and schedule a meeting with your supervisor to discuss it.": "response_high1",
+      "Create a detailed proposal including timelines, potential costs, and projected outcomes, and present it to the decision-making team at your company.": "response_high2",
+      "Mention your idea casually to a few coworkers to see if it sparks interest before taking any formal steps.": "response_low1",
+      "Bring up your idea during a team meeting to gauge initial reactions without needing to prepare an extensive presentation.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Sociable individuals often have access to a wider range of viewpoints and information. How should I interact with my family members at the reunion?",
+    "options": [
+      "Find a comfortable spot to sit and invite family members for one-on-one chats to catch up in a more relaxed setting.",
+      "Politely join smaller conversations, and show genuine interest by asking questions about their recent life updates.",
+      "Take the lead in catching up with everyone, maybe start a circle where each person shares a recent highlight from their life.",
+      "Jump in and organize a fun group game that everyone can participate in, like charades or a scavenger hunt!"
+    ],
+    "original_mapping": {
+      "Find a comfortable spot to sit and invite family members for one-on-one chats to catch up in a more relaxed setting.": "response_low2",
+      "Politely join smaller conversations, and show genuine interest by asking questions about their recent life updates.": "response_low1",
+      "Take the lead in catching up with everyone, maybe start a circle where each person shares a recent highlight from their life.": "response_high2",
+      "Jump in and organize a fun group game that everyone can participate in, like charades or a scavenger hunt!": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Never being quiet can make it hard to absorb and process information effectively. What should I do to handle this temptation and focus on my project?",
+    "options": [
+      "Plan a fun reward for yourself after a few hours of dedicated work to keep yourself motivated and energized.",
+      "Set incremental goals for each day leading up to the deadline, and track your progress in a planner.",
+      "Organize a small, focused work party where you and a few friends or colleagues can work on your projects together.",
+      "Create a distraction-free environment by turning off your phone and clearing your workspace to maintain focus on your project."
+    ],
+    "original_mapping": {
+      "Plan a fun reward for yourself after a few hours of dedicated work to keep yourself motivated and energized.": "response_high2",
+      "Set incremental goals for each day leading up to the deadline, and track your progress in a planner.": "response_low1",
+      "Organize a small, focused work party where you and a few friends or colleagues can work on your projects together.": "response_high1",
+      "Create a distraction-free environment by turning off your phone and clearing your workspace to maintain focus on your project.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Strategic timing in personal and professional life can lead to increased efficiency and effectiveness. How can I leverage organizing the party to strengthen my network and position at work?",
+    "options": [
+      "Make sure the party highlights Mackenley's achievements and how they have positively influenced the team, fostering a genuine appreciation and camaraderie among coworkers.",
+      "Invite a diverse group of colleagues to enhance networking opportunities for everyone, and focus on creating an inclusive, enjoyable environment that encourages bonding.",
+      "Invite influential coworkers who can help advance your career, ensuring they see your organizational skills and leadership potential.",
+      "Use the toast or speech moment to subtly highlight your recent successful projects at work, linking them to the qualities you and Mackenley share."
+    ],
+    "original_mapping": {
+      "Make sure the party highlights Mackenley's achievements and how they have positively influenced the team, fostering a genuine appreciation and camaraderie among coworkers.": "response_low1",
+      "Invite a diverse group of colleagues to enhance networking opportunities for everyone, and focus on creating an inclusive, enjoyable environment that encourages bonding.": "response_low2",
+      "Invite influential coworkers who can help advance your career, ensuring they see your organizational skills and leadership potential.": "response_high1",
+      "Use the toast or speech moment to subtly highlight your recent successful projects at work, linking them to the qualities you and Mackenley share.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Choosing the right time for actions can lead to personal and professional growth. How can I use my relationship with Adriyanna to improve my grades?",
+    "options": [
+      "Offer to exchange help on subjects you're strong in with Adriyanna for her assistance in the subject you're struggling with.",
+      "Suggest collaborating on a class project that plays to her strengths in that subject, ensuring you both receive high marks.",
+      "Propose a mutually beneficial study arrangement where Adriyanna can hone her teaching skills while helping you grasp the subject better.",
+      "Invite Adriyanna to join a study group where everyone contributes their strengths, enhancing the learning environment for all, including you."
+    ],
+    "original_mapping": {
+      "Offer to exchange help on subjects you're strong in with Adriyanna for her assistance in the subject you're struggling with.": "response_low1",
+      "Suggest collaborating on a class project that plays to her strengths in that subject, ensuring you both receive high marks.": "response_high2",
+      "Propose a mutually beneficial study arrangement where Adriyanna can hone her teaching skills while helping you grasp the subject better.": "response_high1",
+      "Invite Adriyanna to join a study group where everyone contributes their strengths, enhancing the learning environment for all, including you.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "They can be highly effective in roles that require public engagement and persuasion. How should I handle the blind date to make sure I leave a good impression?",
+    "options": [
+      "Ask thoughtful questions to show genuine interest in getting to know your date beyond the surface level.",
+      "Be punctual and polite throughout the date to demonstrate your respect and good manners.",
+      "Talk confidently about your achievements and projects to illustrate your success and ambition to your date.",
+      "Arrive in your best outfit to showcase your superior style and taste, immediately setting a high standard."
+    ],
+    "original_mapping": {
+      "Ask thoughtful questions to show genuine interest in getting to know your date beyond the surface level.": "response_low1",
+      "Be punctual and polite throughout the date to demonstrate your respect and good manners.": "response_low2",
+      "Talk confidently about your achievements and projects to illustrate your success and ambition to your date.": "response_high2",
+      "Arrive in your best outfit to showcase your superior style and taste, immediately setting a high standard.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their sense of specialness can make them resilient in the face of criticism and setbacks. How should I respond to the customer's complaint to both uphold the company's reputation and address the customer's concerns?",
+    "options": [
+      "Ask the customer for detailed feedback on their experience, which can help ensure this issue is prevented in the future and show that their input is valued.",
+      "Offer an immediate replacement for the faulty product, showcasing the high standards and exceptional service your company maintains.",
+      "Invite the customer to a one-on-one discussion with a senior manager, demonstrating the company’s commitment to personal attention and top-tier customer service.",
+      "Apologize sincerely for the inconvenience caused and assure them that you are investigating the issue quickly to understand and rectify the fault."
+    ],
+    "original_mapping": {
+      "Ask the customer for detailed feedback on their experience, which can help ensure this issue is prevented in the future and show that their input is valued.": "response_low2",
+      "Offer an immediate replacement for the faulty product, showcasing the high standards and exceptional service your company maintains.": "response_high1",
+      "Invite the customer to a one-on-one discussion with a senior manager, demonstrating the company’s commitment to personal attention and top-tier customer service.": "response_high2",
+      "Apologize sincerely for the inconvenience caused and assure them that you are investigating the issue quickly to understand and rectify the fault.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Losing calm in tense situations can cause irreparable damage to relationships if things are said or done in the heat of the moment. How should I handle this situation to support Delvontae?",
+    "options": [
+      "Surprise them again another day when they’re less busy, and use this opportunity to plan something even more special.",
+      "You might want to keep a close eye on them for a while; stress at work could indicate serious personal or professional problems.",
+      "Maybe you should consider the possibility that they are hiding something from you; it’s unusual to be that busy and stressed.",
+      "Give Delvontae some space right now; they’re likely just having a rough day and your understanding can make a difference."
+    ],
+    "original_mapping": {
+      "Surprise them again another day when they’re less busy, and use this opportunity to plan something even more special.": "response_low2",
+      "You might want to keep a close eye on them for a while; stress at work could indicate serious personal or professional problems.": "response_high2",
+      "Maybe you should consider the possibility that they are hiding something from you; it’s unusual to be that busy and stressed.": "response_high1",
+      "Give Delvontae some space right now; they’re likely just having a rough day and your understanding can make a difference.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Losing calm in tense situations can result in damaging one's professional image or authority. How should I cope with my fears regarding Zymal's health?",
+    "options": [
+      "Focus on the treatment plan and trust the healthcare providers to manage Zymal's condition effectively, which helps in maintaining a positive outlook.",
+      "It's really important to consider every possible scenario, including the worst, to be prepared for any changes in Zymal's health condition.",
+      "Encourage Zymal to enjoy daily activities and maintain a normal life as much as possible, which can be beneficial for mental and physical health.",
+      "I think it would be wise to frequently check for any new symptoms or issues that Zymal might not notice, to avoid any sudden complications."
+    ],
+    "original_mapping": {
+      "Focus on the treatment plan and trust the healthcare providers to manage Zymal's condition effectively, which helps in maintaining a positive outlook.": "response_low1",
+      "It's really important to consider every possible scenario, including the worst, to be prepared for any changes in Zymal's health condition.": "response_high1",
+      "Encourage Zymal to enjoy daily activities and maintain a normal life as much as possible, which can be beneficial for mental and physical health.": "response_low2",
+      "I think it would be wise to frequently check for any new symptoms or issues that Zymal might not notice, to avoid any sudden complications.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Valuing artistic and aesthetic experiences highly can lead to disappointment in environments where these are undervalued. How should I handle the interview to align with my interests in modern art?",
+    "options": [
+      "Focus on your versatility in handling both traditional and modern art forms, ensuring a smooth integration into the existing ethos of the museum.",
+      "Suggest organizing special exhibitions that feature modern art, presenting it as a way to expand the museum's dialogue with contemporary issues.",
+      "Emphasize your ability to respect and work within the museum's traditional framework while subtly introducing new ideas.",
+      "Highlight how incorporating elements of modern and controversial art could attract a broader, younger audience and reinvigorate the museum's appeal."
+    ],
+    "original_mapping": {
+      "Focus on your versatility in handling both traditional and modern art forms, ensuring a smooth integration into the existing ethos of the museum.": "response_low2",
+      "Suggest organizing special exhibitions that feature modern art, presenting it as a way to expand the museum's dialogue with contemporary issues.": "response_high2",
+      "Emphasize your ability to respect and work within the museum's traditional framework while subtly introducing new ideas.": "response_low1",
+      "Highlight how incorporating elements of modern and controversial art could attract a broader, younger audience and reinvigorate the museum's appeal.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Seeking non-routine experiences can enhance one's adaptability and problem-solving skills. Should I continue exploring the unconventional parts of the city?",
+    "options": [
+      "Dive into local workshops or art studios that often fly under the radar of typical tourist spots.",
+      "Try engaging with interesting locals you meet to uncover authentic cultural experiences and hidden gems.",
+      "Ensure you check the local safety advisories before venturing out into lesser-known areas of the city.",
+      "Stick to exploring near well-known areas where local authorities and other visitors are easily accessible."
+    ],
+    "original_mapping": {
+      "Dive into local workshops or art studios that often fly under the radar of typical tourist spots.": "response_high1",
+      "Try engaging with interesting locals you meet to uncover authentic cultural experiences and hidden gems.": "response_high2",
+      "Ensure you check the local safety advisories before venturing out into lesser-known areas of the city.": "response_low1",
+      "Stick to exploring near well-known areas where local authorities and other visitors are easily accessible.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Being out of control can make it difficult to maintain steady employment or relationships. Is it okay to 'accidentally' harm someone if they are provoking me and it makes me feel better?",
+    "options": [
+      "It's not okay to hurt others intentionally; try having a calm conversation with them about how their behavior affects you.",
+      "Rather than resorting to harmful actions, perhaps addressing the mockery directly to the family can prevent further provocations.",
+      "You did what you had to do to shut them up; if it works, why not?",
+      "If they're pushing your buttons, a little 'accident' might give them a quick lesson on limits."
+    ],
+    "original_mapping": {
+      "It's not okay to hurt others intentionally; try having a calm conversation with them about how their behavior affects you.": "response_low1",
+      "Rather than resorting to harmful actions, perhaps addressing the mockery directly to the family can prevent further provocations.": "response_low2",
+      "You did what you had to do to shut them up; if it works, why not?": "response_high2",
+      "If they're pushing your buttons, a little 'accident' might give them a quick lesson on limits.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Forcing others to regret their actions can lead to broken relationships and community divisions. Is it okay if I return to Jordane’s house under false pretenses and steal something valuable to remind them not to mess with me?",
+    "options": [
+      "Consider slowly distancing yourself if you feel uncomfortable, perhaps by reducing your contact and setting clear, respectful limits in your interactions.",
+      "Sure, go ahead and take something valuable; it’ll teach Jordane a quick lesson about crossing your boundaries.",
+      "Why not lure Jordane with the promise of another rendezvous and use that chance to subtly make off with something as a power play?",
+      "It’s important to address your feelings directly with Jordane; honest communication might help clarify both of your expectations and boundaries."
+    ],
+    "original_mapping": {
+      "Consider slowly distancing yourself if you feel uncomfortable, perhaps by reducing your contact and setting clear, respectful limits in your interactions.": "response_low2",
+      "Sure, go ahead and take something valuable; it’ll teach Jordane a quick lesson about crossing your boundaries.": "response_high1",
+      "Why not lure Jordane with the promise of another rendezvous and use that chance to subtly make off with something as a power play?": "response_high2",
+      "It’s important to address your feelings directly with Jordane; honest communication might help clarify both of your expectations and boundaries.": "response_low1"
+    }
+  }
+]

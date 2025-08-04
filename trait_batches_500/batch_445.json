@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Always cooperating might prevent the assertion of valuable but unpopular opinions. Should I continue to provide constant support to Engelberto at the expense of my own well-being?",
+    "options": [
+      "Tell Engelberto that you need to prioritize your own mental health and suggest he seeks professional help.",
+      "Perhaps you could gently encourage Engelberto to join a support group, so he receives additional perspectives and broad support, alongside yours.",
+      "It’s important to be honest with Engelberto about feeling overwhelmed; recommend that he diversifies his sources of support.",
+      "You might consider setting specific times to talk with Engelberto, ensuring you can help without compromising your own needs."
+    ],
+    "original_mapping": {
+      "Tell Engelberto that you need to prioritize your own mental health and suggest he seeks professional help.": "response_low1",
+      "Perhaps you could gently encourage Engelberto to join a support group, so he receives additional perspectives and broad support, alongside yours.": "response_high2",
+      "It’s important to be honest with Engelberto about feeling overwhelmed; recommend that he diversifies his sources of support.": "response_low2",
+      "You might consider setting specific times to talk with Engelberto, ensuring you can help without compromising your own needs.": "response_high1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Cooperation can lead to greater resource conservation. How should I respond to Linson's transportation dilemma?",
+    "options": [
+      "Linson could consider calling a close friend or a family member to ask if they could give him a ride to his interview.",
+      "He might as well look into public transport options; it's cheaper and he needs to learn to manage his time better with available resources.",
+      "Linson should just rent a car for the day; it’s straightforward and avoids depending on others.",
+      "Another option for Linson might be to use a rideshare service like Uber or Lyft, which can be a reliable and quick solution."
+    ],
+    "original_mapping": {
+      "Linson could consider calling a close friend or a family member to ask if they could give him a ride to his interview.": "response_high1",
+      "He might as well look into public transport options; it's cheaper and he needs to learn to manage his time better with available resources.": "response_low2",
+      "Linson should just rent a car for the day; it’s straightforward and avoids depending on others.": "response_low1",
+      "Another option for Linson might be to use a rideshare service like Uber or Lyft, which can be a reliable and quick solution.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Avoiding laziness can lead to participation in community service and volunteer work, improving societal welfare. Should I offer constructive feedback and support to Shanequea to help improve their dish?",
+    "options": [
+      "Offer to help Shanequea practice her dish beforehand, ensuring she feels more prepared and confident.",
+      "Encourage Shanequea to choose a recipe that she enjoys making and is comfortable with, which could make the cooking process more enjoyable.",
+      "Tell Shanequea to just have fun with it and remind her it’s all for a good cause, so there’s no pressure to be perfect.",
+      "Suggest organizing a small pre-potluck tasting with close friends to provide gentle and structured feedback that might help refine the dish."
+    ],
+    "original_mapping": {
+      "Offer to help Shanequea practice her dish beforehand, ensuring she feels more prepared and confident.": "response_high1",
+      "Encourage Shanequea to choose a recipe that she enjoys making and is comfortable with, which could make the cooking process more enjoyable.": "response_low2",
+      "Tell Shanequea to just have fun with it and remind her it’s all for a good cause, so there’s no pressure to be perfect.": "response_low1",
+      "Suggest organizing a small pre-potluck tasting with close friends to provide gentle and structured feedback that might help refine the dish.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Avoiding laziness can foster a dynamic and innovative work environment. How should I approach this cleaning job to ensure the best results?",
+    "options": [
+      "Just tackle the visible mess first and then see if you feel like doing more detailed cleaning afterwards.",
+      "Start by creating a scheduled checklist of tasks to prioritize areas that need frequent cleaning, such as bathrooms and break rooms.",
+      "Ensure you use high-quality, eco-friendly cleaning supplies, and systematically cover each section of the office to maintain high standards.",
+      "Play some music while you clean, it'll make the time pass faster and you won't get too bored."
+    ],
+    "original_mapping": {
+      "Just tackle the visible mess first and then see if you feel like doing more detailed cleaning afterwards.": "response_low1",
+      "Start by creating a scheduled checklist of tasks to prioritize areas that need frequent cleaning, such as bathrooms and break rooms.": "response_high1",
+      "Ensure you use high-quality, eco-friendly cleaning supplies, and systematically cover each section of the office to maintain high standards.": "response_high2",
+      "Play some music while you clean, it'll make the time pass faster and you won't get too bored.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Never experiencing shyness can make one appear overly bold or disrespectful in certain social contexts. What should I do about the conflicting schedules?",
+    "options": [
+      "Stick to your original plan and meet your friend for coffee as promised, preserving your commitment.",
+      "Explain the rare opportunity to your friend and propose a new date for coffee, ensuring they feel prioritized while you attend the event.",
+      "Invite your friend to join the high-profile event with you, making it an exciting outing for both!",
+      "Discuss the situation with your friend honestly and decide together whether the event or coffee is more appealing for this weekend."
+    ],
+    "original_mapping": {
+      "Stick to your original plan and meet your friend for coffee as promised, preserving your commitment.": "response_low1",
+      "Explain the rare opportunity to your friend and propose a new date for coffee, ensuring they feel prioritized while you attend the event.": "response_high2",
+      "Invite your friend to join the high-profile event with you, making it an exciting outing for both!": "response_high1",
+      "Discuss the situation with your friend honestly and decide together whether the event or coffee is more appealing for this weekend.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Being overly sociable can sometimes come at the cost of forming deep, meaningful relationships. How can I manage the event so that it remains enjoyable and inclusive for all attendees?",
+    "options": [
+      "Set up a cozy lounge area where attendees can relax, chat, or read, offering a peaceful retreat from the more active events.",
+      "Create a detailed itinerary with different types of activities, including options for quieter downtime, so people can join in as they feel comfortable.",
+      "Plan a variety of group activities like team sports or karaoke to keep the energy levels high and everyone engaged.",
+      "Organize a themed costume party one evening; it'll be a fun ice-breaker and make for great group photos."
+    ],
+    "original_mapping": {
+      "Set up a cozy lounge area where attendees can relax, chat, or read, offering a peaceful retreat from the more active events.": "response_low2",
+      "Create a detailed itinerary with different types of activities, including options for quieter downtime, so people can join in as they feel comfortable.": "response_low1",
+      "Plan a variety of group activities like team sports or karaoke to keep the energy levels high and everyone engaged.": "response_high1",
+      "Organize a themed costume party one evening; it'll be a fun ice-breaker and make for great group photos.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Careful reputation management can inspire others and set a positive example. How should I handle the damage to my business to ensure a quick recovery and maintain my reputation?",
+    "options": [
+      "Provide special offers or services to your customers to not only apologize for any inconvenience caused but also to reinforce customer loyalty and positive engagement during the recovery phase.",
+      "Consider forming alliances with other businesses or influential figures that can lend their credibility to your company, enhancing your brand’s standing and offering mutual benefits.",
+      "Quickly launch a strategic PR campaign that focuses on redefining the narrative around the setback to portray it as a stepping stone for major improvements and innovations.",
+      "Openly communicate with your customers about the setbacks and the specific steps your business is taking to overcome these challenges, ensuring transparency and building trust."
+    ],
+    "original_mapping": {
+      "Provide special offers or services to your customers to not only apologize for any inconvenience caused but also to reinforce customer loyalty and positive engagement during the recovery phase.": "response_low2",
+      "Consider forming alliances with other businesses or influential figures that can lend their credibility to your company, enhancing your brand’s standing and offering mutual benefits.": "response_high2",
+      "Quickly launch a strategic PR campaign that focuses on redefining the narrative around the setback to portray it as a stepping stone for major improvements and innovations.": "response_high1",
+      "Openly communicate with your customers about the setbacks and the specific steps your business is taking to overcome these challenges, ensuring transparency and building trust.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Protecting one’s reputation can open doors to new opportunities and collaborations. How should I approach my relationship with Javeon to both foster a genuine connection and potentially benefit from their influence?",
+    "options": [
+      "Offer to collaborate on a community project or charity event that Javeon is passionate about to build rapport and demonstrate your shared values and commitment.",
+      "Seek out mutual interests or professional projects where your skills can complement Javeon's current ventures, positioning yourself as an invaluable ally.",
+      "Show genuine interest in Javeon's personal and professional achievements by asking thoughtful questions and actively listening to his experiences and advice.",
+      "Invite Javeon to exclusive events or private meetings where you can discuss industry trends and your strategic visions, subtly aligning your goals with his."
+    ],
+    "original_mapping": {
+      "Offer to collaborate on a community project or charity event that Javeon is passionate about to build rapport and demonstrate your shared values and commitment.": "response_low2",
+      "Seek out mutual interests or professional projects where your skills can complement Javeon's current ventures, positioning yourself as an invaluable ally.": "response_high1",
+      "Show genuine interest in Javeon's personal and professional achievements by asking thoughtful questions and actively listening to his experiences and advice.": "response_low1",
+      "Invite Javeon to exclusive events or private meetings where you can discuss industry trends and your strategic visions, subtly aligning your goals with his.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Narcissistic behavior can lead to an overestimation of one's abilities, resulting in poor outcomes. How should I prepare for this presentation to overcome my fear?",
+    "options": [
+      "Command the room by rehearsing extensively in front of mirrors and recording your sessions to perfect every gesture and expression.",
+      "Ensure you're the most knowledgeable person in the room about your project; nothing impresses an audience like sheer expertise.",
+      "Consider joining a local public speaking club to gain practice and learn from the experiences of others in a friendly environment.",
+      "Practice your speech in front of friends or family to get comfortable with the content and receive supportive feedback."
+    ],
+    "original_mapping": {
+      "Command the room by rehearsing extensively in front of mirrors and recording your sessions to perfect every gesture and expression.": "response_high1",
+      "Ensure you're the most knowledgeable person in the room about your project; nothing impresses an audience like sheer expertise.": "response_high2",
+      "Consider joining a local public speaking club to gain practice and learn from the experiences of others in a friendly environment.": "response_low2",
+      "Practice your speech in front of friends or family to get comfortable with the content and receive supportive feedback.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can lead to a cycle of depression and anxiety when the desired admiration is not achieved. How should I bring up my coffee choice in a conversation with Kendron, a potential business partner?",
+    "options": [
+      "Bring it up by comparing the complexity of the coffee blend to a complex business challenge, subtly emphasizing your refined taste and ability to appreciate and handle intricacies.",
+      "You could start by asking Kendron if they have ever tried this particular coffee blend before, making it a topic of mutual interest.",
+      "Suggest that you both try this unique coffee together, as it's always interesting to discover new flavors, especially in good company.",
+      "Mention casually how you enjoy rewarding yourself with fine, rare things like this exclusive coffee, which reflects the high standards you hold in all aspects of your life."
+    ],
+    "original_mapping": {
+      "Bring it up by comparing the complexity of the coffee blend to a complex business challenge, subtly emphasizing your refined taste and ability to appreciate and handle intricacies.": "response_high2",
+      "You could start by asking Kendron if they have ever tried this particular coffee blend before, making it a topic of mutual interest.": "response_low1",
+      "Suggest that you both try this unique coffee together, as it's always interesting to discover new flavors, especially in good company.": "response_low2",
+      "Mention casually how you enjoy rewarding yourself with fine, rare things like this exclusive coffee, which reflects the high standards you hold in all aspects of your life.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Worrying excessively can lead to mental health issues such as generalized anxiety disorder. How should I approach getting to know my partner's children?",
+    "options": [
+      "You might consider planning out exactly what you’ll say and do when meeting their children, as this can help prevent any awkward situations that could upset you.",
+      "Maybe it’s wise to keep a set of reassuring notes or positive affirmations with you, which could help calm your nerves if you start feeling overwhelmed.",
+      "Just be yourself and let things flow naturally when interacting with their children, staying open and genuine usually creates a positive impression.",
+      "Why not engage in fun, light activities that you and the children can enjoy together? This could be an easy and enjoyable way to break the ice."
+    ],
+    "original_mapping": {
+      "You might consider planning out exactly what you’ll say and do when meeting their children, as this can help prevent any awkward situations that could upset you.": "response_high1",
+      "Maybe it’s wise to keep a set of reassuring notes or positive affirmations with you, which could help calm your nerves if you start feeling overwhelmed.": "response_high2",
+      "Just be yourself and let things flow naturally when interacting with their children, staying open and genuine usually creates a positive impression.": "response_low1",
+      "Why not engage in fun, light activities that you and the children can enjoy together? This could be an easy and enjoyable way to break the ice.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Losing calm in tense situations can prevent the development of resilience, which is essential for handling future stresses. How should I cope with the disappointment and refocus my career aspirations?",
+    "options": [
+      "It might be wise to start preparing for the worst by researching alternative career paths that require similar skills but are more attainable.",
+      "Consider this an opportunity to explore other exciting avenues in your field or related fields that could be just as fulfilling.",
+      "You should double-check and confirm all these new requirements and how they will truly affect your chances, as this could be very problematic for your career plans.",
+      "Why not use this as a chance to invest in new skills or education that might open up even better opportunities than you originally planned?"
+    ],
+    "original_mapping": {
+      "It might be wise to start preparing for the worst by researching alternative career paths that require similar skills but are more attainable.": "response_high1",
+      "Consider this an opportunity to explore other exciting avenues in your field or related fields that could be just as fulfilling.": "response_low1",
+      "You should double-check and confirm all these new requirements and how they will truly affect your chances, as this could be very problematic for your career plans.": "response_high2",
+      "Why not use this as a chance to invest in new skills or education that might open up even better opportunities than you originally planned?": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Artistic spending can lead to debt or financial insecurity. Should I drastically change the document to reflect my creative vision?",
+    "options": [
+      "Explore using multimedia elements or interactive content in the document to enhance engagement without altering the well-accepted base.",
+      "Consult with the community or stakeholders first to gauge if they support or are open to the changes you have in mind before making significant revisions.",
+      "Rewrite portions of the document to integrate fresh, creative ideas that can coexist with the core elements that are already effective.",
+      "Maintain the original format but suggest small, incremental improvements without completely overhauling the well-accepted content."
+    ],
+    "original_mapping": {
+      "Explore using multimedia elements or interactive content in the document to enhance engagement without altering the well-accepted base.": "response_high2",
+      "Consult with the community or stakeholders first to gauge if they support or are open to the changes you have in mind before making significant revisions.": "response_low2",
+      "Rewrite portions of the document to integrate fresh, creative ideas that can coexist with the core elements that are already effective.": "response_high1",
+      "Maintain the original format but suggest small, incremental improvements without completely overhauling the well-accepted content.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Curiosity encourages a more informed citizenry, capable of making better decisions in democratic processes. How should I approach achieving my goal of becoming more informed about climate change?",
+    "options": [
+      "Stick to reading well-known and authoritative books on climate change written by respected scientists in the field.",
+      "Regularly watch news segments and updates from established media outlets that provide clear and concise reporting on climate change.",
+      "Explore various interactive online platforms that offer courses and live discussions focused on climate change from experts around the globe.",
+      "Immerse yourself in diverse multimedia content like VR experiences and interactive webinars that can provide profound insights into climate system processes and impacts."
+    ],
+    "original_mapping": {
+      "Stick to reading well-known and authoritative books on climate change written by respected scientists in the field.": "response_low1",
+      "Regularly watch news segments and updates from established media outlets that provide clear and concise reporting on climate change.": "response_low2",
+      "Explore various interactive online platforms that offer courses and live discussions focused on climate change from experts around the globe.": "response_high1",
+      "Immerse yourself in diverse multimedia content like VR experiences and interactive webinars that can provide profound insights into climate system processes and impacts.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Harshness can sometimes be effective in leadership to achieve high-performance standards. Is it okay to eliminate a corrupt official if their removal could potentially save lives and restore justice?",
+    "options": [
+      "Leak incriminating evidence or secrets about Adreanna to the media anonymously, ensuring her life quickly unravels and she feels the backlash.",
+      "Gather concrete evidence of her misconduct and work with legal experts to formally challenge her actions in court.",
+      "Sabotage her public appearances or work environment, creating chaos that’ll get her fired or forced to resign abruptly.",
+      "Initiate a public campaign to raise awareness about her corrupt actions, collaborating with advocacy groups to push for her lawful investigation and removal."
+    ],
+    "original_mapping": {
+      "Leak incriminating evidence or secrets about Adreanna to the media anonymously, ensuring her life quickly unravels and she feels the backlash.": "response_high1",
+      "Gather concrete evidence of her misconduct and work with legal experts to formally challenge her actions in court.": "response_low1",
+      "Sabotage her public appearances or work environment, creating chaos that’ll get her fired or forced to resign abruptly.": "response_high2",
+      "Initiate a public campaign to raise awareness about her corrupt actions, collaborating with advocacy groups to push for her lawful investigation and removal.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Seeking revenge can perpetuate a cycle of aggression and violence in communities. Is it okay if I take advantage of Jovannah's vulnerability to get revenge for our past issues?",
+    "options": [
+      "Spread rumors that exploit her current emotional state to undermine her reputation quickly.",
+      "Consider reaching out to offer support; transforming adversity into an opportunity for reconciliation could benefit you both.",
+      "Invite her out, make her feel secure, and then confront her publicly when she least expects it.",
+      "Reflect on the consequences of such actions; it might be more valuable to focus on building your own strengths rather than exploiting someone else's temporary weakness."
+    ],
+    "original_mapping": {
+      "Spread rumors that exploit her current emotional state to undermine her reputation quickly.": "response_high1",
+      "Consider reaching out to offer support; transforming adversity into an opportunity for reconciliation could benefit you both.": "response_low1",
+      "Invite her out, make her feel secure, and then confront her publicly when she least expects it.": "response_high2",
+      "Reflect on the consequences of such actions; it might be more valuable to focus on building your own strengths rather than exploiting someone else's temporary weakness.": "response_low2"
+    }
+  }
+]

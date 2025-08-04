@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Warmth can make one an effective mediator or counselor. How should I manage agreeing to everything in a team setting?",
+    "options": [
+      "Propose a voting system where each member can vote on the ideas presented, ensuring only the most viable ones are pursued.",
+      "Suggest setting up a follow-up meeting where each idea can be explored in depth, allowing everyone’s perspectives to be heard and discussed thoroughly.",
+      "Consider creating a shared document where everyone can list their ideas and viewpoints, which can later be reviewed collectively to find common ground.",
+      "Clearly voice your concerns about impractical ideas in the meeting, emphasizing the need for realistic and feasible solutions."
+    ],
+    "original_mapping": {
+      "Propose a voting system where each member can vote on the ideas presented, ensuring only the most viable ones are pursued.": "response_low2",
+      "Suggest setting up a follow-up meeting where each idea can be explored in depth, allowing everyone’s perspectives to be heard and discussed thoroughly.": "response_high2",
+      "Consider creating a shared document where everyone can list their ideas and viewpoints, which can later be reviewed collectively to find common ground.": "response_high1",
+      "Clearly voice your concerns about impractical ideas in the meeting, emphasizing the need for realistic and feasible solutions.": "response_low1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Being too considerate can lead to being overlooked for promotions or more assertive roles. How should I address the issue of Jayel's mom's demands on my time?",
+    "options": [
+      "Inform her firmly that you will be available only at times that are convenient for you, and she must respect that.",
+      "Tell her directly that her current expectations are unrealistic and that you need to prioritize your own responsibilities.",
+      "Perhaps you could set up a calm meeting to discuss how you can help her within specific times that don’t interfere with your schedule.",
+      "Maybe try writing her a kind note expressing your constraints and suggesting alternative ways you might be able to assist her."
+    ],
+    "original_mapping": {
+      "Inform her firmly that you will be available only at times that are convenient for you, and she must respect that.": "response_low2",
+      "Tell her directly that her current expectations are unrealistic and that you need to prioritize your own responsibilities.": "response_low1",
+      "Perhaps you could set up a calm meeting to discuss how you can help her within specific times that don’t interfere with your schedule.": "response_high1",
+      "Maybe try writing her a kind note expressing your constraints and suggesting alternative ways you might be able to assist her.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "A thorough approach can lead to recognition and awards in one's field, enhancing career prospects. How should I interact with Jayllen in this scenario?",
+    "options": [
+      "Respectfully ask Jayllen if they have found any interesting arguments or sources, and suggest exchanging insights that could be beneficial for both of you.",
+      "Just go say hi, and maybe see if they want to take a break and grab a coffee or something.",
+      "Approach Jayllen politely and offer to share resources or collaborate on the research to enhance both of your preparations.",
+      "You could just chill nearby and maybe chat casually about the competition to keep things light and stress-free."
+    ],
+    "original_mapping": {
+      "Respectfully ask Jayllen if they have found any interesting arguments or sources, and suggest exchanging insights that could be beneficial for both of you.": "response_high2",
+      "Just go say hi, and maybe see if they want to take a break and grab a coffee or something.": "response_low1",
+      "Approach Jayllen politely and offer to share resources or collaborate on the research to enhance both of your preparations.": "response_high1",
+      "You could just chill nearby and maybe chat casually about the competition to keep things light and stress-free.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being careful can ensure that resources are used responsibly and sustainably. What should I keep in mind while feeding the ducks to ensure it's done responsibly?",
+    "options": [
+      "Just grab whatever snacks you have, like bits of popcorn or crackers; the ducks aren’t too picky.",
+      "Don’t worry too much, just toss small pieces so the ducks can easily snack on them.",
+      "Check for any park regulations on feeding wildlife and strictly adhere to those guidelines to ensure proper care.",
+      "Ensure you use duck feed or alternatives like chopped lettuce and peas instead of bread, which is unhealthy for them."
+    ],
+    "original_mapping": {
+      "Just grab whatever snacks you have, like bits of popcorn or crackers; the ducks aren’t too picky.": "response_low1",
+      "Don’t worry too much, just toss small pieces so the ducks can easily snack on them.": "response_low2",
+      "Check for any park regulations on feeding wildlife and strictly adhere to those guidelines to ensure proper care.": "response_high2",
+      "Ensure you use duck feed or alternatives like chopped lettuce and peas instead of bread, which is unhealthy for them.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Talkative people can play a central role in community engagement and organization. How can I use my extraversion to foster a collaborative and positive atmosphere in our team?",
+    "options": [
+      "Kick off the project with a lively team-building event to energize everyone and create strong bonds.",
+      "Create a shared digital workspace with clear project goals and resources, allowing everyone to contribute at their own pace.",
+      "Establish a structured communication channel where team members can share updates and feedback asynchronously.",
+      "Regularly organize casual lunch meetings where the team can discuss ideas in a relaxed and friendly environment."
+    ],
+    "original_mapping": {
+      "Kick off the project with a lively team-building event to energize everyone and create strong bonds.": "response_high1",
+      "Create a shared digital workspace with clear project goals and resources, allowing everyone to contribute at their own pace.": "response_low2",
+      "Establish a structured communication channel where team members can share updates and feedback asynchronously.": "response_low1",
+      "Regularly organize casual lunch meetings where the team can discuss ideas in a relaxed and friendly environment.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Generating a lot of enthusiasm can motivate others to take action. How can I assist Angeleana in handling their son’s energy in a positive way?",
+    "options": [
+      "Why not organize a fun treasure hunt for all the kids? It’s a great way to channel that energy into an exciting activity!",
+      "How about starting a dance-off? It's sure to get everyone involved and help burn off some of that excess energy!",
+      "Suggest setting up a small craft table where he can make something simple and engaging, keeping his hands and mind occupied.",
+      "Offer to read his favorite book or show him a quiet corner where he can color or do puzzles, helping him to settle down."
+    ],
+    "original_mapping": {
+      "Why not organize a fun treasure hunt for all the kids? It’s a great way to channel that energy into an exciting activity!": "response_high1",
+      "How about starting a dance-off? It's sure to get everyone involved and help burn off some of that excess energy!": "response_high2",
+      "Suggest setting up a small craft table where he can make something simple and engaging, keeping his hands and mind occupied.": "response_low2",
+      "Offer to read his favorite book or show him a quiet corner where he can color or do puzzles, helping him to settle down.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Understanding manipulation can protect communities from harmful external influences. How can I approach Gilman to both learn more about their situation and ensure our project's success?",
+    "options": [
+      "Schedule a private meeting with Gilman to discuss project timelines and subtly inquire about any challenges he might be facing that could affect his performance.",
+      "Propose to Gilman some ways to delegate his responsibilities on the project, which might alleviate his stress and enhance his focus.",
+      "Ask Gilman out for a coffee to offer a friendly ear and see if he'll share what’s on his mind, showing your genuine concern for his wellbeing.",
+      "Encourage Gilman to take a day off for mental health and rest, reassuring him that the team will manage the project effectively in his absence."
+    ],
+    "original_mapping": {
+      "Schedule a private meeting with Gilman to discuss project timelines and subtly inquire about any challenges he might be facing that could affect his performance.": "response_high1",
+      "Propose to Gilman some ways to delegate his responsibilities on the project, which might alleviate his stress and enhance his focus.": "response_high2",
+      "Ask Gilman out for a coffee to offer a friendly ear and see if he'll share what’s on his mind, showing your genuine concern for his wellbeing.": "response_low1",
+      "Encourage Gilman to take a day off for mental health and rest, reassuring him that the team will manage the project effectively in his absence.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Conflict avoidance can reduce stress and promote mental health. How can I show support for Zuberi's performance in a way that benefits our professional relationship?",
+    "options": [
+      "Arrange a private meeting to congratulate Zuberi on their performance, subtly mentioning potential collaborative projects that align with their skills.",
+      "Write a heartfelt, personal note expressing your enjoyment of the performance, making sure to communicate your admiration for their talent and dedication.",
+      "Offer to help Zuberi with preparations for the performance or attend rehearsals, showing genuine interest and support for their passion.",
+      "Publicly praise Zuberi during the event, ensuring your support is visible to others and highlights your appreciation of talent, which might bolster your reputation."
+    ],
+    "original_mapping": {
+      "Arrange a private meeting to congratulate Zuberi on their performance, subtly mentioning potential collaborative projects that align with their skills.": "response_high1",
+      "Write a heartfelt, personal note expressing your enjoyment of the performance, making sure to communicate your admiration for their talent and dedication.": "response_low2",
+      "Offer to help Zuberi with preparations for the performance or attend rehearsals, showing genuine interest and support for their passion.": "response_low1",
+      "Publicly praise Zuberi during the event, ensuring your support is visible to others and highlights your appreciation of talent, which might bolster your reputation.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can lead to a constant comparison with others, fostering envy and discontent. How should I handle the recognition and address the contributions of my team members?",
+    "options": [
+      "Organize a team celebration where you personally thank each member, especially Tamarie, and spotlight their hard work to your superiors and peers.",
+      "Make a point to share the award with Tamarie and the rest of your team, emphasizing their integral contributions in all communications.",
+      "Publicly acknowledge your own key role in the project's success during your acceptance speech, ensuring you stand out as a leader.",
+      "Mention your team briefly in your acceptance, but highlight your unique strategies and efforts that were pivotal."
+    ],
+    "original_mapping": {
+      "Organize a team celebration where you personally thank each member, especially Tamarie, and spotlight their hard work to your superiors and peers.": "response_low2",
+      "Make a point to share the award with Tamarie and the rest of your team, emphasizing their integral contributions in all communications.": "response_low1",
+      "Publicly acknowledge your own key role in the project's success during your acceptance speech, ensuring you stand out as a leader.": "response_high1",
+      "Mention your team briefly in your acceptance, but highlight your unique strategies and efforts that were pivotal.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their charisma can enhance their effectiveness as negotiators, securing advantageous outcomes. How should I handle the situation with Kilik?",
+    "options": [
+      "Assert your new role confidently with Kilik; demonstrate why you were the right choice for the promotion.",
+      "Ask Kilik how he feels about the situation and listen genuinely, showing that you value his feelings and perspective despite the changes at work.",
+      "Reach out to Kilik to express your hope that your promotion won't affect your friendship and offer your support in his career progression too.",
+      "Invite Kilik to a one-on-one meeting where you can highlight your vision and leadership goals, ensuring he understands your capabilities."
+    ],
+    "original_mapping": {
+      "Assert your new role confidently with Kilik; demonstrate why you were the right choice for the promotion.": "response_high1",
+      "Ask Kilik how he feels about the situation and listen genuinely, showing that you value his feelings and perspective despite the changes at work.": "response_low2",
+      "Reach out to Kilik to express your hope that your promotion won't affect your friendship and offer your support in his career progression too.": "response_low1",
+      "Invite Kilik to a one-on-one meeting where you can highlight your vision and leadership goals, ensuring he understands your capabilities.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Mood swings can add depth to one's personality, making interpersonal relationships more dynamic. What should I do about participating in this conversation?",
+    "options": [
+      "You could try changing the subject to something more neutral to avoid anxiety about their reactions to your opinion.",
+      "Consider sharing your perspective calmly; open conversations can lead to better understanding despite differences.",
+      "You could listen to everyone's points and then share your own views confidently; disagreement doesn’t necessarily mean disapproval.",
+      "Maybe just nod along and avoid sharing your thoughts to prevent any potential conflict or emotional stress."
+    ],
+    "original_mapping": {
+      "You could try changing the subject to something more neutral to avoid anxiety about their reactions to your opinion.": "response_high2",
+      "Consider sharing your perspective calmly; open conversations can lead to better understanding despite differences.": "response_low1",
+      "You could listen to everyone's points and then share your own views confidently; disagreement doesn’t necessarily mean disapproval.": "response_low2",
+      "Maybe just nod along and avoid sharing your thoughts to prevent any potential conflict or emotional stress.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Ineffective stress handling can lead to serious psychological issues, such as depression or anxiety. How should I handle the sudden request to speak in front of my colleagues?",
+    "options": [
+      "Just go with the flow, speak genuinely about your department’s accomplishments, and enjoy the chance to engage with your colleagues in a positive setting.",
+      "View this as a great opportunity to highlight your team's hard work and to shine in front of your company's leadership.",
+      "You should quickly draft notes to avoid missing any crucial details during your speech, which might reflect poorly on you.",
+      "Consider requesting a brief postponement to collect your thoughts and ensure that your presentation is flawless and stress-free."
+    ],
+    "original_mapping": {
+      "Just go with the flow, speak genuinely about your department’s accomplishments, and enjoy the chance to engage with your colleagues in a positive setting.": "response_low2",
+      "View this as a great opportunity to highlight your team's hard work and to shine in front of your company's leadership.": "response_low1",
+      "You should quickly draft notes to avoid missing any crucial details during your speech, which might reflect poorly on you.": "response_high1",
+      "Consider requesting a brief postponement to collect your thoughts and ensure that your presentation is flawless and stress-free.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Inefficiency in structured tasks can lead to professional setbacks. What considerations should I weigh before making such a significant career change?",
+    "options": [
+      "Research and compare the average income and job stability in the art field to your current career to assess financial risks.",
+      "Ensure you have at least a year’s worth of savings before quitting your job, as art careers can start slowly.",
+      "Consider taking art classes or workshops to further develop your skills and network with other artists in the field.",
+      "Explore part-time or freelance art opportunities first to gradually transition while maintaining financial stability."
+    ],
+    "original_mapping": {
+      "Research and compare the average income and job stability in the art field to your current career to assess financial risks.": "response_low2",
+      "Ensure you have at least a year’s worth of savings before quitting your job, as art careers can start slowly.": "response_low1",
+      "Consider taking art classes or workshops to further develop your skills and network with other artists in the field.": "response_high2",
+      "Explore part-time or freelance art opportunities first to gradually transition while maintaining financial stability.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Original and innovative ideas are often the seeds of major social reforms. What should I do during the celebration?",
+    "options": [
+      "Inquire about local or familiar running events that you can participate in regularly to maintain your current level of fitness.",
+      "Engage with fellow runners to discuss innovative training techniques or unconventional running gear that might enhance your experience.",
+      "Seek recommendations for reliable, tried-and-true training programs or gear that can help you improve your performance in traditional running events.",
+      "Explore conversations about the most exotic or unique marathons around the world, and consider planning to participate in one."
+    ],
+    "original_mapping": {
+      "Inquire about local or familiar running events that you can participate in regularly to maintain your current level of fitness.": "response_low1",
+      "Engage with fellow runners to discuss innovative training techniques or unconventional running gear that might enhance your experience.": "response_high2",
+      "Seek recommendations for reliable, tried-and-true training programs or gear that can help you improve your performance in traditional running events.": "response_low2",
+      "Explore conversations about the most exotic or unique marathons around the world, and consider planning to participate in one.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Revenge-seeking can consume an individual, detracting from more positive pursuits and happiness. Is it okay if I use this address to pay a surprise visit to my former business partner to settle scores, ensuring he understands the consequences of betraying me?",
+    "options": [
+      "Use that address to send him an anonymous package that hints at knowing his deceitful past, which might stir some unrest.",
+      "I would suggest using the address to send a formal letter expressing your feelings about the past situation and requesting a meeting to discuss it maturely.",
+      "Consider making your visit unannounced to really catch him off guard and maximize the impact of your confrontation.",
+      "Alternatively, consider reaching out to him via a phone call to arrange a face-to-face meeting in a neutral location to resolve the outstanding issues peacefully."
+    ],
+    "original_mapping": {
+      "Use that address to send him an anonymous package that hints at knowing his deceitful past, which might stir some unrest.": "response_high2",
+      "I would suggest using the address to send a formal letter expressing your feelings about the past situation and requesting a meeting to discuss it maturely.": "response_low1",
+      "Consider making your visit unannounced to really catch him off guard and maximize the impact of your confrontation.": "response_high1",
+      "Alternatively, consider reaching out to him via a phone call to arrange a face-to-face meeting in a neutral location to resolve the outstanding issues peacefully.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Teaching others to fear you can lead to a lonely existence devoid of genuine human connections. Is it okay if I scream at Dettrick just to show him who's really in charge here?",
+    "options": [
+      "Push his limits further by engaging more aggressively, making it crystal clear you're not someone he can easily pacify.",
+      "Consider amplifying your challenge by spreading rumors about his incompetence to others at the bar to undermine his authority quickly.",
+      "It's better to step back and apologize, aiming to de-escalate the situation respectfully and ensure everyone’s safety.",
+      "Try calming down and discussing the issue rationally with him, showing that you can handle intense situations maturely."
+    ],
+    "original_mapping": {
+      "Push his limits further by engaging more aggressively, making it crystal clear you're not someone he can easily pacify.": "response_high2",
+      "Consider amplifying your challenge by spreading rumors about his incompetence to others at the bar to undermine his authority quickly.": "response_high1",
+      "It's better to step back and apologize, aiming to de-escalate the situation respectfully and ensure everyone’s safety.": "response_low1",
+      "Try calming down and discussing the issue rationally with him, showing that you can handle intense situations maturely.": "response_low2"
+    }
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Cooperation leads to a pooling of resources, creating greater efficiency. How should I handle this confidential information shared by Jullissa?",
+    "options": [
+      "Advise Jullissa to handle her job struggles internally or discuss them directly with a supervisor.",
+      "Offer to help Jullissa brainstorm solutions or coping strategies for her work issues.",
+      "Suggest that Jullissa toughens up and develops a strategic plan to tackle her job issues independently.",
+      "Reassure Jullissa that her secret is safe with you and encourage her to seek professional advice if needed."
+    ],
+    "original_mapping": {
+      "Advise Jullissa to handle her job struggles internally or discuss them directly with a supervisor.": "response_low1",
+      "Offer to help Jullissa brainstorm solutions or coping strategies for her work issues.": "response_high1",
+      "Suggest that Jullissa toughens up and develops a strategic plan to tackle her job issues independently.": "response_low2",
+      "Reassure Jullissa that her secret is safe with you and encourage her to seek professional advice if needed.": "response_high2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Consistent kindness can improve one's mental health by fostering positive feelings. How can I initiate a positive change in myself and encourage my partner to do the same?",
+    "options": [
+      "Encourage each other to volunteer for a community service once a month; helping others often brings a positive perspective to our own lives.",
+      "Start a daily routine where you both share three positive things that happened during your day, promoting a habit of focusing on the good.",
+      "Challenge each other to replace every negative statement with a positive one, making it a competition to see who slips up less.",
+      "Set a clear boundary that pessimistic talk is banned for an hour each evening, and use this time to discuss dreams and ambitions instead."
+    ],
+    "original_mapping": {
+      "Encourage each other to volunteer for a community service once a month; helping others often brings a positive perspective to our own lives.": "response_high2",
+      "Start a daily routine where you both share three positive things that happened during your day, promoting a habit of focusing on the good.": "response_high1",
+      "Challenge each other to replace every negative statement with a positive one, making it a competition to see who slips up less.": "response_low1",
+      "Set a clear boundary that pessimistic talk is banned for an hour each evening, and use this time to discuss dreams and ambitions instead.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being focused and not easily distracted helps in maintaining productivity and meeting deadlines. How should I proceed with the house purchase decision?",
+    "options": [
+      "Try offering a lower bid that fits your budget; the worst they can say is no.",
+      "Review your budget closely and identify areas for potential savings or if possible, negotiate the price with the seller.",
+      "You could explore other market options briefly; sometimes making a quick comparison can lead to unexpected bargains.",
+      "Consider applying for a slightly larger mortgage or exploring additional financing options that may meet your budgetary constraints."
+    ],
+    "original_mapping": {
+      "Try offering a lower bid that fits your budget; the worst they can say is no.": "response_low1",
+      "Review your budget closely and identify areas for potential savings or if possible, negotiate the price with the seller.": "response_high1",
+      "You could explore other market options briefly; sometimes making a quick comparison can lead to unexpected bargains.": "response_low2",
+      "Consider applying for a slightly larger mortgage or exploring additional financing options that may meet your budgetary constraints.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Reliability can reduce the frequency and impact of errors in critical processes. How should I address Briteny's performance issues?",
+    "options": [
+      "Schedule a private meeting with Briteny to discuss her recent performance and set clear, measurable goals for improvement.",
+      "Document specific examples of where Briteny’s performance is lacking and provide this feedback during a formal performance review.",
+      "Maybe bring it up casually over coffee, see if she's aware of the issues and if there's anything bothering her that's affecting her work.",
+      "Suggest that Briteny pairs up with a co-worker who could help her catch up on parts of the project she’s struggling with."
+    ],
+    "original_mapping": {
+      "Schedule a private meeting with Briteny to discuss her recent performance and set clear, measurable goals for improvement.": "response_high1",
+      "Document specific examples of where Briteny’s performance is lacking and provide this feedback during a formal performance review.": "response_high2",
+      "Maybe bring it up casually over coffee, see if she's aware of the issues and if there's anything bothering her that's affecting her work.": "response_low2",
+      "Suggest that Briteny pairs up with a co-worker who could help her catch up on parts of the project she’s struggling with.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Not being reserved can result in a lack of mystery or intrigue, which can be essential in some personal or professional relationships. Should I confess to my friends about the lie?",
+    "options": [
+      "You could spice things up by creating a funny, dramatic reveal during a video chat where you come clean about the fib!",
+      "Consider writing a sincere message to your friends explaining your actions and apologizing—keeping it straightforward and honest.",
+      "Maybe you could invite them out for coffee, one-on-one, to confess and discuss why you felt the need to embellish that story.",
+      "Throw a fun and casual get-together to admit the truth and share some real stories about your life—it'll turn into a great bonding moment!"
+    ],
+    "original_mapping": {
+      "You could spice things up by creating a funny, dramatic reveal during a video chat where you come clean about the fib!": "response_high2",
+      "Consider writing a sincere message to your friends explaining your actions and apologizing—keeping it straightforward and honest.": "response_low1",
+      "Maybe you could invite them out for coffee, one-on-one, to confess and discuss why you felt the need to embellish that story.": "response_low2",
+      "Throw a fun and casual get-together to admit the truth and share some real stories about your life—it'll turn into a great bonding moment!": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Constantly not being quiet can be seen as disrespectful in certain cultural or social contexts. How can I plan the evening so that it is enjoyable for everyone, including myself?",
+    "options": [
+      "You could book an escape room challenge followed by drinks at a trendy bar, which mixes teamwork with a fun, social atmosphere.",
+      "Plan a lively evening at a vibrant food hall where everyone can pick different cuisines and enjoy live music or performances.",
+      "Consider a quiet dinner at a cozy restaurant that offers a variety of dishes, accommodating everyone's taste and providing a relaxed environment.",
+      "Organize a movie night at home where you can watch a film that suits various preferences, followed by a casual discussion about it over snacks."
+    ],
+    "original_mapping": {
+      "You could book an escape room challenge followed by drinks at a trendy bar, which mixes teamwork with a fun, social atmosphere.": "response_high2",
+      "Plan a lively evening at a vibrant food hall where everyone can pick different cuisines and enjoy live music or performances.": "response_high1",
+      "Consider a quiet dinner at a cozy restaurant that offers a variety of dishes, accommodating everyone's taste and providing a relaxed environment.": "response_low1",
+      "Organize a movie night at home where you can watch a film that suits various preferences, followed by a casual discussion about it over snacks.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Leveraging information can correct misinformation or clarify misunderstandings. How should I influence the project's direction?",
+    "options": [
+      "Propose a strategic analysis that highlights how your vision aligns with both market trends and the company's profit potential, pitching it as a lucrative shift in the project direction.",
+      "Suggest setting up a smaller, specialized team that you can lead, to explore your proposed direction under the pretext that it may open up new opportunities for innovation and efficiency.",
+      "Encourage open discussions in the meetings about everyone’s career goals and how they intersect with the project, fostering a team environment that naturally aligns with your objectives.",
+      "Provide thoughtful feedback and constructive suggestions during the meeting, clearly expressing how these could benefit the project while also coinciding with your personal career ambitions."
+    ],
+    "original_mapping": {
+      "Propose a strategic analysis that highlights how your vision aligns with both market trends and the company's profit potential, pitching it as a lucrative shift in the project direction.": "response_high1",
+      "Suggest setting up a smaller, specialized team that you can lead, to explore your proposed direction under the pretext that it may open up new opportunities for innovation and efficiency.": "response_high2",
+      "Encourage open discussions in the meetings about everyone’s career goals and how they intersect with the project, fostering a team environment that naturally aligns with your objectives.": "response_low1",
+      "Provide thoughtful feedback and constructive suggestions during the meeting, clearly expressing how these could benefit the project while also coinciding with your personal career ambitions.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Timing retaliation can avoid unnecessary escalations and lead to more just outcomes. How should I handle the situation where Traveyon is taking credit for my work?",
+    "options": [
+      "Start documenting your contributions by emailing your ideas to your team and supervisor before the meetings.",
+      "Subtly bring up your original contribution during the meeting, highlighting how your idea has evolved and its benefits to the project.",
+      "Encourage a team culture of acknowledgment by openly appreciating others' ideas in meetings, prompting mutual recognition of contributions.",
+      "Schedule a private meeting with Traveyon to discuss your observations and express your feelings about the situation."
+    ],
+    "original_mapping": {
+      "Start documenting your contributions by emailing your ideas to your team and supervisor before the meetings.": "response_high1",
+      "Subtly bring up your original contribution during the meeting, highlighting how your idea has evolved and its benefits to the project.": "response_high2",
+      "Encourage a team culture of acknowledgment by openly appreciating others' ideas in meetings, prompting mutual recognition of contributions.": "response_low2",
+      "Schedule a private meeting with Traveyon to discuss your observations and express your feelings about the situation.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Standing up for oneself can prevent exploitation and unfair treatment. Should I lend the money to Miyu?",
+    "options": [
+      "Offer to lend the money only if Miyu agrees to financial advice or counselling to ensure your investment is secure.",
+      "Suggest that Miyu provides a detailed plan on how they intend to use the money and pay it back, showcasing your prudent decision-making.",
+      "Perhaps instead of lending money, offer to help Miyu find other financial resources or support to manage their expenses better.",
+      "You might consider lending a smaller amount that you are comfortable with possibly not getting back, to help Miyu without risking too much."
+    ],
+    "original_mapping": {
+      "Offer to lend the money only if Miyu agrees to financial advice or counselling to ensure your investment is secure.": "response_high1",
+      "Suggest that Miyu provides a detailed plan on how they intend to use the money and pay it back, showcasing your prudent decision-making.": "response_high2",
+      "Perhaps instead of lending money, offer to help Miyu find other financial resources or support to manage their expenses better.": "response_low2",
+      "You might consider lending a smaller amount that you are comfortable with possibly not getting back, to help Miyu without risking too much.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Being appreciated can foster a positive environment and stronger team dynamics. How should I approach borrowing supplies from Jesu?",
+    "options": [
+      "Check with Jesu to see if it’s a convenient time for him to lend you the supplies, reassuring that you'll take full responsibility for them.",
+      "Directly tell Jesu you need the supplies more than he does right now and take them to ensure your presentation shines.",
+      "Claim the urgency of your need, stating how your presentation could affect the whole department, and he should consider yielding them to you.",
+      "Politely ask Jesu if you can borrow some supplies for your presentation and let him know you'll return them as soon as possible."
+    ],
+    "original_mapping": {
+      "Check with Jesu to see if it’s a convenient time for him to lend you the supplies, reassuring that you'll take full responsibility for them.": "response_low2",
+      "Directly tell Jesu you need the supplies more than he does right now and take them to ensure your presentation shines.": "response_high1",
+      "Claim the urgency of your need, stating how your presentation could affect the whole department, and he should consider yielding them to you.": "response_high2",
+      "Politely ask Jesu if you can borrow some supplies for your presentation and let him know you'll return them as soon as possible.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Depression can lead to cognitive impairments, such as difficulty concentrating or making decisions. How should I go about organizing the dinner party?",
+    "options": [
+      "Why not let everyone bring a dish? It’ll be a fun way to reduce your stress and give everyone a chance to share something they like.",
+      "You might consider creating a detailed plan for every aspect of the dinner to avoid any potential problems that could arise.",
+      "Perhaps it's safer to order food from a high-rated catering service to eliminate the risk of any culinary mishaps that might upset the guests.",
+      "Just pick a few of your favorite recipes that you’re comfortable cooking, and enjoy the casual vibe with your colleagues."
+    ],
+    "original_mapping": {
+      "Why not let everyone bring a dish? It’ll be a fun way to reduce your stress and give everyone a chance to share something they like.": "response_low2",
+      "You might consider creating a detailed plan for every aspect of the dinner to avoid any potential problems that could arise.": "response_high1",
+      "Perhaps it's safer to order food from a high-rated catering service to eliminate the risk of any culinary mishaps that might upset the guests.": "response_high2",
+      "Just pick a few of your favorite recipes that you’re comfortable cooking, and enjoy the casual vibe with your colleagues.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional instability can be perceived as unreliability, which can impact professional opportunities. How should I approach the decision to start volunteering?",
+    "options": [
+      "Perhaps you should start by choosing a charity that has a strong support system, just in case the experience becomes too overwhelming or emotionally challenging for you.",
+      "It might be wise to carefully consider if volunteering will add to your stress—you wouldn't want to commit and then find out it's too much to handle.",
+      "Volunteering sounds like a great idea—it's a positive way to engage with others and can bring a lot of personal fulfillment and community connection.",
+      "Go for it! Find a cause that excites you and dive in; it’s a fantastic opportunity to make a difference and feel more connected."
+    ],
+    "original_mapping": {
+      "Perhaps you should start by choosing a charity that has a strong support system, just in case the experience becomes too overwhelming or emotionally challenging for you.": "response_high1",
+      "It might be wise to carefully consider if volunteering will add to your stress—you wouldn't want to commit and then find out it's too much to handle.": "response_high2",
+      "Volunteering sounds like a great idea—it's a positive way to engage with others and can bring a lot of personal fulfillment and community connection.": "response_low1",
+      "Go for it! Find a cause that excites you and dive in; it’s a fantastic opportunity to make a difference and feel more connected.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Overlooking practical skills for intellectual ones can lead to dependency on others for basic tasks. How should I approach training my new dog?",
+    "options": [
+      "Consider joining a creative dog training workshop where both you and your dog can learn new tricks interactively with other dog enthusiasts.",
+      "Explore innovative training methods like clicker training or shaping, which can enhance the dog’s learning through positive reinforcement.",
+      "Follow a structured training guide from a reputable source to ensure you’re covering all necessary aspects of pet training gradually.",
+      "Start with basic obedience training such as sit, stay, and come, using consistent commands and simple rewards."
+    ],
+    "original_mapping": {
+      "Consider joining a creative dog training workshop where both you and your dog can learn new tricks interactively with other dog enthusiasts.": "response_high2",
+      "Explore innovative training methods like clicker training or shaping, which can enhance the dog’s learning through positive reinforcement.": "response_high1",
+      "Follow a structured training guide from a reputable source to ensure you’re covering all necessary aspects of pet training gradually.": "response_low2",
+      "Start with basic obedience training such as sit, stay, and come, using consistent commands and simple rewards.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Spreading interest too thin across arts can dilute the impact of one’s work. Should I start reading this new book immediately?",
+    "options": [
+      "Consider waiting until you have a clear schedule and can focus fully on \"The Theory of Modern Art\" without juggling multiple subjects.",
+      "Why not skim through the book to pick out concepts or chapters that might offer you novel insights or dovetail interestingly with what you already know?",
+      "Dive into the first chapter to see how it resonates with your current understanding; sometimes a fresh perspective can invigorate your learning.",
+      "Stick to finishing your current readings first before starting the new book, to avoid mixing up different art theories."
+    ],
+    "original_mapping": {
+      "Consider waiting until you have a clear schedule and can focus fully on \"The Theory of Modern Art\" without juggling multiple subjects.": "response_low2",
+      "Why not skim through the book to pick out concepts or chapters that might offer you novel insights or dovetail interestingly with what you already know?": "response_high2",
+      "Dive into the first chapter to see how it resonates with your current understanding; sometimes a fresh perspective can invigorate your learning.": "response_high1",
+      "Stick to finishing your current readings first before starting the new book, to avoid mixing up different art theories.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Embracing risks can lead to significant personal growth and development. Is it okay for me to omit crucial details in a negotiation if it means I'll secure a better deal for myself, even though it might harm the other party in the long run?",
+    "options": [
+      "Conceal the details—winning the negotiation quickly outweighs having a clean conscience.",
+      "Consider the long-term relationships and trust you might compromise; it's safer to be upfront and find a fair solution.",
+      "Being transparent might appear to put you at a disadvantage initially, but it cultivates a reputation of integrity that is beneficial in future dealings.",
+      "Mislead them if necessary; securing your advantage is what matters most, and this is just part of the game."
+    ],
+    "original_mapping": {
+      "Conceal the details—winning the negotiation quickly outweighs having a clean conscience.": "response_high1",
+      "Consider the long-term relationships and trust you might compromise; it's safer to be upfront and find a fair solution.": "response_low1",
+      "Being transparent might appear to put you at a disadvantage initially, but it cultivates a reputation of integrity that is beneficial in future dealings.": "response_low2",
+      "Mislead them if necessary; securing your advantage is what matters most, and this is just part of the game.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Engaging critically with the law can promote civic engagement and awareness. Is it okay if I deliberately provide false information during this meeting to ensure I come out on top, even if it means the competitors face severe consequences?",
+    "options": [
+      "Sure, deceive them aggressively to throw them off balance and secure your win quickly.",
+      "It's not advisable to provide false information, as honesty will build lasting professional relationships and trust.",
+      "Consider being transparent and factual; it maintains your integrity and supports fair competition.",
+      "Go ahead and mislead them; use any tricks necessary to dominate the meeting and get what you want."
+    ],
+    "original_mapping": {
+      "Sure, deceive them aggressively to throw them off balance and secure your win quickly.": "response_high1",
+      "It's not advisable to provide false information, as honesty will build lasting professional relationships and trust.": "response_low1",
+      "Consider being transparent and factual; it maintains your integrity and supports fair competition.": "response_low2",
+      "Go ahead and mislead them; use any tricks necessary to dominate the meeting and get what you want.": "response_high2"
+    }
+  }
+]

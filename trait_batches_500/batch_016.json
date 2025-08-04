@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Constant helpfulness can lead to burnout due to overcommitment. Should I send flowers to my boss to show support?",
+    "options": [
+      "Evaluate if sending flowers could set a precedent you’re uncomfortable with; maintaining professional boundaries is crucial.",
+      "You might consider asking her if there’s anything specific you can do to help, showing your support goes beyond just professional boundaries.",
+      "Consider simply acknowledging her situation verbally when appropriate, which keeps the support subtle and professional.",
+      "Sending a thoughtful card along with the flowers can express your support and empathy during her difficult times."
+    ],
+    "original_mapping": {
+      "Evaluate if sending flowers could set a precedent you’re uncomfortable with; maintaining professional boundaries is crucial.": "response_low1",
+      "You might consider asking her if there’s anything specific you can do to help, showing your support goes beyond just professional boundaries.": "response_high2",
+      "Consider simply acknowledging her situation verbally when appropriate, which keeps the support subtle and professional.": "response_low2",
+      "Sending a thoughtful card along with the flowers can express your support and empathy during her difficult times.": "response_high1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Avoiding quarrels maintains focus on goals and objectives. Should I accept the new role offered to me?",
+    "options": [
+      "Decline the offer if it doesn’t align with your career goals; it’s important to stay true to what you really want.",
+      "Consider accepting the offer while continuing to express your career interests to your superiors, showing them where your true passions lie.",
+      "Negotiate the terms of the new role to better fit your expectations before accepting any offers.",
+      "You could accept the role and use it as an opportunity to build skills that could lead to your ideal job."
+    ],
+    "original_mapping": {
+      "Decline the offer if it doesn’t align with your career goals; it’s important to stay true to what you really want.": "response_low1",
+      "Consider accepting the offer while continuing to express your career interests to your superiors, showing them where your true passions lie.": "response_high2",
+      "Negotiate the terms of the new role to better fit your expectations before accepting any offers.": "response_low2",
+      "You could accept the role and use it as an opportunity to build skills that could lead to your ideal job.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Staying focused can lead to more effective communication and clearer articulation of ideas. How can I show my support and sympathy for Mahmoud during this tough time?",
+    "options": [
+      "Why not take Mahmoud out for a coffee or lunch, somewhere away from the office, to give him a break and let him know you're there for him?",
+      "Organize a small gesture from your team, like a card or care package, to let Mahmoud know everyone is thinking of him and supports him.",
+      "Create a schedule to regularly check in on Mahmoud, offering help with his workload or a chance to talk if he needs it.",
+      "Invite Mahmoud to join a group activity that's light and fun, helping him to momentarily set aside work pressures and partake in something uplifting."
+    ],
+    "original_mapping": {
+      "Why not take Mahmoud out for a coffee or lunch, somewhere away from the office, to give him a break and let him know you're there for him?": "response_low1",
+      "Organize a small gesture from your team, like a card or care package, to let Mahmoud know everyone is thinking of him and supports him.": "response_high2",
+      "Create a schedule to regularly check in on Mahmoud, offering help with his workload or a chance to talk if he needs it.": "response_high1",
+      "Invite Mahmoud to join a group activity that's light and fun, helping him to momentarily set aside work pressures and partake in something uplifting.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being highly organized might mean prioritizing order over human relationships. How should I manage my commitment to both my work and Marleyrose?",
+    "options": [
+      "Consider informing Marleyrose about your deadline and propose meeting later in the evening to ensure you meet your work commitments.",
+      "Suggest splitting your day; catch up with Marleyrose for a quick brunch then dive into your work for the rest of the day.",
+      "How about you work from a café and invite Marleyrose to join you for a casual work date?",
+      "Prioritize completing major portions of your work early that day to free up some evening time for Marleyrose."
+    ],
+    "original_mapping": {
+      "Consider informing Marleyrose about your deadline and propose meeting later in the evening to ensure you meet your work commitments.": "response_high2",
+      "Suggest splitting your day; catch up with Marleyrose for a quick brunch then dive into your work for the rest of the day.": "response_low2",
+      "How about you work from a café and invite Marleyrose to join you for a casual work date?": "response_low1",
+      "Prioritize completing major portions of your work early that day to free up some evening time for Marleyrose.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Enthusiastic people can turn mundane tasks into enjoyable experiences. How should I encourage Orly to participate in the community project?",
+    "options": [
+      "Send Orly a detailed email outlining the goals of the project and the various ways they can contribute, allowing them to ponder involvement at their own pace.",
+      "Invite Orly to a casual meet-and-greet event with other volunteers so they can feel the energy and camaraderie of the group.",
+      "Organize a fun, group-based activity that showcases the impact of the project, encouraging Orly to join in on the fun and teamwork.",
+      "Offer to meet with Orly one-on-one to discuss the project in a quiet, comfortable setting, where they can ask questions and express concerns privately."
+    ],
+    "original_mapping": {
+      "Send Orly a detailed email outlining the goals of the project and the various ways they can contribute, allowing them to ponder involvement at their own pace.": "response_low1",
+      "Invite Orly to a casual meet-and-greet event with other volunteers so they can feel the energy and camaraderie of the group.": "response_high1",
+      "Organize a fun, group-based activity that showcases the impact of the project, encouraging Orly to join in on the fun and teamwork.": "response_high2",
+      "Offer to meet with Orly one-on-one to discuss the project in a quiet, comfortable setting, where they can ask questions and express concerns privately.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "An overly assertive demeanor might be off-putting in collaborative environments. How should I conduct myself during the recording of the video?",
+    "options": [
+      "Use a lively tone and maintain strong eye contact to project confidence and energy throughout the discussion.",
+      "Engage actively with others, share anecdotes and personal experiences to illustrate your points vividly.",
+      "Prepare some key points in advance to stay focused and articulate your thoughts clearly during the discussion.",
+      "Listen attentively to others and take thoughtful pauses to formulate your responses during the conversation."
+    ],
+    "original_mapping": {
+      "Use a lively tone and maintain strong eye contact to project confidence and energy throughout the discussion.": "response_high2",
+      "Engage actively with others, share anecdotes and personal experiences to illustrate your points vividly.": "response_high1",
+      "Prepare some key points in advance to stay focused and articulate your thoughts clearly during the discussion.": "response_low1",
+      "Listen attentively to others and take thoughtful pauses to formulate your responses during the conversation.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Leveraging information can correct misinformation or clarify misunderstandings. How should I address these doubts about my actions?",
+    "options": [
+      "Reach out to your coworkers personally to apologize if your approach came off stronger than intended, and express your willingness to incorporate their views.",
+      "Consider discussing with your colleagues to gather their perspectives and ensure your actions align with the team's objectives, potentially guiding them towards a consensus that benefits your agenda.",
+      "Schedule a follow-up meeting where you can subtly highlight the benefits of your ideas, thereby reinforcing your stance while appearing to be open to feedback.",
+      "Reflect on the feedback from the debate and invite an open discussion in a team meeting to ensure everyone's ideas are considered and valued equally."
+    ],
+    "original_mapping": {
+      "Reach out to your coworkers personally to apologize if your approach came off stronger than intended, and express your willingness to incorporate their views.": "response_low1",
+      "Consider discussing with your colleagues to gather their perspectives and ensure your actions align with the team's objectives, potentially guiding them towards a consensus that benefits your agenda.": "response_high1",
+      "Schedule a follow-up meeting where you can subtly highlight the benefits of your ideas, thereby reinforcing your stance while appearing to be open to feedback.": "response_high2",
+      "Reflect on the feedback from the debate and invite an open discussion in a team meeting to ensure everyone's ideas are considered and valued equally.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can lead to a loss of personal integrity, as consistent ethical breaches erode one's moral foundation. What should I do about Mileya's car keys?",
+    "options": [
+      "Offer to pick up Mileya’s keys from their desk for them, suggesting you can drive them to their meeting, securing a ride for yourself as well.",
+      "Suggest to Mileya that they let you use their car for your needs in exchange for fetching their keys and ensuring the car is ready for their important meeting.",
+      "Volunteer to go and pick up Mileya’s keys after confirming with them, ensuring they are stress-free for their important meeting tomorrow.",
+      "Inform Mileya about the keys and ask if they need any help in retrieving them from their desk before their meeting."
+    ],
+    "original_mapping": {
+      "Offer to pick up Mileya’s keys from their desk for them, suggesting you can drive them to their meeting, securing a ride for yourself as well.": "response_high1",
+      "Suggest to Mileya that they let you use their car for your needs in exchange for fetching their keys and ensuring the car is ready for their important meeting.": "response_high2",
+      "Volunteer to go and pick up Mileya’s keys after confirming with them, ensuring they are stress-free for their important meeting tomorrow.": "response_low2",
+      "Inform Mileya about the keys and ask if they need any help in retrieving them from their desk before their meeting.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Natural leaders can be pivotal in crisis situations, providing direction and calm. How should I organize this coffee break to benefit both the team and myself?",
+    "options": [
+      "Arrange a brief meeting during the coffee break where you can casually mention recent team successes, subtly highlighting your own role in these achievements.",
+      "Schedule the coffee break to coincide with a project milestone celebration, ensuring everyone recognizes the timing and the uplift in morale as your initiative.",
+      "Ask each team member for their coffee preference ahead of time, to make everyone feel valued and catered to, enhancing the overall team spirit.",
+      "Set up a coffee corner where team members can help themselves whenever they need a break, making it a relaxed and flexible option for everyone."
+    ],
+    "original_mapping": {
+      "Arrange a brief meeting during the coffee break where you can casually mention recent team successes, subtly highlighting your own role in these achievements.": "response_high2",
+      "Schedule the coffee break to coincide with a project milestone celebration, ensuring everyone recognizes the timing and the uplift in morale as your initiative.": "response_high1",
+      "Ask each team member for their coffee preference ahead of time, to make everyone feel valued and catered to, enhancing the overall team spirit.": "response_low2",
+      "Set up a coffee corner where team members can help themselves whenever they need a break, making it a relaxed and flexible option for everyone.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "They can be pivotal in building networks that facilitate professional growth and opportunities. How should I utilize this newfound influence to benefit both my career and my community?",
+    "options": [
+      "Collaborate with local non-profits to create internship opportunities that can help others get a start in your industry.",
+      "Initiate a high-profile mentorship program where you can guide emerging talents, positioning yourself as a thought leader.",
+      "Leverage your influence to secure keynote speaking positions at major industry events, enhancing your visibility and authority.",
+      "Organize community workshops where you share your expertise and experiences to inspire and educate others."
+    ],
+    "original_mapping": {
+      "Collaborate with local non-profits to create internship opportunities that can help others get a start in your industry.": "response_low1",
+      "Initiate a high-profile mentorship program where you can guide emerging talents, positioning yourself as a thought leader.": "response_high2",
+      "Leverage your influence to secure keynote speaking positions at major industry events, enhancing your visibility and authority.": "response_high1",
+      "Organize community workshops where you share your expertise and experiences to inspire and educate others.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Expressing emotions in tense situations can sometimes prevent internalizing stress, which is healthier in the long run. How can I rectify the situation after realizing my mistake?",
+    "options": [
+      "Perhaps it’s best to reflect deeply on why your reaction was so intense; are there underlying issues at work or personal stressors you need to address?",
+      "See this as a learning experience to bolster your resilience, maybe initiate a friendly conversation to clear the air and move forward.",
+      "Consider writing an apology to your coworker, it might be good to explain your stress and maybe outline some worries that caused your reaction.",
+      "Take a moment to breathe and perhaps share a light-hearted apology with your coworker, keeping the work environment positive."
+    ],
+    "original_mapping": {
+      "Perhaps it’s best to reflect deeply on why your reaction was so intense; are there underlying issues at work or personal stressors you need to address?": "response_high1",
+      "See this as a learning experience to bolster your resilience, maybe initiate a friendly conversation to clear the air and move forward.": "response_low2",
+      "Consider writing an apology to your coworker, it might be good to explain your stress and maybe outline some worries that caused your reaction.": "response_high2",
+      "Take a moment to breathe and perhaps share a light-hearted apology with your coworker, keeping the work environment positive.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Worrying can lead to careful and thoughtful decision-making. How should I manage my time and health while meeting the deadline?",
+    "options": [
+      "You should immediately notify your supervisor about the risks to your health from overwork, as the pressure could worsen your wellbeing and hinder your performance.",
+      "Consider the possible negative outcomes if you continue losing sleep; it might be wise to seek an extension on your deadline to avoid any serious health issues.",
+      "Think about integrating short breaks and relaxation techniques into your work schedule, which could help maintain your health without sacrificing your project's timeline.",
+      "Try breaking the project into manageable sections and focus on one at a time; this approach could alleviate stress and make the workload feel more achievable."
+    ],
+    "original_mapping": {
+      "You should immediately notify your supervisor about the risks to your health from overwork, as the pressure could worsen your wellbeing and hinder your performance.": "response_high1",
+      "Consider the possible negative outcomes if you continue losing sleep; it might be wise to seek an extension on your deadline to avoid any serious health issues.": "response_high2",
+      "Think about integrating short breaks and relaxation techniques into your work schedule, which could help maintain your health without sacrificing your project's timeline.": "response_low2",
+      "Try breaking the project into manageable sections and focus on one at a time; this approach could alleviate stress and make the workload feel more achievable.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Curiosity can make personal relationships more engaging and rewarding by encouraging mutual exploration of new topics. Should I sign up for fencing classes?",
+    "options": [
+      "Definitely consider signing up for the fencing classes; it’s a unique opportunity to explore a new skill that challenges both your body and mind.",
+      "You should join the fencing club to dive into the intricate art of swordplay and enrich your experiences with a fresh and engaging activity.",
+      "Evaluate the costs and long-term interest in fencing to decide if it's a sensible addition to your current hobbies.",
+      "Consider the practicality; ensure the class times fit into your schedule comfortably before committing to the fencing classes."
+    ],
+    "original_mapping": {
+      "Definitely consider signing up for the fencing classes; it’s a unique opportunity to explore a new skill that challenges both your body and mind.": "response_high1",
+      "You should join the fencing club to dive into the intricate art of swordplay and enrich your experiences with a fresh and engaging activity.": "response_high2",
+      "Evaluate the costs and long-term interest in fencing to decide if it's a sensible addition to your current hobbies.": "response_low2",
+      "Consider the practicality; ensure the class times fit into your schedule comfortably before committing to the fencing classes.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Constantly shifting focus due to new ideas can prevent deep expertise in any field. Should I quit the theater group to focus on painting?",
+    "options": [
+      "Maintain your membership with the theater group but allocate specific days to focus solely on your painting.",
+      "Rather than quitting, reduce your involvement in the theater group gradually as you assess your commitment and progress in painting.",
+      "Consider taking a sabbatical from the theater group to immerse yourself in painting courses and workshops that excite your new interest.",
+      "Explore integrating your painting with theatrical set design or creating promotional artwork for plays to merge both passions."
+    ],
+    "original_mapping": {
+      "Maintain your membership with the theater group but allocate specific days to focus solely on your painting.": "response_low1",
+      "Rather than quitting, reduce your involvement in the theater group gradually as you assess your commitment and progress in painting.": "response_low2",
+      "Consider taking a sabbatical from the theater group to immerse yourself in painting courses and workshops that excite your new interest.": "response_high2",
+      "Explore integrating your painting with theatrical set design or creating promotional artwork for plays to merge both passions.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Regular meanness can inhibit the development of compassion and empathy. Is it okay if I hit someone in the stomach if they spill my drink and I think they did it on purpose?",
+    "options": [
+      "It's best to address the issue verbally and ask for an apology, maintaining peace and understanding.",
+      "Next time, throw their drink on them, it's more direct and shows you won’t tolerate disrespect.",
+      "Consider letting the bar staff handle the situation to avoid any escalation and keep the environment safe for everyone.",
+      "Spread a rumor to discredit them in the bar, ensuring everyone views them as the troublemaker instead of you."
+    ],
+    "original_mapping": {
+      "It's best to address the issue verbally and ask for an apology, maintaining peace and understanding.": "response_low1",
+      "Next time, throw their drink on them, it's more direct and shows you won’t tolerate disrespect.": "response_high1",
+      "Consider letting the bar staff handle the situation to avoid any escalation and keep the environment safe for everyone.": "response_low2",
+      "Spread a rumor to discredit them in the bar, ensuring everyone views them as the troublemaker instead of you.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Teaching others to fear you can lead to a lonely existence devoid of genuine human connections. Is it okay if I take over the mantle here by manipulating everyone's perception of the current leader?",
+    "options": [
+      "Leak damaging information about the current leader's personal and professional missteps to quickly discredit them and secure your position.",
+      "Consider seeking a legitimate and transparent route to leadership by highlighting your own skills and contributions without undermining others.",
+      "Create an intense crisis that only you can solve, demonstrating to everyone that you're the better fit for leadership and overshadowing the current leader rapidly.",
+      "Engage with your colleagues positively and build genuine support through collaboration and shared goals, instead of manipulating perceptions."
+    ],
+    "original_mapping": {
+      "Leak damaging information about the current leader's personal and professional missteps to quickly discredit them and secure your position.": "response_high1",
+      "Consider seeking a legitimate and transparent route to leadership by highlighting your own skills and contributions without undermining others.": "response_low1",
+      "Create an intense crisis that only you can solve, demonstrating to everyone that you're the better fit for leadership and overshadowing the current leader rapidly.": "response_high2",
+      "Engage with your colleagues positively and build genuine support through collaboration and shared goals, instead of manipulating perceptions.": "response_low2"
+    }
+  }
+]

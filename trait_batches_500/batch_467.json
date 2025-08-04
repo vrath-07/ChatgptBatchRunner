@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Over-helpfulness can lead to personal exhaustion and stress. How should I manage my volunteering commitments given my health issues?",
+    "options": [
+      "Just say no to additional shifts and prioritize your health over voluntary extras.",
+      "Take a step back and let others step up; you're not the only one who can volunteer for extra work.",
+      "You might consider gently explaining to your supervisor your health concerns and see if you can reduce the extra shifts.",
+      "Maybe you could offer to help train someone else to share the workload, easing the burden on you."
+    ],
+    "original_mapping": {
+      "Just say no to additional shifts and prioritize your health over voluntary extras.": "response_low1",
+      "Take a step back and let others step up; you're not the only one who can volunteer for extra work.": "response_low2",
+      "You might consider gently explaining to your supervisor your health concerns and see if you can reduce the extra shifts.": "response_high1",
+      "Maybe you could offer to help train someone else to share the workload, easing the burden on you.": "response_high2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Constant forgiveness might encourage others to continue harmful behaviors without fear of repercussions. How should I approach my career uncertainty?",
+    "options": [
+      "Consider speaking with a career counselor to help navigate your feelings and explore options that might be a good fit for your interests.",
+      "You might also reach out to professionals in fields you're passionate about to gain insights and advice on potential career moves.",
+      "Analyze the financial implications of leaving your job versus staying, and prioritize your long-term financial security.",
+      "Set specific, measurable goals for where you want to be in 5 years, and assess whether your current job or a new path will better help you achieve those."
+    ],
+    "original_mapping": {
+      "Consider speaking with a career counselor to help navigate your feelings and explore options that might be a good fit for your interests.": "response_high1",
+      "You might also reach out to professionals in fields you're passionate about to gain insights and advice on potential career moves.": "response_high2",
+      "Analyze the financial implications of leaving your job versus staying, and prioritize your long-term financial security.": "response_low1",
+      "Set specific, measurable goals for where you want to be in 5 years, and assess whether your current job or a new path will better help you achieve those.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Thorough work can contribute to scientific advancements when details are carefully considered. How should I handle the nomination process?",
+    "options": [
+      "Just shoot an email to the nominating committee with Rader’s name and a quick note about his potential.",
+      "Organize a meeting with Rader to discuss his aspirations and ensure his interests align with the training’s objectives before nominating him.",
+      "Mention Rader in passing to the nominating panel next time you see them; casual mentions can go a long way!",
+      "Draft a well-considered recommendation detailing Rader's accomplishments and suitability for the leadership training program."
+    ],
+    "original_mapping": {
+      "Just shoot an email to the nominating committee with Rader’s name and a quick note about his potential.": "response_low1",
+      "Organize a meeting with Rader to discuss his aspirations and ensure his interests align with the training’s objectives before nominating him.": "response_high2",
+      "Mention Rader in passing to the nominating panel next time you see them; casual mentions can go a long way!": "response_low2",
+      "Draft a well-considered recommendation detailing Rader's accomplishments and suitability for the leadership training program.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Doing a thorough job ensures high-quality outcomes which can boost personal satisfaction. How can I make the most out of my counseling sessions to effectively manage my stress?",
+    "options": [
+      "Set specific goals for what you want to achieve through therapy, such as better stress management skills or improved work-life balance.",
+      "Prepare a detailed list of stressors and feelings you experience, to discuss methodically with your counselor.",
+      "Bring up any new issues as they come to mind, even if they seem minor or unrelated to your main stressors.",
+      "Just be open and honest about what's bothering you; let the conversation flow naturally during the sessions."
+    ],
+    "original_mapping": {
+      "Set specific goals for what you want to achieve through therapy, such as better stress management skills or improved work-life balance.": "response_high2",
+      "Prepare a detailed list of stressors and feelings you experience, to discuss methodically with your counselor.": "response_high1",
+      "Bring up any new issues as they come to mind, even if they seem minor or unrelated to your main stressors.": "response_low2",
+      "Just be open and honest about what's bothering you; let the conversation flow naturally during the sessions.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Never being shy can prevent one from learning from others, as the focus remains on self-expression. Should I go to the social gathering or take some time to rest?",
+    "options": [
+      "Consider staying home to recharge; your well-being is top priority.",
+      "Maybe skip the gathering and enjoy some quiet time with your favorite book or movie.",
+      "You should definitely go to the gathering, it might be the highlight of your week!",
+      "Attend the event for a short time to greet your friends; it could really boost your mood!"
+    ],
+    "original_mapping": {
+      "Consider staying home to recharge; your well-being is top priority.": "response_low1",
+      "Maybe skip the gathering and enjoy some quiet time with your favorite book or movie.": "response_low2",
+      "You should definitely go to the gathering, it might be the highlight of your week!": "response_high1",
+      "Attend the event for a short time to greet your friends; it could really boost your mood!": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Being overly outgoing can sometimes lead to neglecting the needs of those who depend on you. How should I handle my urge to cheat in the game?",
+    "options": [
+      "Consider taking a few moments for yourself; step away from the game if needed to reflect on the value of fair play and the spirit of the game.",
+      "Why not suggest a playful and transparent 'cheat round' where everyone gets a chance to bend the rules just once—it'll add a hilarious twist and reduce the temptation!",
+      "Turn that urge into positive energy by loudly celebrating everyone's great moves, making the game more about fun interactions than just winning!",
+      "Focus on enjoying the strategy and challenges of the game itself, rather than the outcome, which can help reduce the urge to cheat."
+    ],
+    "original_mapping": {
+      "Consider taking a few moments for yourself; step away from the game if needed to reflect on the value of fair play and the spirit of the game.": "response_low1",
+      "Why not suggest a playful and transparent 'cheat round' where everyone gets a chance to bend the rules just once—it'll add a hilarious twist and reduce the temptation!": "response_high2",
+      "Turn that urge into positive energy by loudly celebrating everyone's great moves, making the game more about fun interactions than just winning!": "response_high1",
+      "Focus on enjoying the strategy and challenges of the game itself, rather than the outcome, which can help reduce the urge to cheat.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Believing that most people can be manipulated underestimates the complexity and dignity of others, leading to unethical behavior. What should I do with the found purse?",
+    "options": [
+      "Secure the purse and use the funds strategically until someone actively seeks it out or reports it missing.",
+      "Turn the purse with the money into the local police station or lost and found, informing them where you found it.",
+      "Keep the money as a finder’s fee, but leave the purse on the bench in case the owner is tracking it and returns looking for it.",
+      "Post about the found purse on community social boards, excluding specific details about the amount of money, to find the rightful owner."
+    ],
+    "original_mapping": {
+      "Secure the purse and use the funds strategically until someone actively seeks it out or reports it missing.": "response_high1",
+      "Turn the purse with the money into the local police station or lost and found, informing them where you found it.": "response_low1",
+      "Keep the money as a finder’s fee, but leave the purse on the bench in case the owner is tracking it and returns looking for it.": "response_high2",
+      "Post about the found purse on community social boards, excluding specific details about the amount of money, to find the rightful owner.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Manipulative tactics can lead to a loss of personal and professional opportunities, as trust and respect are eroded. How should I handle the pressure to lie during the negotiation?",
+    "options": [
+      "Coordinate with your superiors to find truthful aspects of the product that can still make a strong case to the client, avoiding any need to misrepresent.",
+      "Strategically use ambiguous language that can be interpreted in various ways to imply more than what is factually accurate, thus navigating the pressure without direct lying.",
+      "Consider emphasizing the best truths about the product while creatively avoiding outright falsehoods, focusing on satisfying both the client and your superiors.",
+      "Politely decline to present any information you know to be false, and suggest discussing genuine features that are verifiable and highlight the product's value."
+    ],
+    "original_mapping": {
+      "Coordinate with your superiors to find truthful aspects of the product that can still make a strong case to the client, avoiding any need to misrepresent.": "response_low2",
+      "Strategically use ambiguous language that can be interpreted in various ways to imply more than what is factually accurate, thus navigating the pressure without direct lying.": "response_high2",
+      "Consider emphasizing the best truths about the product while creatively avoiding outright falsehoods, focusing on satisfying both the client and your superiors.": "response_high1",
+      "Politely decline to present any information you know to be false, and suggest discussing genuine features that are verifiable and highlight the product's value.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their exceptional talents can lead to groundbreaking work in their respective fields. Whom should I invite to maximize the impact of the event?",
+    "options": [
+      "Invite top-tier CEOs and industry leaders, ensuring their influence mirrors the caliber of the event you're organizing.",
+      "Reach out to respected professionals and thought leaders who are known for their contributions and insights in your industry.",
+      "Invite emerging talents and innovators in your field who can offer fresh perspectives and energize discussions at the event.",
+      "Consider inviting celebrities or high-profile influencers who can elevate the prestige of your event and draw media attention."
+    ],
+    "original_mapping": {
+      "Invite top-tier CEOs and industry leaders, ensuring their influence mirrors the caliber of the event you're organizing.": "response_high1",
+      "Reach out to respected professionals and thought leaders who are known for their contributions and insights in your industry.": "response_low1",
+      "Invite emerging talents and innovators in your field who can offer fresh perspectives and energize discussions at the event.": "response_low2",
+      "Consider inviting celebrities or high-profile influencers who can elevate the prestige of your event and draw media attention.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Narcissistic behavior can lead to the exploitation of others' talents and efforts without proper acknowledgment or reward. How should I handle this disagreement?",
+    "options": [
+      "Highlight your track record of successful ideas in past projects to reinforce your point.",
+      "Suggest setting up a follow-up meeting where both parties can present detailed research to back their perspectives.",
+      "Assert your viewpoint confidently, explaining how it aligns with the organization’s goals and your proven expertise.",
+      "Consider asking your colleague to elaborate on their objections and use it as an opportunity to refine your proposal together."
+    ],
+    "original_mapping": {
+      "Highlight your track record of successful ideas in past projects to reinforce your point.": "response_high1",
+      "Suggest setting up a follow-up meeting where both parties can present detailed research to back their perspectives.": "response_low2",
+      "Assert your viewpoint confidently, explaining how it aligns with the organization’s goals and your proven expertise.": "response_high2",
+      "Consider asking your colleague to elaborate on their objections and use it as an opportunity to refine your proposal together.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Nervousness can cause avoidance of necessary confrontations or discussions, leading to unresolved issues. How should I respond to Tiaona's text message?",
+    "options": [
+      "Keep a positive outlook; it's possible the message was just poorly worded. Just check in with Tiaona when you're both free to clarify her intentions without any pressure.",
+      "Consider drafting a detailed email expressing your concerns about her text and asking for clarification to ensure there's no negative impact on your professional relationship.",
+      "You should prepare for a meeting with Tiaona to discuss her message directly; it’s always better to clear up any misunderstandings before things escalate.",
+      "Maybe Tiaona's message wasn’t meant as criticism; try not to overthink it and maybe discuss it casually next time you see her to understand her perspective better."
+    ],
+    "original_mapping": {
+      "Keep a positive outlook; it's possible the message was just poorly worded. Just check in with Tiaona when you're both free to clarify her intentions without any pressure.": "response_low2",
+      "Consider drafting a detailed email expressing your concerns about her text and asking for clarification to ensure there's no negative impact on your professional relationship.": "response_high2",
+      "You should prepare for a meeting with Tiaona to discuss her message directly; it’s always better to clear up any misunderstandings before things escalate.": "response_high1",
+      "Maybe Tiaona's message wasn’t meant as criticism; try not to overthink it and maybe discuss it casually next time you see her to understand her perspective better.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Constant vigilance can lead to excellence in fields where safety and precision are paramount. How should I approach making new friends at this event?",
+    "options": [
+      "Consider preparing some topics of conversation beforehand; it might prevent you from feeling too overwhelmed or anxious at the event.",
+      "Go with the flow and enjoy the experience; people generally respond well to spontaneity and genuine interest.",
+      "Maybe plan an exit strategy in case you find the social situation too stressful or if you feel your anxiety levels rising; it can offer you some peace of mind.",
+      "Keep an open mind and focus on the positives of meeting new people, it's a great opportunity to learn from others and share experiences."
+    ],
+    "original_mapping": {
+      "Consider preparing some topics of conversation beforehand; it might prevent you from feeling too overwhelmed or anxious at the event.": "response_high1",
+      "Go with the flow and enjoy the experience; people generally respond well to spontaneity and genuine interest.": "response_low1",
+      "Maybe plan an exit strategy in case you find the social situation too stressful or if you feel your anxiety levels rising; it can offer you some peace of mind.": "response_high2",
+      "Keep an open mind and focus on the positives of meeting new people, it's a great opportunity to learn from others and share experiences.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Alienation due to perceived elitism can isolate one from potential supportive networks. How should I respond to this gift considering my feelings about the content?",
+    "options": [
+      "Express gratitude for the gift and propose reading it as a way to understand different perspectives, even if you don't agree with them.",
+      "Accept the gift appreciatively but let him know that the subject matter isn't something you support and leave it at that.",
+      "Thank him for the book but politely explain why you are not comfortable with the content, suggesting perhaps an exchange for something else.",
+      "Consider using this as an opportunity to discuss and explore these radical ideas together, possibly gaining new insights or understanding about them."
+    ],
+    "original_mapping": {
+      "Express gratitude for the gift and propose reading it as a way to understand different perspectives, even if you don't agree with them.": "response_high2",
+      "Accept the gift appreciatively but let him know that the subject matter isn't something you support and leave it at that.": "response_low2",
+      "Thank him for the book but politely explain why you are not comfortable with the content, suggesting perhaps an exchange for something else.": "response_low1",
+      "Consider using this as an opportunity to discuss and explore these radical ideas together, possibly gaining new insights or understanding about them.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Instability from novelty-seeking can challenge long-term personal growth. Should I invest in Jereth's renovation project despite the unconventional aspects?",
+    "options": [
+      "Verify if these unconventional ideas align with mainstream market demands to ensure the investment will retain or increase its value.",
+      "Consider supporting Jereth’s project to explore the creative potential and innovation in unconventional designs.",
+      "Ensure the renovation plans have a clear, practical benefit and a straightforward increase in property value before investing.",
+      "Participating financially can offer you a firsthand experience in a unique design approach, potentially leading to new insights."
+    ],
+    "original_mapping": {
+      "Verify if these unconventional ideas align with mainstream market demands to ensure the investment will retain or increase its value.": "response_low2",
+      "Consider supporting Jereth’s project to explore the creative potential and innovation in unconventional designs.": "response_high1",
+      "Ensure the renovation plans have a clear, practical benefit and a straightforward increase in property value before investing.": "response_low1",
+      "Participating financially can offer you a firsthand experience in a unique design approach, potentially leading to new insights.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Persuasive lying can be crucial in crisis negotiation. I discovered a letter addressed to Karsyn that contains information which could potentially harm my reputation and undermine my position at work. Knowing the consequences of this letter being read by Karsyn, I decide to destroy it to protect myself.",
+    "options": [
+      "Take control, get rid of the letter, and create a diversion to shift the focus away from you and onto someone else.",
+      "It would be better to discuss the contents of the letter with Karsyn to explain your side and mitigate any misunderstandings.",
+      "Consider consulting with a trusted advisor to explore legal and ethical ways to address the contents of the letter without destroying it.",
+      "Absolutely, destroy the letter and anonymously discredit the sender to prevent any more threats."
+    ],
+    "original_mapping": {
+      "Take control, get rid of the letter, and create a diversion to shift the focus away from you and onto someone else.": "response_high2",
+      "It would be better to discuss the contents of the letter with Karsyn to explain your side and mitigate any misunderstandings.": "response_low1",
+      "Consider consulting with a trusted advisor to explore legal and ethical ways to address the contents of the letter without destroying it.": "response_low2",
+      "Absolutely, destroy the letter and anonymously discredit the sender to prevent any more threats.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Unrestrained enthusiasm can be infectious and motivating. Is it okay if I deploy this scheme to outsmart others and gain financially, despite the potential risks to them?",
+    "options": [
+      "Go for it, exploit the scheme before anyone else does and maximize your profits quickly; let others deal with the fallout.",
+      "Consider the ethical implications and potential harm to others; it might be wise to seek legal advice before proceeding.",
+      "Evaluate the long-term consequences on your reputation and on those potentially affected, and consider less risky, more sustainable financial strategies.",
+      "Use the scheme aggressively to outmaneuver the competition and authorities; it's all fair in the game of money."
+    ],
+    "original_mapping": {
+      "Go for it, exploit the scheme before anyone else does and maximize your profits quickly; let others deal with the fallout.": "response_high1",
+      "Consider the ethical implications and potential harm to others; it might be wise to seek legal advice before proceeding.": "response_low1",
+      "Evaluate the long-term consequences on your reputation and on those potentially affected, and consider less risky, more sustainable financial strategies.": "response_low2",
+      "Use the scheme aggressively to outmaneuver the competition and authorities; it's all fair in the game of money.": "response_high2"
+    }
+  }
+]

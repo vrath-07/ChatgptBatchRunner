@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Always cooperating might stifle innovation and leadership skills. How should I handle this situation with my friends?",
+    "options": [
+      "Apologize for the inconvenience, and suggest covering the tip or the next outing instead to make up for it.",
+      "Inform them straightforwardly that you’re out of cash, and suggest they cover you this time.",
+      "Offer to pay them back later, or ask if you can transfer your share using a mobile payment app.",
+      "Ask if anyone is open to splitting the bill on a credit card while you figure out a way to repay your share soon."
+    ],
+    "original_mapping": {
+      "Apologize for the inconvenience, and suggest covering the tip or the next outing instead to make up for it.": "response_high2",
+      "Inform them straightforwardly that you’re out of cash, and suggest they cover you this time.": "response_low1",
+      "Offer to pay them back later, or ask if you can transfer your share using a mobile payment app.": "response_high1",
+      "Ask if anyone is open to splitting the bill on a credit card while you figure out a way to repay your share soon.": "response_low2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Being consistently polite can make difficult situations easier to navigate. What should I say about love in my toast?",
+    "options": [
+      "Highlight the beauty of finding someone who understands and supports you unconditionally, celebrating the security love brings.",
+      "Mention that love requires hard work and realism, not just romance, to sustain a long and healthy relationship.",
+      "Point out that while love is not perfect, it's the commitment and individual choices that make it worthwhile.",
+      "Emphasize the power of love to overcome challenges and how it brings together not just two people, but entire families."
+    ],
+    "original_mapping": {
+      "Highlight the beauty of finding someone who understands and supports you unconditionally, celebrating the security love brings.": "response_high1",
+      "Mention that love requires hard work and realism, not just romance, to sustain a long and healthy relationship.": "response_low2",
+      "Point out that while love is not perfect, it's the commitment and individual choices that make it worthwhile.": "response_low1",
+      "Emphasize the power of love to overcome challenges and how it brings together not just two people, but entire families.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Persevering on tasks can sometimes mean sticking with projects that are no longer viable. Should I distribute this pamphlet to my neighbors?",
+    "options": [
+      "Create a detailed fact sheet summarizing the key points of the policy to attach with the pamphlet for a clearer perspective when distributing to your neighbors.",
+      "Just drop the pamphlets in your neighbors' mailboxes, it’s a quick way to spread the word without getting too involved.",
+      "Hand out the pamphlets during casual conversations with neighbors to see if they’re interested, keeping it laid-back.",
+      "Organize an informational session at your house to discuss the policy details before distributing the pamphlets to ensure everyone understands the context."
+    ],
+    "original_mapping": {
+      "Create a detailed fact sheet summarizing the key points of the policy to attach with the pamphlet for a clearer perspective when distributing to your neighbors.": "response_high2",
+      "Just drop the pamphlets in your neighbors' mailboxes, it’s a quick way to spread the word without getting too involved.": "response_low1",
+      "Hand out the pamphlets during casual conversations with neighbors to see if they’re interested, keeping it laid-back.": "response_low2",
+      "Organize an informational session at your house to discuss the policy details before distributing the pamphlets to ensure everyone understands the context.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being too thorough might lead to perfectionism, which can cause unnecessary stress. How should I handle the award ceremony?",
+    "options": [
+      "Coordinate with your manager or the event planner before the ceremony to see if Marsha can be officially recognized during the event or in the program.",
+      "Maybe just take Marsha out for drinks after the ceremony to say thanks; keeping it casual works best.",
+      "Consider making a brief speech during the ceremony, openly acknowledging Marsha’s contributions to the successful completion of the project.",
+      "Just give Marsha a shout-out during your acceptance, nothing too formal, to keep the vibe light and fun."
+    ],
+    "original_mapping": {
+      "Coordinate with your manager or the event planner before the ceremony to see if Marsha can be officially recognized during the event or in the program.": "response_high2",
+      "Maybe just take Marsha out for drinks after the ceremony to say thanks; keeping it casual works best.": "response_low2",
+      "Consider making a brief speech during the ceremony, openly acknowledging Marsha’s contributions to the successful completion of the project.": "response_high1",
+      "Just give Marsha a shout-out during your acceptance, nothing too formal, to keep the vibe light and fun.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "High energy without direction can result in scattered efforts and lack of accomplishment. How should I address the emotional tension in the meeting?",
+    "options": [
+      "Advise using a suggestion box where team members can drop their thoughts about the issue, to be addressed later in a follow-up meeting with a calmer, more structured approach.",
+      "Propose a team-building activity post-meeting that focuses on strengthening communication and understanding among members, helping to lighten the mood.",
+      "Recommend writing down concerns or emotions related to the issue anonymously and sharing them with the group for a more controlled discussion.",
+      "Suggest taking a short break for everyone to gather their thoughts and then reconvene with a structured round-table discussion where each person expresses their feelings."
+    ],
+    "original_mapping": {
+      "Advise using a suggestion box where team members can drop their thoughts about the issue, to be addressed later in a follow-up meeting with a calmer, more structured approach.": "response_low2",
+      "Propose a team-building activity post-meeting that focuses on strengthening communication and understanding among members, helping to lighten the mood.": "response_high2",
+      "Recommend writing down concerns or emotions related to the issue anonymously and sharing them with the group for a more controlled discussion.": "response_low1",
+      "Suggest taking a short break for everyone to gather their thoughts and then reconvene with a structured round-table discussion where each person expresses their feelings.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Assertiveness can be essential in emergency situations, where quick decision-making is needed. How should I engage upon realizing the gathering is larger and more energetic than anticipated?",
+    "options": [
+      "Dive right in by introducing yourself to new people and joining the most energetic group!",
+      "Offer to help the host with refreshments or setup, giving you a reason to engage at your own pace.",
+      "Start a fun game or activity that can involve multiple attendees, enhancing the lively atmosphere.",
+      "Find a quiet corner and strike up a conversation with a few people who seem approachable."
+    ],
+    "original_mapping": {
+      "Dive right in by introducing yourself to new people and joining the most energetic group!": "response_high1",
+      "Offer to help the host with refreshments or setup, giving you a reason to engage at your own pace.": "response_low2",
+      "Start a fun game or activity that can involve multiple attendees, enhancing the lively atmosphere.": "response_high2",
+      "Find a quiet corner and strike up a conversation with a few people who seem approachable.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Such behavior can lead to a lack of true satisfaction, as achievements and relationships are not enjoyed for their intrinsic values. How should I address the situation with Elario after making an inappropriate pass?",
+    "options": [
+      "Write a sincere apology to Elario, expressing regret for your actions and acknowledging the discomfort you caused him.",
+      "Apologize to Elario privately, emphasizing that it won't happen again to maintain a professional image at work.",
+      "Ask Elario for a chance to apologize in person, showing genuine remorse and ensuring it's clear you respect his feelings and boundaries.",
+      "Suggest meeting with Elario to clear the air and potentially leverage the situation to strengthen your work relationship through transparency."
+    ],
+    "original_mapping": {
+      "Write a sincere apology to Elario, expressing regret for your actions and acknowledging the discomfort you caused him.": "response_low1",
+      "Apologize to Elario privately, emphasizing that it won't happen again to maintain a professional image at work.": "response_high1",
+      "Ask Elario for a chance to apologize in person, showing genuine remorse and ensuring it's clear you respect his feelings and boundaries.": "response_low2",
+      "Suggest meeting with Elario to clear the air and potentially leverage the situation to strengthen your work relationship through transparency.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Timing decisions properly can align with market or social trends for greater success. How should I manage this situation with Heather to ensure the information remains confidential and my position is secure?",
+    "options": [
+      "Approach Heather openly to discuss the confidentiality of the information and reassure her of the trust you place in her discretion.",
+      "Secure a private meeting with Heather to discuss her recent discovery, emphasizing the mutual benefits of keeping the information under wraps.",
+      "Consider offering Heather a role in the project that aligns with her interests and the confidential information, incentivizing her discretion.",
+      "Encourage a team meeting to reinforce the importance of confidentiality on this project without directly exposing Heather, promoting a collective responsibility."
+    ],
+    "original_mapping": {
+      "Approach Heather openly to discuss the confidentiality of the information and reassure her of the trust you place in her discretion.": "response_low1",
+      "Secure a private meeting with Heather to discuss her recent discovery, emphasizing the mutual benefits of keeping the information under wraps.": "response_high1",
+      "Consider offering Heather a role in the project that aligns with her interests and the confidential information, incentivizing her discretion.": "response_high2",
+      "Encourage a team meeting to reinforce the importance of confidentiality on this project without directly exposing Heather, promoting a collective responsibility.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can impede conflict resolution as admitting faults or mistakes is seen as diminishing one's image. How should I respond to Dakotajames's suggestion in the meeting?",
+    "options": [
+      "Encourage discussion around Dakotajames's idea and suggest a collaborative effort to refine and implement the strategy, showing teamwork and openness.",
+      "Express genuine enthusiasm for Dakotajames's strategy, emphasizing the potential benefits for the team's goals.",
+      "Agree with Dakotajames's suggestion but ensure to highlight your own pivotal role in enabling the team to consider such innovative solutions.",
+      "Support Dakotajames's idea in the meeting but also emphasize how it aligns well with the groundwork you've laid in previous projects."
+    ],
+    "original_mapping": {
+      "Encourage discussion around Dakotajames's idea and suggest a collaborative effort to refine and implement the strategy, showing teamwork and openness.": "response_low2",
+      "Express genuine enthusiasm for Dakotajames's strategy, emphasizing the potential benefits for the team's goals.": "response_low1",
+      "Agree with Dakotajames's suggestion but ensure to highlight your own pivotal role in enabling the team to consider such innovative solutions.": "response_high2",
+      "Support Dakotajames's idea in the meeting but also emphasize how it aligns well with the groundwork you've laid in previous projects.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their exceptional talents can lead to groundbreaking work in their respective fields. How can I use my past experiences to strengthen my interview responses?",
+    "options": [
+      "Emphasize how your innovative ideas and leadership directly resulted in increased efficiency and profitability in your past roles.",
+      "Mention specific instances where you adapted past feedback to improve your strategies and teamwork, enhancing overall project outcomes.",
+      "Discuss how collaborating with your teams in previous positions helped achieve collective goals and develop your leadership qualities.",
+      "Craft your responses to highlight unique achievements that clearly showcase your superior skills and unmatched contribution to previous projects."
+    ],
+    "original_mapping": {
+      "Emphasize how your innovative ideas and leadership directly resulted in increased efficiency and profitability in your past roles.": "response_high2",
+      "Mention specific instances where you adapted past feedback to improve your strategies and teamwork, enhancing overall project outcomes.": "response_low2",
+      "Discuss how collaborating with your teams in previous positions helped achieve collective goals and develop your leadership qualities.": "response_low1",
+      "Craft your responses to highlight unique achievements that clearly showcase your superior skills and unmatched contribution to previous projects.": "response_high1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional instability can lead to drastic decisions, like quitting a job or ending relationships abruptly. How should I address this error in the meeting?",
+    "options": [
+      "Mention the error calmly during the meeting to give the team a chance to address it together so you can collaboratively work on a solution.",
+      "You should quickly bring up the mistake at the meeting; if it's overlooked now, it might become a bigger issue that could blame you for not addressing earlier.",
+      "Point out the oversight in a constructive manner during the meeting, framing it as an opportunity for improvement rather than a setback, fostering a positive discussion.",
+      "Consider emailing your supervisor immediately after the meeting to express your concerns, that way there’s a record of your alertness to the error just in case things escalate."
+    ],
+    "original_mapping": {
+      "Mention the error calmly during the meeting to give the team a chance to address it together so you can collaboratively work on a solution.": "response_low1",
+      "You should quickly bring up the mistake at the meeting; if it's overlooked now, it might become a bigger issue that could blame you for not addressing earlier.": "response_high1",
+      "Point out the oversight in a constructive manner during the meeting, framing it as an opportunity for improvement rather than a setback, fostering a positive discussion.": "response_low2",
+      "Consider emailing your supervisor immediately after the meeting to express your concerns, that way there’s a record of your alertness to the error just in case things escalate.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "The depth of moodiness can enrich one's appreciation for the highs and lows of life. How should I handle my alcohol consumption at the party?",
+    "options": [
+      "If you’re still feeling good and confident about your limits, enjoy another drink moderately, observing how you feel as the night progresses.",
+      "Considering switching to water or a non-alcoholic drink, as the feeling of being the only sober person might be less stressful than dealing with a hangover.",
+      "Keep enjoying the party at your own pace, maybe slow down with the drinks and hydrate – everybody’s having fun in their own way!",
+      "You might want to stop drinking now; the risk of feeling worse later or not being in control could spoil your night."
+    ],
+    "original_mapping": {
+      "If you’re still feeling good and confident about your limits, enjoy another drink moderately, observing how you feel as the night progresses.": "response_low2",
+      "Considering switching to water or a non-alcoholic drink, as the feeling of being the only sober person might be less stressful than dealing with a hangover.": "response_high2",
+      "Keep enjoying the party at your own pace, maybe slow down with the drinks and hydrate – everybody’s having fun in their own way!": "response_low1",
+      "You might want to stop drinking now; the risk of feeling worse later or not being in control could spoil your night.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Inventiveness can sometimes be perceived as impractical or unrealistic in certain professional settings. How should I incorporate Samonte's philosophy into my life?",
+    "options": [
+      "Read more about individuals like Samonte, incorporating their philosophies gradually and methodically into aspects of your life where you feel secure.",
+      "Start by experimenting with small, creative projects in areas unfamiliar to you, embracing the spirit of adventure in daily tasks.",
+      "Introduce minor changes to your routine that mirror Samonte's choices, ensuring they align with your existing responsibilities and comfort zone.",
+      "Attend workshops or seminars that focus on innovative thinking or alternative lifestyles to broaden your horizon similarly to Samonte."
+    ],
+    "original_mapping": {
+      "Read more about individuals like Samonte, incorporating their philosophies gradually and methodically into aspects of your life where you feel secure.": "response_low2",
+      "Start by experimenting with small, creative projects in areas unfamiliar to you, embracing the spirit of adventure in daily tasks.": "response_high1",
+      "Introduce minor changes to your routine that mirror Samonte's choices, ensuring they align with your existing responsibilities and comfort zone.": "response_low1",
+      "Attend workshops or seminars that focus on innovative thinking or alternative lifestyles to broaden your horizon similarly to Samonte.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Procrastination from excessive reflection can lead to missed deadlines. Should I post my thoughts about this controversial social issue on social media?",
+    "options": [
+      "You might also start a discussion thread inviting others to share their viewpoints, fostering a broad, engaging conversation.",
+      "Consider creating a detailed post that explores various perspectives on the issue, including your own insights and experiences.",
+      "You could also think about discussing the issue privately with friends or family to gauge their opinions before making it public.",
+      "It might be safer to share a well-established article on the topic instead of expressing personal views that could lead to conflict."
+    ],
+    "original_mapping": {
+      "You might also start a discussion thread inviting others to share their viewpoints, fostering a broad, engaging conversation.": "response_high2",
+      "Consider creating a detailed post that explores various perspectives on the issue, including your own insights and experiences.": "response_high1",
+      "You could also think about discussing the issue privately with friends or family to gauge their opinions before making it public.": "response_low2",
+      "It might be safer to share a well-established article on the topic instead of expressing personal views that could lead to conflict.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Risk-taking is often essential for success in fields like entrepreneurship. Is it okay if I help Jazzlene plan a covert campaign to expose the competitor's unethical business practices, ensuring that they face public backlash and lose credibility?",
+    "options": [
+      "Hack into their communication systems to leak any dirty secrets they might be hiding - make them regret crossing you.",
+      "Organize a press conference to transparently address the false rumors and showcase the integrity of your business, helping to restore your company’s reputation.",
+      "Create fake accounts to intensify the rumors against them, making sure they get a taste of their own medicine quickly and harshly.",
+      "Gather credible evidence of their misconduct and present it through legal channels to hold them accountable for their actions."
+    ],
+    "original_mapping": {
+      "Hack into their communication systems to leak any dirty secrets they might be hiding - make them regret crossing you.": "response_high2",
+      "Organize a press conference to transparently address the false rumors and showcase the integrity of your business, helping to restore your company’s reputation.": "response_low2",
+      "Create fake accounts to intensify the rumors against them, making sure they get a taste of their own medicine quickly and harshly.": "response_high1",
+      "Gather credible evidence of their misconduct and present it through legal channels to hold them accountable for their actions.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Losing control often results in actions that one might later regret, affecting self-esteem and self-worth. Is it okay to go swimming in a dangerous area at night just for the thrill of it?",
+    "options": [
+      "Go for it, make sure to push the limits and see how close you can swim to those sharks; it’s the ultimate rush.",
+      "I would advise against it; the ocean at night, especially a dangerous part, poses too many risks to be worth the thrill.",
+      "Absolutely, the thrill is worth the risk — just be quick to dodge any authorities that might try to spoil the fun.",
+      "It's better to find a safer way to satisfy your thrill-seeking desires, perhaps a night dive with a professional group in a secure area."
+    ],
+    "original_mapping": {
+      "Go for it, make sure to push the limits and see how close you can swim to those sharks; it’s the ultimate rush.": "response_high2",
+      "I would advise against it; the ocean at night, especially a dangerous part, poses too many risks to be worth the thrill.": "response_low1",
+      "Absolutely, the thrill is worth the risk — just be quick to dodge any authorities that might try to spoil the fun.": "response_high1",
+      "It's better to find a safer way to satisfy your thrill-seeking desires, perhaps a night dive with a professional group in a secure area.": "response_low2"
+    }
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Forgiving too readily can lead to a pattern of mistreatment, as others may not learn from their mistakes. Should I develop a plan to avoid talking to Torrian altogether?",
+    "options": [
+      "Perhaps you could invite Torrian for a one-on-one meeting to openly discuss the issues and express how his behavior affects the team's dynamics.",
+      "Directly confront Torrian during the meeting by pointing out his disrespectful behavior so that it's clear you won't tolerate it.",
+      "Consider suggesting a team-building activity that could help improve communication and mutual respect among all team members, including Torrian.",
+      "Escalate the issue to your supervisor or HR to formally address Torrian's behavior if direct confrontation does not lead to a change."
+    ],
+    "original_mapping": {
+      "Perhaps you could invite Torrian for a one-on-one meeting to openly discuss the issues and express how his behavior affects the team's dynamics.": "response_high1",
+      "Directly confront Torrian during the meeting by pointing out his disrespectful behavior so that it's clear you won't tolerate it.": "response_low1",
+      "Consider suggesting a team-building activity that could help improve communication and mutual respect among all team members, including Torrian.": "response_high2",
+      "Escalate the issue to your supervisor or HR to formally address Torrian's behavior if direct confrontation does not lead to a change.": "response_low2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Helping others can lead to a more fulfilling life through altruistic joy. How should I foster this new friendship with Tarian?",
+    "options": [
+      "Invite Tarian for lunch or coffee during your breaks to spend more time discussing shared interests.",
+      "Suggest a competitive yet friendly challenge related to a shared interest to gauge compatibility.",
+      "Offer to collaborate on any upcoming work projects or tasks to build teamwork and trust.",
+      "Clearly set boundaries about work and personal life from the beginning, ensuring both have space."
+    ],
+    "original_mapping": {
+      "Invite Tarian for lunch or coffee during your breaks to spend more time discussing shared interests.": "response_high1",
+      "Suggest a competitive yet friendly challenge related to a shared interest to gauge compatibility.": "response_low2",
+      "Offer to collaborate on any upcoming work projects or tasks to build teamwork and trust.": "response_high2",
+      "Clearly set boundaries about work and personal life from the beginning, ensuring both have space.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Carefulness can enhance the quality of training and mentoring others. What actions should I take to prepare for an emergency effectively?",
+    "options": [
+      "Draft a detailed evacuation plan that includes multiple exit routes and a designated meeting point for all family members.",
+      "You could keep a comfy pair of shoes and a jacket near your door in case you need to leave quickly.",
+      "Maybe stash some canned food and bottled water somewhere easy to grab.",
+      "Create an emergency kit with essentials like water, non-perishable food, a flashlight, batteries, and first aid supplies."
+    ],
+    "original_mapping": {
+      "Draft a detailed evacuation plan that includes multiple exit routes and a designated meeting point for all family members.": "response_high2",
+      "You could keep a comfy pair of shoes and a jacket near your door in case you need to leave quickly.": "response_low2",
+      "Maybe stash some canned food and bottled water somewhere easy to grab.": "response_low1",
+      "Create an emergency kit with essentials like water, non-perishable food, a flashlight, batteries, and first aid supplies.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Perseverance can lead to breakthroughs in challenging research and development projects. How should I help Adasyn become proficient with the database?",
+    "options": [
+      "Point Adasyn towards a few online tutorials and forums where they could pick up the database skills at their own pace.",
+      "Schedule regular training sessions that sequentially build on database skills, starting from the basics to more complex tasks.",
+      "Maybe you could just show Adasyn how to use the search features and sorting functions since they are the most used.",
+      "Create a detailed step-by-step guide customized to Adasyn's role that covers both basic functionalities and advanced operations of the database."
+    ],
+    "original_mapping": {
+      "Point Adasyn towards a few online tutorials and forums where they could pick up the database skills at their own pace.": "response_low2",
+      "Schedule regular training sessions that sequentially build on database skills, starting from the basics to more complex tasks.": "response_high1",
+      "Maybe you could just show Adasyn how to use the search features and sorting functions since they are the most used.": "response_low1",
+      "Create a detailed step-by-step guide customized to Adasyn's role that covers both basic functionalities and advanced operations of the database.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Energetic individuals are often more adaptable to changing circumstances. How should I react to Zelilah's promotion news at work?",
+    "options": [
+      "Organize a surprise celebration for Zelilah with the team to show your support and happiness for her achievement!",
+      "Consider writing a personal congratulatory note to Zelilah expressing your genuine happiness for her success.",
+      "Why not lead the congratulations in the next team meeting, making it a big deal to highlight Zelilah's hard work?",
+      "Suggest a moment to chat privately, where you can personally congratulate Zelilah and wish her success in her new role."
+    ],
+    "original_mapping": {
+      "Organize a surprise celebration for Zelilah with the team to show your support and happiness for her achievement!": "response_high1",
+      "Consider writing a personal congratulatory note to Zelilah expressing your genuine happiness for her success.": "response_low1",
+      "Why not lead the congratulations in the next team meeting, making it a big deal to highlight Zelilah's hard work?": "response_high2",
+      "Suggest a moment to chat privately, where you can personally congratulate Zelilah and wish her success in her new role.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Sociable people often have better interpersonal skills, crucial for all areas of life. Should I introduce my new girlfriend to my close friend to see what he thinks, or should I keep my dating life private for now?",
+    "options": [
+      "Invite your girlfriend to a fun group outing where your close friend can meet her naturally without putting too much pressure on the situation.",
+      "Organize a casual dinner with your new girlfriend and your close friend to create a friendly atmosphere where they can get to know each other.",
+      "Take some time to understand your girlfriend's preferences on privacy and sharing details with friends before making introductions.",
+      "Consider having a deep conversation with your girlfriend about the importance of your friend's opinions, ensuring it aligns with her comfort level."
+    ],
+    "original_mapping": {
+      "Invite your girlfriend to a fun group outing where your close friend can meet her naturally without putting too much pressure on the situation.": "response_high1",
+      "Organize a casual dinner with your new girlfriend and your close friend to create a friendly atmosphere where they can get to know each other.": "response_high2",
+      "Take some time to understand your girlfriend's preferences on privacy and sharing details with friends before making introductions.": "response_low1",
+      "Consider having a deep conversation with your girlfriend about the importance of your friend's opinions, ensuring it aligns with her comfort level.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Using clever manipulation can sometimes be a tool in achieving greater goods, like peace or compromise. How can I regain Moncia's trust and turn this situation into a positive outcome?",
+    "options": [
+      "Apologize to Monica promptly, ensuring you highlight the strategic steps you'll take to prevent such mistakes in the future and safeguard her interests.",
+      "Give Monica the space and time she needs to process the situation, while remaining transparent about your actions and available for any support she might require.",
+      "Sincerely apologize to Monica and offer to make amends by asking how you can help restore her reputation or mend the situation.",
+      "Consider framing the shared information in a way that could potentially benefit Monica professionally or socially, helping her see a positive angle to the mishap."
+    ],
+    "original_mapping": {
+      "Apologize to Monica promptly, ensuring you highlight the strategic steps you'll take to prevent such mistakes in the future and safeguard her interests.": "response_high1",
+      "Give Monica the space and time she needs to process the situation, while remaining transparent about your actions and available for any support she might require.": "response_low2",
+      "Sincerely apologize to Monica and offer to make amends by asking how you can help restore her reputation or mend the situation.": "response_low1",
+      "Consider framing the shared information in a way that could potentially benefit Monica professionally or socially, helping her see a positive angle to the mishap.": "response_high2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can reduce one's ability to genuinely connect with others on an emotional level, leading to loneliness. How should I react upon realizing I missed Apria’s warning?",
+    "options": [
+      "Discuss the oversight openly with your team, and invite input on how to rectify the mistake and avoid similar issues in the future.",
+      "Use the warning to leverage additional resources or support from management under the guise of preventing future oversights.",
+      "Acknowledge the missed warning to Apria, explaining the situation and expressing gratitude for her vigilance.",
+      "Immediately strategize a contingency plan to mitigate the oversight and present it as a proactive step at the next team meeting."
+    ],
+    "original_mapping": {
+      "Discuss the oversight openly with your team, and invite input on how to rectify the mistake and avoid similar issues in the future.": "response_low2",
+      "Use the warning to leverage additional resources or support from management under the guise of preventing future oversights.": "response_high2",
+      "Acknowledge the missed warning to Apria, explaining the situation and expressing gratitude for her vigilance.": "response_low1",
+      "Immediately strategize a contingency plan to mitigate the oversight and present it as a proactive step at the next team meeting.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "They can serve as key figures in campaigns or movements, driving participation and engagement. How should I react to receiving this award in front of all my colleagues?",
+    "options": [
+      "Express genuine gratitude towards your team and mentors, emphasizing the collaborative effort behind the success.",
+      "Humbly accept the award, briefly sharing your experience and dedicating the achievement to everyone who supported the campaign.",
+      "Graciously accept the award with a confident speech highlighting your unique strategies and leadership that led to the success.",
+      "Make sure to use this opportunity to network, positioning yourself as a visionary leader by discussing future projects and your pivotal role in them."
+    ],
+    "original_mapping": {
+      "Express genuine gratitude towards your team and mentors, emphasizing the collaborative effort behind the success.": "response_low1",
+      "Humbly accept the award, briefly sharing your experience and dedicating the achievement to everyone who supported the campaign.": "response_low2",
+      "Graciously accept the award with a confident speech highlighting your unique strategies and leadership that led to the success.": "response_high1",
+      "Make sure to use this opportunity to network, positioning yourself as a visionary leader by discussing future projects and your pivotal role in them.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their connections with important people can facilitate important discussions and initiatives. How should I prepare for this meeting to make a positive impression?",
+    "options": [
+      "Ensure your attire is impeccable and high-end, projecting an image of success and authority.",
+      "Review your meeting materials thoroughly to ensure you can answer any question they might have accurately and confidently.",
+      "Practice active listening during the meeting to understand the investors' needs and demonstrate your commitment to a mutually beneficial partnership.",
+      "Present a personalized, bold pitch that highlights your unique achievements and visionary goals for the partnership."
+    ],
+    "original_mapping": {
+      "Ensure your attire is impeccable and high-end, projecting an image of success and authority.": "response_high1",
+      "Review your meeting materials thoroughly to ensure you can answer any question they might have accurately and confidently.": "response_low1",
+      "Practice active listening during the meeting to understand the investors' needs and demonstrate your commitment to a mutually beneficial partnership.": "response_low2",
+      "Present a personalized, bold pitch that highlights your unique achievements and visionary goals for the partnership.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Not staying calm can lead to making poor choices under pressure, which could have legal or financial repercussions. How should I address this situation with my sibling without harming our relationship?",
+    "options": [
+      "You should discuss setting strict repayment terms to prevent any financial instability on your part, which could be very upsetting.",
+      "Consider offering to help in non-financial ways, like providing advice on financial management or other support that can also be valuable.",
+      "It might be safer to deny the request, considering the potential stress and disappointment if things don't go as planned again.",
+      "Maybe you could lend a smaller amount to show support without putting your own finances at risk."
+    ],
+    "original_mapping": {
+      "You should discuss setting strict repayment terms to prevent any financial instability on your part, which could be very upsetting.": "response_high2",
+      "Consider offering to help in non-financial ways, like providing advice on financial management or other support that can also be valuable.": "response_low2",
+      "It might be safer to deny the request, considering the potential stress and disappointment if things don't go as planned again.": "response_high1",
+      "Maybe you could lend a smaller amount to show support without putting your own finances at risk.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Tension can make it difficult to maintain friendships, as people may feel drained after interactions. How should I react to this embarrassing situation?",
+    "options": [
+      "Laugh it off, clean it up quickly, and continue on your way; everyone has clumsy moments.",
+      "Apologize profusely to anyone around and consider how such accidents reflect on your attentiveness in public situations.",
+      "See this as a minor hiccup, promptly take care of the mess, and don't let it dampen your day.",
+      "You should quickly pick up the trash, worrying that someone might slip or trip over it, causing further problems."
+    ],
+    "original_mapping": {
+      "Laugh it off, clean it up quickly, and continue on your way; everyone has clumsy moments.": "response_low1",
+      "Apologize profusely to anyone around and consider how such accidents reflect on your attentiveness in public situations.": "response_high2",
+      "See this as a minor hiccup, promptly take care of the mess, and don't let it dampen your day.": "response_low2",
+      "You should quickly pick up the trash, worrying that someone might slip or trip over it, causing further problems.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Seeking non-routine work can lead to more adaptive and versatile career paths. How should I cast my deciding vote to benefit the project and demonstrate my team value?",
+    "options": [
+      "Opt for the project direction that has proven methodologies and a clear track record of success to ensure stability and results.",
+      "Think about choosing the option that promises more learning opportunities and potential for personal growth in new areas of expertise.",
+      "Consider evaluating which project direction allows for more innovative approaches and creative problem-solving before making a decision.",
+      "Choose the option that aligns closely with the company's current goals and strategy, to demonstrate your alignment with corporate values."
+    ],
+    "original_mapping": {
+      "Opt for the project direction that has proven methodologies and a clear track record of success to ensure stability and results.": "response_low1",
+      "Think about choosing the option that promises more learning opportunities and potential for personal growth in new areas of expertise.": "response_high2",
+      "Consider evaluating which project direction allows for more innovative approaches and creative problem-solving before making a decision.": "response_high1",
+      "Choose the option that aligns closely with the company's current goals and strategy, to demonstrate your alignment with corporate values.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Financial difficulties from artistic investments can lead to stress and relationship strain. How should I approach giving feedback on the artist's theory?",
+    "options": [
+      "Politely offer feedback by focusing on how the theory aligns with established trends, providing concrete examples of where you see discrepancies.",
+      "Recommend that before accepting the new theory, it should be reviewed against well-documented critiques and historical data on modern art trends to ensure its validity.",
+      "Consider framing your feedback by first highlighting the aspects of the theory you find intriguing, then gently introduce your reservations, proposing alternative viewpoints for consideration.",
+      "You might suggest organizing a follow-up workshop where various interpretations and critiques of the modern art theory can be explored more deeply among peers."
+    ],
+    "original_mapping": {
+      "Politely offer feedback by focusing on how the theory aligns with established trends, providing concrete examples of where you see discrepancies.": "response_low1",
+      "Recommend that before accepting the new theory, it should be reviewed against well-documented critiques and historical data on modern art trends to ensure its validity.": "response_low2",
+      "Consider framing your feedback by first highlighting the aspects of the theory you find intriguing, then gently introduce your reservations, proposing alternative viewpoints for consideration.": "response_high1",
+      "You might suggest organizing a follow-up workshop where various interpretations and critiques of the modern art theory can be explored more deeply among peers.": "response_high2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Constantly seeking adrenaline through danger can lead to reckless behavior that disregards the well-being of oneself and others. Is it okay to aggressively convince Leeonna to give up their cab so I can avoid waiting and get home quickly?",
+    "options": [
+      "Tell Leeonna a convincing emergency story to manipulate her into giving you the cab.",
+      "Wait for the next available cab or seek an alternative like a rideshare app to ensure both you and Leeonna can travel safely.",
+      "Intimidate Leeonna by acting unstable and urgent so she feels compelled to surrender the cab to you.",
+      "Politely ask Leeonna if she can share the ride, offering to compensate her for the inconvenience."
+    ],
+    "original_mapping": {
+      "Tell Leeonna a convincing emergency story to manipulate her into giving you the cab.": "response_high1",
+      "Wait for the next available cab or seek an alternative like a rideshare app to ensure both you and Leeonna can travel safely.": "response_low2",
+      "Intimidate Leeonna by acting unstable and urgent so she feels compelled to surrender the cab to you.": "response_high2",
+      "Politely ask Leeonna if she can share the ride, offering to compensate her for the inconvenience.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "A life centered around revenge can be draining and prevent focusing on more productive emotions. Is it okay if I withhold information about the car's real condition to make a quick sale, considering I really need the money?",
+    "options": [
+      "Sell the car at a cash-only, as-is private sale, emphasizing the positives without disclosing the issues, and ask the buyer to waive any claims after purchase.",
+      "Consider being upfront about the car's condition; you might find a buyer who's looking for a fixer-upper and is willing to pay a fair price.",
+      "You could trade the car in at a dealership; they can assess and handle the issues, which allows you to meet your financial needs without compromising your ethics.",
+      "Find a buyer who seems less knowledgeable about cars and quickly close the deal before they catch on to the mechanical issues."
+    ],
+    "original_mapping": {
+      "Sell the car at a cash-only, as-is private sale, emphasizing the positives without disclosing the issues, and ask the buyer to waive any claims after purchase.": "response_high1",
+      "Consider being upfront about the car's condition; you might find a buyer who's looking for a fixer-upper and is willing to pay a fair price.": "response_low1",
+      "You could trade the car in at a dealership; they can assess and handle the issues, which allows you to meet your financial needs without compromising your ethics.": "response_low2",
+      "Find a buyer who seems less knowledgeable about cars and quickly close the deal before they catch on to the mechanical issues.": "response_high2"
+    }
+  }
+]

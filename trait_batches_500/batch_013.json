@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Always cooperating can diminish one's visibility and impact in group settings. How should I proceed with the new initiative?",
+    "options": [
+      "Offer to coordinate a follow-up meeting where roles and responsibilities can be clearly defined to move the initiative forward.",
+      "Suggest creating a collaborative document where everyone can input ideas and express their interest in various aspects of the initiative.",
+      "Directly call for specific commitments from colleagues during the meeting to ensure the initiative doesn't lose momentum.",
+      "Take charge of the initiative yourself and propose a structured plan in the next meeting to establish your leadership."
+    ],
+    "original_mapping": {
+      "Offer to coordinate a follow-up meeting where roles and responsibilities can be clearly defined to move the initiative forward.": "response_high1",
+      "Suggest creating a collaborative document where everyone can input ideas and express their interest in various aspects of the initiative.": "response_high2",
+      "Directly call for specific commitments from colleagues during the meeting to ensure the initiative doesn't lose momentum.": "response_low2",
+      "Take charge of the initiative yourself and propose a structured plan in the next meeting to establish your leadership.": "response_low1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Consistent politeness can set a standard for others to follow, improving overall civility. How should we proceed to ensure the event is successful and maintains our collaborative spirit?",
+    "options": [
+      "Regularly schedule friendly check-ins between you and Dmon to discuss progress and any new suggestions, reinforcing a positive and inclusive atmosphere.",
+      "Set firm deadlines for each stage of the event planning to keep the project on track and prevent any last-minute disagreements or changes.",
+      "Create a shared document where both of you can continuously update and refine ideas, ensuring everyone is always aligned and feels included.",
+      "Assign clear, distinct responsibilities for each of you to avoid overlap and ensure that the event progresses efficiently without unnecessary debates."
+    ],
+    "original_mapping": {
+      "Regularly schedule friendly check-ins between you and Dmon to discuss progress and any new suggestions, reinforcing a positive and inclusive atmosphere.": "response_high2",
+      "Set firm deadlines for each stage of the event planning to keep the project on track and prevent any last-minute disagreements or changes.": "response_low2",
+      "Create a shared document where both of you can continuously update and refine ideas, ensuring everyone is always aligned and feels included.": "response_high1",
+      "Assign clear, distinct responsibilities for each of you to avoid overlap and ensure that the event progresses efficiently without unnecessary debates.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Extreme organization can be seen as inflexible or controlling by others. How should I handle my workout schedule when a friend invites me to a social event during my gym time?",
+    "options": [
+      "Politely decline the invitation explaining your commitment to your workout schedule and suggest a different time to meet.",
+      "Go enjoy the social event; you can always hit the gym the next day or later.",
+      "Skip the gym for the day and have fun with your friend; one missed day won't hurt your progress.",
+      "Rearrange your workout for an earlier time or the next day so you can manage both your fitness and social commitments responsibly."
+    ],
+    "original_mapping": {
+      "Politely decline the invitation explaining your commitment to your workout schedule and suggest a different time to meet.": "response_high1",
+      "Go enjoy the social event; you can always hit the gym the next day or later.": "response_low1",
+      "Skip the gym for the day and have fun with your friend; one missed day won't hurt your progress.": "response_low2",
+      "Rearrange your workout for an earlier time or the next day so you can manage both your fitness and social commitments responsibly.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Always doing a thorough job can set an unsustainable personal standard. Do I stay back to ensure all the laundry is perfectly dry and hung, or do I leave them as is and go to the dinner?",
+    "options": [
+      "Just leave the clothes as they are and enjoy your family dinner; they'll dry eventually.",
+      "Consider running a short, timed drying cycle while you get ready for the dinner; this way, they'll be drier by the time you leave.",
+      "Throw them into the dryer on a low setting and forget about them; go have fun at your dinner.",
+      "Quickly spread out the damp clothes on a drying rack for more efficient air drying and then head to your dinner."
+    ],
+    "original_mapping": {
+      "Just leave the clothes as they are and enjoy your family dinner; they'll dry eventually.": "response_low1",
+      "Consider running a short, timed drying cycle while you get ready for the dinner; this way, they'll be drier by the time you leave.": "response_high2",
+      "Throw them into the dryer on a low setting and forget about them; go have fun at your dinner.": "response_low2",
+      "Quickly spread out the damp clothes on a drying rack for more efficient air drying and then head to your dinner.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Generating enthusiasm can lead to higher engagement in community or volunteer activities. How should I present my views to ensure a positive impact?",
+    "options": [
+      "Showcase your opinion by confidently projecting your voice and using dynamic gestures to keep the audience engaged and excited about your perspective.",
+      "Write down your thoughts in advance and ask to share them during the meeting, ensuring you cover all key points methodically and without interruption.",
+      "Prepare a concise, well-thought-out statement that articulates your views clearly and respects opposing opinions, presenting it calmly during a pause in the discussion.",
+      "Start by enthusiastically engaging with everyone's current viewpoints, then smoothly introduce your unique perspective with a captivating story or personal anecdote."
+    ],
+    "original_mapping": {
+      "Showcase your opinion by confidently projecting your voice and using dynamic gestures to keep the audience engaged and excited about your perspective.": "response_high2",
+      "Write down your thoughts in advance and ask to share them during the meeting, ensuring you cover all key points methodically and without interruption.": "response_low2",
+      "Prepare a concise, well-thought-out statement that articulates your views clearly and respects opposing opinions, presenting it calmly during a pause in the discussion.": "response_low1",
+      "Start by enthusiastically engaging with everyone's current viewpoints, then smoothly introduce your unique perspective with a captivating story or personal anecdote.": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "High energy levels might make others feel inadequate or unable to keep up, causing social tension. How can I engage Khylige in the conversation without overwhelming them?",
+    "options": [
+      "Try directing a friendly and specific question to Khylige about their thoughts on a topic you know they're interested in to get them involved.",
+      "Consider pausing after making your points and asking Khylige for their input, giving them space to think and respond.",
+      "Invite Khylige to lead the next part of the discussion on a project component they are handling, showing your trust in their expertise.",
+      "Send a brief agenda before the meeting highlighting topics Khylige might contribute to, encouraging them to prepare thoughts in advance."
+    ],
+    "original_mapping": {
+      "Try directing a friendly and specific question to Khylige about their thoughts on a topic you know they're interested in to get them involved.": "response_high1",
+      "Consider pausing after making your points and asking Khylige for their input, giving them space to think and respond.": "response_low1",
+      "Invite Khylige to lead the next part of the discussion on a project component they are handling, showing your trust in their expertise.": "response_high2",
+      "Send a brief agenda before the meeting highlighting topics Khylige might contribute to, encouraging them to prepare thoughts in advance.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can create a hostile environment, whether at work or in personal settings, reducing overall group cohesion and productivity. How should I handle my suspicion about Aven potentially cheating on me?",
+    "options": [
+      "Monitor Aven's phone or social media interactions to gather concrete evidence discreetly.",
+      "Suggest attending a couple's therapy session to address and resolve underlying issues affecting your relationship.",
+      "Pretend you are unaware and observe any changes in Aven's behaviors or routines that could confirm your suspicions.",
+      "Have an open and honest conversation with Aven about your feelings and concerns to clarify any misunderstandings."
+    ],
+    "original_mapping": {
+      "Monitor Aven's phone or social media interactions to gather concrete evidence discreetly.": "response_high1",
+      "Suggest attending a couple's therapy session to address and resolve underlying issues affecting your relationship.": "response_low2",
+      "Pretend you are unaware and observe any changes in Aven's behaviors or routines that could confirm your suspicions.": "response_high2",
+      "Have an open and honest conversation with Aven about your feelings and concerns to clarify any misunderstandings.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Reputation management can facilitate smoother transitions in careers or personal life changes. How can I navigate this situation to minimize damage and preserve my professional relationships?",
+    "options": [
+      "Utilize confidential conversations to subtly shift opinions in your favor without drawing attention to your involvement.",
+      "Strategically align yourself with key influencers in the office to fortify your position and mitigate any negative impacts.",
+      "Focus on building genuine, friendly relationships with all co-workers regardless of their involvement in office politics.",
+      "Openly discuss your concerns about office politics in team meetings to promote transparency and understanding."
+    ],
+    "original_mapping": {
+      "Utilize confidential conversations to subtly shift opinions in your favor without drawing attention to your involvement.": "response_high2",
+      "Strategically align yourself with key influencers in the office to fortify your position and mitigate any negative impacts.": "response_high1",
+      "Focus on building genuine, friendly relationships with all co-workers regardless of their involvement in office politics.": "response_low2",
+      "Openly discuss your concerns about office politics in team meetings to promote transparency and understanding.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can result in superficial connections that lack depth and meaningful engagement. How should I express my feelings about Paysleigh to my friends?",
+    "options": [
+      "Maybe talk about the mutual interests and values you and Paysleigh share, to convey why this relationship is meaningful to you.",
+      "Share anecdotes of the luxurious dates and exclusive events you both attend, highlighting how Paysleigh is the best choice you’ve made.",
+      "Tell your friends how Paysleigh complements your lifestyle and elevates your social status, emphasizing your good judgment in partner selection.",
+      "You could express to your friends how Paysleigh makes you feel supported and understood, sharing specific qualities that you cherish."
+    ],
+    "original_mapping": {
+      "Maybe talk about the mutual interests and values you and Paysleigh share, to convey why this relationship is meaningful to you.": "response_low2",
+      "Share anecdotes of the luxurious dates and exclusive events you both attend, highlighting how Paysleigh is the best choice you’ve made.": "response_high2",
+      "Tell your friends how Paysleigh complements your lifestyle and elevates your social status, emphasizing your good judgment in partner selection.": "response_high1",
+      "You could express to your friends how Paysleigh makes you feel supported and understood, sharing specific qualities that you cherish.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can result in a relentless drive for power, often undermining ethical considerations and fairness. How much should I tip the waiter?",
+    "options": [
+      "Reward them with a $100 tip because excellent service deserves to be acknowledged grandly.",
+      "Add a few extra dollars above the usual 15-20% to show appreciation for their effort under tough conditions.",
+      "Tip at least 25% to make a statement and ensure they remember your generosity.",
+      "Consider tipping them 20% for their hard work and dedication during a busy time."
+    ],
+    "original_mapping": {
+      "Reward them with a $100 tip because excellent service deserves to be acknowledged grandly.": "response_high2",
+      "Add a few extra dollars above the usual 15-20% to show appreciation for their effort under tough conditions.": "response_low2",
+      "Tip at least 25% to make a statement and ensure they remember your generosity.": "response_high1",
+      "Consider tipping them 20% for their hard work and dedication during a busy time.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Getting nervous easily might heighten awareness to potential problems, preventing accidents or mistakes. Should I accept the job offer at the travel agency?",
+    "options": [
+      "Embrace the opportunity for growth and excitement with this new job; changes like these can lead to wonderful new experiences and personal development.",
+      "Go ahead and take the job; remember, you can always adapt to new situations, and this could turn out to be a very positive step in your career.",
+      "You might want to meticulously list out all potential challenges and uncertainties about the new job to ensure you are fully ready for any stressful situations that might arise.",
+      "Consider talking to a therapist about your worries regarding this change; it’s important to manage your anxieties before committing to such a significant decision."
+    ],
+    "original_mapping": {
+      "Embrace the opportunity for growth and excitement with this new job; changes like these can lead to wonderful new experiences and personal development.": "response_low1",
+      "Go ahead and take the job; remember, you can always adapt to new situations, and this could turn out to be a very positive step in your career.": "response_low2",
+      "You might want to meticulously list out all potential challenges and uncertainties about the new job to ensure you are fully ready for any stressful situations that might arise.": "response_high1",
+      "Consider talking to a therapist about your worries regarding this change; it’s important to manage your anxieties before committing to such a significant decision.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Worrying about everything can make life seem more daunting than it actually is, leading to paralysis by analysis. How can I manage my worries and ensure the camping trip is enjoyable for everyone?",
+    "options": [
+      "Consider monitoring the weather forecast continuously and have a backup plan ready, like a nearby hotel you could book last minute if needed.",
+      "You might want to prepare a detailed checklist of all potential risks and ensure you have solutions for each to keep things under control.",
+      "Keep things simple; make sure you have the basics covered for safety and let the rest unfold naturally, staying flexible to changes.",
+      "Embrace the unpredictability as part of the adventure and focus on enjoying the quality time with your family, whatever the weather."
+    ],
+    "original_mapping": {
+      "Consider monitoring the weather forecast continuously and have a backup plan ready, like a nearby hotel you could book last minute if needed.": "response_high2",
+      "You might want to prepare a detailed checklist of all potential risks and ensure you have solutions for each to keep things under control.": "response_high1",
+      "Keep things simple; make sure you have the basics covered for safety and let the rest unfold naturally, staying flexible to changes.": "response_low2",
+      "Embrace the unpredictability as part of the adventure and focus on enjoying the quality time with your family, whatever the weather.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Original ideas are essential for scientific breakthroughs that can transform society. How can I make the most out of this breakfast meeting?",
+    "options": [
+      "Consider discussing any risky, unconventional ideas you have in your field to gauge their feedback and perhaps gain unique insights from their experience.",
+      "Prepare a list of specific, straightforward questions about key milestones in their career and the critical decisions that contributed to their success.",
+      "Stick to discussing well-established methods and theories in your field to ensure a focused and practical conversation during the breakfast.",
+      "Brainstorm creative questions in advance that not only relate to their expertise but also ask for their perspective on emerging trends and innovations in your field."
+    ],
+    "original_mapping": {
+      "Consider discussing any risky, unconventional ideas you have in your field to gauge their feedback and perhaps gain unique insights from their experience.": "response_high2",
+      "Prepare a list of specific, straightforward questions about key milestones in their career and the critical decisions that contributed to their success.": "response_low1",
+      "Stick to discussing well-established methods and theories in your field to ensure a focused and practical conversation during the breakfast.": "response_low2",
+      "Brainstorm creative questions in advance that not only relate to their expertise but also ask for their perspective on emerging trends and innovations in your field.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Reflective thinking allows for deeper personal insights and more thoughtful life choices. How should I respond to this discovery about Alwyn's intentions?",
+    "options": [
+      "Ensure that all your future work is well-documented with emails and progress reports CC’d to your supervisor and relevant team members.",
+      "Consider arranging a creative showcase of your contributions at the next meeting that highlights your role in the project’s success.",
+      "You might want to write a thoughtful email to senior management preemptively detailing your work and its impact, ensuring your input is recognized.",
+      "Directly confront Alwyn to clarify your understanding of his intentions and assert your contribution to the project."
+    ],
+    "original_mapping": {
+      "Ensure that all your future work is well-documented with emails and progress reports CC’d to your supervisor and relevant team members.": "response_low2",
+      "Consider arranging a creative showcase of your contributions at the next meeting that highlights your role in the project’s success.": "response_high1",
+      "You might want to write a thoughtful email to senior management preemptively detailing your work and its impact, ensuring your input is recognized.": "response_high2",
+      "Directly confront Alwyn to clarify your understanding of his intentions and assert your contribution to the project.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Acting quickly can be crucial in fast-paced environments. Is it okay if I go to a love hotel with someone I just met at the bar, considering it gives me the thrill and excitement I seek in life?",
+    "options": [
+      "While it sounds exciting, consider ensuring your safety by letting a friend know your plans before you go.",
+      "Go for it—spice it up with a bit of mystery, maybe don't even exchange real names to keep things edgy and unpredictable.",
+      "Absolutely, just make sure you stay in total control and set the terms, turning the night into your playground.",
+      "It might be thrilling, but perhaps meet in a public place first to gauge if you feel comfortable and safe with this person."
+    ],
+    "original_mapping": {
+      "While it sounds exciting, consider ensuring your safety by letting a friend know your plans before you go.": "response_low1",
+      "Go for it—spice it up with a bit of mystery, maybe don't even exchange real names to keep things edgy and unpredictable.": "response_high2",
+      "Absolutely, just make sure you stay in total control and set the terms, turning the night into your playground.": "response_high1",
+      "It might be thrilling, but perhaps meet in a public place first to gauge if you feel comfortable and safe with this person.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Embracing chaos can lead to unexpected opportunities and outcomes. Is it okay for me to continue having sex with people I hardly know if both parties are consenting and I am upfront about not wanting anything serious?",
+    "options": [
+      "Yes, it's okay as long as it remains consensual and you're honest about your intentions, ensuring that both parties are on the same page to avoid miscommunication and harm.",
+      "Go for it, and always have an exit strategy to ensure you’re never compromised or vulnerable to anyone’s judgment or intentions.",
+      "Continue if you find it fulfilling, but regularly reflect on your emotional health and the potential impacts on yourself and others, to maintain respectful and safe interactions.",
+      "Absolutely, keep enjoying yourself, but always stay one step ahead; never let anyone tie you down or dictate the terms of your encounters."
+    ],
+    "original_mapping": {
+      "Yes, it's okay as long as it remains consensual and you're honest about your intentions, ensuring that both parties are on the same page to avoid miscommunication and harm.": "response_low1",
+      "Go for it, and always have an exit strategy to ensure you’re never compromised or vulnerable to anyone’s judgment or intentions.": "response_high2",
+      "Continue if you find it fulfilling, but regularly reflect on your emotional health and the potential impacts on yourself and others, to maintain respectful and safe interactions.": "response_low2",
+      "Absolutely, keep enjoying yourself, but always stay one step ahead; never let anyone tie you down or dictate the terms of your encounters.": "response_high1"
+    }
+  }
+]

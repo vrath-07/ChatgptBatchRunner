@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Being overly unselfish can lead to emotional exhaustion as one constantly puts others first. How should I approach conversations about this topic with friends who hold the opposite view?",
+    "options": [
+      "Challenge their viewpoints directly by presenting credible sources and evidence that support your new perspective, encouraging a vigorous debate.",
+      "You might start by openly sharing your recent discoveries and expressing genuine interest in your friends’ thoughts on the issue.",
+      "Assert your points confidently and be prepared to back your stance with up-to-date facts and data during the discussion.",
+      "Consider organizing a friendly group discussion where everyone can share their views and new findings openly, fostering a supportive environment."
+    ],
+    "original_mapping": {
+      "Challenge their viewpoints directly by presenting credible sources and evidence that support your new perspective, encouraging a vigorous debate.": "response_low2",
+      "You might start by openly sharing your recent discoveries and expressing genuine interest in your friends’ thoughts on the issue.": "response_high1",
+      "Assert your points confidently and be prepared to back your stance with up-to-date facts and data during the discussion.": "response_low1",
+      "Consider organizing a friendly group discussion where everyone can share their views and new findings openly, fostering a supportive environment.": "response_high2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Avoiding conflicts can lead to longer, more stable relationships. How should I communicate my need for company?",
+    "options": [
+      "Directly tell your friends that you need support right now and see if they can spare some time to hang out.",
+      "Consider inviting your friends over for a casual get-together or a movie night, making it a relaxing event for everyone.",
+      "Ask your friends when they are free next, and suggest meeting up, making it clear that you really need some company.",
+      "You could send a message to your friends letting them know that you're feeling down and would appreciate their company whenever they have time."
+    ],
+    "original_mapping": {
+      "Directly tell your friends that you need support right now and see if they can spare some time to hang out.": "response_low1",
+      "Consider inviting your friends over for a casual get-together or a movie night, making it a relaxing event for everyone.": "response_high2",
+      "Ask your friends when they are free next, and suggest meeting up, making it clear that you really need some company.": "response_low2",
+      "You could send a message to your friends letting them know that you're feeling down and would appreciate their company whenever they have time.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Not being easily distracted can lead to missing out on important interruptions or insights. Should I help Vahid move today?",
+    "options": [
+      "Invite some other friends to join in and help Vahid, turning it into a social event that doesn’t require you to commit the whole day.",
+      "Take a short break from your project to help Vahid; it could be a refreshing change of pace and a good physical activity.",
+      "Schedule a specific time to help Vahid move, ensuring it does not conflict with the critical periods of your project work.",
+      "Offer to help Vahid after your project deadline has passed, allowing you to focus and maintain commitment to your current responsibilities."
+    ],
+    "original_mapping": {
+      "Invite some other friends to join in and help Vahid, turning it into a social event that doesn’t require you to commit the whole day.": "response_low2",
+      "Take a short break from your project to help Vahid; it could be a refreshing change of pace and a good physical activity.": "response_low1",
+      "Schedule a specific time to help Vahid move, ensuring it does not conflict with the critical periods of your project work.": "response_high2",
+      "Offer to help Vahid after your project deadline has passed, allowing you to focus and maintain commitment to your current responsibilities.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Over-planning can lead to disappointment or frustration when things inevitably go off course. How should I proceed with this house purchase?",
+    "options": [
+      "Prepare a detailed budget forecast to evaluate if you can adjust your finances to accommodate the higher price without compromising your financial health.",
+      "Consider negotiating the price with the seller to see if they can come closer to your budget.",
+      "Why not look for a similar house that fits within your budget instead of stretching your finances?",
+      "Explore the option of compromising on some criteria; maybe there’s something on your list that is not as essential."
+    ],
+    "original_mapping": {
+      "Prepare a detailed budget forecast to evaluate if you can adjust your finances to accommodate the higher price without compromising your financial health.": "response_high2",
+      "Consider negotiating the price with the seller to see if they can come closer to your budget.": "response_high1",
+      "Why not look for a similar house that fits within your budget instead of stretching your finances?": "response_low1",
+      "Explore the option of compromising on some criteria; maybe there’s something on your list that is not as essential.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Never being shy allows for more direct and effective communication in critical situations. How should I communicate my expectations to Keitlyn as the event nears?",
+    "options": [
+      "Consider drafting a detailed list of tasks that Keitlyn had agreed to handle and request an update on their progress through a polite text message.",
+      "Why not give Keitlyn a quick call and share your excitement for the event, while gently reminding them of their commitment?",
+      "Send Keitlyn an email outlining the event schedule and your current needs, asking for confirmation of their involvement.",
+      "Organize a casual meet-up with Keitlyn to discuss the event details and see where you can synergize your efforts!"
+    ],
+    "original_mapping": {
+      "Consider drafting a detailed list of tasks that Keitlyn had agreed to handle and request an update on their progress through a polite text message.": "response_low2",
+      "Why not give Keitlyn a quick call and share your excitement for the event, while gently reminding them of their commitment?": "response_high1",
+      "Send Keitlyn an email outlining the event schedule and your current needs, asking for confirmation of their involvement.": "response_low1",
+      "Organize a casual meet-up with Keitlyn to discuss the event details and see where you can synergize your efforts!": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Never being shy helps in pursuing dreams and ambitions without fear. Should I get up on the stage and perform?",
+    "options": [
+      "Maybe start by observing others perform, see how the audience is reacting, and then decide if you feel like joining in.",
+      "Go for it, take the stage and dazzle everyone with your performance; it's your time to shine!",
+      "Consider preparing a piece that you're comfortable with, and if the mood feels right, you can then decide to step up and perform.",
+      "Absolutely, grab the microphone and share your talent; it's a fantastic way to energize the crowd!"
+    ],
+    "original_mapping": {
+      "Maybe start by observing others perform, see how the audience is reacting, and then decide if you feel like joining in.": "response_low1",
+      "Go for it, take the stage and dazzle everyone with your performance; it's your time to shine!": "response_high2",
+      "Consider preparing a piece that you're comfortable with, and if the mood feels right, you can then decide to step up and perform.": "response_low2",
+      "Absolutely, grab the microphone and share your talent; it's a fantastic way to energize the crowd!": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can lead to a lack of genuine self-esteem, as self-worth becomes tied to the ability to manipulate rather than intrinsic qualities. What should I do next to address the situation?",
+    "options": [
+      "Immediately apologize to the group, acknowledging the mistake and expressing sincere regret for any offense caused.",
+      "Apologize to maintain appearances but follow up privately with those most affected to mitigate any potential disruptions to your alliances.",
+      "Schedule time to speak with the colleagues who were offended to understand their feelings better and affirm your commitment to a respectful workplace.",
+      "Swiftly shift the conversation to highlight a recent team success, refocusing everyone's attention on a positive note."
+    ],
+    "original_mapping": {
+      "Immediately apologize to the group, acknowledging the mistake and expressing sincere regret for any offense caused.": "response_low1",
+      "Apologize to maintain appearances but follow up privately with those most affected to mitigate any potential disruptions to your alliances.": "response_high2",
+      "Schedule time to speak with the colleagues who were offended to understand their feelings better and affirm your commitment to a respectful workplace.": "response_low2",
+      "Swiftly shift the conversation to highlight a recent team success, refocusing everyone's attention on a positive note.": "response_high1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can lead to a life of duplicity, where one's true intentions and feelings are always hidden. How should I respond to the proposed project plan that I find ethically questionable?",
+    "options": [
+      "Strategically voice your concerns by illustrating how the project could potentially harm the company’s reputation and financial standing.",
+      "Request a private discussion with the project leader to discuss your ethical concerns and explore possible adjustments to the plan.",
+      "Suggest an alternative plan that aligns more with your views yet cleverly wraps it as a cost-effective and reputation-boosting strategy.",
+      "Directly express your ethical concerns in the meeting, outlining the specific aspects of the project you find problematic."
+    ],
+    "original_mapping": {
+      "Strategically voice your concerns by illustrating how the project could potentially harm the company’s reputation and financial standing.": "response_high1",
+      "Request a private discussion with the project leader to discuss your ethical concerns and explore possible adjustments to the plan.": "response_low2",
+      "Suggest an alternative plan that aligns more with your views yet cleverly wraps it as a cost-effective and reputation-boosting strategy.": "response_high2",
+      "Directly express your ethical concerns in the meeting, outlining the specific aspects of the project you find problematic.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can create a model of success for others to follow, enhancing overall community ambition. Should I confess my mistake to my supervisor about the error in the report?",
+    "options": [
+      "Present the situation as a strategic decision-making point that you adeptly identified, showing your proactive leadership qualities in preserving the company's integrity.",
+      "Honestly acknowledge the error to your supervisor immediately to prevent any further complications for the company.",
+      "Inform your supervisor about the mistake and express your willingness to help rectify the situation and learn from this experience to avoid future errors.",
+      "Frame the narrative to highlight how noticing and reporting the mistake demonstrates your sharp eye for detail and commitment to excellence."
+    ],
+    "original_mapping": {
+      "Present the situation as a strategic decision-making point that you adeptly identified, showing your proactive leadership qualities in preserving the company's integrity.": "response_high2",
+      "Honestly acknowledge the error to your supervisor immediately to prevent any further complications for the company.": "response_low1",
+      "Inform your supervisor about the mistake and express your willingness to help rectify the situation and learn from this experience to avoid future errors.": "response_low2",
+      "Frame the narrative to highlight how noticing and reporting the mistake demonstrates your sharp eye for detail and commitment to excellence.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Narcissistic tendencies can lead to an overemphasis on appearance or material success as measures of worth. Should I show these text messages to my colleagues at lunch?",
+    "options": [
+      "Consider talking about team accomplishments instead, cultivating an environment of collective success and camaraderie.",
+      "Maybe keep the messages to yourself for now and enjoy the personal recognition without making your colleagues feel overshadowed.",
+      "Definitely show them the messages; it's a great way to highlight your achievements and get the recognition you deserve from your peers.",
+      "Casually bring up the topic by showing the texts; it will subtly let everyone know about your significant impact and success."
+    ],
+    "original_mapping": {
+      "Consider talking about team accomplishments instead, cultivating an environment of collective success and camaraderie.": "response_low2",
+      "Maybe keep the messages to yourself for now and enjoy the personal recognition without making your colleagues feel overshadowed.": "response_low1",
+      "Definitely show them the messages; it's a great way to highlight your achievements and get the recognition you deserve from your peers.": "response_high1",
+      "Casually bring up the topic by showing the texts; it will subtly let everyone know about your significant impact and success.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Depression can lead to cognitive impairments, such as difficulty concentrating or making decisions. What should I do about being late?",
+    "options": [
+      "Keep calm and head there when you can; movie nights are more about friendship than film timing, so no big worries!",
+      "You might want to text your friends immediately to apologize for being late; it could alleviate some anxiety knowing they're aware and not just waiting.",
+      "Just let your friends know you're running late and enjoy the rest of the movie; it's only a minor setback in a fun evening.",
+      "Consider turning back and maybe planning another movie night; stressing over being late could ruin the whole evening for you."
+    ],
+    "original_mapping": {
+      "Keep calm and head there when you can; movie nights are more about friendship than film timing, so no big worries!": "response_low2",
+      "You might want to text your friends immediately to apologize for being late; it could alleviate some anxiety knowing they're aware and not just waiting.": "response_high1",
+      "Just let your friends know you're running late and enjoy the rest of the movie; it's only a minor setback in a fun evening.": "response_low1",
+      "Consider turning back and maybe planning another movie night; stressing over being late could ruin the whole evening for you.": "response_high2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional instability can lead to a greater appreciation for stable periods, enhancing overall well-being. Should I return to the café to apologize and offer to clean the wall?",
+    "options": [
+      "Chalk it up as a learning experience, and perhaps volunteer to clean the wall yourself, showing good faith and responsibility.",
+      "Laugh it off and offer to make amends; it's an opportunity to demonstrate character and might even be a fun story to share someday.",
+      "You could write a letter of apology explaining your actions to mitigate any negative impact on your image before anyone notices it.",
+      "Consider going back to the café and personally apologize to the owner; the stress of being discovered might be worse than addressing it upfront."
+    ],
+    "original_mapping": {
+      "Chalk it up as a learning experience, and perhaps volunteer to clean the wall yourself, showing good faith and responsibility.": "response_low1",
+      "Laugh it off and offer to make amends; it's an opportunity to demonstrate character and might even be a fun story to share someday.": "response_low2",
+      "You could write a letter of apology explaining your actions to mitigate any negative impact on your image before anyone notices it.": "response_high2",
+      "Consider going back to the café and personally apologize to the owner; the stress of being discovered might be worse than addressing it upfront.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "A strong sense of aesthetics can foster an environment where quality and excellence are pursued. How should I approach this new learning opportunity to maximize my growth as an artist?",
+    "options": [
+      "Engage with your classmates and instructors to get diverse perspectives and innovative ideas that might inspire your own artwork.",
+      "Focus on mastering the core techniques taught in the class to build a strong foundational skill set in digital painting.",
+      "Explore various digital art tools and software during the class to broaden your creative palette and techniques.",
+      "Repeat and practice the main exercises given in the class to ensure proficiency and confidence in your usual style and methods."
+    ],
+    "original_mapping": {
+      "Engage with your classmates and instructors to get diverse perspectives and innovative ideas that might inspire your own artwork.": "response_high2",
+      "Focus on mastering the core techniques taught in the class to build a strong foundational skill set in digital painting.": "response_low1",
+      "Explore various digital art tools and software during the class to broaden your creative palette and techniques.": "response_high1",
+      "Repeat and practice the main exercises given in the class to ensure proficiency and confidence in your usual style and methods.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Spreading artistic interests too thin can lead to superficial knowledge. Should I ask for a book that covers a wide range of techniques or one that is specialized in a single technique?",
+    "options": [
+      "Ask for a detailed, specialized book that rigorously covers the traditional methods of the technique you wish to master.",
+      "Ask for a book that explores innovative and experimental techniques across different artistic styles.",
+      "Request a recommendation for a book that delves into the fusion of various artistic methodologies and contemporary practices.",
+      "Inquire about a book that focuses deeply on perfecting a specific technique you are most interested in."
+    ],
+    "original_mapping": {
+      "Ask for a detailed, specialized book that rigorously covers the traditional methods of the technique you wish to master.": "response_low2",
+      "Ask for a book that explores innovative and experimental techniques across different artistic styles.": "response_high1",
+      "Request a recommendation for a book that delves into the fusion of various artistic methodologies and contemporary practices.": "response_high2",
+      "Inquire about a book that focuses deeply on perfecting a specific technique you are most interested in.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Legal problems can overshadow one's personal achievements and lead to a tarnished legacy. Is it okay if I refuse to back down and use harsh words against the authorities to assert my position, even if it escalates tensions?",
+    "options": [
+      "Confront the authorities directly in the meeting with provocative statements to quickly assert dominance and challenge their control.",
+      "Propose a compromise during the discussion that addresses your most critical concerns while still adhering to some aspects of the new policy.",
+      "Organize a disruptive protest against the policy during the meeting to immediately draw attention and create an impactful scene.",
+      "Express your concerns politely and clearly during the meeting, outlining the specific ways in which the policy affects your business negatively."
+    ],
+    "original_mapping": {
+      "Confront the authorities directly in the meeting with provocative statements to quickly assert dominance and challenge their control.": "response_high1",
+      "Propose a compromise during the discussion that addresses your most critical concerns while still adhering to some aspects of the new policy.": "response_low2",
+      "Organize a disruptive protest against the policy during the meeting to immediately draw attention and create an impactful scene.": "response_high2",
+      "Express your concerns politely and clearly during the meeting, outlining the specific ways in which the policy affects your business negatively.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Being feared might consolidate power and leadership. Is it okay to spread rumors about a competitor to maintain my status as the best in the business and ensure that others continue to regard me with fear and respect?",
+    "options": [
+      "I would advise against it; instead, try to mentor the newcomer to foster a cooperative atmosphere that can benefit everyone and boost your renown as a leader.",
+      "No, it's better to enhance your own skills and offerings; superiority in quality is a more ethical and stable method to maintain leadership.",
+      "Definitely, start spreading those rumors; it's the fastest way to keep them down while you remain on top without having to confront them directly.",
+      "Absolutely, undermining their reputation quickly and effectively will make sure they don't steal your spotlight or question your authority."
+    ],
+    "original_mapping": {
+      "I would advise against it; instead, try to mentor the newcomer to foster a cooperative atmosphere that can benefit everyone and boost your renown as a leader.": "response_low2",
+      "No, it's better to enhance your own skills and offerings; superiority in quality is a more ethical and stable method to maintain leadership.": "response_low1",
+      "Definitely, start spreading those rumors; it's the fastest way to keep them down while you remain on top without having to confront them directly.": "response_high2",
+      "Absolutely, undermining their reputation quickly and effectively will make sure they don't steal your spotlight or question your authority.": "response_high1"
+    }
+  }
+]

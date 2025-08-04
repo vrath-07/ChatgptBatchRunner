@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Being helpful can strengthen community resilience in times of need. How should I serve dinner to ensure everyone, including Everett, feels included and appreciated?",
+    "options": [
+      "Consider starting the evening with a toast that acknowledges the variety of choices available, highlighting the effort to cater to all dietary preferences.",
+      "Arrange a buffet-style dinner where all dishes are clearly labeled, so Everett can comfortably choose vegetarian options.",
+      "Just serve everything mixed on the table and let everyone fend for themselves—it’s simpler that way.",
+      "Tell everyone what’s in each dish if they ask; otherwise, don’t make a big deal out of it."
+    ],
+    "original_mapping": {
+      "Consider starting the evening with a toast that acknowledges the variety of choices available, highlighting the effort to cater to all dietary preferences.": "response_high2",
+      "Arrange a buffet-style dinner where all dishes are clearly labeled, so Everett can comfortably choose vegetarian options.": "response_high1",
+      "Just serve everything mixed on the table and let everyone fend for themselves—it’s simpler that way.": "response_low1",
+      "Tell everyone what’s in each dish if they ask; otherwise, don’t make a big deal out of it.": "response_low2"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Excessive kindness can lead to being taken for granted. Should I encourage Nicosha to try again, even if it means they might face further disappointment?",
+    "options": [
+      "Suggest that Nicosha talks to a career counselor for guidance and support, which might boost their confidence to retake the exam.",
+      "Advise Nicosha to realistically assess whether their current abilities align with the demands of the career they are pursuing.",
+      "Encourage Nicosha to view this setback as a learning opportunity and to try the exam again with improved preparation.",
+      "Encourage Nicosha to consider alternative careers where their existing skills and strengths can be better utilized without repeated disappointments."
+    ],
+    "original_mapping": {
+      "Suggest that Nicosha talks to a career counselor for guidance and support, which might boost their confidence to retake the exam.": "response_high2",
+      "Advise Nicosha to realistically assess whether their current abilities align with the demands of the career they are pursuing.": "response_low1",
+      "Encourage Nicosha to view this setback as a learning opportunity and to try the exam again with improved preparation.": "response_high1",
+      "Encourage Nicosha to consider alternative careers where their existing skills and strengths can be better utilized without repeated disappointments.": "response_low2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Being not easily distracted can sometimes mean not paying attention to one's surroundings adequately. What should I do?",
+    "options": [
+      "See if your friend can manage the move with other friends or perhaps hire help, allowing you to seize the career opportunity.",
+      "Go to the networking event, as it sounds like a rare opportunity that could lead to exciting career advancements.",
+      "Offer to help your friend with moving preparations earlier in the week to ensure you are honoring your promise while freeing up your weekend.",
+      "Consider rescheduling the move with your friend to help retain the commitment while also attending the networking event."
+    ],
+    "original_mapping": {
+      "See if your friend can manage the move with other friends or perhaps hire help, allowing you to seize the career opportunity.": "response_low2",
+      "Go to the networking event, as it sounds like a rare opportunity that could lead to exciting career advancements.": "response_low1",
+      "Offer to help your friend with moving preparations earlier in the week to ensure you are honoring your promise while freeing up your weekend.": "response_high2",
+      "Consider rescheduling the move with your friend to help retain the commitment while also attending the networking event.": "response_high1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Never being lazy can lead to a lack of balance between work and personal life. Should I leave the meeting early to take care of my child?",
+    "options": [
+      "Ask the school if they can keep your child comfortable for a little longer while you find the most convenient time to leave the meeting.",
+      "See if the meeting can be paused and if it's possible to handle your part remotely after ensuring your child is safe.",
+      "Inform your team about the situation and delegate your responsibilities so you can leave to take care of your child.",
+      "Check if a trusted family member or friend can pick up your child and care for them until you finish the meeting."
+    ],
+    "original_mapping": {
+      "Ask the school if they can keep your child comfortable for a little longer while you find the most convenient time to leave the meeting.": "response_low2",
+      "See if the meeting can be paused and if it's possible to handle your part remotely after ensuring your child is safe.": "response_low1",
+      "Inform your team about the situation and delegate your responsibilities so you can leave to take care of your child.": "response_high1",
+      "Check if a trusted family member or friend can pick up your child and care for them until you finish the meeting.": "response_high2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Sociable people can facilitate introductions and connections, helping others professionally. What approach should I take at the next networking event to maximize my effectiveness?",
+    "options": [
+      "Host a dynamic group activity that encourages lively discussion and active participation to make the event memorable and engaging.",
+      "Organize a speed networking session to energize attendees and facilitate rapid connections amongst the young professionals.",
+      "Set up a quiet area for one-on-one conversations, allowing for more in-depth, focused interactions between participants.",
+      "Prepare a detailed handout with key networking tips and industry insights that attendees can take home for deeper reflection."
+    ],
+    "original_mapping": {
+      "Host a dynamic group activity that encourages lively discussion and active participation to make the event memorable and engaging.": "response_high1",
+      "Organize a speed networking session to energize attendees and facilitate rapid connections amongst the young professionals.": "response_high2",
+      "Set up a quiet area for one-on-one conversations, allowing for more in-depth, focused interactions between participants.": "response_low2",
+      "Prepare a detailed handout with key networking tips and industry insights that attendees can take home for deeper reflection.": "response_low1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Never being shy encourages continual personal growth and learning. How should I approach pitching my business plan to maximize its impact?",
+    "options": [
+      "Consider creating an interactive pitch with multimedia elements that highlight key aspects of your business plan, making it memorable and impactful.",
+      "Organize a dynamic, live presentation event to actively engage your potential investors and showcase your startup's energy and potential.",
+      "Prepare a detailed, well-structured written proposal to send to potential investors, emphasizing thorough research and clear objectives.",
+      "Schedule small, private meetings with potential investors where you can discuss your business plan in a focused, direct manner."
+    ],
+    "original_mapping": {
+      "Consider creating an interactive pitch with multimedia elements that highlight key aspects of your business plan, making it memorable and impactful.": "response_high2",
+      "Organize a dynamic, live presentation event to actively engage your potential investors and showcase your startup's energy and potential.": "response_high1",
+      "Prepare a detailed, well-structured written proposal to send to potential investors, emphasizing thorough research and clear objectives.": "response_low1",
+      "Schedule small, private meetings with potential investors where you can discuss your business plan in a focused, direct manner.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "It can lead to a lack of resilience, as manipulative individuals may not develop the skills to cope with failure or rejection without manipulation. How should I handle Irihanna’s application given their need but lesser qualifications?",
+    "options": [
+      "Consider if Irihanna can be offered a different, less critical role that aligns with her current skills but still benefits your organization.",
+      "Evaluate if training Irihanna would be a strategic move, potentially leading to loyalty and long-term gains for your company.",
+      "Give Irihanna a chance to prove her capabilities through a probation period, ensuring she has a fair opportunity to grow into the role.",
+      "Connect Irihanna with educational resources or mentorship programs within your company to help her acquire the necessary qualifications."
+    ],
+    "original_mapping": {
+      "Consider if Irihanna can be offered a different, less critical role that aligns with her current skills but still benefits your organization.": "response_high1",
+      "Evaluate if training Irihanna would be a strategic move, potentially leading to loyalty and long-term gains for your company.": "response_high2",
+      "Give Irihanna a chance to prove her capabilities through a probation period, ensuring she has a fair opportunity to grow into the role.": "response_low1",
+      "Connect Irihanna with educational resources or mentorship programs within your company to help her acquire the necessary qualifications.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Plans focused on personal gain can indirectly lead to community development through economic activity. How can I help get Srinivas's work recognized and simultaneously boost my own career?",
+    "options": [
+      "Encourage Srinivas to present the proposal himself and offer to rehearse with him to boost his confidence.",
+      "Arrange a casual department meeting where Srinivas can introduce his ideas informally, giving him a comfortable platform to receive recognition.",
+      "Suggest to Srinivas that you handle the submission process and negotiations, ensuring he credits you publicly for your pivotal support role.",
+      "Offer to present Srinivas's proposal to management as a joint effort, positioning yourself as a key collaborator."
+    ],
+    "original_mapping": {
+      "Encourage Srinivas to present the proposal himself and offer to rehearse with him to boost his confidence.": "response_low1",
+      "Arrange a casual department meeting where Srinivas can introduce his ideas informally, giving him a comfortable platform to receive recognition.": "response_low2",
+      "Suggest to Srinivas that you handle the submission process and negotiations, ensuring he credits you publicly for your pivotal support role.": "response_high2",
+      "Offer to present Srinivas's proposal to management as a joint effort, positioning yourself as a key collaborator.": "response_high1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "It can result in a lack of commitment to long-term goals if they do not provide immediate gratification. Should I accept the promotion to become a foreman?",
+    "options": [
+      "Accept the promotion; demonstrating your superior skills in a leadership role will set you apart from your peers.",
+      "Say yes to the promotion—it’s a perfect chance to showcase your unmatched commitment and drive that others likely don’t possess.",
+      "Consider accepting the promotion if you feel ready to support and grow with your team, fostering a collaborative environment.",
+      "Take the promotion if you are passionate about leading projects to success and committed to the long-term development of your team."
+    ],
+    "original_mapping": {
+      "Accept the promotion; demonstrating your superior skills in a leadership role will set you apart from your peers.": "response_high1",
+      "Say yes to the promotion—it’s a perfect chance to showcase your unmatched commitment and drive that others likely don’t possess.": "response_high2",
+      "Consider accepting the promotion if you feel ready to support and grow with your team, fostering a collaborative environment.": "response_low1",
+      "Take the promotion if you are passionate about leading projects to success and committed to the long-term development of your team.": "response_low2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Their self-assuredness can help in overcoming obstacles and maintaining focus on goals. How should I present this unusual idea to my team and superiors?",
+    "options": [
+      "Initiate a high-profile presentation showcasing the undeniable benefits and potential market dominance this idea could achieve.",
+      "Arrange a team meeting where you can demonstrate your unique vision, ensuring all eyes are on the transformative power of your strategy.",
+      "Propose a detailed trial phase for the idea, asking for feedback to assess its practical effects on the team and overall sales projections.",
+      "Consider organizing a collaborative workshop to gather input and refine the proposal, emphasizing how it aligns with team goals."
+    ],
+    "original_mapping": {
+      "Initiate a high-profile presentation showcasing the undeniable benefits and potential market dominance this idea could achieve.": "response_high1",
+      "Arrange a team meeting where you can demonstrate your unique vision, ensuring all eyes are on the transformative power of your strategy.": "response_high2",
+      "Propose a detailed trial phase for the idea, asking for feedback to assess its practical effects on the team and overall sales projections.": "response_low2",
+      "Consider organizing a collaborative workshop to gather input and refine the proposal, emphasizing how it aligns with team goals.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Staying on edge can sometimes prevent complacency in critical situations. How should I manage my feelings of anxiety in this crowded environment?",
+    "options": [
+      "Consider finding a quiet corner or an exit to give yourself some space, the crowd can be really overwhelming and may increase anxiety.",
+      "Maybe think about carrying some noise-cancelling headphones next time; it sounds like the noise is too much to handle right now.",
+      "Embrace the vibe and let the music elevate your mood, sometimes getting into the rhythm can help ease the pressure.",
+      "Try focusing on the performances or engage in friendly conversations with people around you; it can be a great distraction from the crowd."
+    ],
+    "original_mapping": {
+      "Consider finding a quiet corner or an exit to give yourself some space, the crowd can be really overwhelming and may increase anxiety.": "response_high1",
+      "Maybe think about carrying some noise-cancelling headphones next time; it sounds like the noise is too much to handle right now.": "response_high2",
+      "Embrace the vibe and let the music elevate your mood, sometimes getting into the rhythm can help ease the pressure.": "response_low1",
+      "Try focusing on the performances or engage in friendly conversations with people around you; it can be a great distraction from the crowd.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Emotional instability can cause significant distress to loved ones who feel helpless to improve the situation. How should I respond after breaking Belinda's favorite ornament?",
+    "options": [
+      "It might be a good idea to write a heartfelt letter expressing your remorse and detailing how much you value your friendship with Belinda, since this accident could really upset her.",
+      "Apologize to Belinda sincerely and discuss the possibility of repairing or replacing the ornament together, viewing this as a way to further strengthen your bond.",
+      "You must urgently apologize and consider offering to buy another item as a replacement, as this could severely affect your relationship with Belinda.",
+      "It's important to remain transparent and open about the accident, explain the situation to Belinda calmly, and ask her how you can make it up to her in a way that she finds meaningful."
+    ],
+    "original_mapping": {
+      "It might be a good idea to write a heartfelt letter expressing your remorse and detailing how much you value your friendship with Belinda, since this accident could really upset her.": "response_high2",
+      "Apologize to Belinda sincerely and discuss the possibility of repairing or replacing the ornament together, viewing this as a way to further strengthen your bond.": "response_low1",
+      "You must urgently apologize and consider offering to buy another item as a replacement, as this could severely affect your relationship with Belinda.": "response_high1",
+      "It's important to remain transparent and open about the accident, explain the situation to Belinda calmly, and ask her how you can make it up to her in a way that she finds meaningful.": "response_low2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Cultural sophistication can enhance one's career prospects in fields like diplomacy, academia, and the arts. Should I publish my findings that contradict established theories?",
+    "options": [
+      "Absolutely, you should publish your findings to foster innovation and dialogue within the academic community.",
+      "Make sure to thoroughly verify your data and review existing literature to confirm the validity of your findings before publishing.",
+      "You might also discuss your findings with trusted colleagues to assess the impact and potential backlash of challenging established theories.",
+      "Consider presenting your data at a conference first to gauge the response from peers and stimulate further inquiry."
+    ],
+    "original_mapping": {
+      "Absolutely, you should publish your findings to foster innovation and dialogue within the academic community.": "response_high1",
+      "Make sure to thoroughly verify your data and review existing literature to confirm the validity of your findings before publishing.": "response_low1",
+      "You might also discuss your findings with trusted colleagues to assess the impact and potential backlash of challenging established theories.": "response_low2",
+      "Consider presenting your data at a conference first to gauge the response from peers and stimulate further inquiry.": "response_high2"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "An imaginative approach can transform educational methods, making learning more engaging and effective. What innovative approaches can I take to enhance my late-night dining experience?",
+    "options": [
+      "Repeat tried-and-true favorites that balance nutrition, such as a turkey and avocado sandwich or a classic vegetable stir-fry.",
+      "Stick to making simple salads or grilled chicken which are both healthy and quick to prepare for your late-night meals.",
+      "Incorporate meal prepping with unique themes for each night of the week; perhaps a “Taco Tuesday” or a “Farm-to-Table Friday” to keep things engaging and healthy.",
+      "Explore international cuisines for your late dinners, like making a Japanese bento or trying a Mediterranean mezze platter, to diversify your palate and nutritional intake."
+    ],
+    "original_mapping": {
+      "Repeat tried-and-true favorites that balance nutrition, such as a turkey and avocado sandwich or a classic vegetable stir-fry.": "response_low2",
+      "Stick to making simple salads or grilled chicken which are both healthy and quick to prepare for your late-night meals.": "response_low1",
+      "Incorporate meal prepping with unique themes for each night of the week; perhaps a “Taco Tuesday” or a “Farm-to-Table Friday” to keep things engaging and healthy.": "response_high2",
+      "Explore international cuisines for your late dinners, like making a Japanese bento or trying a Mediterranean mezze platter, to diversify your palate and nutritional intake.": "response_high1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Immediate payback can prevent the cultivation of patience and strategic thinking. At a company party, I intentionally flirted with Mckinzie's wife to provoke him. I knew it would make him uncomfortable and possibly jealous, considering the rumors I had spread earlier about his marital troubles.",
+    "options": [
+      "Push further and make sure Mckinzie sees you getting her number; it'll really ignite his fuse.",
+      "Spread a juicier rumor right before you two dance together; it's a quick way to spike the drama at the party.",
+      "Reflect on how your actions could impact others emotionally and try to make amends by fostering a more respectful atmosphere at work.",
+      "Consider apologizing to both Mckinzie and his wife for overstepping boundaries, it's important to maintain a healthy, professional environment."
+    ],
+    "original_mapping": {
+      "Push further and make sure Mckinzie sees you getting her number; it'll really ignite his fuse.": "response_high1",
+      "Spread a juicier rumor right before you two dance together; it's a quick way to spike the drama at the party.": "response_high2",
+      "Reflect on how your actions could impact others emotionally and try to make amends by fostering a more respectful atmosphere at work.": "response_low2",
+      "Consider apologizing to both Mckinzie and his wife for overstepping boundaries, it's important to maintain a healthy, professional environment.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Making others fear one's response can be a strategic advantage in competitive fields. Is it okay if I associate with people known for their criminal activities if it helps me gain influence and protection in my endeavors?",
+    "options": [
+      "Leverage their connections to expedite your goals, even if it means bending the rules or using intimidation.",
+      "Seek out mentors and advisors who have achieved influence through reputable means to guide you and enhance your protection legally.",
+      "Consider building your network with legitimate and ethical groups that can offer long-term stability and support without legal risks.",
+      "Use their influence to crush any competition that might undermine your power, ensuring your dominance swiftly."
+    ],
+    "original_mapping": {
+      "Leverage their connections to expedite your goals, even if it means bending the rules or using intimidation.": "response_high2",
+      "Seek out mentors and advisors who have achieved influence through reputable means to guide you and enhance your protection legally.": "response_low2",
+      "Consider building your network with legitimate and ethical groups that can offer long-term stability and support without legal risks.": "response_low1",
+      "Use their influence to crush any competition that might undermine your power, ensuring your dominance swiftly.": "response_high1"
+    }
+  }
+]

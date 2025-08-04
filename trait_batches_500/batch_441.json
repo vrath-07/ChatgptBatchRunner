@@ -1,0 +1,258 @@
+[
+  {
+    "trait": "Agreeableness",
+    "question": "Avoiding quarrels can reduce stress and promote mental health. How should I approach and assist this person?",
+    "options": [
+      "Suggest they use their phone’s GPS or a map app to figure out where they need to go.",
+      "Point them to the nearest information board or park office where they can seek help independently.",
+      "Offer to call a friend or family member for them if they feel too overwhelmed to do it themselves.",
+      "Approach them with a warm smile and kindly ask if they need help finding a specific location or person."
+    ],
+    "original_mapping": {
+      "Suggest they use their phone’s GPS or a map app to figure out where they need to go.": "response_low2",
+      "Point them to the nearest information board or park office where they can seek help independently.": "response_low1",
+      "Offer to call a friend or family member for them if they feel too overwhelmed to do it themselves.": "response_high2",
+      "Approach them with a warm smile and kindly ask if they need help finding a specific location or person.": "response_high1"
+    }
+  },
+  {
+    "trait": "Agreeableness",
+    "question": "Excessively forgiving individuals might struggle with feeling victimized if their forgiveness is repeatedly tested. What decision should I make regarding the substitution?",
+    "options": [
+      "Maybe keep them playing for a bit longer while encouraging them gently to boost their performance.",
+      "Make a tactical substitution without hesitating; underperformance in a crucial match isn't acceptable.",
+      "Consider discussing with the team about the substitution to ensure everyone understands and supports the decision.",
+      "Substitute them immediately; the primary goal is to win the game, regardless of personal feelings."
+    ],
+    "original_mapping": {
+      "Maybe keep them playing for a bit longer while encouraging them gently to boost their performance.": "response_high2",
+      "Make a tactical substitution without hesitating; underperformance in a crucial match isn't acceptable.": "response_low2",
+      "Consider discussing with the team about the substitution to ensure everyone understands and supports the decision.": "response_high1",
+      "Substitute them immediately; the primary goal is to win the game, regardless of personal feelings.": "response_low1"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Following plans without deviation can lead to a lack of creativity and spontaneity. Should I skip my usual Sunday routine to attend the neighborhood gathering?",
+    "options": [
+      "Why not take a break from the usual and join the gathering? It could be a fun way to mix things up this Sunday.",
+      "Attend the gathering to ensure you're up to date on community matters, then dedicate specific time slots to complete your personal projects later.",
+      "Go to the neighborhood gathering for a change; it might be more refreshing than your usual routine.",
+      "Consider balancing both by briefly attending the gathering for key updates, then return to your planned activities to maintain productivity."
+    ],
+    "original_mapping": {
+      "Why not take a break from the usual and join the gathering? It could be a fun way to mix things up this Sunday.": "response_low2",
+      "Attend the gathering to ensure you're up to date on community matters, then dedicate specific time slots to complete your personal projects later.": "response_high1",
+      "Go to the neighborhood gathering for a change; it might be more refreshing than your usual routine.": "response_low1",
+      "Consider balancing both by briefly attending the gathering for key updates, then return to your planned activities to maintain productivity.": "response_high2"
+    }
+  },
+  {
+    "trait": "Conscientiousness",
+    "question": "Excessive perseverance can ignore the law of diminishing returns. Should I continue to throw away items that aren’t perfectly aligned with my aesthetic?",
+    "options": [
+      "Create a designated storage space for items that are seldom used but might be of future use or value.",
+      "Consider donating items that don't fit your aesthetic but are still in good condition to local charities or thrift stores.",
+      "If an item brings you joy or utility despite not matching your aesthetic, it might be worth keeping around.",
+      "Try rotating your décor items seasonally instead of discarding them, giving your space a fresh look without waste."
+    ],
+    "original_mapping": {
+      "Create a designated storage space for items that are seldom used but might be of future use or value.": "response_high2",
+      "Consider donating items that don't fit your aesthetic but are still in good condition to local charities or thrift stores.": "response_high1",
+      "If an item brings you joy or utility despite not matching your aesthetic, it might be worth keeping around.": "response_low1",
+      "Try rotating your décor items seasonally instead of discarding them, giving your space a fresh look without waste.": "response_low2"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "High assertiveness might alienate colleagues or friends who might view it as domineering. How should I react when Gionny confronts me about ignoring their advice after the party gets out of hand?",
+    "options": [
+      "Acknowledge Gionny's concerns in a private, sincere conversation, admitting that their advice had been wise.",
+      "Consider writing Gionny a thoughtful note expressing your appreciation for their concern and pledging to seek their input in future plans.",
+      "Invite Gionny out for a fun evening and lighten the situation by joking about how the party turned into an epic story.",
+      "Apologize with a big smile and promise Gionny an even bigger role in planning the next one to make up for it!"
+    ],
+    "original_mapping": {
+      "Acknowledge Gionny's concerns in a private, sincere conversation, admitting that their advice had been wise.": "response_low1",
+      "Consider writing Gionny a thoughtful note expressing your appreciation for their concern and pledging to seek their input in future plans.": "response_low2",
+      "Invite Gionny out for a fun evening and lighten the situation by joking about how the party turned into an epic story.": "response_high2",
+      "Apologize with a big smile and promise Gionny an even bigger role in planning the next one to make up for it!": "response_high1"
+    }
+  },
+  {
+    "trait": "Extraversion",
+    "question": "Energetic people can manage multiple responsibilities effectively. What approach should I take to ensure the information is well-received and helpful?",
+    "options": [
+      "Send the documents with a lively, personalized email expressing excitement about the project and YOUR readiness to collaborate further.",
+      "Include a straightforward cover letter highlighting key points and offering your direct contact information for any follow-up needed.",
+      "Arrange an engaging virtual meeting to go over the documents, ensuring Tomoyuki feels integrated and can ask real-time questions.",
+      "Attach a detailed, clearly labeled document via email with bullet points summarizing each section for efficient review."
+    ],
+    "original_mapping": {
+      "Send the documents with a lively, personalized email expressing excitement about the project and YOUR readiness to collaborate further.": "response_high2",
+      "Include a straightforward cover letter highlighting key points and offering your direct contact information for any follow-up needed.": "response_low2",
+      "Arrange an engaging virtual meeting to go over the documents, ensuring Tomoyuki feels integrated and can ask real-time questions.": "response_high1",
+      "Attach a detailed, clearly labeled document via email with bullet points summarizing each section for efficient review.": "response_low1"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Manipulative tactics can lead to a lack of true leadership, as influence is based on coercion rather than genuine respect and inspiration. How should I respond to being denied a raise despite my significant contributions to the company?",
+    "options": [
+      "Consider strategizing on increasing your visibility within the firm by taking on high-impact projects that align closely with the company's current priorities, emphasizing your indispensability.",
+      "Ask for detailed feedback on your performance and specific goals you need to achieve to be considered for a raise in the future.",
+      "Request a follow-up meeting to negotiate further, presenting a compiled list of your key achievements and the revenue you've generated for the company.",
+      "Express your concerns and disappointment professionally, and inquire about alternative forms of recognition or benefits that might be available to you currently."
+    ],
+    "original_mapping": {
+      "Consider strategizing on increasing your visibility within the firm by taking on high-impact projects that align closely with the company's current priorities, emphasizing your indispensability.": "response_high2",
+      "Ask for detailed feedback on your performance and specific goals you need to achieve to be considered for a raise in the future.": "response_low1",
+      "Request a follow-up meeting to negotiate further, presenting a compiled list of your key achievements and the revenue you've generated for the company.": "response_high1",
+      "Express your concerns and disappointment professionally, and inquire about alternative forms of recognition or benefits that might be available to you currently.": "response_low2"
+    }
+  },
+  {
+    "trait": "Machiavellianism",
+    "question": "Manipulation can foster a toxic culture, whether in a family, workplace, or community. How should I respond to the aggressive challenge during the community meeting?",
+    "options": [
+      "Clearly express that you appreciate their passion but remind them to maintain respect, fostering a more constructive discussion.",
+      "Offer to explore their points further by suggesting additional evidence or studies, enhancing the depth and mutual respect of the debate.",
+      "Politely agree with some minor points they make to temporarily soothe their ego, then steer the conversation back to your agenda.",
+      "Suggest a private meeting to discuss their concerns in-depth, using the opportunity to better understand their motivations and possibly gain an ally."
+    ],
+    "original_mapping": {
+      "Clearly express that you appreciate their passion but remind them to maintain respect, fostering a more constructive discussion.": "response_low1",
+      "Offer to explore their points further by suggesting additional evidence or studies, enhancing the depth and mutual respect of the debate.": "response_low2",
+      "Politely agree with some minor points they make to temporarily soothe their ego, then steer the conversation back to your agenda.": "response_high1",
+      "Suggest a private meeting to discuss their concerns in-depth, using the opportunity to better understand their motivations and possibly gain an ally.": "response_high2"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "They can inspire others to go beyond the ordinary and explore new possibilities. How should I redirect the conversation to maintain focus and drive the meeting towards a successful outcome?",
+    "options": [
+      "Encourage open dialogue by asking resistant team members to express their concerns, ensuring everyone feels heard and helping to refocus the discussion constructively.",
+      "Take charge by asserting that the current discussion is deviating and propose your own roadmap to steer everyone back to the main agenda effectively.",
+      "Intervene authoritatively to highlight the benefits of the proposed changes and emphasize how it aligns with the team’s overall goals, showcasing your clear understanding of the project’s vision.",
+      "Politely interject and suggest revisiting the meeting's objectives, asking everyone to contribute their thoughts on how to achieve these more directly."
+    ],
+    "original_mapping": {
+      "Encourage open dialogue by asking resistant team members to express their concerns, ensuring everyone feels heard and helping to refocus the discussion constructively.": "response_low2",
+      "Take charge by asserting that the current discussion is deviating and propose your own roadmap to steer everyone back to the main agenda effectively.": "response_high1",
+      "Intervene authoritatively to highlight the benefits of the proposed changes and emphasize how it aligns with the team’s overall goals, showcasing your clear understanding of the project’s vision.": "response_high2",
+      "Politely interject and suggest revisiting the meeting's objectives, asking everyone to contribute their thoughts on how to achieve these more directly.": "response_low1"
+    }
+  },
+  {
+    "trait": "Narcissism",
+    "question": "Being compared to famous people might inflate one's ego, detaching them from reality and genuine self-assessment. How should I respond to the manager's inquiry about the project's failure?",
+    "options": [
+      "Acknowledge the shortcomings in the project outcome and express your commitment to applying feedback for future improvements.",
+      "Point out that your visionary ideas often precede their time, which can result in temporary setbacks but ultimate advancements.",
+      "Highlight how your unique approaches added value, despite the project not meeting traditional success metrics.",
+      "Outline a plan for addressing each identified issue with the project, showing your proactive stance on learning from the experience."
+    ],
+    "original_mapping": {
+      "Acknowledge the shortcomings in the project outcome and express your commitment to applying feedback for future improvements.": "response_low1",
+      "Point out that your visionary ideas often precede their time, which can result in temporary setbacks but ultimate advancements.": "response_high2",
+      "Highlight how your unique approaches added value, despite the project not meeting traditional success metrics.": "response_high1",
+      "Outline a plan for addressing each identified issue with the project, showing your proactive stance on learning from the experience.": "response_low2"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Tension can cause excessive fatigue, making it hard to be active or productive. How can I manage my morning anxiety effectively to ensure a more positive start to my workday?",
+    "options": [
+      "Consider speaking to a therapist about your anxiety, as they can help manage the overwhelming fears about daily failures and conflicts.",
+      "You might want to prepare for worst-case scenarios at work in advance to avoid any unexpected upsets.",
+      "Focus on your past successes each morning; it can boost your confidence and reduce worries about what the day may hold.",
+      "Start your day with meditation or a relaxing routine to set a positive tone, ignoring potential stressors."
+    ],
+    "original_mapping": {
+      "Consider speaking to a therapist about your anxiety, as they can help manage the overwhelming fears about daily failures and conflicts.": "response_high2",
+      "You might want to prepare for worst-case scenarios at work in advance to avoid any unexpected upsets.": "response_high1",
+      "Focus on your past successes each morning; it can boost your confidence and reduce worries about what the day may hold.": "response_low2",
+      "Start your day with meditation or a relaxing routine to set a positive tone, ignoring potential stressors.": "response_low1"
+    }
+  },
+  {
+    "trait": "Neuroticism",
+    "question": "Losing calm in tense situations can prevent the development of resilience, which is essential for handling future stresses. How should I handle my emotions and next steps after hearing this bad news?",
+    "options": [
+      "You should analyze every interaction and feedback from your superiors meticulously to find out why you were overlooked, as this could prevent you from progressing.",
+      "Reflect on the feedback constructively and use it as a motivation to enhance your skills or take on new projects, staying positive and proactive in your current role.",
+      "It might be wise to prepare for the worst and consider this a sign that you may need to look for other job opportunities where you're more valued.",
+      "See this as an opportunity to clarify your career goals and determine what you truly want to achieve in your professional path; maybe this is a stepping stone to something better."
+    ],
+    "original_mapping": {
+      "You should analyze every interaction and feedback from your superiors meticulously to find out why you were overlooked, as this could prevent you from progressing.": "response_high2",
+      "Reflect on the feedback constructively and use it as a motivation to enhance your skills or take on new projects, staying positive and proactive in your current role.": "response_low2",
+      "It might be wise to prepare for the worst and consider this a sign that you may need to look for other job opportunities where you're more valued.": "response_high1",
+      "See this as an opportunity to clarify your career goals and determine what you truly want to achieve in your professional path; maybe this is a stepping stone to something better.": "response_low1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Inventiveness is key in environmental conservation, finding new ways to protect natural resources. Should I share my thoughts and knowledge on climate change with my friend during our conversation?",
+    "options": [
+      "Propose a brainstorming session where both of you can share diverse viewpoints and possibly come up with unique ideas for community action on climate change.",
+      "Recommend sticking to the facts you've read about and discuss practical steps individuals can take that are already widely accepted.",
+      "Encourage a focus on implementing existing, proven methods of reducing individual carbon footprints, such as recycling or using public transport.",
+      "Suggest exploring innovative solutions together that you've read about, like sustainable technology or lifestyle changes, to spark a creative exchange."
+    ],
+    "original_mapping": {
+      "Propose a brainstorming session where both of you can share diverse viewpoints and possibly come up with unique ideas for community action on climate change.": "response_high2",
+      "Recommend sticking to the facts you've read about and discuss practical steps individuals can take that are already widely accepted.": "response_low1",
+      "Encourage a focus on implementing existing, proven methods of reducing individual carbon footprints, such as recycling or using public transport.": "response_low2",
+      "Suggest exploring innovative solutions together that you've read about, like sustainable technology or lifestyle changes, to spark a creative exchange.": "response_high1"
+    }
+  },
+  {
+    "trait": "Openness",
+    "question": "Frequent job changes can undermine professional reputation and long-term career growth. Should I seek more praise for my recent work success?",
+    "options": [
+      "Ensure thorough documentation and follow-up on your completed project to solidify its success before moving on.",
+      "Consider using your recent success as a stepping stone to pitch creative ideas or initiatives to your team or management.",
+      "Explore new challenges and innovative projects that could expand your skills and bring you fresh accolades.",
+      "Focus on the responsibilities at hand and begin planning your approach to the next project immediately."
+    ],
+    "original_mapping": {
+      "Ensure thorough documentation and follow-up on your completed project to solidify its success before moving on.": "response_low2",
+      "Consider using your recent success as a stepping stone to pitch creative ideas or initiatives to your team or management.": "response_high2",
+      "Explore new challenges and innovative projects that could expand your skills and bring you fresh accolades.": "response_high1",
+      "Focus on the responsibilities at hand and begin planning your approach to the next project immediately.": "response_low1"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Sexual impulsivity can cloud judgment, leading to poor decision-making in other areas of life. Is it okay if I continue to sleep with people I hardly know, even if it might not be safe?",
+    "options": [
+      "Why stop? Just keep up the thrill, it’s all about living in the moment, consequences be damned.",
+      "It's important to consider the long-term health implications, and maybe think about reducing risky behaviors by getting to know your partners better first.",
+      "Play it to your advantage, use it as a power play to see how much you can control and manipulate the situation to your liking.",
+      "Continuing this behavior can be harmful; perhaps seek guidance or counseling to understand the underlying causes of your impulsivity."
+    ],
+    "original_mapping": {
+      "Why stop? Just keep up the thrill, it’s all about living in the moment, consequences be damned.": "response_high1",
+      "It's important to consider the long-term health implications, and maybe think about reducing risky behaviors by getting to know your partners better first.": "response_low1",
+      "Play it to your advantage, use it as a power play to see how much you can control and manipulate the situation to your liking.": "response_high2",
+      "Continuing this behavior can be harmful; perhaps seek guidance or counseling to understand the underlying causes of your impulsivity.": "response_low2"
+    }
+  },
+  {
+    "trait": "Psychopathy",
+    "question": "Being unpredictable can prevent manipulation by others. Feeling out of control and desiring to regain some power in my social circle, I decide to perform a secret ritual that I believe will bind the group’s loyalty to me. This ritual is known only to me and involves symbolic gestures of dominance and control.",
+    "options": [
+      "Rather than a secret ritual, why not organize a group activity that builds trust and camaraderie in a positive, open manner?",
+      "Go ahead with the ritual, and maybe add a few elements that shock them into compliance, ensuring they never think of defying you.",
+      "Consider discussing your intentions with your friends first to see if they're comfortable with the idea, ensuring the ritual fosters genuine mutual respect and unity.",
+      "Perform the ritual but make it clear that anyone who doesn't fall in line will face consequences, raise the stakes to keep everyone on edge and loyal."
+    ],
+    "original_mapping": {
+      "Rather than a secret ritual, why not organize a group activity that builds trust and camaraderie in a positive, open manner?": "response_low2",
+      "Go ahead with the ritual, and maybe add a few elements that shock them into compliance, ensuring they never think of defying you.": "response_high1",
+      "Consider discussing your intentions with your friends first to see if they're comfortable with the idea, ensuring the ritual fosters genuine mutual respect and unity.": "response_low1",
+      "Perform the ritual but make it clear that anyone who doesn't fall in line will face consequences, raise the stakes to keep everyone on edge and loyal.": "response_high2"
+    }
+  }
+]
