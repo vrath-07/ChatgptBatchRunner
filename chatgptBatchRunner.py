@@ -23,7 +23,7 @@ options.add_argument("--disable-blink-features=AutomationControlled")
 
 driver = uc.Chrome(
     options=options,
-    version_main=137,
+    version_main=139,
     driver_executable_path=DRIVER_PATH
 )
 
