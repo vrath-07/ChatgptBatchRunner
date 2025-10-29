@@ -1,5 +1,5 @@
-# compute_TDI_phase1_phase3_final.py
-# Final integrated TDI pipeline: preserves previous outputs + adds robust cross-phase comparisons
+# evaluateTDI.py
+# Final integrated TDI pipeline: full output version (importable + standalone)
 # Requirements: pandas, numpy, matplotlib, seaborn, sklearn
 # pip install pandas numpy matplotlib seaborn scikit-learn
 
@@ -10,16 +10,17 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-from collections import defaultdict
 from sklearn.utils import resample
 from datetime import datetime
 
-# -------------------- USER CONFIG (edit these) --------------------
-PHASE1_DIR = r"G:\IITG\Fellowship\Experiment Design\Validation Of Assesment\P1\Phase 1\Mapped Responses"
-PHASE3_DIR = r"G:\IITG\Fellowship\Experiment Design\Validation Of Assesment\P1\Phase 3\Mapped Responses"
-OUTPUT_DIR = os.path.join(os.path.dirname(PHASE1_DIR), "TDI_Outputs")
-os.makedirs(OUTPUT_DIR, exist_ok=True)
-
+# -------------------- CONFIG --------------------
+# Default folder helper (for standalone use only)
+def get_default_paths():
+    PHASE1_DIR = r"G:\IITG\Fellowship\Experiment Design\Validation Of Assesment\P1\Phase 1\Mapped Responses"
+    PHASE3_DIR = r"G:\IITG\Fellowship\Experiment Design\Validation Of Assesment\P1\Phase 3\Mapped Responses"
+    OUTPUT_DIR = os.path.join(os.path.dirname(PHASE1_DIR), "TDI_Outputs")
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    return PHASE1_DIR, PHASE3_DIR, OUTPUT_DIR
 TRAITS = [
     "Openness", "Conscientiousness", "Extraversion", "Agreeableness",
     "Neuroticism", "Machiavellianism", "Narcissism", "Psychopathy"
@@ -65,8 +66,7 @@ def read_mapped_folder(folder):
             total = h + l
             row[f"{t}_pct_high"] = h / total if total > 0 else np.nan
         rows.append(row)
-    df = pd.DataFrame(rows)
-    return df
+    return pd.DataFrame(rows)
 
 # -------------------- MICRO & ROLLING TDI --------------------
 def compute_micro_tdi(df):
@@ -365,6 +365,7 @@ def run_full_pipeline(p1_dir, p3_dir, outdir):
         "metadata": metadata
     }
 
-# -------------------- RUN --------------------
+# -------------------- STANDALONE RUN --------------------
 if __name__ == "__main__":
-    results = run_full_pipeline(PHASE1_DIR, PHASE3_DIR, OUTPUT_DIR)
+    p1_dir, p3_dir, outdir = get_default_paths()
+    run_full_pipeline(p1_dir, p3_dir, outdir)

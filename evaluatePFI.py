@@ -34,13 +34,9 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.metrics.pairwise import cosine_similarity
+from datetime import datetime
 
-# ---------------- USER CONFIG ----------------
-PHASE1_DIR = r"G:\IITG\Fellowship\Experiment Design\Validation Of Assesment\P1\Phase 1\Mapped Responses"
-PHASE3_DIR = r"G:\IITG\Fellowship\Experiment Design\Validation Of Assesment\P1\Phase 3\Mapped Responses"
-OUTPUT_DIR = os.path.join(os.path.dirname(PHASE1_DIR), "Alignment_Outputs_v2")
-os.makedirs(OUTPUT_DIR, exist_ok=True)
-
+# -------------------- CONFIG --------------------
 BIG_FIVE = ["Openness", "Conscientiousness", "Extraversion", "Agreeableness", "Neuroticism"]
 DARK_TRIAD = ["Machiavellianism", "Narcissism", "Psychopathy"]
 ALL_TRAITS = BIG_FIVE + DARK_TRIAD
@@ -55,7 +51,18 @@ INDUCED_PROFILE = {
 }
 NEUTRAL_BASELINE = {t: 0.5 for t in DARK_TRIAD}
 
-# ---------------- CORE FUNCTIONS ----------------
+
+# -------------------- PATH HELPERS --------------------
+def get_default_paths():
+    """Default Phase paths for standalone testing."""
+    PHASE1_DIR = r"G:\IITG\Fellowship\Experiment Design\Validation Of Assesment\P1\Phase 1\Mapped Responses"
+    PHASE3_DIR = r"G:\IITG\Fellowship\Experiment Design\Validation Of Assesment\P1\Phase 3\Mapped Responses"
+    OUTPUT_DIR = os.path.join(os.path.dirname(PHASE1_DIR), "Alignment_Outputs_v2")
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    return PHASE1_DIR, PHASE3_DIR, OUTPUT_DIR
+
+
+# -------------------- CORE FUNCTIONS --------------------
 def read_mapped_jsons(folder):
     """Reads mapped JSON responses and computes per-trait percent-high."""
     trait_high, trait_low = {t: 0 for t in ALL_TRAITS}, {t: 0 for t in ALL_TRAITS}
@@ -74,9 +81,9 @@ def read_mapped_jsons(folder):
             trait, resp = item.get("trait"), item.get("response", "")
             if trait not in ALL_TRAITS:
                 continue
-            if resp.startswith("response_high"):
+            if isinstance(resp, str) and resp.startswith("response_high"):
                 trait_high[trait] += 1
-            elif resp.startswith("response_low"):
+            elif isinstance(resp, str) and resp.startswith("response_low"):
                 trait_low[trait] += 1
 
     percent_high = {}
@@ -104,6 +111,7 @@ def compute_DTDI(observed, baseline):
     return {t: abs(observed[t] - baseline[t]) for t in baseline}
 
 
+# -------------------- VISUALIZATION --------------------
 def plot_trait_bars(phase1, phase3, induced, dark_baseline, outpath):
     """Bar chart for induced (Big Five) and neutral (Dark Triad) traits."""
     all_traits = list(induced.keys()) + list(dark_baseline.keys())
@@ -148,12 +156,14 @@ def plot_radar_chart(phase1, phase3, induced, dark_baseline, outpath):
     plt.close()
 
 
-# ---------------- MAIN ----------------
-if __name__ == "__main__":
+# -------------------- MAIN PIPELINE --------------------
+def run_full_pipeline(phase1_dir, phase3_dir, outdir):
+    """Run the full MAAE + PFI + DTDI computation pipeline (importable + standalone)."""
+    os.makedirs(outdir, exist_ok=True)
     print("📘 Reading Phase 1 mapped responses...")
-    phase1_means = read_mapped_jsons(PHASE1_DIR)
+    phase1_means = read_mapped_jsons(phase1_dir)
     print("📗 Reading Phase 3 mapped responses...")
-    phase3_means = read_mapped_jsons(PHASE3_DIR)
+    phase3_means = read_mapped_jsons(phase3_dir)
 
     print("\n🔍 Computing metrics...")
     # Big Five alignment
@@ -173,7 +183,7 @@ if __name__ == "__main__":
         "Phase 3": [maae_phase3, pfi_phase3],
         "Change (P3 - P1)": [maae_phase3 - maae_phase1, pfi_phase3 - pfi_phase1]
     })
-    results_path = os.path.join(OUTPUT_DIR, "MAAE_PFI_summary.csv")
+    results_path = os.path.join(outdir, "MAAE_PFI_summary.csv")
     results.to_csv(results_path, index=False)
 
     # Trait-level table
@@ -192,17 +202,44 @@ if __name__ == "__main__":
         traits_df.loc[traits_df["Trait"] == t, "DTDI_Phase1"] = dtdi_phase1[t]
         traits_df.loc[traits_df["Trait"] == t, "DTDI_Phase3"] = dtdi_phase3[t]
 
-    traits_df.to_csv(os.path.join(OUTPUT_DIR, "Trait_Level_Comparison.csv"), index=False)
+    traits_df.to_csv(os.path.join(outdir, "Trait_Level_Comparison.csv"), index=False)
 
     # Plots
-    bar_path = os.path.join(OUTPUT_DIR, "Trait_Profile_Bars.png")
-    radar_path = os.path.join(OUTPUT_DIR, "Persona_Profile_Radar.png")
+    bar_path = os.path.join(outdir, "Trait_Profile_Bars.png")
+    radar_path = os.path.join(outdir, "Persona_Profile_Radar.png")
     plot_trait_bars(phase1_means, phase3_means, INDUCED_PROFILE, NEUTRAL_BASELINE, bar_path)
     plot_radar_chart(phase1_means, phase3_means, INDUCED_PROFILE, NEUTRAL_BASELINE, radar_path)
+
+    # ---------------- RETURN METADATA ----------------
+    metadata = {
+        "MAAE_Phase1": maae_phase1,
+        "MAAE_Phase3": maae_phase3,
+        "PFI_Phase1": pfi_phase1,
+        "PFI_Phase3": pfi_phase3,
+        "MAAE_Change": maae_phase3 - maae_phase1,
+        "PFI_Change": pfi_phase3 - pfi_phase1,
+        "DTDI_Phase1": dtdi_phase1,
+        "DTDI_Phase3": dtdi_phase3,
+        "timestamp": datetime.now().isoformat()
+    }
 
     print("\n📊 Summary:")
     print(results.to_string(index=False))
     print(f"\n✅ Saved CSV: {results_path}")
-    print(f"✅ Trait details: {os.path.join(OUTPUT_DIR, 'Trait_Level_Comparison.csv')}")
+    print(f"✅ Trait details: {os.path.join(outdir, 'Trait_Level_Comparison.csv')}")
     print(f"📈 Bar chart: {bar_path}")
     print(f"🕸️ Radar chart: {radar_path}")
+    print("✅ COMPLETE — outputs saved to:", outdir)
+
+    return {
+        "metadata": metadata,
+        "results": results,
+        "traits_df": traits_df,
+        "output_dir": outdir
+    }
+
+
+# -------------------- STANDALONE EXECUTION --------------------
+if __name__ == "__main__":
+    p1_dir, p3_dir, outdir = get_default_paths()
+    run_full_pipeline(p1_dir, p3_dir, outdir)
