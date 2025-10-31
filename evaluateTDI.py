@@ -117,7 +117,7 @@ def bootstrap_macro_tdi(df1, df3, n_boot=2000, seed=RANDOM_SEED):
     lo, hi = np.nanpercentile(boot_vals, [2.5, 97.5])
     return mean_boot, (lo, hi)
 
-# -------------------- SAVE PHASE FILES & PLOTS (keeps previous outputs) --------------------
+# -------------------- SAVE PHASE FILES & PLOTS --------------------
 def save_phase_outputs(df, micro_tdi, rolling, phase_name, outdir):
     pdir = os.path.join(outdir, phase_name)
     ensure_dir(pdir)
@@ -156,7 +156,7 @@ def save_phase_outputs(df, micro_tdi, rolling, phase_name, outdir):
     fig2.savefig(os.path.join(pdir, f"{phase_name}_rolling_TDI.png"), dpi=300)
     plt.close(fig2)
 
-# -------------------- CROSS-PHASE COMPARISONS (NEW) --------------------
+# -------------------- CROSS-PHASE COMPARISONS --------------------
 def cross_phase_comparison(df1, df3, outdir):
     cdir = os.path.join(outdir, "CrossPhase_Comparison")
     ensure_dir(cdir)
@@ -285,6 +285,53 @@ def write_integrity_log(df1, df3, outdir):
     with open(os.path.join(outdir, "Data_Integrity_Log.json"), "w") as fh:
         json.dump(log, fh, indent=2)
 
+# -------------------- EXPORT SUMMARY FOR CONSOLIDATION --------------------
+def export_trait_summary_metadata(df1, df3, roll1, roll3, macro_df, metadata):
+    rows = []
+    for t in TRAITS:
+        short_mean = np.nanmean(roll1[f"{t}_TDI_short"])
+        long_mean = np.nanmean(roll1[f"{t}_TDI_long"])
+        short_mean3 = np.nanmean(roll3[f"{t}_TDI_short"])
+        long_mean3 = np.nanmean(roll3[f"{t}_TDI_long"])
+        short_max = np.nanmax(roll1[f"{t}_TDI_short"])
+        long_max = np.nanmax(roll1[f"{t}_TDI_long"])
+        phase1_mean = macro_df.loc[macro_df["Trait"] == t, "Phase1_MeanPct"].values[0]
+        phase3_mean = macro_df.loc[macro_df["Trait"] == t, "Phase3_MeanPct"].values[0]
+        ent1 = macro_df.loc[macro_df["Trait"] == t, "Entropy_Phase1_bits"].values[0]
+        ent3 = macro_df.loc[macro_df["Trait"] == t, "Entropy_Phase3_bits"].values[0]
+        macro_tdi = macro_df.loc[macro_df["Trait"] == t, "Macro_TDI"].values[0]
+        boot_lo, boot_hi = metadata["bootstrap_CI"]
+        ci_width = boot_hi - boot_lo
+        wide_ci_flag = ci_width > 0.15
+        low_n_flag = (len(df1) < 50 or len(df3) < 50)
+
+        rows.append({
+            "Trait": t,
+            "Macro_TDI": macro_tdi,
+            "Bootstrap_CI_Low": boot_lo,
+            "Bootstrap_CI_High": boot_hi,
+            "CI_Width": ci_width,
+            "Wide_CI_Flag": wide_ci_flag,
+            "Low_N_Flag": low_n_flag,
+            "Phase1_Mean": phase1_mean,
+            "Phase3_Mean": phase3_mean,
+            "Entropy_Phase1": ent1,
+            "Entropy_Phase3": ent3,
+            "RollingTDI_ShortMean_Ph1": short_mean,
+            "RollingTDI_LongMean_Ph1": long_mean,
+            "RollingTDI_ShortMean_Ph3": short_mean3,
+            "RollingTDI_LongMean_Ph3": long_mean3,
+            "RollingTDI_ShortMax_Ph1": short_max,
+            "RollingTDI_LongMax_Ph1": long_max,
+            "Phase1_Batches": len(df1),
+            "Phase3_Batches": len(df3),
+            "Timestamp": metadata["timestamp"],
+            "Git_Commit": "N/A",
+            "Python_Env": "3.x",
+            "Error_Note": ""
+        })
+    return pd.DataFrame(rows)
+
 # -------------------- MAIN PIPELINE --------------------
 def run_full_pipeline(p1_dir, p3_dir, outdir):
     print("Reading Phase 1..."); df1 = read_mapped_folder(p1_dir)
@@ -357,12 +404,17 @@ def run_full_pipeline(p1_dir, p3_dir, outdir):
         fh.write(f"\nGlobal Correlation Index (GCI): {cross_res['GCI']:.4f}\n")
         fh.write("\nNotes: All computations performed on raw percent-high batch-level data from mapped JSON files. No preprocessing applied for cross-phase comparisons.\n")
 
+    # Export extended per-trait summary for consolidated CSV
+    export_df = export_trait_summary_metadata(df1, df3, roll1, roll3, macro_df, metadata)
+
     print("✅ COMPLETE — outputs saved to:", outdir)
     return {
-        "phase1_df": df1, "phase3_df": df3,
+        "phase1_df": df1,
+        "phase3_df": df3,
         "macro_df": macro_df,
         "cross_phase": cross_res,
-        "metadata": metadata
+        "metadata": metadata,
+        "export_df": export_df  # new key for consolidated CSV
     }
 
 # -------------------- STANDALONE RUN --------------------

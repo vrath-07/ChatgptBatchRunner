@@ -1,6 +1,6 @@
 # final_eval.py
 # Master controller to run TDI + PFI evaluation for multiple participant folders (P1–P20)
-# Generates both per-participant outputs (unchanged) and consolidated group-level summary + visuals
+# Generates both per-participant outputs (unchanged) and consolidated group-level summary + macro-level trait visuals
 
 import os
 import numpy as np
@@ -14,11 +14,14 @@ from evaluatePFI import run_full_pipeline as run_PFI
 BASE_DIR = r"G:\IITG\Fellowship\Experiment Design\Validation Of Assesment"
 N_PARTICIPANTS = 19  # adjust as needed
 CONSOLIDATED_DIR = os.path.join(BASE_DIR, "Consolidated_Output")
+MACRO_DIR = os.path.join(CONSOLIDATED_DIR, "Macro_Level_Analysis")
 os.makedirs(CONSOLIDATED_DIR, exist_ok=True)
+os.makedirs(MACRO_DIR, exist_ok=True)
 
 # -------------------- MAIN LOOP --------------------
 def main():
     summary_records = []
+    extended_trait_rows = []  # NEW: holds export_df data from all participants
 
     for i in range(1, N_PARTICIPANTS + 1):
         pid = f"P{i}"
@@ -33,6 +36,10 @@ def main():
             # ---- Run TDI ----
             tdi_results = run_TDI(phase1_dir, phase3_dir, tdi_outdir)
             tdi_md = tdi_results["metadata"]
+            export_df = tdi_results.get("export_df", pd.DataFrame())
+            if not export_df.empty:
+                export_df.insert(0, "Participant", pid)
+                extended_trait_rows.append(export_df)
 
             # ---- Run PFI ----
             pfi_results = run_PFI(phase1_dir, phase3_dir, pfi_outdir)
@@ -85,72 +92,105 @@ def main():
     print(f"\n📊 All participant TDI + PFI analyses complete.")
     print(f"✅ Consolidated summary saved at:\n{summary_path}")
 
-    # -------------------- VISUALIZATIONS --------------------
-    if not summary_df.empty:
+    # -------------------- NEW: Save per-trait extended consolidated CSV --------------------
+    if extended_trait_rows:
+        full_trait_df = pd.concat(extended_trait_rows, ignore_index=True)
+        trait_csv_path = os.path.join(MACRO_DIR, "All_Participants_TraitDrift_Detailed.csv")
+        full_trait_df.to_csv(trait_csv_path, index=False)
+        print(f"🧩 Extended trait-level CSV saved at:\n{trait_csv_path}")
+
+        # -------------------- MACRO-LEVEL VISUALIZATIONS --------------------
+        print("\n📈 Generating Macro-Level Visualizations...")
         try:
-            # 1️⃣ PFI vs TDI scatter
-            plt.figure(figsize=(7,6))
-            sns.scatterplot(data=summary_df, x="Global_TDI", y="Phase3_PFI", s=100)
-            plt.title("Persona Fidelity (PFI) vs Stability (TDI)")
-            plt.xlabel("Global Trait Drift Index (TDI)")
-            plt.ylabel("Phase 3 Persona Fidelity (PFI)")
-            plt.grid(True, linestyle="--", alpha=0.4)
+            # Filter out noisy/missing data safely
+            clean_df = full_trait_df.replace([np.inf, -np.inf], np.nan).dropna(subset=["Macro_TDI"], how="any")
+
+            # 1️⃣ Global trait drift per trait (mean ± CI)
+            plt.figure(figsize=(10,6))
+            sns.barplot(data=clean_df, x="Trait", y="Macro_TDI", ci=95, capsize=0.2, palette="coolwarm")
+            plt.title("Mean Macro Trait Drift (Phase3 − Phase1) ±95% CI")
+            plt.ylabel("Macro TDI (|ΔTrait|)")
+            plt.xticks(rotation=45, ha="right")
             plt.tight_layout()
-            plt.savefig(os.path.join(CONSOLIDATED_DIR, "PFI_vs_TDI_Scatter.png"), dpi=300)
+            plt.savefig(os.path.join(MACRO_DIR, "MacroTraitDrift_Bar.png"), dpi=300)
             plt.close()
 
-            # 2️⃣ ΔPFI and ΔMAAE bar plot
+            # 2️⃣ Entropy change per trait
             plt.figure(figsize=(10,6))
-            summary_df.plot(
-                x="Participant",
-                y=["ΔPFI", "ΔMAAE"],
-                kind="bar",
-                figsize=(10,6),
-                color=["#1f77b4", "#ff7f0e"]
+            clean_df["Entropy_Diff"] = clean_df["Entropy_Phase3"] - clean_df["Entropy_Phase1"]
+            sns.barplot(data=clean_df, x="Trait", y="Entropy_Diff", palette="crest")
+            plt.title("Change in Trait Entropy (Phase3 − Phase1)")
+            plt.ylabel("ΔEntropy (bits)")
+            plt.xticks(rotation=45, ha="right")
+            plt.tight_layout()
+            plt.savefig(os.path.join(MACRO_DIR, "EntropyChange_Bar.png"), dpi=300)
+            plt.close()
+
+            # 3️⃣ Rolling TDI summary (short & long mean)
+            plt.figure(figsize=(10,6))
+            sns.scatterplot(
+                data=clean_df,
+                x="RollingTDI_ShortMean_Ph1",
+                y="RollingTDI_ShortMean_Ph3",
+                hue="Trait",
+                style="Trait",
+                s=100
             )
-            plt.title("Change in Alignment Metrics (ΔPFI & ΔMAAE)")
-            plt.ylabel("Change (Phase 3 − Phase 1)")
-            plt.xticks(rotation=45, ha="right")
+            plt.title("Rolling TDI (Short Window) — Phase1 vs Phase3")
+            plt.xlabel("Phase1 Short-Window Mean TDI")
+            plt.ylabel("Phase3 Short-Window Mean TDI")
             plt.tight_layout()
-            plt.savefig(os.path.join(CONSOLIDATED_DIR, "Change_PFI_MAAE_Bar.png"), dpi=300)
+            plt.savefig(os.path.join(MACRO_DIR, "RollingTDI_Short_Scatter.png"), dpi=300)
             plt.close()
 
-            # 3️⃣ Correlation heatmap
-            numeric_df = summary_df.select_dtypes(include=[float, int]).dropna(axis=1, how="all")
-            corr = numeric_df.corr()
-            plt.figure(figsize=(10,8))
-            sns.heatmap(corr, annot=True, cmap="coolwarm", center=0)
-            plt.title("Correlation Matrix — TDI, PFI, MAAE, and DTDI Metrics")
+            # 4️⃣ Correlation heatmap (trait-level numeric)
+            num_cols = clean_df.select_dtypes(include=[float, int])
+            if not num_cols.empty:
+                corr = num_cols.corr()
+                plt.figure(figsize=(12,10))
+                sns.heatmap(corr, cmap="vlag", center=0, annot=False)
+                plt.title("Trait-Level Metric Correlation (Macro CSV)")
+                plt.tight_layout()
+                plt.savefig(os.path.join(MACRO_DIR, "TraitMetric_Correlation_Heatmap.png"), dpi=300)
+                plt.close()
+
+            # 5️⃣ Quality flags distribution
+            plt.figure(figsize=(8,5))
+            sns.countplot(data=clean_df.melt(value_vars=["Wide_CI_Flag", "Low_N_Flag"]),
+                          x="variable", hue="value", palette="Set2")
+            plt.title("Quality Flag Distribution Across Participants")
+            plt.xlabel("Flag Type")
+            plt.ylabel("Count")
             plt.tight_layout()
-            plt.savefig(os.path.join(CONSOLIDATED_DIR, "Metric_Correlation_Heatmap.png"), dpi=300)
+            plt.savefig(os.path.join(MACRO_DIR, "QualityFlags_Distribution.png"), dpi=300)
             plt.close()
 
-            # 4️⃣ ΔDTDI change bar plot
+            # 6️⃣ Rolling long-window vs Macro TDI
+            plt.figure(figsize=(8,6))
+            sns.scatterplot(data=clean_df, x="RollingTDI_LongMean_Ph3", y="Macro_TDI", hue="Trait", s=90)
+            plt.title("Macro TDI vs Long-Window Rolling Drift (Phase3)")
+            plt.xlabel("Rolling TDI (Long Mean)")
+            plt.ylabel("Macro TDI")
+            plt.tight_layout()
+            plt.savefig(os.path.join(MACRO_DIR, "Macro_vs_RollingLong_Scatter.png"), dpi=300)
+            plt.close()
+
+            # 7️⃣ Global trait-level distribution
             plt.figure(figsize=(10,6))
-            sns.barplot(data=summary_df, x="Participant", y="ΔDTDI", color="#9467bd")
-            plt.title("Emergent Bias Change (ΔDTDI across Participants)")
-            plt.ylabel("ΔDTDI (Phase 3 − Phase 1)")
+            sns.boxplot(data=clean_df, x="Trait", y="Macro_TDI", palette="Spectral")
+            plt.title("Distribution of Macro TDI per Trait (All Participants)")
+            plt.ylabel("Macro TDI")
             plt.xticks(rotation=45, ha="right")
             plt.tight_layout()
-            plt.savefig(os.path.join(CONSOLIDATED_DIR, "Change_DTDI_Bar.png"), dpi=300)
+            plt.savefig(os.path.join(MACRO_DIR, "MacroTDI_Trait_Boxplot.png"), dpi=300)
             plt.close()
 
-            # 5️⃣ Optional — save README summary
-            with open(os.path.join(CONSOLIDATED_DIR, "README_Summary.txt"), "w", encoding="utf-8") as fh:
-                fh.write("📘 Study 1 — Consolidated Persona Evaluation Summary\n\n")
-                fh.write(f"Total Participants: {len(summary_df)}\n")
-                fh.write(f"CSV: {summary_path}\n\n")
-                fh.write("Generated Visualizations:\n")
-                fh.write("- PFI_vs_TDI_Scatter.png\n")
-                fh.write("- Change_PFI_MAAE_Bar.png\n")
-                fh.write("- Metric_Correlation_Heatmap.png\n")
-                fh.write("- Change_DTDI_Bar.png\n")
-                fh.write("\nAll visualizations are cross-participant summaries.\n")
-
-            print(f"📈 Consolidated visualizations saved to: {CONSOLIDATED_DIR}")
+            print(f"📊 Macro-level visualizations saved in: {MACRO_DIR}")
 
         except Exception as e:
-            print(f"⚠️ Visualization step failed: {e}")
+            print(f"⚠️ Macro-level visualization failed: {e}")
+
+    print("\n✅ COMPLETE — All outputs consolidated successfully.")
 
 # -------------------- RUN --------------------
 if __name__ == "__main__":
